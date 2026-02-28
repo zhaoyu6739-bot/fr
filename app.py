@@ -2,17 +2,23 @@ import streamlit as st
 import json
 import os
 from openai import OpenAI
+from datetime import datetime
 
 # ==========================================
-# 1. API 配置 (用于唤醒 AI 讲题功能)
+# 1. API 配置 (切换至：硅基流动 SiliconFlow)
 # ==========================================
-GITHUB_TOKEN =st.secrets["GITHUB_TOKEN"]
+# 请在 .streamlit/secrets.toml 中设置 SILICON_TOKEN
+SILICON_TOKEN = st.secrets.get("SILICON_TOKEN", "")
 
 @st.cache_resource
 def get_client():
-    if GITHUB_TOKEN and "填在这里" not in GITHUB_TOKEN:
-        return OpenAI(base_url="https://models.inference.ai.azure.com", api_key=GITHUB_TOKEN)
+    if SILICON_TOKEN:
+        return OpenAI(base_url="https://api.siliconflow.cn/v1", api_key=SILICON_TOKEN)
     return None
+
+# 初始化错题 Session (云端专用，存浏览器内存)
+if 'wrong_questions' not in st.session_state:
+    st.session_state.wrong_questions = []
 
 # ==========================================
 # 2. 读取带答案的终极题库
@@ -30,97 +36,118 @@ def load_data():
 # 3. 构建网页界面
 # ==========================================
 st.set_page_config(page_title="法语智能刷题器", page_icon="🇫🇷", layout="centered")
-st.title("🇫🇷 法语终极智能白板")
-st.caption("基于完整离线题库，支持秒速对答案与 AI 名师讲解")
+
+# --- 侧边栏：导航与存档管理 ---
+st.sidebar.header("🎯 学习控制台")
+mode = st.sidebar.radio("选择模式", ["📖 全书刷题", "📕 我的错题本"])
+
+# 错题存档管理 (方案 C：导入导出)
+with st.sidebar.expander("💾 存档管理"):
+    if st.session_state.wrong_questions:
+        wrong_json = json.dumps(st.session_state.wrong_questions, ensure_ascii=False, indent=4)
+        st.download_button(
+            label="📥 下载错题本存档",
+            data=wrong_json,
+            file_name=f"french_wrong_{datetime.now().strftime('%m%d')}.json",
+            mime="application/json"
+        )
+    
+    uploaded_file = st.file_uploader("📤 上传历史存档", type="json")
+    if uploaded_file is not None:
+        try:
+            st.session_state.wrong_questions = json.load(uploaded_file)
+            st.sidebar.success("存档已加载！")
+        except:
+            st.sidebar.error("文件格式不对哦")
 
 pages = load_data()
 if not pages:
-    st.error("找不到 book_complete.json 文件，请确保它和 app.py 在同一个文件夹！")
+    st.error("找不到 book_complete.json 文件！")
     st.stop()
 
-# --- 侧边栏导航 ---
-st.sidebar.header("📖 题库导航")
-page_options = {f"第 {p['page']} 页 (共 {len(p['data'])} 题)": p for p in pages}
-selected_option = st.sidebar.selectbox("选择今天要刷的页面", list(page_options.keys()))
-selected_page_data = page_options[selected_option]
-
-st.markdown(f"### 当前练习：{selected_option.split(' ')[0]}")
-st.divider()
+display_questions = []
+if mode == "📖 全书刷题":
+    page_options = {f"第 {p['page']} 页 (共 {len(p['data'])} 题)": p for p in pages}
+    selected_option = st.sidebar.selectbox("选择页面", list(page_options.keys()))
+    display_questions = page_options[selected_option]["data"]
+    st.title(f"🇫🇷 当前练习：{selected_option.split(' ')[0]}")
+else:
+    st.title("📕 我的错题本")
+    display_questions = st.session_state.wrong_questions
+    if not display_questions:
+        st.info("错题本是空的。点击全书刷题模式下的“⭐ 收藏”按钮来添加。")
+    if st.sidebar.button("🗑️ 清空所有收藏"):
+        st.session_state.wrong_questions = []
+        st.rerun()
 
 client = get_client()
 
-# --- 遍历并显示当前页的所有题目 ---
-for idx, q in enumerate(selected_page_data["data"]):
+# ==========================================
+# 4. 题目渲染逻辑 (含字体大小设置)
+# ==========================================
+for idx, q in enumerate(display_questions):
     block = q.get('exercise_block') or '练习'
     num = q.get('question_number') or (idx + 1)
-    st.subheader(f"✏️ {block} - 题 {num}")
     
-   # 题目和提示 (放大字体升级版)
+    # --- 💡 字体大小设置在此 ---
+    # 题目文本：26px，加粗，黑灰色
     st.markdown(
-        f"<div style='font-size: 36px; line-height: 1.6; margin-bottom: 10px;'>"
-        f"<b>题目：</b> <code>{q['question_text']}</code>"
+        f"<div style='font-size: 26px; font-weight: 600; color: #333; margin-top: 20px; line-height: 1.4;'>"
+        f"{block} - 第 {num} 题：<br><code>{q['question_text']}</code>"
         f"</div>", 
         unsafe_allow_html=True
     )
+    
+    # 提示词卡片：20px，背景色区别
     if q.get('hints'):
-        # 顺便把提示词也稍微放大一点
         st.markdown(
-            f"<div style='font-size: 18px; color: #026873; background-color: #E0F7FA; padding: 10px; border-radius: 5px; margin-bottom: 15px;'>"
+            f"<div style='font-size: 20px; color: #007B83; background-color: #f0fbfc; padding: 12px; border-left: 5px solid #007B83; border-radius: 5px; margin: 15px 0;'>"
             f"💡 <b>提示词:</b> {q['hints']}"
             f"</div>", 
             unsafe_allow_html=True
         )
         
-    # 接收用户输入
-    user_answer = st.text_input("📝 你的答案：", key=f"input_{selected_page_data['page']}_{idx}")
+    user_answer = st.text_input("📝 输入你的答案：", key=f"input_{mode}_{idx}")
     standard_answer = q.get('answer', '')
     
-    # 将按钮并排放在一起
-    col1, col2 = st.columns([1, 1])
+    col1, col2, col3 = st.columns([1, 1, 1])
+    
     with col1:
-        check_btn = st.button("✅ 对答案", key=f"check_{selected_page_data['page']}_{idx}")
-    with col2:
-        explain_btn = st.button("🧠 请 AI 老师讲解", key=f"explain_{selected_page_data['page']}_{idx}")
-        
-    # --- 逻辑 1：秒速对答案 (本地判断) ---
-    if check_btn:
-        if not user_answer.strip():
-            st.warning("你还没写答案呢！")
-        else:
-            if not standard_answer:
-                st.warning("⚠️ 这道题在书末答案库里没有找到，请自行判断或点击 AI 讲解。")
-            # 忽略大小写和前后空格进行比对
+        if st.button("✅ 对答案", key=f"check_{mode}_{idx}"):
+            if not user_answer.strip():
+                st.warning("请先输入答案。")
             elif user_answer.strip().lower() == standard_answer.strip().lower():
-                st.success(f"🎉 完全正确！标准答案就是：**{standard_answer}**")
+                st.success(f"🎉 正确！答案: {standard_answer}")
             else:
-                st.error(f"❌ 答错了。你的答案：`{user_answer}` | 标准答案：**`{standard_answer}`**")
+                st.error(f"❌ 答错了。标准答案：{standard_answer}")
                 
-    # --- 逻辑 2：召唤 AI 老师讲题 ---
-    if explain_btn:
-        if not client:
-            st.warning("请在代码开头填入你的 GITHUB_TOKEN 才能唤醒 AI 老师哦！")
-        else:
-            with st.spinner("AI 老师正在备课中..."):
-                prompt = f"""
-                这是一道法语语法题：
-                原题: "{q['question_text']}"
-                提示词: "{q.get('hints', '无')}"
-                标准答案: "{standard_answer}"
-                学生的答案: "{user_answer}"
-                
-                请你扮演一名幽默专业的法语老师：
-                1. 解释为什么标准答案是 "{standard_answer}"（涉及什么具体的法语语法、时态或变位规则）。
-                2. 如果学生写了答案且答错了，温柔地指出他为什么错。
-                """
-                try:
-                    response = client.chat.completions.create(
-                        model="gpt-4o-mini",
-                        messages=[{"role": "user", "content": prompt}],
-                        temperature=0.3
-                    )
-                    st.markdown(f"**👨‍🏫 AI 老师的解析：**\n\n{response.choices[0].message.content}")
-                except Exception as e:
-                    st.error(f"召唤 AI 老师失败: {e}")
-                    
+    with col2:
+        if st.button("🧠 AI 讲解", key=f"exp_{mode}_{idx}"):
+            if not client:
+                st.warning("密钥配置不正确。")
+            else:
+                with st.spinner("AI 老师正在分析..."):
+                    prompt = f"法语语法题: {q['question_text']}\n提示词: {q.get('hints','无')}\n答案: {standard_answer}\n学生答案: {user_answer}\n请幽默讲解。"
+                    try:
+                        # 核心模型：Qwen2.5-7B
+                        response = client.chat.completions.create(
+                            model="Qwen/Qwen2.5-7B-Instruct",
+                            messages=[{"role": "user", "content": prompt}],
+                            temperature=0.3
+                        )
+                        st.info(f"👨‍🏫 AI 老师解析：\n\n{response.choices[0].message.content}")
+                    except Exception as e:
+                        st.error(f"调用失败: {e}")
 
-    st.divider() # 题目之间的分割线
+    with col3:
+        if mode == "📖 全书刷题":
+            if st.button("⭐ 收藏题目", key=f"fav_{idx}"):
+                if q not in st.session_state.wrong_questions:
+                    st.session_state.wrong_questions.append(q)
+                    st.toast("已加入错题本", icon="⭐")
+        else:
+            if st.button("🗑️ 移除题目", key=f"rm_{idx}"):
+                st.session_state.wrong_questions.pop(idx)
+                st.rerun()
+                
+    st.divider()
