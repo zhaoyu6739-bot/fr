@@ -57,7 +57,7 @@ for idx, q in enumerate(selected_page_data["data"]):
     
    # 题目和提示 (放大字体升级版)
     st.markdown(
-        f"<div style='font-size: 24px; line-height: 1.6; margin-bottom: 10px;'>"
+        f"<div style='font-size: 36px; line-height: 1.6; margin-bottom: 10px;'>"
         f"<b>题目：</b> <code>{q['question_text']}</code>"
         f"</div>", 
         unsafe_allow_html=True
@@ -122,4 +122,5 @@ for idx, q in enumerate(selected_page_data["data"]):
                 except Exception as e:
                     st.error(f"召唤 AI 老师失败: {e}")
                     
+
     st.divider() # 题目之间的分割线
