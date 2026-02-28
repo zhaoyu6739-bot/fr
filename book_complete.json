@@ -157,43 +157,43 @@
         "data": [
             {
                 "page": 4,
-                "exercise_block": "English to French Translation",
+                "exercise_block": "EXERCICE 1.2",
                 "question_number": "6",
                 "question_text": "They are having lunch with Julie.",
                 "hints": "",
-                "answer": ""
+                "answer": "Ils (Elles) déjeunent avec Julie."
             },
             {
                 "page": 4,
-                "exercise_block": "English to French Translation",
+                "exercise_block": "EXERCICE 1.2",
                 "question_number": "7",
                 "question_text": "He borrows ten euros.",
                 "hints": "",
-                "answer": ""
+                "answer": "Il emprunte dix euros. "
             },
             {
                 "page": 4,
-                "exercise_block": "English to French Translation",
+                "exercise_block": "EXERCICE 1.2",
                 "question_number": "8",
                 "question_text": "I order a dessert.",
                 "hints": "",
-                "answer": ""
+                "answer": "Je commande un dessert."
             },
             {
                 "page": 4,
-                "exercise_block": "English to French Translation",
+                "exercise_block": "EXERCICE 1.2",
                 "question_number": "9",
                 "question_text": "You study Russian.",
                 "hints": "(informal)",
-                "answer": ""
+                "answer": "Tu étudies le russe."
             },
             {
                 "page": 4,
-                "exercise_block": "English to French Translation",
+                "exercise_block": "EXERCICE 1.2",
                 "question_number": "10",
                 "question_text": "They are looking for a good restaurant.",
                 "hints": "",
-                "answer": ""
+                "answer": "Ils (Elles) cherchent un bon restaurant."
             }
         ]
     },
@@ -409,51 +409,51 @@
         "data": [
             {
                 "page": 8,
-                "exercise_block": "Conjugaison de verbes",
+                "exercise_block": "CEXERCICE 1.5",
                 "question_number": "5",
                 "question_text": "Elle ___ aller à Paris en mai.",
                 "hints": "espérer",
-                "answer": ""
+                "answer": "espère"
             },
             {
                 "page": 8,
-                "exercise_block": "Conjugaison de verbes",
+                "exercise_block": "EXERCICE 1.5",
                 "question_number": "6",
                 "question_text": "Vous ___.",
                 "hints": "exagérer",
-                "answer": ""
+                "answer": "exagérez"
             },
             {
                 "page": 8,
-                "exercise_block": "Conjugaison de verbes",
+                "exercise_block": "EXERCICE 1.5",
                 "question_number": "7",
                 "question_text": "Elle ___ Juliette.",
                 "hints": "s'appeler",
-                "answer": ""
+                "answer": "s’appelle"
             },
             {
                 "page": 8,
-                "exercise_block": "Conjugaison de verbes",
+                "exercise_block": "EXERCICE 1.5",
                 "question_number": "8",
                 "question_text": "Ces diamants ___ de mille feux.",
                 "hints": "étinceler",
-                "answer": ""
+                "answer": "étincellent"
             },
             {
                 "page": 8,
-                "exercise_block": "Conjugaison de verbes",
+                "exercise_block": "EXERCICE 1.5",
                 "question_number": "9",
                 "question_text": "Il ___ mille fois la même chose.",
                 "hints": "répéter",
-                "answer": ""
+                "answer": "répète"
             },
             {
                 "page": 8,
-                "exercise_block": "Conjugaison de verbes",
+                "exercise_block": "EXERCICE 1.5",
                 "question_number": "10",
                 "question_text": "Nous ___ son anniversaire.",
                 "hints": "célébrer",
-                "answer": ""
+                "answer": "célébrons"
             },
             {
                 "page": 8,
@@ -546,7 +546,7 @@
                 "question_number": "8",
                 "question_text": "___ Je m'appelle",
                 "hints": "h. au troisième étage, i. le mot, j. une belle chanson",
-                "answer": ""
+                "answer": "Je m'appelle"
             },
             {
                 "page": 9,
@@ -554,7 +554,7 @@
                 "question_number": "9",
                 "question_text": "___ Elle annule",
                 "hints": "h. au troisième étage, i. le mot, j. une belle chanson",
-                "answer": ""
+                "answer": "Elle annule"
             },
             {
                 "page": 9,
@@ -562,7 +562,7 @@
                 "question_number": "10",
                 "question_text": "___ Nous déménageons",
                 "hints": "h. au troisième étage, i. le mot, j. une belle chanson",
-                "answer": ""
+                "answer": "H. Nous déménageons au troisième étage, i. le mot, j. une belle chanson"
             }
         ]
     },
@@ -817,7 +817,7 @@
                 "question_number": "10",
                 "question_text": "I weigh the vegetables.",
                 "hints": "Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire.",
-                "answer": ""
+                "answer": "Vous pesez les légumes."
             }
         ]
     },
@@ -923,7 +923,7 @@
                 "question_number": "9",
                 "question_text": "She solves the mystery.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle résout le mystère."
             },
             {
                 "page": 9,
@@ -931,7 +931,7 @@
                 "question_number": "10",
                 "question_text": "They sleep in Sonia's bedroom.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils dorment dans la chambre de Sonia."
             }
         ]
     },
@@ -1189,7 +1189,7 @@
                 "question_number": "1",
                 "question_text": "He is learning Chinese.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il apprend le chinois."
             },
             {
                 "page": 18,
@@ -1197,7 +1197,7 @@
                 "question_number": "2",
                 "question_text": "She takes the subway every day.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle prend le métro tous les jours."
             },
             {
                 "page": 18,
@@ -1205,7 +1205,7 @@
                 "question_number": "3",
                 "question_text": "He often loses his keys.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il perd souvent ses clés."
             },
             {
                 "page": 18,
@@ -1213,7 +1213,7 @@
                 "question_number": "4",
                 "question_text": "I can hear Pierre on the street.",
                 "hints": null,
-                "answer": ""
+                "answer": "J’entends Pierre dans la rue."
             },
             {
                 "page": 18,
@@ -1221,7 +1221,7 @@
                 "question_number": "5",
                 "question_text": "He claims to be the king's brother.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il prétend être le frère du roi."
             }
         ]
     },
@@ -1230,123 +1230,43 @@
         "data": [
             {
                 "page": 19,
-                "exercise_block": null,
+                "exercise_block": "EXERCICE 2.7",
                 "question_number": "6",
                 "question_text": "You answer quickly.",
                 "hints": null,
-                "answer": ""
+                "answer": "Vous répondez rapidement."
             },
             {
                 "page": 19,
-                "exercise_block": null,
+                "exercise_block": "EXERCICE 2.7",
                 "question_number": "7",
                 "question_text": "She sells flowers.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle vend des fl eurs."
             },
             {
                 "page": 19,
-                "exercise_block": null,
+                "exercise_block": "EXERCICE 2.7",
                 "question_number": "8",
                 "question_text": "We go down the Champs-Élysées.",
                 "hints": null,
-                "answer": ""
+                "answer": "Nous descendons les Champs-Élysées."
             },
             {
                 "page": 19,
-                "exercise_block": null,
+                "exercise_block": "EXERCICE 2.7",
                 "question_number": "9",
                 "question_text": "I am going down.",
                 "hints": null,
-                "answer": ""
+                "answer": "Je descends."
             },
             {
                 "page": 19,
-                "exercise_block": null,
+                "exercise_block": "EXERCICE 2.7",
                 "question_number": "10",
                 "question_text": "We are waiting for an answer.",
                 "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 19,
-                "exercise_block": "The interrogative form",
-                "question_number": null,
-                "question_text": "Comprenez-vous la question?",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 19,
-                "exercise_block": "The interrogative form",
-                "question_number": null,
-                "question_text": "Parlez-vous espagnol?",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 19,
-                "exercise_block": "The interrogative form",
-                "question_number": null,
-                "question_text": "Parle-t-elle russe?",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 19,
-                "exercise_block": "The interrogative form",
-                "question_number": null,
-                "question_text": "Voyage-t-il souvent en Europe?",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 19,
-                "exercise_block": "The interrogative form",
-                "question_number": null,
-                "question_text": "Est-ce que vous habitez à New York?",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 19,
-                "exercise_block": "The interrogative form",
-                "question_number": null,
-                "question_text": "Est-ce que tu sors ce soir?",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 19,
-                "exercise_block": "The interrogative form",
-                "question_number": null,
-                "question_text": "Est-ce que vous courez dans le parc?",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 19,
-                "exercise_block": "The interrogative form",
-                "question_number": null,
-                "question_text": "Est-ce qu'ils vendent des timbres?",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 19,
-                "exercise_block": "The interrogative form",
-                "question_number": null,
-                "question_text": "Tu finis à cinq heures?",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 19,
-                "exercise_block": "The interrogative form",
-                "question_number": null,
-                "question_text": "Vous investissez en Asie?",
-                "hints": null,
-                "answer": ""
+                "answer": "Nous attendons une réponse."
             }
         ]
     },
@@ -1460,7 +1380,7 @@
                 "question_number": "3",
                 "question_text": "Vous commandez une bouteille de vin blanc.",
                 "hints": null,
-                "answer": ""
+                "answer": "Vous commandez une bouteille de vin blanc."
             },
             {
                 "page": 1,
@@ -1468,7 +1388,7 @@
                 "question_number": "4",
                 "question_text": "Tu demandes une augmentation de salaire.",
                 "hints": null,
-                "answer": ""
+                "answer": "Tu demandes une augmentation de salaire."
             },
             {
                 "page": 1,
@@ -1476,7 +1396,7 @@
                 "question_number": "5",
                 "question_text": "Ils financent un grand projet.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils financent un grand projet."
             },
             {
                 "page": 1,
@@ -1484,7 +1404,7 @@
                 "question_number": "6",
                 "question_text": "Vous choisissez une autre direction.",
                 "hints": null,
-                "answer": ""
+                "answer": "Vous choisissez une autre direction."
             },
             {
                 "page": 1,
@@ -1492,7 +1412,7 @@
                 "question_number": "7",
                 "question_text": "Ils finissent tard.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils finissent tard."
             },
             {
                 "page": 1,
@@ -1500,7 +1420,7 @@
                 "question_number": "8",
                 "question_text": "Il prétend être pauvre.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il prétend être pauvre."
             },
             {
                 "page": 1,
@@ -1508,7 +1428,7 @@
                 "question_number": "9",
                 "question_text": "Ils défendent cette théorie.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils défendent cette théorie."
             },
             {
                 "page": 1,
@@ -1516,7 +1436,7 @@
                 "question_number": "10",
                 "question_text": "Vous descendez par l'escalier.",
                 "hints": null,
-                "answer": ""
+                "answer": "Vous descendez par l'escalier."
             },
             {
                 "page": 1,
@@ -1524,7 +1444,7 @@
                 "question_number": null,
                 "question_text": "Elle travaille le lundi. Elle ne ___ pas le lundi.",
                 "hints": null,
-                "answer": ""
+                "answer": "travaille"
             },
             {
                 "page": 1,
@@ -1532,7 +1452,7 @@
                 "question_number": null,
                 "question_text": "Il répond à la lettre. Il ne ___ pas à la lettre.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il répond pas à la lettre."
             },
             {
                 "page": 1,
@@ -1540,7 +1460,7 @@
                 "question_number": null,
                 "question_text": "J'habite à Strasbourg. Je n'___ pas à Strasbourg.",
                 "hints": null,
-                "answer": ""
+                "answer": "J'habite à Strasbourg. Je n'y habite pas à Strasbourg."
             },
             {
                 "page": 1,
@@ -1548,7 +1468,7 @@
                 "question_number": null,
                 "question_text": "Elle aime les marguerites. Elle n'___ pas les marguerites.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle ne aime pas les marguerites."
             },
             {
                 "page": 1,
@@ -1556,7 +1476,7 @@
                 "question_number": null,
                 "question_text": "Il n'attend personne.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il n'attend personne."
             },
             {
                 "page": 1,
@@ -1564,7 +1484,7 @@
                 "question_number": null,
                 "question_text": "Tu ne voyages jamais en hiver.",
                 "hints": null,
-                "answer": ""
+                "answer": "Tu ne voyages jamais en hiver."
             },
             {
                 "page": 1,
@@ -1572,7 +1492,7 @@
                 "question_number": null,
                 "question_text": "Il n'a plus de patience.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il n'a plus de patience."
             },
             {
                 "page": 1,
@@ -1580,7 +1500,7 @@
                 "question_number": null,
                 "question_text": "Elle ne répond rien.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle ne répond à rien."
             },
             {
                 "page": 1,
@@ -1588,7 +1508,7 @@
                 "question_number": null,
                 "question_text": "Ce n'est guère raisonnable.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ce n'est pas très raisonnable."
             }
         ]
     },
@@ -1804,131 +1724,137 @@
         "data": [
             {
                 "page": 25,
-                "exercise_block": "5-10",
-                "question_number": "5",
-                "question_text": "Elles (être) ___ vraiment charmantes.",
-                "hints": "être",
-                "answer": ""
-            },
-            {
-                "page": 25,
-                "exercise_block": "5-10",
-                "question_number": "6",
-                "question_text": "Vous (être) ___ occupé cet après-midi?",
-                "hints": "être",
-                "answer": ""
-            },
-            {
-                "page": 25,
-                "exercise_block": "5-10",
-                "question_number": "7",
-                "question_text": "Ce (être) ___ un nouveau livre.",
-                "hints": "être",
-                "answer": ""
-            },
-            {
-                "page": 25,
-                "exercise_block": "5-10",
-                "question_number": "8",
-                "question_text": "Leurs méthodes (ne pas être) ___ très efficaces.",
-                "hints": "ne pas être",
-                "answer": ""
-            },
-            {
-                "page": 25,
-                "exercise_block": "5-10",
-                "question_number": "9",
-                "question_text": "Est-ce qu'il (être) ___ aussi amusant que son frère?",
-                "hints": "être",
-                "answer": ""
-            },
-            {
-                "page": 25,
-                "exercise_block": "5-10",
-                "question_number": "10",
-                "question_text": "Je (être) ___ un peu en retard.",
-                "hints": "être",
-                "answer": ""
-            },
-            {
-                "page": 25,
-                "exercise_block": "3.2",
-                "question_number": "1",
-                "question_text": "Est-ce qu'ils sont en retard?",
-                "hints": null,
-                "answer": "Oui, ils sont en retard."
-            },
-            {
-                "page": 25,
-                "exercise_block": "3.2",
-                "question_number": "2",
-                "question_text": "Le climat est sec?",
-                "hints": null,
-                "answer": "Oui, le climat est sec."
-            },
-            {
-                "page": 25,
-                "exercise_block": "3.2",
-                "question_number": "3",
-                "question_text": "Êtes-vous libre ce soir?",
-                "hints": null,
-                "answer": "Oui, je suis libre ce soir."
-            },
-            {
-                "page": 25,
-                "exercise_block": "3.2",
-                "question_number": "4",
-                "question_text": "Est-il heureux?",
-                "hints": null,
-                "answer": "Oui, il est heureux."
-            },
-            {
-                "page": 25,
-                "exercise_block": "3.2",
-                "question_number": "5",
-                "question_text": "Est-ce qu'elle est sympathique?",
-                "hints": null,
-                "answer": "Oui, elle est sympathique."
-            },
-            {
-                "page": 25,
-                "exercise_block": "3.2",
-                "question_number": "6",
-                "question_text": "Ce restaurant français est cher?",
-                "hints": null,
-                "answer": "Oui, ce restaurant français est cher."
-            },
-            {
-                "page": 25,
-                "exercise_block": "3.2",
-                "question_number": "7",
-                "question_text": "Êtes-vous fatigué?",
-                "hints": null,
-                "answer": "Oui, je suis fatigué."
-            },
-            {
-                "page": 25,
-                "exercise_block": "3.2",
-                "question_number": "8",
-                "question_text": "Est-ce que nous sommes à la bonne adresse?",
-                "hints": null,
-                "answer": "Oui, le musée est ouvert."
-            },
-            {
-                "page": 25,
-                "exercise_block": "3.2",
-                "question_number": "9",
-                "question_text": "Ce film est amusant?",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 25,
-                "exercise_block": "3.2",
-                "question_number": "10",
-                "question_text": "Le musée est ouvert?",
-                "hints": null,
-                "answer": ""
+                "data": [
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.1",
+                        "question_number": "5",
+                        "question_text": "Elles (être) ___ vraiment charmantes.",
+                        "hints": "être",
+                        "answer": "sont"
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.1",
+                        "question_number": "6",
+                        "question_text": "Vous (être) ___ occupé cet après-midi?",
+                        "hints": "être",
+                        "answer": "êtes"
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.1",
+                        "question_number": "7",
+                        "question_text": "Ce (être) ___ un nouveau livre.",
+                        "hints": "être",
+                        "answer": "est"
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.1",
+                        "question_number": "8",
+                        "question_text": "Leurs méthodes (ne pas être) ___ très efficaces.",
+                        "hints": "ne pas être",
+                        "answer": "ne sont pas"
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.1",
+                        "question_number": "9",
+                        "question_text": "Est-ce qu'il (être) ___ aussi amusant que son frère?",
+                        "hints": "être",
+                        "answer": "est"
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.1",
+                        "question_number": "10",
+                        "question_text": "Je (être) ___ un peu en retard.",
+                        "hints": "être",
+                        "answer": "suis"
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.2",
+                        "question_number": "1",
+                        "question_text": "Est-ce qu'ils sont en retard?",
+                        "hints": null,
+                        "answer": "Oui, ils sont en retard."
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.2",
+                        "question_number": "2",
+                        "question_text": "Le climat est sec?",
+                        "hints": null,
+                        "answer": "Oui, le climat est sec."
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.2",
+                        "question_number": "3",
+                        "question_text": "Êtes-vous libre ce soir?",
+                        "hints": null,
+                        "answer": "Oui, je suis libre ce soir."
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.2",
+                        "question_number": "4",
+                        "question_text": "Est-il heureux?",
+                        "hints": null,
+                        "answer": "Oui, il est heureux."
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.2",
+                        "question_number": "5",
+                        "question_text": "Est-ce qu'elle est sympathique?",
+                        "hints": null,
+                        "answer": "Oui, elle est sympathique."
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.2",
+                        "question_number": "6",
+                        "question_text": "Ce restaurant français est cher?",
+                        "hints": null,
+                        "answer": "Oui, ce restaurant français est cher."
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.2",
+                        "question_number": "7",
+                        "question_text": "Êtes-vous fatigué?",
+                        "hints": null,
+                        "answer": "Oui, je suis fatigué."
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.2",
+                        "question_number": "8",
+                        "question_text": "Est-ce que nous sommes à la bonne adresse?",
+                        "hints": null,
+                        "answer": "Oui, nous sommes à la bonne adresse."
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.2",
+                        "question_number": "9",
+                        "question_text": "Ce film est amusant?",
+                        "hints": null,
+                        "answer": "Oui, ce film est amusant."
+                    },
+                    {
+                        "page": 11,
+                        "exercise_block": "EXERCICE 3.2",
+                        "question_number": "10",
+                        "question_text": "Le musée est ouvert?",
+                        "hints": null,
+                        "answer": "Oui, le musée est ouvert."
+                    }
+                ],
+                "answer": "请提供题目和提示词。"
             }
         ]
     },
@@ -1978,7 +1904,7 @@
                 "question_number": "5",
                 "question_text": "Elle (avoir) ___ beaucoup de chance dans les affaires.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle a beaucoup de chance dans les affaires."
             },
             {
                 "page": null,
@@ -1986,7 +1912,7 @@
                 "question_number": "6",
                 "question_text": "Ils (avoir) ___ une réunion à quinze heures.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils ont une réunion à quinze heures."
             },
             {
                 "page": null,
@@ -1994,7 +1920,7 @@
                 "question_number": "7",
                 "question_text": "Tu (avoir) ___ une maison à la campagne?",
                 "hints": null,
-                "answer": ""
+                "answer": "Tu as une maison à la campagne?"
             },
             {
                 "page": null,
@@ -2002,7 +1928,7 @@
                 "question_number": "8",
                 "question_text": "Nous (ne pas avoir) ___ besoin de son aide.",
                 "hints": null,
-                "answer": ""
+                "answer": "Nous n'avons pas besoin de son aide."
             },
             {
                 "page": null,
@@ -2010,7 +1936,7 @@
                 "question_number": "9",
                 "question_text": "Vous (ne pas avoir) ___ toujours raison.",
                 "hints": null,
-                "answer": ""
+                "answer": "Vous ne avez pas toujours raison."
             },
             {
                 "page": null,
@@ -2018,7 +1944,7 @@
                 "question_number": "10",
                 "question_text": "Je (avoir) ___ froid.",
                 "hints": null,
-                "answer": ""
+                "answer": "Je ai froid."
             },
             {
                 "page": null,
@@ -2026,7 +1952,7 @@
                 "question_number": null,
                 "question_text": "Faire correspondre les deux colonnes.",
                 "hints": null,
-                "answer": ""
+                "answer": "Faire correspondre les deux colonnes."
             },
             {
                 "page": null,
@@ -2114,7 +2040,7 @@
                 "question_number": null,
                 "question_text": "Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire.",
                 "hints": null,
-                "answer": ""
+                "answer": "请提供需要翻译的法语句子。"
             },
             {
                 "page": null,
@@ -2122,7 +2048,7 @@
                 "question_number": "1",
                 "question_text": "I am tired.",
                 "hints": null,
-                "answer": ""
+                "answer": "Je suis fatigué."
             },
             {
                 "page": null,
@@ -2130,7 +2056,7 @@
                 "question_number": "2",
                 "question_text": "He is very hungry.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il est très faim."
             },
             {
                 "page": null,
@@ -2138,7 +2064,7 @@
                 "question_number": "3",
                 "question_text": "They are always right.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils sont toujours droits."
             },
             {
                 "page": null,
@@ -2146,7 +2072,7 @@
                 "question_number": "4",
                 "question_text": "Are they French?",
                 "hints": null,
-                "answer": ""
+                "answer": "Sont-ils français ?"
             }
         ]
     },
@@ -2196,7 +2122,7 @@
                 "question_number": "1",
                 "question_text": "Ils ___ bien la Normandie.",
                 "hints": "connaître",
-                "answer": "connaissons"
+                "answer": "connaissent"
             },
             {
                 "page": 29,
@@ -2204,7 +2130,7 @@
                 "question_number": "2",
                 "question_text": "Nous ___ Julien depuis trois ans.",
                 "hints": "connaître",
-                "answer": "connaît"
+                "answer": "connaissons"
             },
             {
                 "page": 29,
@@ -2212,7 +2138,7 @@
                 "question_number": "3",
                 "question_text": "Ce nouveau club ___ un grand succès.",
                 "hints": "connaître",
-                "answer": "connaissez"
+                "answer": "connaît"
             },
             {
                 "page": 29,
@@ -2220,7 +2146,7 @@
                 "question_number": "4",
                 "question_text": "Je ___ ce fait.",
                 "hints": "connaître",
-                "answer": "connaît"
+                "answer": "connais"
             },
             {
                 "page": 29,
@@ -2228,7 +2154,7 @@
                 "question_number": "5",
                 "question_text": "Cet artisan ___ son métier.",
                 "hints": "connaître",
-                "answer": "connaissez"
+                "answer": "connaît"
             },
             {
                 "page": 29,
@@ -2236,7 +2162,7 @@
                 "question_number": "6",
                 "question_text": "Vous ___ cette chanson?",
                 "hints": "connaître",
-                "answer": ""
+                "answer": "connaissez"
             },
             {
                 "page": 29,
@@ -2244,7 +2170,7 @@
                 "question_number": "7",
                 "question_text": "Est-ce que vous ___ un bon restaurant italien?",
                 "hints": "connaître",
-                "answer": ""
+                "answer": "connaissez"
             },
             {
                 "page": 29,
@@ -2252,7 +2178,7 @@
                 "question_number": "8",
                 "question_text": "Je ___ Paris comme ma poche.",
                 "hints": "connaître",
-                "answer": ""
+                "answer": "connais"
             },
             {
                 "page": 29,
@@ -2260,7 +2186,7 @@
                 "question_number": "9",
                 "question_text": "Il ___ cette méthode à la perfection.",
                 "hints": "connaître",
-                "answer": ""
+                "answer": "connaît"
             },
             {
                 "page": 29,
@@ -2268,7 +2194,7 @@
                 "question_number": "10",
                 "question_text": "___ -vous l'oeuvre de Victor Hugo?",
                 "hints": "connaître",
-                "answer": ""
+                "answer": "Connaissez"
             }
         ]
     },
@@ -2281,7 +2207,7 @@
                 "question_number": "1",
                 "question_text": "Est-ce que tu ___ pourquoi il est absent?",
                 "hints": null,
-                "answer": "veux"
+                "answer": "sais"
             },
             {
                 "page": 38,
@@ -2289,7 +2215,7 @@
                 "question_number": "2",
                 "question_text": "Elle ___ cette chanson par cœur.",
                 "hints": null,
-                "answer": "ne peux pas"
+                "answer": "sait"
             },
             {
                 "page": 38,
@@ -2297,7 +2223,7 @@
                 "question_number": "3",
                 "question_text": "Tu ___ jouer au base-ball?",
                 "hints": null,
-                "answer": "veux"
+                "answer": "sais"
             },
             {
                 "page": 38,
@@ -2305,7 +2231,7 @@
                 "question_number": "4",
                 "question_text": "Nous ___ la fille de José.",
                 "hints": null,
-                "answer": "pouvons"
+                "answer": "connaissons"
             },
             {
                 "page": 38,
@@ -2313,7 +2239,7 @@
                 "question_number": "5",
                 "question_text": "Je ne ___ pas à quelle heure ouvre la banque.",
                 "hints": null,
-                "answer": "veux"
+                "answer": "sais"
             },
             {
                 "page": 38,
@@ -2321,7 +2247,7 @@
                 "question_number": "6",
                 "question_text": "Ils ___ un bon dentiste.",
                 "hints": null,
-                "answer": "pouvez"
+                "answer": "connaissent"
             },
             {
                 "page": 38,
@@ -2329,7 +2255,7 @@
                 "question_number": "7",
                 "question_text": "Ce nouveau produit ___ un grand succès sur le marché.",
                 "hints": null,
-                "answer": "peut"
+                "answer": "connaît"
             },
             {
                 "page": 38,
@@ -2337,7 +2263,7 @@
                 "question_number": "8",
                 "question_text": "Vous ___ Bertrand?",
                 "hints": null,
-                "answer": "veulent"
+                "answer": "connaissez"
             },
             {
                 "page": 38,
@@ -2345,7 +2271,7 @@
                 "question_number": "9",
                 "question_text": "Il ___ qu'il n'est pas qualifié pour ce travail.",
                 "hints": null,
-                "answer": ""
+                "answer": "sait"
             },
             {
                 "page": 38,
@@ -2353,87 +2279,7 @@
                 "question_number": "10",
                 "question_text": "Nous ne ___ pas ce quartier.",
                 "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 38,
-                "exercise_block": "Pouvoir (can, may) expresses ability and capability.",
-                "question_number": null,
-                "question_text": "Elle ne peut pas ___ aujourd'hui.",
-                "hints": "venir",
-                "answer": ""
-            },
-            {
-                "page": 38,
-                "exercise_block": "Pouvoir (can, may) expresses ability and capability.",
-                "question_number": null,
-                "question_text": "Est-ce que tu peux lui ___?",
-                "hints": "téléphoner",
-                "answer": ""
-            },
-            {
-                "page": 38,
-                "exercise_block": "Pouvoir (can, may) expresses ability and capability.",
-                "question_number": null,
-                "question_text": "Je peux vous ___ des renseignements.",
-                "hints": "donner",
-                "answer": ""
-            },
-            {
-                "page": 38,
-                "exercise_block": "When asking permission with inversion in formal style, the first-person singular of pouvoir takes a different form.",
-                "question_number": null,
-                "question_text": "Puis-je vous ___?",
-                "hints": "aider",
-                "answer": ""
-            },
-            {
-                "page": 38,
-                "exercise_block": "When asking permission with inversion in formal style, the first-person singular of pouvoir takes a different form.",
-                "question_number": null,
-                "question_text": "Puis-je vous donner un ___?",
-                "hints": "conseil",
-                "answer": ""
-            },
-            {
-                "page": 38,
-                "exercise_block": "Another formal way of asking questions is to use the conditional form of pouvoir. We'll cover this in more depth in Chapter 12.",
-                "question_number": null,
-                "question_text": "Pourriez-vous ___ ce problème?",
-                "hints": "résoudre",
-                "answer": ""
-            },
-            {
-                "page": 38,
-                "exercise_block": "Another formal way of asking questions is to use the conditional form of pouvoir. We'll cover this in more depth in Chapter 12.",
-                "question_number": null,
-                "question_text": "Pourriez-vous ___ notre vol?",
-                "hints": "annuler",
-                "answer": ""
-            },
-            {
-                "page": 38,
-                "exercise_block": "The verb vouloir (to want) is used to express wishes and desires. It is also used for a polite request in the conditional form.",
-                "question_number": null,
-                "question_text": "Elle veut une augmentation.",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 38,
-                "exercise_block": "The verb vouloir (to want) is used to express wishes and desires. It is also used for a polite request in the conditional form.",
-                "question_number": null,
-                "question_text": "Nous voulons une table près de la cheminée.",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 38,
-                "exercise_block": "The verb vouloir (to want) is used to express wishes and desires. It is also used for a polite request in the conditional form.",
-                "question_number": null,
-                "question_text": "Je voudrais vous parler.",
-                "hints": null,
-                "answer": ""
+                "answer": "connaissons"
             }
         ]
     },
@@ -2446,7 +2292,7 @@
                 "question_number": "1",
                 "question_text": "Nous (vouloir) ___ une chambre qui donne sur le jardin.",
                 "hints": null,
-                "answer": ""
+                "answer": "voulons"
             },
             {
                 "page": 31,
@@ -2454,7 +2300,7 @@
                 "question_number": "2",
                 "question_text": "Je (ne pas pouvoir) ___ assister à la réunion à quinze heures.",
                 "hints": null,
-                "answer": ""
+                "answer": "ne peux pas"
             },
             {
                 "page": 31,
@@ -2462,7 +2308,7 @@
                 "question_number": "3",
                 "question_text": "Je (vouloir) ___ vous parler avant jeudi.",
                 "hints": null,
-                "answer": ""
+                "answer": "veux"
             },
             {
                 "page": 31,
@@ -2470,7 +2316,7 @@
                 "question_number": "4",
                 "question_text": "Nous (pouvoir) ___ envoyer les documents par la poste.",
                 "hints": null,
-                "answer": ""
+                "answer": "pouvons"
             },
             {
                 "page": 31,
@@ -2478,7 +2324,7 @@
                 "question_number": "5",
                 "question_text": "Tu (vouloir) ___ venir ce soir?",
                 "hints": null,
-                "answer": ""
+                "answer": "veux"
             },
             {
                 "page": 31,
@@ -2486,7 +2332,7 @@
                 "question_number": "6",
                 "question_text": "Est-ce que vous (pouvoir) ___ écrire une lettre de recommandation?",
                 "hints": null,
-                "answer": ""
+                "answer": "pouvez"
             },
             {
                 "page": 31,
@@ -2494,7 +2340,7 @@
                 "question_number": "7",
                 "question_text": "Elle (pouvoir) ___ remplir ce formulaire.",
                 "hints": null,
-                "answer": ""
+                "answer": "peut"
             },
             {
                 "page": 31,
@@ -2502,7 +2348,7 @@
                 "question_number": "8",
                 "question_text": "Ils (vouloir) ___ partir avant midi.",
                 "hints": null,
-                "answer": ""
+                "answer": "veulent"
             },
             {
                 "page": 31,
@@ -2510,7 +2356,7 @@
                 "question_number": "9",
                 "question_text": "Vous (vouloir) ___ prendre un verre?",
                 "hints": null,
-                "answer": ""
+                "answer": "voulez"
             },
             {
                 "page": 31,
@@ -2518,7 +2364,7 @@
                 "question_number": "10",
                 "question_text": "Est-ce qu'ils (pouvoir) ___ arriver un peu plus tôt?",
                 "hints": null,
-                "answer": ""
+                "answer": "peuvent"
             }
         ]
     },
@@ -2603,7 +2449,7 @@
                 "question_number": "10",
                 "question_text": "Vous (recevoir) ___ nos félicitations.",
                 "hints": "recevoir",
-                "answer": ""
+                "answer": "Vous recevez nos félicitations."
             },
             {
                 "page": 32,
@@ -2668,7 +2514,7 @@
                 "question_number": "1",
                 "question_text": "Use the preposition à (to, at, in) to say where you are going. Watch out for the contraction: à + le = au and à + les = aux.",
                 "hints": null,
-                "answer": ""
+                "answer": "Je vais au marché."
             },
             {
                 "page": 34,
@@ -2676,7 +2522,7 @@
                 "question_number": "2",
                 "question_text": "Je vais au théâtre ce soir.",
                 "hints": null,
-                "answer": ""
+                "answer": "Je vais au théâtre ce soir."
             },
             {
                 "page": 34,
@@ -2684,7 +2530,7 @@
                 "question_number": "3",
                 "question_text": "Elle va souvent à l'opéra.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle va souvent à l'opéra."
             },
             {
                 "page": 34,
@@ -2692,7 +2538,7 @@
                 "question_number": "4",
                 "question_text": "Léa va à la bibliothèque.",
                 "hints": null,
-                "answer": ""
+                "answer": "Léa va à la bibliothèque."
             },
             {
                 "page": 34,
@@ -2700,7 +2546,7 @@
                 "question_number": "5",
                 "question_text": "Chloé veut aller aux États-Unis.",
                 "hints": null,
-                "answer": ""
+                "answer": "Chloé veut aller aux États-Unis."
             },
             {
                 "page": 34,
@@ -2708,7 +2554,7 @@
                 "question_number": "1",
                 "question_text": "Ça va?",
                 "hints": null,
-                "answer": ""
+                "answer": "Ça va? Tout va bien."
             },
             {
                 "page": 34,
@@ -2716,7 +2562,7 @@
                 "question_number": "2",
                 "question_text": "Comment allez-vous?",
                 "hints": null,
-                "answer": ""
+                "answer": "Comment allez-vous?"
             },
             {
                 "page": 34,
@@ -2724,7 +2570,7 @@
                 "question_number": "3",
                 "question_text": "Ce tailleur vous va bien.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ce tailleur vous va bien."
             },
             {
                 "page": 34,
@@ -2732,7 +2578,7 @@
                 "question_number": "4",
                 "question_text": "Comment va la famille?",
                 "hints": null,
-                "answer": ""
+                "answer": "Comment va votre famille?"
             }
         ]
     },
@@ -2817,7 +2663,7 @@
                 "question_number": "10",
                 "question_text": "Comment (aller) -vous ?",
                 "hints": "aller",
-                "answer": ""
+                "answer": "Comment allez-vous？"
             }
         ]
     },
@@ -2894,7 +2740,7 @@
                 "question_number": "9",
                 "question_text": "Ils ___ en janvier.",
                 "hints": null,
-                "answer": ""
+                "answer": "sont"
             },
             {
                 "page": 87,
@@ -2902,7 +2748,7 @@
                 "question_number": "10",
                 "question_text": "Elle ___ au centre-ville.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle va au centre-ville."
             }
         ]
     },
@@ -3080,7 +2926,7 @@
                 "question_number": "6",
                 "question_text": "This hat looks good on you.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ce chapeau te va bien."
             },
             {
                 "page": 38,
@@ -3088,7 +2934,7 @@
                 "question_number": "7",
                 "question_text": "They just canceled my flight.",
                 "hints": null,
-                "answer": ""
+                "answer": "I(cls) ont annulé mon vol."
             },
             {
                 "page": 38,
@@ -3096,7 +2942,7 @@
                 "question_number": "8",
                 "question_text": "He goes to the library on Saturdays.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il va à la bibliothèque les samedis."
             }
         ]
     },
@@ -3149,7 +2995,7 @@
                 "question_number": "a",
                 "question_text": "Il ressemble à sa parente.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il ressemble à sa parente."
             },
             {
                 "page": 39,
@@ -3157,7 +3003,7 @@
                 "question_number": "b",
                 "question_text": "Il veut discuter avec toi.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il veut discuter avec toi."
             },
             {
                 "page": 39,
@@ -3165,7 +3011,7 @@
                 "question_number": "c",
                 "question_text": "Il est attaché à cette chose.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il est attaché à cette chose."
             },
             {
                 "page": 39,
@@ -3173,7 +3019,7 @@
                 "question_number": "d",
                 "question_text": "Il ignore tout.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il ignore tout."
             },
             {
                 "page": 39,
@@ -3181,7 +3027,7 @@
                 "question_number": "e",
                 "question_text": "Il ne respecte pas ses engagements.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il ne respecte pas ses engagements."
             }
         ]
     },
@@ -3348,7 +3194,7 @@
                 "question_number": "1",
                 "question_text": "They have the letter sent to Paris.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils (Elles) font envoyer la lettre à Paris."
             },
             {
                 "page": 42,
@@ -3356,7 +3202,7 @@
                 "question_number": "2",
                 "question_text": "I have been standing in line for ten minutes.",
                 "hints": null,
-                "answer": ""
+                "answer": "Je fais la queue depuis dix minutes."
             },
             {
                 "page": 42,
@@ -3364,7 +3210,7 @@
                 "question_number": "3",
                 "question_text": "They are attached to their friends.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils (Elles) tiennent à leurs amis."
             },
             {
                 "page": 42,
@@ -3372,7 +3218,7 @@
                 "question_number": "4",
                 "question_text": "He really wants to sing this song.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il tient à chanter cette chanson."
             },
             {
                 "page": 42,
@@ -3380,7 +3226,7 @@
                 "question_number": "5",
                 "question_text": "She is holding a vase.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle tient un vase."
             },
             {
                 "page": 42,
@@ -3388,7 +3234,7 @@
                 "question_number": "6",
                 "question_text": "He looks like his father.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il tient de son père."
             },
             {
                 "page": 42,
@@ -3396,7 +3242,7 @@
                 "question_number": "7",
                 "question_text": "It's raining.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il pleut."
             },
             {
                 "page": 42,
@@ -3404,7 +3250,7 @@
                 "question_number": "8",
                 "question_text": "Can you cook?",
                 "hints": null,
-                "answer": ""
+                "answer": "Est-ce que vous savez faire la cuisine?"
             },
             {
                 "page": 42,
@@ -3412,7 +3258,7 @@
                 "question_number": "9",
                 "question_text": "She has her car washed.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle fait laver sa voiture."
             },
             {
                 "page": 42,
@@ -3420,7 +3266,7 @@
                 "question_number": "10",
                 "question_text": "It's cold.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il fait froid."
             }
         ]
     },
@@ -3433,7 +3279,7 @@
                 "question_number": "a",
                 "question_text": "Combien est-ce qu'on vous ___?",
                 "hints": "doit",
-                "answer": ""
+                "answer": "doit"
             },
             {
                 "page": 43,
@@ -3441,7 +3287,7 @@
                 "question_number": "b",
                 "question_text": "Elle me ___ mille euros.",
                 "hints": "doit",
-                "answer": ""
+                "answer": "Elle me doit mille euros."
             },
             {
                 "page": 43,
@@ -3449,7 +3295,7 @@
                 "question_number": "c",
                 "question_text": "Je vous ___ quelque chose?",
                 "hints": "dois",
-                "answer": ""
+                "answer": "Je vous dois quelque chose?"
             },
             {
                 "page": 43,
@@ -3457,7 +3303,7 @@
                 "question_number": "d",
                 "question_text": "Il ___ sa vie à son chirurgien.",
                 "hints": "doit",
-                "answer": ""
+                "answer": "Il doit sa vie à son chirurgien."
             },
             {
                 "page": 43,
@@ -3465,7 +3311,7 @@
                 "question_number": "a",
                 "question_text": "Vous ___ assister à la réunion demain matin.",
                 "hints": "devez",
-                "answer": ""
+                "answer": "Vous devez assister à la réunion demain matin."
             },
             {
                 "page": 43,
@@ -3473,7 +3319,7 @@
                 "question_number": "b",
                 "question_text": "L'enfant ___ obéir à ses parents.",
                 "hints": "doit",
-                "answer": ""
+                "answer": "L'enfant doit obéir à ses parents."
             },
             {
                 "page": 43,
@@ -3481,7 +3327,7 @@
                 "question_number": "c",
                 "question_text": "Vous ne ___ pas y aller.",
                 "hints": "devez",
-                "answer": ""
+                "answer": "Vous ne devez pas y aller."
             },
             {
                 "page": 43,
@@ -3489,7 +3335,7 @@
                 "question_number": "a",
                 "question_text": "L'avion ___ atterrir à dix heures.",
                 "hints": "doit",
-                "answer": ""
+                "answer": "L'avion doit atterrir à dix heures."
             },
             {
                 "page": 43,
@@ -3497,7 +3343,7 @@
                 "question_number": "b",
                 "question_text": "Son livre ___ sortir la semaine prochaine.",
                 "hints": "doit",
-                "answer": ""
+                "answer": "doit"
             },
             {
                 "page": 43,
@@ -3505,7 +3351,7 @@
                 "question_number": "a",
                 "question_text": "Tu ne ___ pas lui prêter d'argent.",
                 "hints": "devrais",
-                "answer": ""
+                "answer": "Tu ne devrais pas lui prêter d'argent."
             },
             {
                 "page": 43,
@@ -3513,7 +3359,7 @@
                 "question_number": "b",
                 "question_text": "Elles ___ apprendre une langue étrangère.",
                 "hints": "devraient",
-                "answer": ""
+                "answer": "Elles devraient apprendre une langue étrangère."
             }
         ]
     },
@@ -3731,7 +3577,7 @@
                 "question_number": "a",
                 "question_text": "Elle doit la vie à son médecin.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle doit la vie à son médecin."
             },
             {
                 "page": 45,
@@ -3739,7 +3585,7 @@
                 "question_number": "b",
                 "question_text": "Elle doit être prudente.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle doit être prudente."
             },
             {
                 "page": 45,
@@ -3747,7 +3593,7 @@
                 "question_number": "c",
                 "question_text": "Elle doit faire la cuisine.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle doit faire la cuisine."
             },
             {
                 "page": 45,
@@ -3755,7 +3601,7 @@
                 "question_number": "d",
                 "question_text": "Elle doit partir en vacances.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle doit partir en vacances."
             },
             {
                 "page": 45,
@@ -3763,7 +3609,7 @@
                 "question_number": "e",
                 "question_text": "Elle doit de l'argent.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle doit de l'argent."
             }
         ]
     },
@@ -3776,7 +3622,7 @@
                 "question_number": null,
                 "question_text": "Il y a un chat sur le canapé. Il n'y a plus rien dans le frigo.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il y a un chat sur le canapé. Il n'y a plus rien dans le frigo."
             },
             {
                 "page": 46,
@@ -3784,7 +3630,7 @@
                 "question_number": null,
                 "question_text": "Qu'est-ce qu'il y a? Il n'y a qu'à leur dire. Il y avait une fois... Il y a cinquante kilomètres d'ici à Paris. Il y en a qui feraient mieux de se taire.",
                 "hints": null,
-                "answer": ""
+                "answer": "Qu'est-ce qu'il y a? Il n'y a rien. Il y avait une fois... Il y a cinquante kilomètres d'ici à Paris. Il y en a qui feraient mieux de se taire."
             },
             {
                 "page": 46,
@@ -3792,7 +3638,7 @@
                 "question_number": null,
                 "question_text": "De quoi s'agit-il? Dans ce film, il s'agit d'un crime. Dans ce roman, il s'agit d'une princesse. Il s'agit de ton avenir. Il ne s'agit pas de plaisanter. Il s'agit de faire vite. Il ne s'agit pas de dettes. Il s'agit d'amour.",
                 "hints": null,
-                "answer": ""
+                "answer": "De quoi s'agit-il? Dans ce film, il s'agit d'un crime. Dans ce roman, il s'agit d'une princesse. Il s'agit de ton avenir. Il ne s'agit pas de plaisanter. Il s'agit de faire vite. Il ne s'agit pas de dettes. Il s'agit d'amour."
             },
             {
                 "page": 46,
@@ -3800,7 +3646,7 @@
                 "question_number": null,
                 "question_text": "je peins tu peins il/elle peint",
                 "hints": null,
-                "answer": ""
+                "answer": "je peins tu peins il/elle peint"
             },
             {
                 "page": 46,
@@ -3808,7 +3654,7 @@
                 "question_number": null,
                 "question_text": "Le peintre peint le plafond de l'opéra. Vous peignez un tableau abstrait.",
                 "hints": null,
-                "answer": ""
+                "answer": "Le peintre peint le plafond de l'opéra. Vous peignez un tableau abstrait."
             },
             {
                 "page": 46,
@@ -3816,7 +3662,7 @@
                 "question_number": null,
                 "question_text": "je crains tu crains il/elle craint",
                 "hints": null,
-                "answer": ""
+                "answer": "je crains que tu crains qu'il/elle craint"
             },
             {
                 "page": 46,
@@ -3824,7 +3670,7 @@
                 "question_number": null,
                 "question_text": "Ils craignent le pire. Il ne craint pas la douleur.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils craignent le pire. Il ne craint pas la douleur."
             }
         ]
     },
@@ -3901,7 +3747,7 @@
                 "question_number": "9",
                 "question_text": "Elle (teindre) ___ en blond les moustaches de l'acteur.",
                 "hints": "teindre",
-                "answer": ""
+                "answer": "Elle teint en blond les moustaches de l'acteur."
             },
             {
                 "page": 47,
@@ -3909,7 +3755,7 @@
                 "question_number": "10",
                 "question_text": "Elle (se plaindre) ___ tout le temps.",
                 "hints": "se plaindre",
-                "answer": ""
+                "answer": "Elle se plaint tout le temps."
             },
             {
                 "page": 47,
@@ -3982,7 +3828,7 @@
                 "question_number": "1",
                 "question_text": "je me lève",
                 "hints": null,
-                "answer": ""
+                "answer": "je me lève"
             },
             {
                 "page": 49,
@@ -3990,7 +3836,7 @@
                 "question_number": "2",
                 "question_text": "tu te lèves",
                 "hints": null,
-                "answer": ""
+                "answer": "tu t'élèves"
             },
             {
                 "page": 49,
@@ -3998,7 +3844,7 @@
                 "question_number": "3",
                 "question_text": "il/elle se lève",
                 "hints": null,
-                "answer": ""
+                "answer": "il se lève\nelle se lève"
             },
             {
                 "page": 49,
@@ -4006,7 +3852,7 @@
                 "question_number": "4",
                 "question_text": "nous nous levons",
                 "hints": null,
-                "answer": ""
+                "answer": "nous nous levons"
             },
             {
                 "page": 49,
@@ -4014,7 +3860,7 @@
                 "question_number": "5",
                 "question_text": "vous vous levez",
                 "hints": null,
-                "answer": ""
+                "answer": "vous vous levez"
             },
             {
                 "page": 49,
@@ -4022,7 +3868,7 @@
                 "question_number": "6",
                 "question_text": "ils/elles se lèvent",
                 "hints": null,
-                "answer": ""
+                "answer": "ils se lèvent"
             },
             {
                 "page": 49,
@@ -4030,7 +3876,7 @@
                 "question_number": "7",
                 "question_text": "Il se lève à sept heures.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il se lève à sept heures."
             },
             {
                 "page": 49,
@@ -4038,7 +3884,7 @@
                 "question_number": "8",
                 "question_text": "Je me couche à onze heures.",
                 "hints": null,
-                "answer": ""
+                "answer": "Je me couche à onze heures."
             },
             {
                 "page": 49,
@@ -4046,7 +3892,7 @@
                 "question_number": "9",
                 "question_text": "Il s'assoit sur un banc.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il s'assoit sur un banc."
             },
             {
                 "page": 49,
@@ -4054,7 +3900,7 @@
                 "question_number": "10",
                 "question_text": "Elle ne se réveille pas avant huit heures.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle ne se réveille pas avant huit heures."
             },
             {
                 "page": 49,
@@ -4062,7 +3908,7 @@
                 "question_number": "11",
                 "question_text": "Tu ne te reposes pas assez.",
                 "hints": null,
-                "answer": ""
+                "answer": "Tu ne te reposes pas assez."
             },
             {
                 "page": 49,
@@ -4070,7 +3916,7 @@
                 "question_number": "12",
                 "question_text": "Se rase-t-il tous les matins?",
                 "hints": null,
-                "answer": ""
+                "answer": "Se ras-il tous les matins?"
             },
             {
                 "page": 49,
@@ -4078,7 +3924,7 @@
                 "question_number": "13",
                 "question_text": "S'occupent-elles de ce dossier?",
                 "hints": null,
-                "answer": ""
+                "answer": "S'occupent-elles de ce dossier?"
             },
             {
                 "page": 49,
@@ -4086,7 +3932,7 @@
                 "question_number": "14",
                 "question_text": "Vous maquillez-vous pour monter sur scène?",
                 "hints": null,
-                "answer": ""
+                "answer": "Vous vous maquillez-vous pour monter sur scène?"
             },
             {
                 "page": 49,
@@ -4094,7 +3940,7 @@
                 "question_number": "15",
                 "question_text": "Est-ce que vous vous préparez à partir?",
                 "hints": null,
-                "answer": ""
+                "answer": "Est-ce que vous vous préparez à partir ?"
             },
             {
                 "page": 49,
@@ -4102,7 +3948,7 @@
                 "question_number": "16",
                 "question_text": "Est-ce que tu t'habilles pour la soirée?",
                 "hints": null,
-                "answer": ""
+                "answer": "Est-ce que tu t'habilles pour la soirée ?"
             }
         ]
     },
@@ -4187,7 +4033,7 @@
                 "question_number": "10",
                 "question_text": "Elle (se détendre) ___ les jambes sur le canapé.",
                 "hints": "se détendre",
-                "answer": ""
+                "answer": "Elle (se détend) sur le canapé."
             }
         ]
     },
@@ -4357,7 +4203,7 @@
                 "question_number": "10",
                 "question_text": "L'oiseau (s'envoler) ___ dans le ciel.",
                 "hints": null,
-                "answer": ""
+                "answer": "L'oiseau s'envole dans le ciel."
             }
         ]
     },
@@ -4519,7 +4365,7 @@
                 "question_number": "4",
                 "question_text": "Nous marchons dans le parc.",
                 "hints": null,
-                "answer": ""
+                "answer": "Nous marchons dans le parc."
             },
             {
                 "page": 54,
@@ -4527,7 +4373,7 @@
                 "question_number": "5",
                 "question_text": "Ils se reposent parce que leurs jambes sont fatiguées.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils se reposent parce que leurs jambes sont fatiguées."
             },
             {
                 "page": 54,
@@ -4535,7 +4381,7 @@
                 "question_number": "6",
                 "question_text": "Il se rase.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il se rase."
             },
             {
                 "page": 54,
@@ -4543,7 +4389,7 @@
                 "question_number": "7",
                 "question_text": "Ils viennent de se marier.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils viennent de se marier."
             },
             {
                 "page": 54,
@@ -4551,7 +4397,7 @@
                 "question_number": "8",
                 "question_text": "Ils s'écrivent.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils s'écrivent."
             },
             {
                 "page": 54,
@@ -4559,7 +4405,7 @@
                 "question_number": "9",
                 "question_text": "Il est fatigué. Il s'assoit sur un banc.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il est fatigué. Il s'assoit sur un banc."
             },
             {
                 "page": 54,
@@ -4567,7 +4413,7 @@
                 "question_number": "10",
                 "question_text": "Ils s'aiment.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils s'aiment."
             }
         ]
     },
@@ -4580,7 +4426,7 @@
                 "question_number": "a",
                 "question_text": "Elle a pris une décision.",
                 "hints": "She made a decision. She has made a decision. She did make a decision.",
-                "answer": ""
+                "answer": "Elle a prise une décision."
             },
             {
                 "page": 55,
@@ -4588,7 +4434,7 @@
                 "question_number": null,
                 "question_text": "Il a vendu sa voiture.",
                 "hints": "He sold his car.",
-                "answer": ""
+                "answer": "Il a vendu sa voiture."
             },
             {
                 "page": 55,
@@ -4596,7 +4442,7 @@
                 "question_number": null,
                 "question_text": "Il n'a pas vendu sa voiture.",
                 "hints": "He did not sell his car.",
-                "answer": ""
+                "answer": "Il n'a pas vendu sa voiture."
             },
             {
                 "page": 55,
@@ -4604,7 +4450,7 @@
                 "question_number": null,
                 "question_text": "Ils ont dîné au restaurant.",
                 "hints": "They had dinner at the restaurant.",
-                "answer": ""
+                "answer": "Ils ont dîné au restaurant."
             },
             {
                 "page": 55,
@@ -4612,7 +4458,7 @@
                 "question_number": null,
                 "question_text": "Ils n'ont pas dîné au restaurant.",
                 "hints": "They did not have dinner at the restaurant.",
-                "answer": ""
+                "answer": "Ils n'ont pas dîné au restaurant."
             },
             {
                 "page": 55,
@@ -4620,7 +4466,7 @@
                 "question_number": null,
                 "question_text": "Vous avez aimé la pièce?",
                 "hints": "Did you like the play?",
-                "answer": ""
+                "answer": "Vous avez aimé la pièce?"
             },
             {
                 "page": 55,
@@ -4628,7 +4474,7 @@
                 "question_number": null,
                 "question_text": "Avez-vous aimé la pièce?",
                 "hints": "Did you like the play?",
-                "answer": ""
+                "answer": "Avez-vous aimé la pièce?"
             },
             {
                 "page": 55,
@@ -4636,7 +4482,7 @@
                 "question_number": null,
                 "question_text": "Est-ce que vous avez aimé la pièce?",
                 "hints": "Did you like the play?",
-                "answer": ""
+                "answer": "Est-ce que vous avez aimé la pièce?"
             }
         ]
     },
@@ -5151,7 +4997,7 @@
                 "question_number": null,
                 "question_text": "She has painted the wall white.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle a peint le mur en blanc."
             },
             {
                 "page": 62,
@@ -5159,7 +5005,7 @@
                 "question_number": null,
                 "question_text": "She stayed at home.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle est restée à la maison."
             },
             {
                 "page": 62,
@@ -5167,7 +5013,7 @@
                 "question_number": null,
                 "question_text": "He took some vacation.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il a pris一些时间休息。"
             },
             {
                 "page": 62,
@@ -5175,7 +5021,7 @@
                 "question_number": null,
                 "question_text": "As we mentioned earlier, all pronominal verbs are conjugated with être. The reflexive pronouns precede the auxiliary verb (être). In most cases, the past participle agrees in gender and number with the subject of the pronominal verb.",
                 "hints": null,
-                "answer": ""
+                "answer": "Comme nous l'avons mentionné plus tôt, tous les verbes pronominaux sont conjugués avec être. Les pronominaux réfléchis précèdent l'auxiliaire (être). Dans la plupart des cas, le participe passé s'accorde en genre et en nombre avec le sujet du verbe pronominal."
             },
             {
                 "page": 62,
@@ -5183,7 +5029,7 @@
                 "question_number": null,
                 "question_text": "je me suis réveillé(e) ___",
                 "hints": null,
-                "answer": ""
+                "answer": "je me suis réveillé(e) ce matin"
             },
             {
                 "page": 62,
@@ -5191,7 +5037,7 @@
                 "question_number": null,
                 "question_text": "tu t'es réveillé(e) ___",
                 "hints": null,
-                "answer": ""
+                "answer": "tu t'es réveillé(e) ce matin"
             },
             {
                 "page": 62,
@@ -5199,7 +5045,7 @@
                 "question_number": null,
                 "question_text": "il/elle s'est réveillé(e) ___",
                 "hints": null,
-                "answer": ""
+                "answer": "il/elle s'est réveillé(e) ce matin"
             },
             {
                 "page": 62,
@@ -5207,7 +5053,7 @@
                 "question_number": null,
                 "question_text": "nous nous sommes réveillé(e)s ___",
                 "hints": null,
-                "answer": ""
+                "answer": "tard"
             },
             {
                 "page": 62,
@@ -5215,7 +5061,7 @@
                 "question_number": null,
                 "question_text": "vous vous êtes réveillé(e)(s) ___",
                 "hints": null,
-                "answer": ""
+                "answer": "à"
             },
             {
                 "page": 62,
@@ -5223,7 +5069,7 @@
                 "question_number": null,
                 "question_text": "ils/elles se sont réveillé(e)s ___",
                 "hints": null,
-                "answer": ""
+                "answer": "ils/elles se sont réveillé(e)s ce matin"
             },
             {
                 "page": 62,
@@ -5231,7 +5077,7 @@
                 "question_number": null,
                 "question_text": "Elle s'est promenée sur la plage.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle s'est promenée sur la plage."
             },
             {
                 "page": 62,
@@ -5239,7 +5085,7 @@
                 "question_number": null,
                 "question_text": "Ils se sont ennuyés à la réception.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils se sont ennuyés à la réception."
             },
             {
                 "page": 62,
@@ -5247,7 +5093,7 @@
                 "question_number": null,
                 "question_text": "Il s'est évanoui à cause de la chaleur.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il s'est évanoui à cause de la chaleur."
             },
             {
                 "page": 62,
@@ -5255,7 +5101,7 @@
                 "question_number": null,
                 "question_text": "In the negative, the negation is placed around the auxiliary verb être.",
                 "hints": null,
-                "answer": ""
+                "answer": "Dans le négatif, la négation est placée autour de l'auxiliaire verb être."
             },
             {
                 "page": 62,
@@ -5263,7 +5109,7 @@
                 "question_number": null,
                 "question_text": "Ils ne se sont pas couchés de bonne heure.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils ne se sont pas couchés tôt."
             },
             {
                 "page": 62,
@@ -5271,7 +5117,7 @@
                 "question_number": null,
                 "question_text": "Elle ne s'est pas promenée le long du canal.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle ne s'est pas promenée le long du canal."
             },
             {
                 "page": 62,
@@ -5279,7 +5125,7 @@
                 "question_number": null,
                 "question_text": "In the interrogative form, the reflexive pronoun is placed before être.",
                 "hints": null,
-                "answer": ""
+                "answer": "Dans la forme interrogative, le pronom réfléchi est placé avant être."
             },
             {
                 "page": 62,
@@ -5287,7 +5133,7 @@
                 "question_number": null,
                 "question_text": "S'est-il rendu compte de son erreur?",
                 "hints": null,
-                "answer": ""
+                "answer": "S'est-il rendu compte de son erreur?"
             },
             {
                 "page": 62,
@@ -5295,7 +5141,7 @@
                 "question_number": null,
                 "question_text": "Vous êtes-vous bien amusés à la fête?",
                 "hints": null,
-                "answer": ""
+                "answer": "Vous vous êtes bien amusés à la fête?"
             },
             {
                 "page": 62,
@@ -5303,7 +5149,7 @@
                 "question_number": null,
                 "question_text": "Note that the past participle does not agree with the subject of the pronominal verb when the verb is followed by a direct object or by another verb.",
                 "hints": null,
-                "answer": ""
+                "answer": "Note que le participe passé ne concorde pas avec le sujet du verbe pronominal lorsque le verbe est suivi d'un complément direct ou d'un autre verbe."
             },
             {
                 "page": 62,
@@ -5311,7 +5157,7 @@
                 "question_number": null,
                 "question_text": "Elle s'est offert une nouvelle moto.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle s'est offert une nouvelle moto."
             },
             {
                 "page": 62,
@@ -5319,7 +5165,7 @@
                 "question_number": null,
                 "question_text": "Elle s'est coupé les ongles.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle s'est coupé les ongles."
             },
             {
                 "page": 62,
@@ -5327,7 +5173,7 @@
                 "question_number": null,
                 "question_text": "Elle s'est fait arracher une dent.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle s'est fait arracher une dent."
             },
             {
                 "page": 62,
@@ -5335,7 +5181,7 @@
                 "question_number": null,
                 "question_text": "When reciprocal verbs take a direct object, the past participle agrees with the subject.",
                 "hints": null,
-                "answer": ""
+                "answer": "Lorsque les verbes réciproques prennent un complément direct, le participe passé s'accorde avec le sujet."
             },
             {
                 "page": 62,
@@ -5343,7 +5189,7 @@
                 "question_number": null,
                 "question_text": "Ils se sont rencontrés à Venise.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils se sont rencontrés à Venise."
             },
             {
                 "page": 62,
@@ -5351,7 +5197,7 @@
                 "question_number": null,
                 "question_text": "Ils se sont embrassés.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils se sont embrassés."
             },
             {
                 "page": 62,
@@ -5359,7 +5205,7 @@
                 "question_number": null,
                 "question_text": "Ils se sont mariés en mars.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils se sont mariés en mars."
             }
         ]
     },
@@ -5457,7 +5303,7 @@
                 "question_number": "1",
                 "question_text": "Elle a sorti ___",
                 "hints": null,
-                "answer": ""
+                "answer": "e"
             },
             {
                 "page": 64,
@@ -5465,7 +5311,7 @@
                 "question_number": "2",
                 "question_text": "Il a retourné ___",
                 "hints": null,
-                "answer": ""
+                "answer": "a"
             },
             {
                 "page": 64,
@@ -5473,7 +5319,7 @@
                 "question_number": "3",
                 "question_text": "Elle est rentrée ___",
                 "hints": null,
-                "answer": ""
+                "answer": "d"
             },
             {
                 "page": 64,
@@ -5481,7 +5327,7 @@
                 "question_number": "4",
                 "question_text": "Je suis passée ___",
                 "hints": null,
-                "answer": ""
+                "answer": "b"
             },
             {
                 "page": 64,
@@ -5489,7 +5335,7 @@
                 "question_number": "5",
                 "question_text": "Elle est retourné à Rome ___",
                 "hints": null,
-                "answer": ""
+                "answer": "c"
             },
             {
                 "page": 64,
@@ -5497,39 +5343,7 @@
                 "question_number": "a",
                 "question_text": "___ le bifteck",
                 "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.9",
-                "question_number": "b",
-                "question_text": "___ le boulanger",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.9",
-                "question_number": "c",
-                "question_text": "___ pour la cinquième fois",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.9",
-                "question_number": "d",
-                "question_text": "___ très tard",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.9",
-                "question_number": "e",
-                "question_text": "___ les chaises de jardin",
-                "hints": null,
-                "answer": ""
+                "answer": "Servez-le bifteck"
             },
             {
                 "page": 64,
@@ -5537,7 +5351,7 @@
                 "question_number": "1",
                 "question_text": "They spent a month in China.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils ont passé un mois en Chine."
             },
             {
                 "page": 64,
@@ -5545,7 +5359,7 @@
                 "question_number": "2",
                 "question_text": "She fainted.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle s'est évanouie."
             },
             {
                 "page": 64,
@@ -5553,7 +5367,7 @@
                 "question_number": "3",
                 "question_text": "They kissed each other.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils se sont embrassés."
             },
             {
                 "page": 64,
@@ -5561,7 +5375,7 @@
                 "question_number": "4",
                 "question_text": "They had fun at the party.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils se sont amusés à la fête."
             },
             {
                 "page": 64,
@@ -5569,7 +5383,7 @@
                 "question_number": "5",
                 "question_text": "She took the suitcases down.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle a descendu les valises."
             },
             {
                 "page": 64,
@@ -5577,7 +5391,7 @@
                 "question_number": "6",
                 "question_text": "He brushed his teeth.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il s'est brossé les dents."
             },
             {
                 "page": 64,
@@ -5585,7 +5399,7 @@
                 "question_number": "7",
                 "question_text": "He woke up tired.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il s'est réveillé fatigué."
             },
             {
                 "page": 64,
@@ -5593,7 +5407,7 @@
                 "question_number": "8",
                 "question_text": "They wrote each other regularly.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils se sont écrit régulièrement."
             },
             {
                 "page": 64,
@@ -5601,7 +5415,7 @@
                 "question_number": "9",
                 "question_text": "Anna stopped for ten minutes.",
                 "hints": null,
-                "answer": ""
+                "answer": "Anna s'est arrêtée pendant dix minutes."
             },
             {
                 "page": 64,
@@ -5609,7 +5423,7 @@
                 "question_number": "10",
                 "question_text": "He flipped the omelette.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il a retourné l'omelette."
             }
         ]
     },
@@ -5622,7 +5436,7 @@
                 "question_number": null,
                 "question_text": "nous parlons ___",
                 "hints": null,
-                "answer": ""
+                "answer": "nous parlons français"
             },
             {
                 "page": 65,
@@ -5630,7 +5444,7 @@
                 "question_number": null,
                 "question_text": "je parlais ___",
                 "hints": null,
-                "answer": ""
+                "answer": "je parlais avec"
             },
             {
                 "page": 65,
@@ -5638,7 +5452,7 @@
                 "question_number": null,
                 "question_text": "tu parlais ___",
                 "hints": null,
-                "answer": ""
+                "answer": "tu parlais du"
             },
             {
                 "page": 65,
@@ -5646,7 +5460,7 @@
                 "question_number": null,
                 "question_text": "il/elle parlait ___",
                 "hints": null,
-                "answer": ""
+                "answer": "il/elle parlait something"
             },
             {
                 "page": 65,
@@ -5654,7 +5468,7 @@
                 "question_number": null,
                 "question_text": "nous parlions ___",
                 "hints": null,
-                "answer": ""
+                "answer": "nous parlions du"
             },
             {
                 "page": 65,
@@ -5662,7 +5476,7 @@
                 "question_number": null,
                 "question_text": "vous parliez ___",
                 "hints": null,
-                "answer": ""
+                "answer": "vous parliez avec"
             },
             {
                 "page": 65,
@@ -5670,7 +5484,7 @@
                 "question_number": null,
                 "question_text": "ils/elles parlaient ___",
                 "hints": null,
-                "answer": ""
+                "answer": "ils/elles parlaient ensemble"
             },
             {
                 "page": 65,
@@ -5678,7 +5492,7 @@
                 "question_number": null,
                 "question_text": "j'encourageais ___",
                 "hints": null,
-                "answer": ""
+                "answer": "j'encourageais quelqu'un"
             },
             {
                 "page": 65,
@@ -5686,7 +5500,7 @@
                 "question_number": null,
                 "question_text": "elle exigeait ___",
                 "hints": null,
-                "answer": ""
+                "answer": "elle exigeait que"
             },
             {
                 "page": 65,
@@ -5694,7 +5508,7 @@
                 "question_number": null,
                 "question_text": "ils partageaient ___",
                 "hints": null,
-                "answer": ""
+                "answer": "ils partageaient entre eux"
             },
             {
                 "page": 65,
@@ -5702,7 +5516,7 @@
                 "question_number": null,
                 "question_text": "il avançait ___",
                 "hints": null,
-                "answer": ""
+                "answer": "il avançait lentement"
             },
             {
                 "page": 65,
@@ -5710,7 +5524,7 @@
                 "question_number": null,
                 "question_text": "elle remplaçait ___",
                 "hints": null,
-                "answer": ""
+                "answer": "elle remplaçait par"
             },
             {
                 "page": 65,
@@ -5718,7 +5532,7 @@
                 "question_number": null,
                 "question_text": "elles annonçaient ___",
                 "hints": null,
-                "answer": ""
+                "answer": "elles annonçaient des"
             },
             {
                 "page": 65,
@@ -5726,7 +5540,7 @@
                 "question_number": null,
                 "question_text": "nous nagiions ___",
                 "hints": null,
-                "answer": ""
+                "answer": "nous nagions dans"
             },
             {
                 "page": 65,
@@ -5734,7 +5548,7 @@
                 "question_number": null,
                 "question_text": "nous protégions ___",
                 "hints": null,
-                "answer": ""
+                "answer": "nous protégions nos"
             },
             {
                 "page": 65,
@@ -5742,7 +5556,7 @@
                 "question_number": null,
                 "question_text": "nous commencions ___",
                 "hints": null,
-                "answer": ""
+                "answer": "nous commencions par"
             },
             {
                 "page": 65,
@@ -5750,7 +5564,7 @@
                 "question_number": null,
                 "question_text": "vous effaciez ___",
                 "hints": null,
-                "answer": ""
+                "answer": "vous effaciez le"
             },
             {
                 "page": 65,
@@ -5758,7 +5572,7 @@
                 "question_number": null,
                 "question_text": "Elle faisait... ___",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle faisait... du shopping"
             }
         ]
     },
@@ -6207,7 +6021,7 @@
                 "question_number": "8",
                 "question_text": "Si on (investir) ___ dans cette entreprise?",
                 "hints": "investir",
-                "answer": ""
+                "answer": "Si on investit dans cette entreprise?"
             },
             {
                 "page": 70,
@@ -6215,7 +6029,7 @@
                 "question_number": "9",
                 "question_text": "Si on (réfléchir) ___ avant de prendre une décision?",
                 "hints": "réfléchir",
-                "answer": ""
+                "answer": "Si on réfléchit avant de prendre une décision?"
             },
             {
                 "page": 70,
@@ -6223,7 +6037,7 @@
                 "question_number": "10",
                 "question_text": "Si on (choisir) ___ une autre formule?",
                 "hints": "choisir",
-                "answer": ""
+                "answer": "Si on choisissait une autre formule?"
             }
         ]
     },
@@ -6236,7 +6050,7 @@
                 "question_number": "1",
                 "question_text": "Je (aller) ___ chez le dentiste hier.",
                 "hints": "aller",
-                "answer": ""
+                "answer": "suis allé(e)"
             },
             {
                 "page": 71,
@@ -6244,7 +6058,7 @@
                 "question_number": "2",
                 "question_text": "Quand il (être) ___ adolescent, il (jouer) ___ au football.",
                 "hints": "être, jouer",
-                "answer": ""
+                "answer": "était, jouait"
             },
             {
                 "page": 71,
@@ -6252,7 +6066,7 @@
                 "question_number": "3",
                 "question_text": "À cette époque-là, ils (tenir) ___ une brasserie place d'Italie.",
                 "hints": "tenir",
-                "answer": ""
+                "answer": "tenaient"
             },
             {
                 "page": 71,
@@ -6260,7 +6074,7 @@
                 "question_number": "4",
                 "question_text": "Ils (randonner) ___ dans les Alpes le week-end passé.",
                 "hints": "randonner",
-                "answer": ""
+                "answer": "ont randonné"
             },
             {
                 "page": 71,
@@ -6268,7 +6082,7 @@
                 "question_number": "5",
                 "question_text": "Nous (dîner) ___ dans ce restaurant tous les samedis.",
                 "hints": "dîner",
-                "answer": ""
+                "answer": "dînions"
             },
             {
                 "page": 71,
@@ -6276,7 +6090,7 @@
                 "question_number": "6",
                 "question_text": "Si on (prendre) ___ un café?",
                 "hints": "prendre",
-                "answer": ""
+                "answer": "prenait"
             },
             {
                 "page": 71,
@@ -6284,15 +6098,15 @@
                 "question_number": "7",
                 "question_text": "Tu (avoir) ___ l'air fatigué.",
                 "hints": "avoir",
-                "answer": ""
+                "answer": "avais"
             },
             {
                 "page": 71,
                 "exercise_block": "8.7",
                 "question_number": "8",
-                "question_text": "Chaque jour, il (écrire) ___ une lettre à son amie.",
+                "question_text": "Chaque jour, il (écrire) ___ une letter à son amie.",
                 "hints": "écrire",
-                "answer": ""
+                "answer": "écrivait"
             },
             {
                 "page": 71,
@@ -6300,7 +6114,7 @@
                 "question_number": "9",
                 "question_text": "Je (regarder) ___ un film quand elle (arriver) ___.",
                 "hints": "regarder, arriver",
-                "answer": ""
+                "answer": "regardais, est arrivée"
             },
             {
                 "page": 71,
@@ -6308,7 +6122,7 @@
                 "question_number": "10",
                 "question_text": "La campagne (être) ___ si belle.",
                 "hints": "être",
-                "answer": ""
+                "answer": "était"
             }
         ]
     },
@@ -6321,7 +6135,7 @@
                 "question_number": "1",
                 "question_text": "je ___",
                 "hints": "(décider)",
-                "answer": ""
+                "answer": "je décide"
             },
             {
                 "page": 72,
@@ -6329,7 +6143,7 @@
                 "question_number": "2",
                 "question_text": "tu ___",
                 "hints": "(décider)",
-                "answer": ""
+                "answer": "tu décides"
             },
             {
                 "page": 72,
@@ -6337,7 +6151,7 @@
                 "question_number": "3",
                 "question_text": "il/elle ___",
                 "hints": "(décider)",
-                "answer": ""
+                "answer": "il/elle décide"
             },
             {
                 "page": 72,
@@ -6345,7 +6159,7 @@
                 "question_number": "4",
                 "question_text": "nous ___",
                 "hints": "(décider)",
-                "answer": ""
+                "answer": "nous decidons"
             },
             {
                 "page": 72,
@@ -6353,7 +6167,7 @@
                 "question_number": "5",
                 "question_text": "vous ___",
                 "hints": "(décider)",
-                "answer": ""
+                "answer": "vous décidez"
             },
             {
                 "page": 72,
@@ -6361,7 +6175,7 @@
                 "question_number": "6",
                 "question_text": "ils/elles ___",
                 "hints": "(décider)",
-                "answer": ""
+                "answer": "ils/elles décident"
             },
             {
                 "page": 72,
@@ -6369,7 +6183,7 @@
                 "question_number": "1",
                 "question_text": "je ___",
                 "hints": "(choisir)",
-                "answer": ""
+                "answer": "je choisis"
             },
             {
                 "page": 72,
@@ -6377,7 +6191,7 @@
                 "question_number": "2",
                 "question_text": "tu ___",
                 "hints": "(choisir)",
-                "answer": ""
+                "answer": "tu choisis"
             },
             {
                 "page": 72,
@@ -6385,7 +6199,7 @@
                 "question_number": "3",
                 "question_text": "il/elle ___",
                 "hints": "(choisir)",
-                "answer": ""
+                "answer": "il/elle choisit"
             },
             {
                 "page": 72,
@@ -6393,7 +6207,7 @@
                 "question_number": "4",
                 "question_text": "nous ___",
                 "hints": "(choisir)",
-                "answer": ""
+                "answer": "nous choisissons"
             },
             {
                 "page": 72,
@@ -6401,7 +6215,7 @@
                 "question_number": "5",
                 "question_text": "vous ___",
                 "hints": "(choisir)",
-                "answer": ""
+                "answer": "vous choisissez"
             },
             {
                 "page": 72,
@@ -6409,7 +6223,7 @@
                 "question_number": "6",
                 "question_text": "ils/elles ___",
                 "hints": "(choisir)",
-                "answer": ""
+                "answer": "ils/elles choisissent"
             },
             {
                 "page": 72,
@@ -6417,7 +6231,7 @@
                 "question_number": "1",
                 "question_text": "je ___",
                 "hints": "(répondre)",
-                "answer": ""
+                "answer": "je réponds"
             },
             {
                 "page": 72,
@@ -6425,7 +6239,7 @@
                 "question_number": "2",
                 "question_text": "tu ___",
                 "hints": "(répondre)",
-                "answer": ""
+                "answer": "tu réponds"
             },
             {
                 "page": 72,
@@ -6433,7 +6247,7 @@
                 "question_number": "3",
                 "question_text": "il/elle ___",
                 "hints": "(répondre)",
-                "answer": ""
+                "answer": "il/elle répond"
             },
             {
                 "page": 72,
@@ -6441,7 +6255,7 @@
                 "question_number": "4",
                 "question_text": "nous ___",
                 "hints": "(répondre)",
-                "answer": ""
+                "answer": "nous répondons"
             },
             {
                 "page": 72,
@@ -6449,7 +6263,7 @@
                 "question_number": "5",
                 "question_text": "vous ___",
                 "hints": "(répondre)",
-                "answer": ""
+                "answer": "vous répondez"
             },
             {
                 "page": 72,
@@ -6457,7 +6271,7 @@
                 "question_number": "6",
                 "question_text": "ils/elles ___",
                 "hints": "(répondre)",
-                "answer": ""
+                "answer": "ils/elles répondent"
             }
         ]
     },
@@ -6627,7 +6441,7 @@
                 "question_number": "10",
                 "question_text": "Il (pleuvoir) ___ demain.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il pleuvra"
             }
         ]
     },
@@ -6930,52 +6744,44 @@
         "page": 92,
         "data": [
             {
-                "page": 9,
-                "exercise_block": "Exercice 9.7",
-                "question_number": "1",
-                "question_text": "Traduire les phrases suivantes en utilisant vous si nécessaire.",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 9,
+                "page": 78,
                 "exercise_block": "Exercice 9.7",
                 "question_number": "1",
                 "question_text": "We'll play tennis.",
                 "hints": null,
-                "answer": ""
+                "answer": "Nous jouerons au tennis."
             },
             {
-                "page": 9,
+                "page": 78,
                 "exercise_block": "Exercice 9.7",
                 "question_number": "2",
                 "question_text": "You'll need to buy a new car.",
                 "hints": null,
-                "answer": ""
+                "answer": "Vous devrez acheter une nouvelle voiture."
             },
             {
-                "page": 9,
+                "page": 78,
                 "exercise_block": "Exercice 9.7",
                 "question_number": "3",
                 "question_text": "I'll take a history course.",
                 "hints": null,
-                "answer": ""
+                "answer": "Je suivrai un cours d'histoire."
             },
             {
-                "page": 9,
+                "page": 78,
                 "exercise_block": "Exercice 9.7",
                 "question_number": "4",
                 "question_text": "We'll visit Venice when we are in Italy.",
                 "hints": null,
-                "answer": ""
+                "answer": "Nous visiterons Venise quand nous serons en Italie."
             },
             {
-                "page": 9,
+                "page": 78,
                 "exercise_block": "Exercice 9.7",
                 "question_number": "5",
                 "question_text": "They'll go to Dakar.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils (Elles) iront à Dakar."
             }
         ]
     },
@@ -6988,7 +6794,7 @@
                 "question_number": "6.",
                 "question_text": "We'll walk along the beach.",
                 "hints": null,
-                "answer": ""
+                "answer": "Nous marcherons le long de la plage"
             },
             {
                 "page": 79,
@@ -6996,7 +6802,7 @@
                 "question_number": "7.",
                 "question_text": "He'll study French when he is in Bordeaux.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il étudiera le français quand il sera à Bordeaux."
             },
             {
                 "page": 79,
@@ -7004,7 +6810,7 @@
                 "question_number": "8.",
                 "question_text": "They'll see the Picasso exhibition when they are in Paris.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ils (Elles) verront l’exposition Picasso quand ils (elles) seront à Paris."
             },
             {
                 "page": 79,
@@ -7012,7 +6818,7 @@
                 "question_number": "9.",
                 "question_text": "She'll travel to Asia when she gets her degree.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle voyagera en Asie quand elle obtiendra son diplôme."
             },
             {
                 "page": 79,
@@ -7020,31 +6826,7 @@
                 "question_number": "10.",
                 "question_text": "He'll become a doctor.",
                 "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 79,
-                "exercise_block": "Conjunctions used with the indicative mood",
-                "question_number": "Elle apprendra le russe quand elle sera en Russie.",
-                "question_text": "Elle apprendra le russe quand elle sera",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 79,
-                "exercise_block": "Conjunctions used with the indicative mood",
-                "question_number": "Je t'écrirai dès que je serai à Rio.",
-                "question_text": "Je t'écrirai dès que je serai",
-                "hints": null,
-                "answer": ""
-            },
-            {
-                "page": 79,
-                "exercise_block": "Conjunctions used with the indicative mood",
-                "question_number": "Dès qu'ils sortaient de l'école, ils allaient au stade.",
-                "question_text": "Dès qu'ils sortaient de l'école, ils allaient",
-                "hints": null,
-                "answer": ""
+                "answer": "Il deviendra médecin"
             }
         ]
     },
@@ -7057,7 +6839,7 @@
                 "question_number": "1",
                 "question_text": "Puisqu'il a raté son examen, il (ne pas aller) ___ en vacances.",
                 "hints": "(ne pas aller)",
-                "answer": ""
+                "answer": "n'ira pas"
             },
             {
                 "page": 80,
@@ -7065,7 +6847,7 @@
                 "question_number": "2",
                 "question_text": "Étant donné qu'il est parti, la situation ne (faire) ___ qu'empirer.",
                 "hints": "(faire)",
-                "answer": ""
+                "answer": "fera"
             },
             {
                 "page": 80,
@@ -7073,7 +6855,7 @@
                 "question_number": "3",
                 "question_text": "Il devra trouver une excuse parce qu'elle (ne pas pouvoir) ___ assister à la réunion.",
                 "hints": "(ne pas pouvoir)",
-                "answer": ""
+                "answer": "ne pourra pas"
             },
             {
                 "page": 80,
@@ -7081,7 +6863,7 @@
                 "question_number": "4",
                 "question_text": "Il fera chaud chez elle alors que chez lui, on (geler) ___.",
                 "hints": "(geler)",
-                "answer": ""
+                "answer": "gèlera"
             },
             {
                 "page": 80,
@@ -7089,7 +6871,7 @@
                 "question_number": "5",
                 "question_text": "Si nous avons le temps, nous (se promener) ___ au bord du lac.",
                 "hints": "(se promener)",
-                "answer": ""
+                "answer": "nous promènerons"
             },
             {
                 "page": 80,
@@ -7097,7 +6879,7 @@
                 "question_number": "6",
                 "question_text": "Dès que j'aurai terminé l'enregistrement, je vous (envoyer) ___ un CD.",
                 "hints": "(envoyer)",
-                "answer": ""
+                "answer": "enverrai"
             },
             {
                 "page": 80,
@@ -7105,7 +6887,7 @@
                 "question_number": "7",
                 "question_text": "Elle dormira tandis que je (faire) ___ la vaisselle.",
                 "hints": "(faire)",
-                "answer": ""
+                "answer": "ferai"
             },
             {
                 "page": 80,
@@ -7113,7 +6895,7 @@
                 "question_number": "8",
                 "question_text": "Tant qu'ils seront là, tout (aller) ___ bien.",
                 "hints": "(aller)",
-                "answer": ""
+                "answer": "ira"
             },
             {
                 "page": 80,
@@ -7121,7 +6903,7 @@
                 "question_number": "9",
                 "question_text": "Quand tu vivras à Paris, tu (découvrir) ___ beaucoup de nouvelles choses.",
                 "hints": "(découvrir)",
-                "answer": ""
+                "answer": "découvriras"
             },
             {
                 "page": 80,
@@ -7129,7 +6911,7 @@
                 "question_number": "10",
                 "question_text": "Aussitôt que le paquet sera arrivé, je vous (contacter) ___.",
                 "hints": "(contacter)",
-                "answer": ""
+                "answer": "contacterai"
             }
         ]
     },
@@ -7256,7 +7038,7 @@
                 "question_number": "7",
                 "question_text": "Je ne savais pas que Bertrand (inviter) ___ toute sa famille.",
                 "hints": "inviter",
-                "answer": ""
+                "answer": "Je ne savais pas que Bertrand (a invité) toute sa famille."
             },
             {
                 "page": 83,
@@ -7264,7 +7046,7 @@
                 "question_number": "8",
                 "question_text": "Elle ne se souvenait plus où elle (rencontrer) ___ le frère de Lucien.",
                 "hints": "rencontrer",
-                "answer": ""
+                "answer": "Elle ne se souvenait plus où elle (avait rencontré) le frère de Lucien."
             },
             {
                 "page": 83,
@@ -7272,7 +7054,7 @@
                 "question_number": "9",
                 "question_text": "Comme il n'avait pas d'analgésique, il (souffrir) ___ pendant des heures.",
                 "hints": "souffrir",
-                "answer": ""
+                "answer": "souffrait"
             },
             {
                 "page": 83,
@@ -7280,7 +7062,7 @@
                 "question_number": "10",
                 "question_text": "Il voulait savoir si elle (recevoir) ___ son bouquet de fleurs.",
                 "hints": "recevoir",
-                "answer": ""
+                "answer": "Il voulait savoir si elle recevait son bouquet de fleurs."
             }
         ]
     },
@@ -7439,7 +7221,7 @@
                 "question_number": "3",
                 "question_text": "He was sick because he ___ eaten too much dessert.",
                 "hints": null,
-                "answer": ""
+                "answer": "He was sick because he had eaten too much dessert."
             },
             {
                 "page": 86,
@@ -7447,7 +7229,7 @@
                 "question_number": "4",
                 "question_text": "I wondered why she ___ stayed three months in Vienna.",
                 "hints": null,
-                "answer": ""
+                "answer": "I wondered why she had stayed three months in Vienna."
             },
             {
                 "page": 86,
@@ -7455,7 +7237,7 @@
                 "question_number": "5",
                 "question_text": "I thought they had ___ the problem.",
                 "hints": null,
-                "answer": ""
+                "answer": "je n'en avais pas vu"
             },
             {
                 "page": 86,
@@ -7463,7 +7245,7 @@
                 "question_number": "6",
                 "question_text": "If only he had not ___ late!",
                 "hints": null,
-                "answer": ""
+                "answer": "s'arriver"
             },
             {
                 "page": 86,
@@ -7471,7 +7253,7 @@
                 "question_number": "7",
                 "question_text": "She was tired because she had only ___ five hours.",
                 "hints": null,
-                "answer": ""
+                "answer": "She was tired because she had only none of five hours."
             },
             {
                 "page": 86,
@@ -7479,7 +7261,7 @@
                 "question_number": "8",
                 "question_text": "He was hungry because he had not eaten since seven A.M.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il était faim parce qu'il n'avait rien mangé depuis sept heures du matin."
             },
             {
                 "page": 86,
@@ -7487,7 +7269,7 @@
                 "question_number": "9",
                 "question_text": "We thought he had ___ this film.",
                 "hints": null,
-                "answer": ""
+                "answer": "Nous pensions qu'il n'avait pas vu ce film."
             },
             {
                 "page": 86,
@@ -7495,7 +7277,7 @@
                 "question_number": "10",
                 "question_text": "He thought she had ___ the book.",
                 "hints": null,
-                "answer": ""
+                "answer": "l'emprunté"
             }
         ]
     },
@@ -7508,7 +7290,7 @@
                 "question_number": "je",
                 "question_text": "je mettrais",
                 "hints": null,
-                "answer": ""
+                "answer": "je mettrais"
             },
             {
                 "page": 87,
@@ -7516,7 +7298,7 @@
                 "question_number": "tu",
                 "question_text": "tu mettrais",
                 "hints": null,
-                "answer": ""
+                "answer": "tu mettrais"
             },
             {
                 "page": 87,
@@ -7524,7 +7306,7 @@
                 "question_number": "il/elle",
                 "question_text": "il/elle mettrait",
                 "hints": null,
-                "answer": ""
+                "answer": "il l'élèverait"
             },
             {
                 "page": 87,
@@ -7532,7 +7314,7 @@
                 "question_number": "nous",
                 "question_text": "nous mettrions",
                 "hints": null,
-                "answer": ""
+                "answer": "nous mettrions"
             },
             {
                 "page": 87,
@@ -7540,7 +7322,7 @@
                 "question_number": "vous",
                 "question_text": "vous mettriez",
                 "hints": null,
-                "answer": ""
+                "answer": "vous mettriez-vous"
             },
             {
                 "page": 87,
@@ -7548,7 +7330,7 @@
                 "question_number": "ils/elles",
                 "question_text": "ils/elles mettraient",
                 "hints": null,
-                "answer": ""
+                "answer": "ils/elles pourraient"
             },
             {
                 "page": 87,
@@ -7556,7 +7338,7 @@
                 "question_number": "je",
                 "question_text": "je ferais",
                 "hints": null,
-                "answer": ""
+                "answer": "je ferais"
             },
             {
                 "page": 87,
@@ -7564,7 +7346,7 @@
                 "question_number": "tu",
                 "question_text": "tu ferais",
                 "hints": null,
-                "answer": ""
+                "answer": "tu ferais"
             },
             {
                 "page": 87,
@@ -7572,7 +7354,7 @@
                 "question_number": "il/elle",
                 "question_text": "il/elle ferait",
                 "hints": null,
-                "answer": ""
+                "answer": "il ferait / elle ferait"
             },
             {
                 "page": 87,
@@ -7580,7 +7362,7 @@
                 "question_number": "nous",
                 "question_text": "nous ferions",
                 "hints": null,
-                "answer": ""
+                "answer": "nous ferions"
             },
             {
                 "page": 87,
@@ -7588,7 +7370,7 @@
                 "question_number": "vous",
                 "question_text": "vous feriez",
                 "hints": null,
-                "answer": ""
+                "answer": "vous feriez"
             },
             {
                 "page": 87,
@@ -7596,7 +7378,7 @@
                 "question_number": "ils/elles",
                 "question_text": "ils/elles feraient",
                 "hints": null,
-                "answer": ""
+                "answer": "ils le feraient"
             }
         ]
     },
@@ -8005,7 +7787,7 @@
                 "question_number": "a",
                 "question_text": "___ s'il y faisait moins chaud",
                 "hints": null,
-                "answer": ""
+                "answer": "Si il y faisait moins chaud"
             },
             {
                 "page": 92,
@@ -8013,7 +7795,7 @@
                 "question_number": "b",
                 "question_text": "___ si elle ne portait pas sa maison sur son dos",
                 "hints": null,
-                "answer": ""
+                "answer": "Si elle ne portait pas sa maison sur son dos"
             },
             {
                 "page": 92,
@@ -8021,7 +7803,7 @@
                 "question_number": "c",
                 "question_text": "___ s'il attrapait une souris",
                 "hints": null,
-                "answer": ""
+                "answer": "Si il attrapait une souris"
             },
             {
                 "page": 92,
@@ -8029,7 +7811,7 @@
                 "question_number": "d",
                 "question_text": "___ si le loup n'était pas dans la forêt",
                 "hints": null,
-                "answer": ""
+                "answer": "Si le loup n'était pas dans la forêt"
             },
             {
                 "page": 92,
@@ -8037,7 +7819,7 @@
                 "question_number": "e",
                 "question_text": "___ si elle pouvait être aussi grosse qu'un bœuf",
                 "hints": null,
-                "answer": ""
+                "answer": "Si elle pouvait être aussi grosse qu'un bœuf"
             }
         ]
     },
@@ -8050,7 +7832,7 @@
                 "question_number": null,
                 "question_text": "Nous aurions voulu y assister.",
                 "hints": null,
-                "answer": ""
+                "answer": "Nous aurions voulu y assister."
             },
             {
                 "page": 93,
@@ -8058,7 +7840,7 @@
                 "question_number": null,
                 "question_text": "Tu aurais dû arriver plus tôt.",
                 "hints": null,
-                "answer": ""
+                "answer": "Tu aurais dû arriver plus tôt."
             },
             {
                 "page": 93,
@@ -8066,7 +7848,7 @@
                 "question_number": null,
                 "question_text": "Elle aurait aimé le féliciter.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle aurait aimé le féliciter."
             },
             {
                 "page": 93,
@@ -8074,7 +7856,7 @@
                 "question_number": null,
                 "question_text": "Cela aurait été tellement plus facile.",
                 "hints": null,
-                "answer": ""
+                "answer": "Cela aurait été tellement plus facile."
             },
             {
                 "page": 93,
@@ -8082,7 +7864,7 @@
                 "question_number": null,
                 "question_text": "Elle aurait fini plus tôt si vous l'aviez aidée.",
                 "hints": null,
-                "answer": ""
+                "answer": "Elle aurait fini plus tôt si vous l'aviez aidée."
             },
             {
                 "page": 93,
@@ -8090,7 +7872,7 @@
                 "question_number": null,
                 "question_text": "Je serais arrivé à l'heure s'il y avait eu moins de circulation.",
                 "hints": null,
-                "answer": ""
+                "answer": "Je serais arrivé à l'heure s'il y avait eu moins de circulation."
             },
             {
                 "page": 93,
@@ -8098,7 +7880,7 @@
                 "question_number": null,
                 "question_text": "Si le patron n'avait pas voté la délocalisation, l'usine serait restée ouverte.",
                 "hints": null,
-                "answer": ""
+                "answer": "Si le patron n'avait pas voté la délocalisation, l'usine serait restée ouverte."
             },
             {
                 "page": 93,
@@ -8106,7 +7888,7 @@
                 "question_number": null,
                 "question_text": "Il n'aurait pas tant gagné d'argent s'il était resté à Bordeaux.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il n'aurait pas gagné tant d'argent s'il était resté à Bordeaux."
             },
             {
                 "page": 93,
@@ -8114,7 +7896,7 @@
                 "question_number": null,
                 "question_text": "Le tremblement de terre aurait fait des milliers de victimes au Mexique.",
                 "hints": null,
-                "answer": ""
+                "answer": "Le tremblement de terre a fait des milliers de victimes au Mexique."
             },
             {
                 "page": 93,
@@ -8122,7 +7904,7 @@
                 "question_number": null,
                 "question_text": "Le président l'aurait gracié.",
                 "hints": null,
-                "answer": ""
+                "answer": "Le président l'aurait gracié."
             },
             {
                 "page": 93,
@@ -8130,7 +7912,7 @@
                 "question_number": null,
                 "question_text": "Ce célèbre chanteur français se serait installé en Suisse.",
                 "hints": null,
-                "answer": ""
+                "answer": "Ce célèbre chanteur français se serait installé en Suisse."
             },
             {
                 "page": 93,
@@ -8138,7 +7920,7 @@
                 "question_number": null,
                 "question_text": "Il aurait volé la voiture de son voisin.",
                 "hints": null,
-                "answer": ""
+                "answer": "Il n'aurait pas volé la voiture de son voisin."
             }
         ]
     },
@@ -8321,7 +8103,7 @@
                 "question_number": "a",
                 "question_text": "viens regarder le film chez moi",
                 "hints": null,
-                "answer": ""
+                "answer": "viens regarder le film chez moi"
             },
             {
                 "page": 96,
@@ -8329,7 +8111,7 @@
                 "question_number": "b",
                 "question_text": "elle pourrait se servir des miennes",
                 "hints": null,
-                "answer": ""
+                "answer": "elle pourrait se servir des miennes"
             },
             {
                 "page": 96,
@@ -8337,7 +8119,7 @@
                 "question_number": "c",
                 "question_text": "prends un parapluie",
                 "hints": null,
-                "answer": ""
+                "answer": "Prends un parapluie."
             },
             {
                 "page": 96,
@@ -8345,7 +8127,7 @@
                 "question_number": "d",
                 "question_text": "prévenez la police",
                 "hints": null,
-                "answer": ""
+                "answer": "prévienne la police"
             },
             {
                 "page": 96,
@@ -8353,7 +8135,7 @@
                 "question_number": "e",
                 "question_text": "c'est mon anniversaire demain",
                 "hints": null,
-                "answer": ""
+                "answer": "c'est mon anniversaire demain"
             }
         ]
     },
@@ -8366,7 +8148,7 @@
                 "question_number": null,
                 "question_text": "J'ai pu\ntu as pu\nil/elle a pu",
                 "hints": "I could\nyou could\nhe/she could",
-                "answer": ""
+                "answer": "J'ai pu\ntu as pu\nil/elle a pu"
             },
             {
                 "page": 97,
@@ -8374,7 +8156,7 @@
                 "question_number": null,
                 "question_text": "nous avons pu\nvous avez pu\nils/elles ont pu",
                 "hints": "we could\nyou could\nthey could",
-                "answer": ""
+                "answer": "nous avons pu\nvous avez pu\nils/elles ont pu"
             },
             {
                 "page": 97,
@@ -8382,7 +8164,7 @@
                 "question_number": null,
                 "question_text": "Il n'a pas pu lui parler.\nJ'ai pu la convaincre.\nNous n'avons pas pu y aller.\nIl a pu obtenir les fonds.",
                 "hints": "He could not talk to him.\nI managed to convince her.\nWe could not go there.\nHe succeeded in obtaining the funding.",
-                "answer": ""
+                "answer": "Il n'a pas pu lui parler.\nJ'ai pu la convaincre.\nNous n'avons pas pu y aller.\nIl a pu obtenir les fonds."
             },
             {
                 "page": 97,
@@ -8390,7 +8172,7 @@
                 "question_number": null,
                 "question_text": "je pouvais\ntu pouvais\nil/elle pouvait",
                 "hints": "I could\nyou could\nhe/she could",
-                "answer": ""
+                "answer": "je pouvais\ntu pouvais\nil/elle pouvait"
             },
             {
                 "page": 97,
@@ -8398,7 +8180,7 @@
                 "question_number": null,
                 "question_text": "nous pouvions\nvous pouviez\nils/elles pouvaient",
                 "hints": "we could\nyou could\nthey could",
-                "answer": ""
+                "answer": "nous pouvions\nvous pouviez\nils/elles pouvaient"
             },
             {
                 "page": 97,
@@ -8406,7 +8188,7 @@
                 "question_number": null,
                 "question_text": "En ce temps-là, les femmes ne\npouvaient pas voter.\nÀ cette époque, les voitures ne\npouvaient pas traverser\nla ville.",
                 "hints": "At that time, women could not vote.\nAt that time, cars couldn't drive\nthrough the city.",
-                "answer": ""
+                "answer": "En ce temps-là, les femmes ne pouvaient pas voter. À cette époque, les voitures ne pouvaient pas traverser la ville."
             },
             {
                 "page": 97,
@@ -8414,7 +8196,7 @@
                 "question_number": null,
                 "question_text": "Si jeune, il pouvait quand même\nprendre une telle décision!\nAprès la mort de sa femme, il\nne pouvait plus écrire.",
                 "hints": "So young, he was still able to make\nsuch a decision!\nAfter his wife's death, he could no\nlonger write.",
-                "answer": ""
+                "answer": "Si jeune, il pouvait toujours prendre une telle décision! Après la mort de sa femme, il ne pouvait plus écrire."
             }
         ]
     },
@@ -9144,7 +8926,7 @@
                 "question_number": 9,
                 "question_text": "Vérifiez les chiffres afin qu’on (pouvoir) ___ communiquer le rapport.",
                 "hints": "verbe",
-                "answer": ""
+                "answer": "pour pouvoir"
             },
             {
                 "page": 111,
@@ -9152,7 +8934,7 @@
                 "question_number": 10,
                 "question_text": "Bien que son livre (être) ___ bien écrit, il ne trouvera guère de lecteurs.",
                 "hints": "verbe",
-                "answer": ""
+                "answer": "Bien que son livre soit bien écrit, il ne trouvera guère de lecteurs."
             },
             {
                 "page": 111,
@@ -9218,23 +9000,23 @@
             {
                 "page": 112,
                 "exercise_block": "Exercice 13-7",
-                "question_number": 1,
+                "question_number": "1",
                 "question_text": "Je doute que tu (lire) ___ tout le livre.",
                 "hints": "(lire)",
-                "answer": "ais"
+                "answer": "aies lu"
             },
             {
                 "page": 112,
                 "exercise_block": "Exercice 13-7",
-                "question_number": 2,
+                "question_number": "2",
                 "question_text": "Nous sommes ravis que vous (pouvoir) ___ être parmi nous.",
                 "hints": "(pouvoir)",
-                "answer": "ayez"
+                "answer": "ayez pu"
             },
             {
                 "page": 112,
                 "exercise_block": "Exercice 13-7",
-                "question_number": 3,
+                "question_number": "3",
                 "question_text": "Il est possible que le logiciel (être) ___ défectueux.",
                 "hints": "(être)",
                 "answer": "ait été"
@@ -9242,7 +9024,7 @@
             {
                 "page": 112,
                 "exercise_block": "Exercice 13-7",
-                "question_number": 4,
+                "question_number": "4",
                 "question_text": "Je suis surpris que vous (ne pas voir) ___ ce film.",
                 "hints": "(voir)",
                 "answer": "n’ayez pas vu"
@@ -9250,7 +9032,7 @@
             {
                 "page": 112,
                 "exercise_block": "Exercice 13-7",
-                "question_number": 5,
+                "question_number": "5",
                 "question_text": "Il a peur que Charles (manquer) ___ le train.",
                 "hints": "(manquer)",
                 "answer": "ait manqué"
@@ -9258,7 +9040,7 @@
             {
                 "page": 112,
                 "exercise_block": "Exercice 13-7",
-                "question_number": 6,
+                "question_number": "6",
                 "question_text": "Il n’est pas certain qu’il (réussir) ___ à son examen.",
                 "hints": "(réussir)",
                 "answer": "ait réussi"
@@ -9266,10 +9048,34 @@
             {
                 "page": 112,
                 "exercise_block": "Exercice 13-7",
-                "question_number": 7,
+                "question_number": "7",
                 "question_text": "Je crains qu’il (plagier) ___ mes idées.",
                 "hints": "(plagier)",
                 "answer": "ait plagié"
+            },
+            {
+                "page": 113,
+                "exercise_block": "Exercice 13-7",
+                "question_number": "8",
+                "question_text": "Il a envoyé le courriel avant que je (pouvoir) ___ ajouter un mot.",
+                "hints": "(pouvoir)",
+                "answer": "aie pu"
+            },
+            {
+                "page": 113,
+                "exercise_block": "Exercice 13-7",
+                "question_number": "9",
+                "question_text": "Il est douteux qu’ils (lire) ___ tous les dossiers.",
+                "hints": "(lire)",
+                "answer": "aient lu"
+            },
+            {
+                "page": 113,
+                "exercise_block": "Exercice 13-7",
+                "question_number": "10",
+                "question_text": "Je suis content que vous (dire) ___ la vérité.",
+                "hints": "(dire)",
+                "answer": "ayez dit"
             }
         ]
     },
@@ -9279,26 +9085,82 @@
             {
                 "page": 113,
                 "exercise_block": "Exercice 13-8",
-                "question_number": 8,
-                "question_text": "Il a envoyé le courriel avant que je (pouvoir) ___ ajouter un mot.",
+                "question_number": "1",
+                "question_text": "Il est content que nous (partir) ___.",
+                "hints": "(partir)",
+                "answer": "soyons parti(e)s"
+            },
+            {
+                "page": 113,
+                "exercise_block": "Exercice 13-8",
+                "question_number": "2",
+                "question_text": "Nous sommes ravis que tu (pouvoir) ___ venir avec nous.",
                 "hints": "(pouvoir)",
-                "answer": ""
+                "answer": "aies pu"
             },
             {
                 "page": 113,
                 "exercise_block": "Exercice 13-8",
-                "question_number": 9,
-                "question_text": "Il est douteux qu’ils (lire) ___ tous les dossiers.",
-                "hints": "(lire)",
-                "answer": ""
+                "question_number": "3",
+                "question_text": "Je ne crois pas qu’il (aller) ___ à l’exposition.",
+                "hints": "(aller)",
+                "answer": "soit allé"
             },
             {
                 "page": 113,
                 "exercise_block": "Exercice 13-8",
-                "question_number": 10,
-                "question_text": "Je suis content que vous (dire) ___ la vérité.",
-                "hints": "(dire)",
-                "answer": ""
+                "question_number": "4",
+                "question_text": "Il doute qu’elle (réussir) ___.",
+                "hints": "(réussir)",
+                "answer": "ait réussi"
+            },
+            {
+                "page": 113,
+                "exercise_block": "Exercice 13-8",
+                "question_number": "5",
+                "question_text": "Elle a peur qu’il (avoir) ___ un accident de moto.",
+                "hints": "(avoir)",
+                "answer": "ait eu"
+            },
+            {
+                "page": 113,
+                "exercise_block": "Exercice 13-8",
+                "question_number": "6",
+                "question_text": "Ils sont contents que Laurent (se marier) ___.",
+                "hints": "(se marier)",
+                "answer": "se soit marié"
+            },
+            {
+                "page": 113,
+                "exercise_block": "Exercice 13-8",
+                "question_number": "7",
+                "question_text": "Nous sommes désolés que votre sœur (être) ___ malade.",
+                "hints": "(être)",
+                "answer": "ait été"
+            },
+            {
+                "page": 113,
+                "exercise_block": "Exercice 13-8",
+                "question_number": "8",
+                "question_text": "Il est douteux qu’ils (aller) ___ en Patagonie.",
+                "hints": "(aller)",
+                "answer": "soient allés"
+            },
+            {
+                "page": 113,
+                "exercise_block": "Exercice 13-8",
+                "question_number": "9",
+                "question_text": "___ que les enfants (être) ___ si peu reconnaissants.",
+                "hints": "(être)",
+                "answer": "aient été"
+            },
+            {
+                "page": 113,
+                "exercise_block": "Exercice 13-8",
+                "question_number": "10",
+                "question_text": "Il est incroyable que vous (ne pas savoir) ___ la réponse.",
+                "hints": "(ne pas savoir)",
+                "answer": "n’ayez pas su"
             }
         ]
     },
@@ -9311,7 +9173,7 @@
                 "question_number": 1,
                 "question_text": "Je pense ___",
                 "hints": "que nous ayons raté le dernier métro.",
-                "answer": ""
+                "answer": "d"
             },
             {
                 "page": 114,
@@ -9319,7 +9181,7 @@
                 "question_number": 2,
                 "question_text": "Il est bizarre ___",
                 "hints": "que leur fille ait obtenu son diplôme.",
-                "answer": ""
+                "answer": "c"
             },
             {
                 "page": 114,
@@ -9327,7 +9189,7 @@
                 "question_number": 3,
                 "question_text": "Marie! J'ai bien peur ___",
                 "hints": "que Jean ait refusé une telle offre!",
-                "answer": ""
+                "answer": "a"
             },
             {
                 "page": 114,
@@ -9335,7 +9197,7 @@
                 "question_number": 4,
                 "question_text": "Il est essentiel pour l'entreprise ___",
                 "hints": "qu'il pleuvra demain.",
-                "answer": ""
+                "answer": "e"
             },
             {
                 "page": 114,
@@ -9343,7 +9205,7 @@
                 "question_number": 5,
                 "question_text": "Ils sont ravis ___",
                 "hints": "que vous assistiez à la conférence de presse.",
-                "answer": ""
+                "answer": "b"
             }
         ]
     },
@@ -9356,7 +9218,7 @@
                 "question_number": 1,
                 "question_text": "___ la cuisine est son passe-temps favori.",
                 "hints": "Faire",
-                "answer": ""
+                "answer": "Faire la cuisine est son passe-temps favori."
             },
             {
                 "page": 14,
@@ -9364,7 +9226,7 @@
                 "question_number": 2,
                 "question_text": "___ des cours de cuisine est amusant.",
                 "hints": "Suivre",
-                "answer": ""
+                "answer": "Suivre des cours de cuisine est amusant."
             },
             {
                 "page": 14,
@@ -9372,7 +9234,7 @@
                 "question_number": 3,
                 "question_text": "___ par le train est rapide.",
                 "hints": "Voyager",
-                "answer": ""
+                "answer": "Voyager par le train est rapide."
             },
             {
                 "page": 14,
@@ -9380,7 +9242,7 @@
                 "question_number": 4,
                 "question_text": "___ une langue étrangère est très utile.",
                 "hints": "Apprendre",
-                "answer": ""
+                "answer": "Apprendre une langue étrangère est très utile."
             },
             {
                 "page": 14,
@@ -9388,7 +9250,7 @@
                 "question_number": 5,
                 "question_text": "___ une fois par jour.",
                 "hints": "Prendre",
-                "answer": ""
+                "answer": "Prendre une fois par jour."
             },
             {
                 "page": 14,
@@ -9396,7 +9258,7 @@
                 "question_number": 6,
                 "question_text": "Ne ___ pas se pencher par la fenêtre.",
                 "hints": "pas",
-                "answer": ""
+                "answer": "Ne penchez pas se pencher par la fenêtre."
             },
             {
                 "page": 14,
@@ -9404,7 +9266,7 @@
                 "question_number": 7,
                 "question_text": "Ne ___ pas marcher sur la pelouse.",
                 "hints": "pas",
-                "answer": ""
+                "answer": "Ne marchez pas"
             },
             {
                 "page": 14,
@@ -9412,7 +9274,7 @@
                 "question_number": 8,
                 "question_text": "___ le mode d’emploi avant utilisation.",
                 "hints": "Lire",
-                "answer": ""
+                "answer": "Lire le mode d’emploi avant utilisation."
             },
             {
                 "page": 14,
@@ -9420,7 +9282,7 @@
                 "question_number": 9,
                 "question_text": "Il a promis de ___ pas ajouter trop d’ail.",
                 "hints": "ne pas ajouter",
-                "answer": ""
+                "answer": "Il a promis de ne pas ajouter trop d’ail."
             },
             {
                 "page": 14,
@@ -9428,7 +9290,7 @@
                 "question_number": 10,
                 "question_text": "Elle m’a dit de ___ pas mettre d’huile.",
                 "hints": "ne pas mettre",
-                "answer": ""
+                "answer": "ne"
             },
             {
                 "page": 14,
@@ -9436,7 +9298,7 @@
                 "question_number": 11,
                 "question_text": "Je lui ai conseillé de ___ pas mettre le gâteau au four avant midi.",
                 "hints": "ne pas mettre",
-                "answer": ""
+                "answer": "Je lui ai conseillé de ne pas mettre le gâteau au four avant midi."
             }
         ]
     },
@@ -9502,7 +9364,7 @@
                 "question_number": 7,
                 "question_text": "Cooking takes a lot of time.",
                 "hints": "Translate to French",
-                "answer": ""
+                "answer": "Cuisiner prend beaucoup de temps."
             },
             {
                 "page": 117,
@@ -9510,7 +9372,7 @@
                 "question_number": 8,
                 "question_text": "Take this medicine twice a day.",
                 "hints": "Translate to French",
-                "answer": ""
+                "answer": "Prenez ce médicament deux fois par jour."
             },
             {
                 "page": 117,
@@ -9518,7 +9380,7 @@
                 "question_number": 9,
                 "question_text": "Add some pepper.",
                 "hints": "Translate to French",
-                "answer": ""
+                "answer": "Ajoutez du poivre."
             },
             {
                 "page": 117,
@@ -9526,7 +9388,7 @@
                 "question_number": 10,
                 "question_text": "Do not put in any garlic.",
                 "hints": "Translate to French",
-                "answer": ""
+                "answer": "Ne mettez pas d'ail."
             }
         ]
     },
@@ -9823,7 +9685,7 @@
                 "question_number": "4",
                 "question_text": "Je (pouvoir) ___ vous aider.",
                 "hints": "verbe au présent",
-                "answer": ""
+                "answer": "Je peux vous aider."
             },
             {
                 "page": 122,
@@ -9831,7 +9693,7 @@
                 "question_number": "5",
                 "question_text": "Nous (désirer) ___ renouveler notre abonnement.",
                 "hints": "verbe au présent",
-                "answer": ""
+                "answer": "Nous (désirons) renouveler notre abonnement."
             },
             {
                 "page": 122,
@@ -9839,7 +9701,7 @@
                 "question_number": "6",
                 "question_text": "Tu (vouloir) ___ goûter ces plats.",
                 "hints": "verbe au présent",
-                "answer": ""
+                "answer": "Tu veux goûter ces plats."
             },
             {
                 "page": 122,
@@ -9847,7 +9709,7 @@
                 "question_number": "7",
                 "question_text": "Elle (sembler) ___ comprendre les conséquences.",
                 "hints": "verbe au présent",
-                "answer": ""
+                "answer": "Elle semble comprendre les conséquences."
             },
             {
                 "page": 122,
@@ -9855,7 +9717,7 @@
                 "question_number": "8",
                 "question_text": "Tu (penser) ___ pouvoir réussir?",
                 "hints": "verbe au présent",
-                "answer": ""
+                "answer": "Tu penses pouvoir réussir?"
             },
             {
                 "page": 122,
@@ -9863,7 +9725,7 @@
                 "question_number": "9",
                 "question_text": "Il (falloir) ___ faire mariner le poisson.",
                 "hints": "verbe au présent",
-                "answer": ""
+                "answer": "Il faut faire mariner le poisson."
             },
             {
                 "page": 122,
@@ -9871,7 +9733,7 @@
                 "question_number": "10",
                 "question_text": "Vous (aller) ___ passer une bonne soirée.",
                 "hints": "verbe au présent",
-                "answer": ""
+                "answer": "Vous allez passer une bonne soirée."
             }
         ]
     },
@@ -10190,7 +10052,7 @@
                 "question_number": 9,
                 "question_text": "J’ai rencontré un ami en (arriver) ___ à Paris.",
                 "hints": "(arriver)",
-                "answer": ""
+                "answer": "J’ai rencontré un ami en arrivant à Paris."
             },
             {
                 "page": 129,
@@ -10198,7 +10060,7 @@
                 "question_number": 10,
                 "question_text": "Il a tout perdu en (parier) ___ tous les jours au casino.",
                 "hints": "(parier)",
-                "answer": ""
+                "answer": "Il a tout perdu en (pariant) tous les jours au casino."
             }
         ]
     },
