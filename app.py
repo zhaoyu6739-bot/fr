@@ -55,10 +55,21 @@ for idx, q in enumerate(selected_page_data["data"]):
     num = q.get('question_number') or (idx + 1)
     st.subheader(f"✏️ {block} - 题 {num}")
     
-    # 题目和提示
-    st.markdown(f"**题目：** `{q['question_text']}`")
+   # 题目和提示 (放大字体升级版)
+    st.markdown(
+        f"<div style='font-size: 24px; line-height: 1.6; margin-bottom: 10px;'>"
+        f"<b>题目：</b> <code>{q['question_text']}</code>"
+        f"</div>", 
+        unsafe_allow_html=True
+    )
     if q.get('hints'):
-        st.info(f"💡 提示词: {q['hints']}")
+        # 顺便把提示词也稍微放大一点
+        st.markdown(
+            f"<div style='font-size: 18px; color: #026873; background-color: #E0F7FA; padding: 10px; border-radius: 5px; margin-bottom: 15px;'>"
+            f"💡 <b>提示词:</b> {q['hints']}"
+            f"</div>", 
+            unsafe_allow_html=True
+        )
         
     # 接收用户输入
     user_answer = st.text_input("📝 你的答案：", key=f"input_{selected_page_data['page']}_{idx}")
