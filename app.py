@@ -5,7 +5,7 @@ from openai import OpenAI
 from datetime import datetime
 
 # ==========================================
-# 1. API 配置 (安全读取云端 Secrets)
+# 1. API 配置
 # ==========================================
 SILICON_TOKEN = st.secrets.get("SILICON_TOKEN", "")
 
@@ -18,12 +18,18 @@ def get_client():
         )
     return None
 
-# 初始化错题 Session
+# ==========================================
+# 2. 初始化 Session State
+# ==========================================
 if 'wrong_questions' not in st.session_state:
     st.session_state.wrong_questions = []
 
+# 用于精准记录哪道题的答案被点开了
+if 'revealed_answers' not in st.session_state:
+    st.session_state.revealed_answers = set()
+
 # ==========================================
-# 2. 读取带答案的终极题库
+# 3. 数据加载
 # ==========================================
 @st.cache_data
 def load_data():
@@ -35,13 +41,12 @@ def load_data():
     return [page for page in data if page.get("data")]
 
 # ==========================================
-# 3. 构建网页界面与侧边栏
+# 4. 界面与侧边栏
 # ==========================================
 st.set_page_config(page_title="法语智能刷题器", page_icon="🇫🇷", layout="centered")
 
 client = get_client()
 
-# --- 侧边栏：导航与存档管理 ---
 st.sidebar.header("🎯 学习控制台")
 if not client:
     st.sidebar.warning("⚠️ 待配置：请在 Secrets 中设置 SILICON_TOKEN")
@@ -50,7 +55,6 @@ else:
 
 mode = st.sidebar.radio("选择模式", ["📖 全书刷题", "📕 我的错题本"])
 
-# 错题存档管理
 with st.sidebar.expander("💾 存档管理"):
     if st.session_state.wrong_questions:
         wrong_json = json.dumps(st.session_state.wrong_questions, ensure_ascii=False, indent=4)
@@ -69,7 +73,6 @@ with st.sidebar.expander("💾 存档管理"):
         except:
             st.sidebar.error("文件格式不对哦")
 
-# 加载主数据
 pages = load_data()
 if not pages:
     st.error("找不到 book_complete.json 文件！")
@@ -91,16 +94,17 @@ else:
         st.rerun()
 
 # ==========================================
-# 4. 题目渲染逻辑 (超大字体版)
+# 5. 核心防误触渲染逻辑
 # ==========================================
 for idx, q in enumerate(display_questions):
     block = q.get('exercise_block') or '练习'
     num = q.get('question_number') or (idx + 1)
     
-    # 题目编号字体：22px
-    st.markdown(f"<div style='font-size: 22px; color: #666; font-weight: bold;'>{block} - 第 {num} 题</div>", unsafe_allow_html=True)
+    # 唯一 ID
+    q_id = f"{mode}_page{q.get('page','0')}_{block}_{num}"
     
-    # 题目核心文本：30px (超大字体，带浅灰背景块，方便平板阅读)
+    # 题目区域
+    st.markdown(f"<div style='font-size: 22px; color: #666; font-weight: bold;'>{block} - 第 {num} 题</div>", unsafe_allow_html=True)
     st.markdown(
         f"<div style='font-size: 30px; font-weight: 500; background-color: #f0f2f6; padding: 15px; border-radius: 10px; margin: 10px 0; border: 1px solid #ddd;'>"
         f"{q['question_text']}"
@@ -108,26 +112,44 @@ for idx, q in enumerate(display_questions):
         unsafe_allow_html=True
     )
 
-    # 提示词字体：20px
     if q.get('hints'):
         st.markdown(f"<div style='font-size: 20px; color: #007B83; margin-bottom: 10px;'>💡 提示: {q['hints']}</div>", unsafe_allow_html=True)
         
-    user_answer = st.text_input("📝 输入你的答案：", key=f"input_{mode}_{idx}")
     standard_answer = q.get('answer', '')
+
+    # --- 🚩 修复重点：使用 Set 来记录显示状态，并使用 Checkbox 避免按钮事件冲突 ---
+    is_revealed = q_id in st.session_state.revealed_answers
+    
+    # 使用一个很小巧的勾选框来控制显示/隐藏，这是最不容易产生焦点冲突的组件
+    show_ans = st.checkbox("👀 看答案 (背诵模式)", value=is_revealed, key=f"chkbox_{q_id}")
+    
+    if show_ans:
+        st.session_state.revealed_answers.add(q_id)
+        st.markdown(
+            f"<div style='font-size: 26px; color: #e74c3c; font-weight: bold; padding: 10px; border-left: 5px solid #e74c3c; background-color: #fdf2f0; margin-bottom: 15px;'>"
+            f"标准答案：{standard_answer}"
+            f"</div>", 
+            unsafe_allow_html=True
+        )
+    else:
+        st.session_state.revealed_answers.discard(q_id)
+
+    # 独立分开的默写框
+    user_answer = st.text_input("📝 默写区（选填）：", key=f"input_{q_id}")
     
     col1, col2, col3 = st.columns([1, 1, 1])
     
     with col1:
-        if st.button("✅ 对答案", key=f"check_{mode}_{idx}"):
+        if st.button("✅ 批改作答", key=f"btn_chk_{q_id}"):
             if not user_answer.strip():
-                st.warning("请先输入答案。")
+                st.warning("你还没写答案哦。")
             elif user_answer.strip().lower() == standard_answer.strip().lower():
-                st.success(f"🎉 正确！答案: {standard_answer}")
+                st.success(f"🎉 默写正确！")
             else:
-                st.error(f"❌ 答错了。标准答案：{standard_answer}")
+                st.error(f"❌ 答错了。")
                 
     with col2:
-        if st.button("🧠 AI 讲解", key=f"exp_{mode}_{idx}"):
+        if st.button("🧠 AI 讲解", key=f"btn_ai_{q_id}"):
             if not client:
                 st.warning("请先配置 API 密钥。")
             else:
@@ -145,12 +167,12 @@ for idx, q in enumerate(display_questions):
 
     with col3:
         if mode == "📖 全书刷题":
-            if st.button("⭐ 收藏题目", key=f"fav_{idx}"):
+            if st.button("⭐ 收藏", key=f"btn_fav_{q_id}"):
                 if q not in st.session_state.wrong_questions:
                     st.session_state.wrong_questions.append(q)
                     st.toast("已加入错题本", icon="⭐")
         else:
-            if st.button("🗑️ 移除题目", key=f"rm_{idx}"):
+            if st.button("🗑️ 移除", key=f"btn_rm_{q_id}"):
                 st.session_state.wrong_questions.pop(idx)
                 st.rerun()
                 
