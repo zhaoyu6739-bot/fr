@@ -142,11 +142,14 @@ for idx, q in enumerate(display_questions):
     with col1:
         if st.button("✅ 批改作答", key=f"btn_chk_{q_id}"):
             if not user_answer.strip():
-                st.warning("你还没写答案哦。")
+                # 如果没填答案，直接把标准答案告诉他
+                st.warning(f"你还没写答案哦。这道题的答案是：**{standard_answer}**")
             elif user_answer.strip().lower() == standard_answer.strip().lower():
-                st.success(f"🎉 默写正确！")
+                # 答对了
+                st.success(f"🎉 默写正确！答案就是：**{standard_answer}**")
             else:
-                st.error(f"❌ 答错了。")
+                # 答错了，把标准答案展示出来对比
+                st.error(f"❌ 答错了。标准答案应为：**{standard_answer}**")
                 
     with col2:
         if st.button("🧠 AI 讲解", key=f"btn_ai_{q_id}"):
@@ -176,4 +179,5 @@ for idx, q in enumerate(display_questions):
                 st.session_state.wrong_questions.pop(idx)
                 st.rerun()
                 
+
     st.divider()
