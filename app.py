@@ -19,7 +19,7 @@ def get_client():
     return None
 
 # ==========================================
-# 2. 初始化 Session State (内存状态)
+# 2. 初始化 Session State
 # ==========================================
 if 'wrong_questions' not in st.session_state:
     st.session_state.wrong_questions = []
@@ -28,7 +28,7 @@ if 'revealed_answers' not in st.session_state:
     st.session_state.revealed_answers = set()
 
 # ==========================================
-# 3. 数据加载 (已移除缓存，实时同步 JSON 修改)
+# 3. 数据加载 (无缓存，实时同步)
 # ==========================================
 def load_data():
     file_path = "book_complete.json"
@@ -39,37 +39,20 @@ def load_data():
     return [page for page in data if page.get("data")]
 
 # ==========================================
-# 4. 构建网页界面与侧边栏
+# 4. 构建网页界面与悬浮侧边栏
 # ==========================================
 st.set_page_config(page_title="法语智能刷题器", page_icon="🇫🇷", layout="centered")
 
 client = get_client()
 
+# --- 🎯 侧边栏：永远悬浮的控制台 ---
 st.sidebar.header("🎯 学习控制台")
 if not client:
-    st.sidebar.warning("⚠️ 待配置：请在 Secrets 中设置 SILICON_TOKEN")
+    st.sidebar.warning("⚠️ 待配置：请在 Secrets 中设置 API 密钥")
 else:
     st.sidebar.success("✅ AI 引擎已就绪")
 
 mode = st.sidebar.radio("选择模式", ["📖 全书刷题", "📕 我的错题本"])
-
-with st.sidebar.expander("💾 存档管理"):
-    if st.session_state.wrong_questions:
-        wrong_json = json.dumps(st.session_state.wrong_questions, ensure_ascii=False, indent=4)
-        st.download_button(
-            label="📥 下载错题本存档",
-            data=wrong_json,
-            file_name=f"french_wrong_{datetime.now().strftime('%m%d')}.json",
-            mime="application/json"
-        )
-    
-    uploaded_file = st.file_uploader("📤 上传历史存档", type="json")
-    if uploaded_file is not None:
-        try:
-            st.session_state.wrong_questions = json.load(uploaded_file)
-            st.sidebar.success("存档已加载！")
-        except:
-            st.sidebar.error("文件格式不对哦")
 
 pages = load_data()
 if not pages:
@@ -77,12 +60,14 @@ if not pages:
     st.stop()
 
 display_questions = []
+current_page_key = ""
+
+# 模式选择与页面切换
 if mode == "📖 全书刷题":
     page_options = {f"第 {p['page']} 页 (共 {len(p['data'])} 题)": p for p in pages}
-    selected_option = st.sidebar.selectbox("选择页面", list(page_options.keys()))
+    selected_option = st.sidebar.selectbox("选择练习页面", list(page_options.keys()))
     display_questions = page_options[selected_option]["data"]
     st.title(f"🇫🇷 当前练习：{selected_option.split(' ')[0]}")
-    # 为当前页生成一个独有的“整页批改”状态 Key
     current_page_key = f"grade_all_{selected_option}"
 else:
     st.title("📕 我的错题本")
@@ -94,18 +79,32 @@ else:
         st.session_state.wrong_questions = []
         st.rerun()
 
-st.divider()
+# --- 🚩 核心升级：永远悬浮的批改区 ---
+st.sidebar.divider()
+st.sidebar.markdown("### 💯 快捷批改区")
+if st.sidebar.button("✅ 一键批改本页作答", type="primary", use_container_width=True):
+    st.session_state[current_page_key] = True
+if st.sidebar.button("🔄 隐藏全页批改结果", use_container_width=True):
+    st.session_state[current_page_key] = False
+st.sidebar.divider()
 
-# --- 🚩 新增：整页批改控制台 ---
-col_ctrl1, col_ctrl2 = st.columns(2)
-with col_ctrl1:
-    # 点击时，将当前页面的“批改全开”状态设为 True
-    if st.button("💯 一键批改本页所有作答", type="primary", use_container_width=True):
-        st.session_state[current_page_key] = True
-with col_ctrl2:
-    # 点击时，关闭批改状态，恢复干净页面
-    if st.button("🔄 隐藏全页批改结果", use_container_width=True):
-        st.session_state[current_page_key] = False
+# 存档管理移到最下方
+with st.sidebar.expander("💾 错题存档管理 (导入/导出)"):
+    if st.session_state.wrong_questions:
+        wrong_json = json.dumps(st.session_state.wrong_questions, ensure_ascii=False, indent=4)
+        st.download_button(
+            label="📥 下载当前错题存档",
+            data=wrong_json,
+            file_name=f"french_wrong_{datetime.now().strftime('%m%d')}.json",
+            mime="application/json"
+        )
+    uploaded_file = st.file_uploader("📤 上传历史错题存档", type="json")
+    if uploaded_file is not None:
+        try:
+            st.session_state.wrong_questions = json.load(uploaded_file)
+            st.sidebar.success("存档已加载！")
+        except:
+            st.sidebar.error("文件格式不对哦")
 
 st.divider()
 
@@ -115,7 +114,6 @@ st.divider()
 for idx, q in enumerate(display_questions):
     block = q.get('exercise_block') or '练习'
     num = q.get('question_number') or (idx + 1)
-    
     q_id = f"{mode}_page{q.get('page','0')}_{block}_{num}"
     
     # 题目区域
@@ -131,7 +129,6 @@ for idx, q in enumerate(display_questions):
         st.markdown(f"<div style='font-size: 20px; color: #007B83; margin-bottom: 10px;'>💡 提示: {q['hints']}</div>", unsafe_allow_html=True)
         
     standard_answer = q.get('answer', '')
-
     is_revealed = q_id in st.session_state.revealed_answers
     
     show_ans = st.checkbox("👀 看答案 (背诵模式)", value=is_revealed, key=f"chkbox_{q_id}")
@@ -147,18 +144,16 @@ for idx, q in enumerate(display_questions):
     else:
         st.session_state.revealed_answers.discard(q_id)
 
-    # 独立分开的默写框 (关闭浏览器自动补全)
+    # 默写区
     user_answer = st.text_input("📝 默写区（选填）：", key=f"input_{q_id}", autocomplete="off")
     
     col1, col2, col3 = st.columns([1, 1, 1])
     
     with col1:
-        # 获取单一按钮的点击状态
-        grade_clicked = st.button("✅ 批改作答", key=f"btn_chk_{q_id}")
-        # 获取上方“一键全页批改”的状态
+        grade_clicked = st.button("✅ 单题批改", key=f"btn_chk_{q_id}")
         is_page_graded = st.session_state.get(current_page_key, False)
         
-        # --- 🚩 如果点了单一按钮，或者开启了全页批改，就展示判定结果 ---
+        # 判断逻辑
         if grade_clicked or is_page_graded:
             if not user_answer.strip():
                 st.warning(f"未作答。标准答案应为：**{standard_answer}**")
