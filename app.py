@@ -134,8 +134,8 @@ for idx, q in enumerate(display_questions):
     else:
         st.session_state.revealed_answers.discard(q_id)
 
-    # 独立分开的默写框
-    user_answer = st.text_input("📝 默写区（选填）：", key=f"input_{q_id}")
+    # 独立分开的默写框 (关闭浏览器自动补全干扰)
+    user_answer = st.text_input("📝 默写区（选填）：", key=f"input_{q_id}", autocomplete="off")
     
     col1, col2, col3 = st.columns([1, 1, 1])
     
@@ -177,3 +177,4 @@ for idx, q in enumerate(display_questions):
                 st.rerun()
                 
     st.divider()
+
