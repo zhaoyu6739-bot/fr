@@ -19,19 +19,17 @@ def get_client():
     return None
 
 # ==========================================
-# 2. 初始化 Session State
+# 2. 初始化 Session State (内存状态)
 # ==========================================
 if 'wrong_questions' not in st.session_state:
     st.session_state.wrong_questions = []
 
-# 用于精准记录哪道题的答案被点开了
 if 'revealed_answers' not in st.session_state:
     st.session_state.revealed_answers = set()
 
 # ==========================================
-# 3. 数据加载
+# 3. 数据加载 (已移除缓存，实时同步 JSON 修改)
 # ==========================================
-@st.cache_data
 def load_data():
     file_path = "book_complete.json"
     if not os.path.exists(file_path):
@@ -41,7 +39,7 @@ def load_data():
     return [page for page in data if page.get("data")]
 
 # ==========================================
-# 4. 界面与侧边栏
+# 4. 构建网页界面与侧边栏
 # ==========================================
 st.set_page_config(page_title="法语智能刷题器", page_icon="🇫🇷", layout="centered")
 
@@ -84,23 +82,40 @@ if mode == "📖 全书刷题":
     selected_option = st.sidebar.selectbox("选择页面", list(page_options.keys()))
     display_questions = page_options[selected_option]["data"]
     st.title(f"🇫🇷 当前练习：{selected_option.split(' ')[0]}")
+    # 为当前页生成一个独有的“整页批改”状态 Key
+    current_page_key = f"grade_all_{selected_option}"
 else:
     st.title("📕 我的错题本")
     display_questions = st.session_state.wrong_questions
+    current_page_key = "grade_all_wrong_book"
     if not display_questions:
         st.info("错题本是空的。点击全书刷题模式下的“⭐ 收藏”按钮来添加。")
     if st.sidebar.button("🗑️ 清空所有收藏"):
         st.session_state.wrong_questions = []
         st.rerun()
 
+st.divider()
+
+# --- 🚩 新增：整页批改控制台 ---
+col_ctrl1, col_ctrl2 = st.columns(2)
+with col_ctrl1:
+    # 点击时，将当前页面的“批改全开”状态设为 True
+    if st.button("💯 一键批改本页所有作答", type="primary", use_container_width=True):
+        st.session_state[current_page_key] = True
+with col_ctrl2:
+    # 点击时，关闭批改状态，恢复干净页面
+    if st.button("🔄 隐藏全页批改结果", use_container_width=True):
+        st.session_state[current_page_key] = False
+
+st.divider()
+
 # ==========================================
-# 5. 核心防误触渲染逻辑
+# 5. 题目渲染逻辑
 # ==========================================
 for idx, q in enumerate(display_questions):
     block = q.get('exercise_block') or '练习'
     num = q.get('question_number') or (idx + 1)
     
-    # 唯一 ID
     q_id = f"{mode}_page{q.get('page','0')}_{block}_{num}"
     
     # 题目区域
@@ -117,10 +132,8 @@ for idx, q in enumerate(display_questions):
         
     standard_answer = q.get('answer', '')
 
-    # --- 🚩 修复重点：使用 Set 来记录显示状态，并使用 Checkbox 避免按钮事件冲突 ---
     is_revealed = q_id in st.session_state.revealed_answers
     
-    # 使用一个很小巧的勾选框来控制显示/隐藏，这是最不容易产生焦点冲突的组件
     show_ans = st.checkbox("👀 看答案 (背诵模式)", value=is_revealed, key=f"chkbox_{q_id}")
     
     if show_ans:
@@ -134,19 +147,25 @@ for idx, q in enumerate(display_questions):
     else:
         st.session_state.revealed_answers.discard(q_id)
 
-    # 独立分开的默写框 (关闭浏览器自动补全干扰)
+    # 独立分开的默写框 (关闭浏览器自动补全)
     user_answer = st.text_input("📝 默写区（选填）：", key=f"input_{q_id}", autocomplete="off")
     
     col1, col2, col3 = st.columns([1, 1, 1])
     
     with col1:
-        if st.button("✅ 批改作答", key=f"btn_chk_{q_id}"):
+        # 获取单一按钮的点击状态
+        grade_clicked = st.button("✅ 批改作答", key=f"btn_chk_{q_id}")
+        # 获取上方“一键全页批改”的状态
+        is_page_graded = st.session_state.get(current_page_key, False)
+        
+        # --- 🚩 如果点了单一按钮，或者开启了全页批改，就展示判定结果 ---
+        if grade_clicked or is_page_graded:
             if not user_answer.strip():
-                st.warning("你还没写答案哦。")
+                st.warning(f"未作答。标准答案应为：**{standard_answer}**")
             elif user_answer.strip().lower() == standard_answer.strip().lower():
-                st.success(f"🎉 默写正确！")
+                st.success(f"🎉 默写正确！答案：**{standard_answer}**")
             else:
-                st.error(f"❌ 答错了。")
+                st.error(f"❌ 答错了。标准答案应为：**{standard_answer}**")
                 
     with col2:
         if st.button("🧠 AI 讲解", key=f"btn_ai_{q_id}"):
@@ -177,4 +196,3 @@ for idx, q in enumerate(display_questions):
                 st.rerun()
                 
     st.divider()
-
