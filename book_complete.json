@@ -543,82 +543,11 @@
             {
                 "page": 9,
                 "exercise_block": "Exercice 1.7",
-                "question_number": "1",
-                "question_text": "___ Il épelle",
-                "hints": "连线匹配题选项",
-                "answer": "i"
-            },
-            {
-                "page": 9,
-                "exercise_block": "Exercice 1.7",
-                "question_number": "2",
-                "question_text": "___ Je regarde",
-                "hints": "连线匹配题选项",
-                "answer": "e"
-            },
-            {
-                "page": 9,
-                "exercise_block": "Exercice 1.7",
-                "question_number": "3",
-                "question_text": "___ Nous habitons",
-                "hints": "连线匹配题选项",
-                "answer": "h"
-            },
-            {
-                "page": 9,
-                "exercise_block": "Exercice 1.7",
-                "question_number": "4",
-                "question_text": "___ Tu aimes nager",
-                "hints": "连线匹配题选项",
-                "answer": "a"
-            },
-            {
-                "page": 9,
-                "exercise_block": "Exercice 1.7",
-                "question_number": "5",
-                "question_text": "___ Ils déjeunent toujours",
-                "hints": "连线匹配题选项",
-                "answer": "b"
-            },
-            {
-                "page": 9,
-                "exercise_block": "Exercice 1.7",
-                "question_number": "6",
-                "question_text": "___ Vous chantez",
-                "hints": "连线匹配题选项",
-                "answer": "j"
-            },
-            {
-                "page": 9,
-                "exercise_block": "Exercice 1.7",
-                "question_number": "7",
-                "question_text": "___ Elle remplace",
-                "hints": "连线匹配题选项",
-                "answer": "c"
-            },
-            {
-                "page": 9,
-                "exercise_block": "Exercice 1.7",
-                "question_number": "8",
-                "question_text": "___ Je m'appelle",
-                "hints": "连线匹配题选项",
-                "answer": "d"
-            },
-            {
-                "page": 9,
-                "exercise_block": "Exercice 1.7",
-                "question_number": "9",
-                "question_text": "___ Elle annule",
-                "hints": "连线匹配题选项",
-                "answer": "f"
-            },
-            {
-                "page": 9,
-                "exercise_block": "Exercice 1.7",
-                "question_number": "10",
-                "question_text": "___ Nous déménageons",
-                "hints": "连线匹配题选项",
-                "answer": "g"
+                "question_number": "1-10",
+                "question_text": "连线匹配题（请将 1-10 与 a-j 进行正确匹配）：\n\n1. ___ Il épelle\n2. ___ Je regarde\n3. ___ Nous habitons\n4. ___ Tu aimes nager\n5. ___ Ils déjeunent toujours\n6. ___ Vous chantez\n7. ___ Elle remplace\n8. ___ Je m’appelle\n9. ___ Elle annule\n10. ___ Nous déménageons",
+                "options": [],
+                "hints": "备选项：\na. dans l’Atlantique\nb. à midi et demi\nc. la comédienne malade\nd. Amélie\ne. la télévision\nf. son voyage au Japon\ng. à la fin du mois\nh. au troisième étage\ni. le mot\nj. une belle chanson",
+                "answer": "1.i, 2.e, 3.h, 4.a, 5.b, 6.j, 7.c, 8.d, 9.f, 10.g"
             }
         ]
     },
@@ -10409,3 +10338,4 @@
     }
 
 ]
+
