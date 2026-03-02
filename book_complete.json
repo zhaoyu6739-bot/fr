@@ -542,27 +542,83 @@
         "data": [
             {
                 "page": 9,
-                "exercise_block": "Exercice 1",
+                "exercise_block": "Exercice 1.7",
+                "question_number": "1",
+                "question_text": "___ Il épelle",
+                "hints": "连线匹配题选项",
+                "answer": "i"
+            },
+            {
+                "page": 9,
+                "exercise_block": "Exercice 1.7",
+                "question_number": "2",
+                "question_text": "___ Je regarde",
+                "hints": "连线匹配题选项",
+                "answer": "e"
+            },
+            {
+                "page": 9,
+                "exercise_block": "Exercice 1.7",
+                "question_number": "3",
+                "question_text": "___ Nous habitons",
+                "hints": "连线匹配题选项",
+                "answer": "h"
+            },
+            {
+                "page": 9,
+                "exercise_block": "Exercice 1.7",
+                "question_number": "4",
+                "question_text": "___ Tu aimes nager",
+                "hints": "连线匹配题选项",
+                "answer": "a"
+            },
+            {
+                "page": 9,
+                "exercise_block": "Exercice 1.7",
+                "question_number": "5",
+                "question_text": "___ Ils déjeunent toujours",
+                "hints": "连线匹配题选项",
+                "answer": "b"
+            },
+            {
+                "page": 9,
+                "exercise_block": "Exercice 1.7",
+                "question_number": "6",
+                "question_text": "___ Vous chantez",
+                "hints": "连线匹配题选项",
+                "answer": "j"
+            },
+            {
+                "page": 9,
+                "exercise_block": "Exercice 1.7",
+                "question_number": "7",
+                "question_text": "___ Elle remplace",
+                "hints": "连线匹配题选项",
+                "answer": "c"
+            },
+            {
+                "page": 9,
+                "exercise_block": "Exercice 1.7",
                 "question_number": "8",
                 "question_text": "___ Je m'appelle",
-                "hints": "h. au troisième étage, i. le mot, j. une belle chanson",
-                "answer": "Je m'appelle"
+                "hints": "连线匹配题选项",
+                "answer": "d"
             },
             {
                 "page": 9,
-                "exercise_block": "Exercice 1",
+                "exercise_block": "Exercice 1.7",
                 "question_number": "9",
                 "question_text": "___ Elle annule",
-                "hints": "h. au troisième étage, i. le mot, j. une belle chanson",
-                "answer": "Elle annule"
+                "hints": "连线匹配题选项",
+                "answer": "f"
             },
             {
                 "page": 9,
-                "exercise_block": "Exercice 1",
+                "exercise_block": "Exercice 1.7",
                 "question_number": "10",
                 "question_text": "___ Nous déménageons",
-                "hints": "h. au troisième étage, i. le mot, j. une belle chanson",
-                "answer": "H. Nous déménageons au troisième étage, i. le mot, j. une belle chanson"
+                "hints": "连线匹配题选项",
+                "answer": "g"
             }
         ]
     },
@@ -10351,4 +10407,5 @@
         "page": 150,
         "data": []
     }
+
 ]
