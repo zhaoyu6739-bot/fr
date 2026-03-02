@@ -2531,126 +2531,49 @@
                 "question_text": "Do you know this French song by heart?",
                 "hints": null,
                 "answer": "Est-ce que tu sais cette chanson française par cœur?"
+            },
+            {
+                "page": 32,
+                "exercise_block": "EXERCICE 3.11",
+                "question_number": "7",
+                "question_text": "It is raining in France.",
+                "hints": null,
+                "answer": "Il pleut en France."
+            },
+            {
+                "page": 32,
+                "exercise_block": "EXERCICE 3.11",
+                "question_number": "8",
+                "question_text": "You must arrive at noon.",
+                "hints": null,
+                "answer": "Tu dois arriver à midi."
+            },
+            {
+                "page": 32,
+                "exercise_block": "EXERCICE 3.11",
+                "question_number": "9",
+                "question_text": "He foresees a great improvement.",
+                "hints": null,
+                "answer": "Il prévoit une grande amélioration."
+            },
+            {
+                "page": 32,
+                "exercise_block": "EXERCICE 3.11",
+                "question_number": "10",
+                "question_text": "I see the castle.",
+                "hints": null,
+                "answer": "Je vois le château."
             }
         ]
-    },
-    {
-        "page": 47,
-        "data": []
     },
     {
         "page": 48,
-        "data": [
-            {
-                "page": 34,
-                "exercise_block": "The verb aller (to go)",
-                "question_number": "1",
-                "question_text": "Use the preposition à (to, at, in) to say where you are going. Watch out for the contraction: à + le = au and à + les = aux.",
-                "hints": null,
-                "answer": "Je vais au marché."
-            },
-            {
-                "page": 34,
-                "exercise_block": "The verb aller (to go)",
-                "question_number": "2",
-                "question_text": "Je vais au théâtre ce soir.",
-                "hints": null,
-                "answer": "Je vais au théâtre ce soir."
-            },
-            {
-                "page": 34,
-                "exercise_block": "The verb aller (to go)",
-                "question_number": "3",
-                "question_text": "Elle va souvent à l'opéra.",
-                "hints": null,
-                "answer": "Elle va souvent à l'opéra."
-            },
-            {
-                "page": 34,
-                "exercise_block": "The verb aller (to go)",
-                "question_number": "4",
-                "question_text": "Léa va à la bibliothèque.",
-                "hints": null,
-                "answer": "Léa va à la bibliothèque."
-            },
-            {
-                "page": 34,
-                "exercise_block": "The verb aller (to go)",
-                "question_number": "5",
-                "question_text": "Chloé veut aller aux États-Unis.",
-                "hints": null,
-                "answer": "Chloé veut aller aux États-Unis."
-            },
-            {
-                "page": 34,
-                "exercise_block": "Aller is used in many common expressions.",
-                "question_number": "1",
-                "question_text": "Ça va?",
-                "hints": null,
-                "answer": "Ça va? Tout va bien."
-            },
-            {
-                "page": 34,
-                "exercise_block": "Aller is used in many common expressions.",
-                "question_number": "2",
-                "question_text": "Comment allez-vous?",
-                "hints": null,
-                "answer": "Comment allez-vous?"
-            },
-            {
-                "page": 34,
-                "exercise_block": "Aller is used in many common expressions.",
-                "question_number": "3",
-                "question_text": "Ce tailleur vous va bien.",
-                "hints": null,
-                "answer": "Ce tailleur vous va bien."
-            },
-            {
-                "page": 34,
-                "exercise_block": "Aller is used in many common expressions.",
-                "question_number": "4",
-                "question_text": "Comment va la famille?",
-                "hints": null,
-                "answer": "Comment va votre famille?"
-            }
-        ]
+        "data": []
     },
     {
         "page": 49,
         "data": [
-            {
-                "page": 35,
-                "exercise_block": "EXERCICE 4.1",
-                "question_number": "1",
-                "question_text": "Nous (aller) ___ à la plage cet après-midi.",
-                "hints": "aller",
-                "answer": "allons"
-            },
-            {
-                "page": 35,
-                "exercise_block": "EXERCICE 4.1",
-                "question_number": "2",
-                "question_text": "Ils (aller) ___ à Tahiti en décembre.",
-                "hints": "aller",
-                "answer": "vont"
-            },
-            {
-                "page": 35,
-                "exercise_block": "EXERCICE 4.1",
-                "question_number": "3",
-                "question_text": "Je (aller) ___ chez le dentiste demain matin.",
-                "hints": "aller",
-                "answer": "vais"
-            },
-            {
-                "page": 35,
-                "exercise_block": "EXERCICE 4.1",
-                "question_number": "4",
-                "question_text": "Le lundi, il (aller) ___ à son cours d'anglais.",
-                "hints": "aller",
-                "answer": "va"
-            },
-            {
+                {
                 "page": 35,
                 "exercise_block": "EXERCICE 4.1",
                 "question_number": "5",
@@ -2907,6 +2830,46 @@
                 "question_text": "Vous commencez à travailler.",
                 "hints": null,
                 "answer": "Elle vient de commencer un nouveau travail."
+            },
+            {
+                "page": 37,
+                "exercise_block": "EXERCICE 4.4",
+                "question_number": "6",
+                "question_text": "Elle manque le train.",
+                "hints": null,
+                "answer": "Elle vient de manquer le train."
+            },
+            {
+                "page": 37,
+                "exercise_block": "EXERCICE 4.4",
+                "question_number": "7",
+                "question_text": "Tu as trente ans.",
+                "hints": null,
+                "answer": "Tu viens d’avoir trente ans."
+            },
+            {
+                "page": 37,
+                "exercise_block": "EXERCICE 4.4",
+                "question_number": "8",
+                "question_text": "Il achève ses études.",
+                "hints": null,
+                "answer": "Il vient d’achever ses études."
+            },
+            {
+                "page": 37,
+                "exercise_block": "EXERCICE 4.4",
+                "question_number": "9",
+                "question_text": "Nous parlons à la directrice.",
+                "hints": null,
+                "answer": "Nous venons de parler à la directrice. "
+            },
+            {
+                "page": 37,
+                "exercise_block": "EXERCICE 4.4",
+                "question_number": "10",
+                "question_text": "Ils voient un bon fi lm.",
+                "hints": null,
+                "answer": "Ils viennent de voir un bon film."
             }
         ]
     },
@@ -2976,6 +2939,22 @@
                 "question_text": "He goes to the library on Saturdays.",
                 "hints": null,
                 "answer": "Il va à la bibliothèque les samedis."
+            },
+            {
+                "page": 38,
+                "exercise_block": "4.5",
+                "question_number": "9",
+                "question_text": "She just called François.",
+                "hints": null,
+                "answer": "Elle vient d’appeler François. "
+            },
+            {
+                "page": 38,
+                "exercise_block": "4.5",
+                "question_number": "10",
+                "question_text": "She is going to fi nish the book this afternoon.",
+                "hints": null,
+                "answer": "Elle va fi nir le livre cet après-midi."
             }
         ]
     },
@@ -2983,84 +2962,12 @@
         "page": 53,
         "data": [
             {
-                "page": 39,
-                "exercise_block": "EXERCICE 4.6",
-                "question_number": "1",
-                "question_text": "Il tient à sa voiture.",
-                "hints": null,
-                "answer": "fait"
-            },
-            {
-                "page": 39,
-                "exercise_block": "EXERCICE 4.6",
-                "question_number": "2",
-                "question_text": "Il ne tient compte de rien.",
-                "hints": null,
-                "answer": "font"
-            },
-            {
-                "page": 39,
-                "exercise_block": "EXERCICE 4.6",
-                "question_number": "3",
-                "question_text": "Il ne tient pas ses promesses.",
-                "hints": null,
-                "answer": "fais"
-            },
-            {
-                "page": 39,
-                "exercise_block": "EXERCICE 4.6",
-                "question_number": "4",
-                "question_text": "Il tient de sa sœur.",
-                "hints": null,
-                "answer": "faisons"
-            },
-            {
-                "page": 39,
-                "exercise_block": "EXERCICE 4.6",
-                "question_number": "5",
-                "question_text": "Il tient à te parler.",
-                "hints": null,
-                "answer": "fait"
-            },
-            {
-                "page": 39,
-                "exercise_block": "EXERCICE 4.6",
-                "question_number": "a",
-                "question_text": "Il ressemble à sa parente.",
-                "hints": null,
-                "answer": "Il ressemble à sa parente."
-            },
-            {
-                "page": 39,
-                "exercise_block": "EXERCICE 4.6",
-                "question_number": "b",
-                "question_text": "Il veut discuter avec toi.",
-                "hints": null,
-                "answer": "Il veut discuter avec toi."
-            },
-            {
-                "page": 39,
-                "exercise_block": "EXERCICE 4.6",
-                "question_number": "c",
-                "question_text": "Il est attaché à cette chose.",
-                "hints": null,
-                "answer": "Il est attaché à cette chose."
-            },
-            {
-                "page": 39,
-                "exercise_block": "EXERCICE 4.6",
-                "question_number": "d",
-                "question_text": "Il ignore tout.",
-                "hints": null,
-                "answer": "Il ignore tout."
-            },
-            {
-                "page": 39,
-                "exercise_block": "EXERCICE 4.6",
-                "question_number": "e",
-                "question_text": "Il ne respecte pas ses engagements.",
-                "hints": null,
-                "answer": "Il ne respecte pas ses engagements."
+                "exercise_block": "Exercice sur le verbe Tenir",
+                "question_number": "EXERCICE4.6",
+                "question_text": "Associez chaque phrase avec sa signification (entrez les lettres correspondantes) :\n\n1. ___ Il tient à sa voiture.\n2. ___ Il ne tient compte de rien.\n3. ___ Il ne tient pas ses promesses.\n4. ___ Il tient de sa sœur.\n5. ___ Il tient à te parler.",
+                "options": [],
+                "hints": "💡 Options disponibles :\na. Il ressemble à sa parente.\nb. Il veut discuter avec toi.\nc. Il est attaché à cette chose.\nd. Il ignore tout.\ne. Il ne respecte pas ses engagements.\n\n📌 Point de grammaire (Le verbe « tenir ») :\n- tenir à (quelque chose) = y être attaché\n- tenir à (faire quelque chose) = vouloir absolument\n- tenir de (quelqu'un) = ressembler à\n- tenir compte de = prendre en considération",
+                "answer": "1.c, 2.d, 3.e, 4.a, 5.b"
             }
         ]
     },
@@ -3114,107 +3021,123 @@
                 "question_text": "Elle (faire) ___ le marché le samedi matin.",
                 "hints": "faire",
                 "answer": "Il fait annuler le voyage."
+            },
+            {
+                "exercise_block": "Exercice 4.7",
+                "question_number": "7",
+                "question_text": "On ___ (faire) la queue depuis une demi-heure !",
+                "options": [],
+                "hints": "💡 考查 faire 的变位：on fait",
+                "answer": "fait"
+            },
+            {
+                "exercise_block": "Exercice 4.7",
+                "question_number": "8",
+                "question_text": "Ils ___ (faire) la sieste de trois à cinq heures.",
+                "options": [],
+                "hints": "💡 考查 faire 的变位：ils font",
+                "answer": "font"
+            },
+            {
+                "exercise_block": "Exercice 4.7",
+                "question_number": "9",
+                "question_text": "Vous ___ (faire) de l’exercice pour rester en forme ?",
+                "options": [],
+                "hints": "💡 考查 faire 的变位：vous faites",
+                "answer": "faites"
+            },
+            {
+                "exercise_block": "Exercice 4.7",
+                "question_number": "10",
+                "question_text": "Il ___ (faire) des grimaces devant le miroir.",
+                "options": [],
+                "hints": "💡 考查 faire 的变位：il fait",
+                "answer": "fait"
             }
         ]
     },
     {
         "page": 55,
-        "data": [
+        "data": [            
             {
-                "page": 41,
-                "exercise_block": "Exercice 48",
-                "question_number": "7",
-                "question_text": "On (faire) ___ la queue depuis une demi-heure!",
-                "hints": null,
-                "answer": "Il pleut."
-            },
-            {
-                "page": 41,
-                "exercise_block": "Exercice 48",
-                "question_number": "8",
-                "question_text": "Ils (faire) ___ la sieste de trois à cinq heures.",
-                "hints": null,
-                "answer": "Est-ce que vous savez faire la cuisine?"
-            },
-            {
-                "page": 41,
-                "exercise_block": "Exercice 48",
-                "question_number": "9",
-                "question_text": "Vous (faire) ___ de l'exercice pour rester en forme?",
-                "hints": null,
-                "answer": "Elle fait laver sa voiture."
-            },
-            {
-                "page": 41,
-                "exercise_block": "Exercice 48",
-                "question_number": "10",
-                "question_text": "Il (faire) ___ des grimaces devant le miroir.",
-                "hints": null,
-                "answer": "Il fait froid."
-            },
-            {
-                "page": 41,
-                "exercise_block": "Exercice 48",
+                "exercise_block": "Exercice 4.8",
                 "question_number": "1",
-                "question_text": "Je lis le dossier.",
-                "hints": null,
-                "answer": "Ils (Elles) font envoyer la lettre à Paris."
+                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nJe lis le dossier. -> ___",
+                "options": [],
+                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Je，faire 变位为 fais，加上动词原形 lire。\n完整句子：Je fais lire le dossier.",
+                "answer": "Je fais lire le dossier."
             },
             {
-                "page": 41,
-                "exercise_block": "Exercice 48",
+                "exercise_block": "Exercice 4.8",
                 "question_number": "2",
-                "question_text": "Vous lavez la voiture.",
-                "hints": null,
-                "answer": "Je fais la queue depuis dix minutes."
+                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nVous lavez la voiture. -> ___",
+                "options": [],
+                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Vous，faire 变位为 faites，加上动词原形 laver。\n完整句子：Vous faites laver la voiture.",
+                "answer": "Vous faites laver la voiture."
             },
             {
-                "page": 41,
-                "exercise_block": "Exercice 48",
+                "exercise_block": "Exercice 4.8",
                 "question_number": "3",
-                "question_text": "Il répare la télévision.",
-                "hints": null,
-                "answer": "Ils (Elles) tiennent à leurs amis."
+                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nIl répare la télévision. -> ___",
+                "options": [],
+                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Il，faire 变位为 fait，加上动词原形 réparer。\n完整句子：Il fait réparer la télévision.",
+                "answer": "Il fait réparer la télévision."
             },
             {
-                "page": 41,
-                "exercise_block": "Exercice 48",
+                "exercise_block": "Exercice 4.8",
                 "question_number": "4",
-                "question_text": "Elle investit sa fortune.",
-                "hints": null,
-                "answer": "Il tient à chanter cette chanson."
+                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nElle investit sa fortune. -> ___",
+                "options": [],
+                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Elle，faire 变位为 fait，加上动词原形 investir。\n完整句子：Elle fait investir sa fortune.",
+                "answer": "Elle fait investir sa fortune."
             },
             {
-                "page": 41,
-                "exercise_block": "Exercice 48",
+                "exercise_block": "Exercice 4.8",
                 "question_number": "5",
-                "question_text": "J'envoie le paquet.",
-                "hints": null,
-                "answer": "Elle tient un vase."
+                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nJ’envoie le paquet. -> ___",
+                "options": [],
+                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Je，faire 变位为 fais，加上动词原形 envoyer。\n完整句子：Je fais envoyer le paquet.",
+                "answer": "Je fais envoyer le paquet."
             },
             {
-                "page": 41,
-                "exercise_block": "Exercice 48",
+                "exercise_block": "Exercice 4.8",
                 "question_number": "6",
-                "question_text": "Il annule le voyage.",
-                "hints": null,
-                "answer": "Il tient de son père."
+                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nIl annule le voyage. -> ___",
+                "options": [],
+                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Il，faire 变位为 fait，加上动词原形 annuler。\n完整句子：Il fait annuler le voyage.",
+                "answer": "Il fait annuler le voyage."
             },
             {
-                "page": 41,
-                "exercise_block": "Exercice 48",
+                "exercise_block": "Exercice 4.8",
                 "question_number": "7",
-                "question_text": "Tu remplaces l'employé malade.",
-                "hints": null,
-                "answer": "Il pleut."
+                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nTu remplaces l’employé malade. -> ___",
+                "options": [],
+                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Tu，faire 变位为 fais，加上动词原形 remplacer。\n完整句子：Tu fais remplacer l’employé malade.",
+                "answer": "Tu fais remplacer l’employé malade."
             },
             {
-                "page": 41,
-                "exercise_block": "Exercice 48",
+                "exercise_block": "Exercice 4.8",
                 "question_number": "8",
-                "question_text": "Il visite l'entreprise.",
-                "hints": null,
-                "answer": "Est-ce que vous savez faire la cuisine?"
+                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nIl visite l’entreprise. -> ___",
+                "options": [],
+                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Il，faire 变位为 fait，加上动词原形 visiter。\n完整句子：Il fait visiter l’entreprise.",
+                "answer": "Il fait visiter l’entreprise."
+            },
+            {
+                "exercise_block": "Exercice 4.8",
+                "question_number": "9",
+                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nJe corrige les copies des étudiants. -> ___",
+                "options": [],
+                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Je，faire 变位为 fais，加上动词原形 corriger。\n完整句子：Je fais corriger les copies des étudiants.",
+                "answer": "Je fais corriger les copies des étudiants."
+            },
+            {
+                "exercise_block": "Exercice 4.8",
+                "question_number": "10",
+                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nJe chante la chanson. -> ___",
+                "options": [],
+                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Je，faire 变位为 fais，加上动词原形 chanter。\n完整句子：Je fais chanter la chanson.",
+                "answer": "Je fais chanter la chanson."
             }
         ]
     },
@@ -3304,180 +3227,87 @@
         ]
     },
     {
-        "page": 57,
-        "data": [
-            {
-                "page": 43,
-                "exercise_block": "Devoir as a debt",
-                "question_number": "a",
-                "question_text": "Combien est-ce qu'on vous ___?",
-                "hints": "doit",
-                "answer": "doit"
-            },
-            {
-                "page": 43,
-                "exercise_block": "Devoir as a debt",
-                "question_number": "b",
-                "question_text": "Elle me ___ mille euros.",
-                "hints": "doit",
-                "answer": "Elle me doit mille euros."
-            },
-            {
-                "page": 43,
-                "exercise_block": "Devoir as a debt",
-                "question_number": "c",
-                "question_text": "Je vous ___ quelque chose?",
-                "hints": "dois",
-                "answer": "Je vous dois quelque chose?"
-            },
-            {
-                "page": 43,
-                "exercise_block": "Devoir as a debt",
-                "question_number": "d",
-                "question_text": "Il ___ sa vie à son chirurgien.",
-                "hints": "doit",
-                "answer": "Il doit sa vie à son chirurgien."
-            },
-            {
-                "page": 43,
-                "exercise_block": "Devoir as an obligation",
-                "question_number": "a",
-                "question_text": "Vous ___ assister à la réunion demain matin.",
-                "hints": "devez",
-                "answer": "Vous devez assister à la réunion demain matin."
-            },
-            {
-                "page": 43,
-                "exercise_block": "Devoir as an obligation",
-                "question_number": "b",
-                "question_text": "L'enfant ___ obéir à ses parents.",
-                "hints": "doit",
-                "answer": "L'enfant doit obéir à ses parents."
-            },
-            {
-                "page": 43,
-                "exercise_block": "Devoir as an obligation",
-                "question_number": "c",
-                "question_text": "Vous ne ___ pas y aller.",
-                "hints": "devez",
-                "answer": "Vous ne devez pas y aller."
-            },
-            {
-                "page": 43,
-                "exercise_block": "Devoir as a probability",
-                "question_number": "a",
-                "question_text": "L'avion ___ atterrir à dix heures.",
-                "hints": "doit",
-                "answer": "L'avion doit atterrir à dix heures."
-            },
-            {
-                "page": 43,
-                "exercise_block": "Devoir as a probability",
-                "question_number": "b",
-                "question_text": "Son livre ___ sortir la semaine prochaine.",
-                "hints": "doit",
-                "answer": "doit"
-            },
-            {
-                "page": 43,
-                "exercise_block": "Devoir as a warning and suggestion",
-                "question_number": "a",
-                "question_text": "Tu ne ___ pas lui prêter d'argent.",
-                "hints": "devrais",
-                "answer": "Tu ne devrais pas lui prêter d'argent."
-            },
-            {
-                "page": 43,
-                "exercise_block": "Devoir as a warning and suggestion",
-                "question_number": "b",
-                "question_text": "Elles ___ apprendre une langue étrangère.",
-                "hints": "devraient",
-                "answer": "Elles devraient apprendre une langue étrangère."
-            }
-        ]
-    },
-    {
         "page": 58,
         "data": [
             {
-                "page": 44,
-                "exercise_block": "EXERCICE 5.1",
+                "exercise_block": "Exercice 5.1",
                 "question_number": "1",
-                "question_text": "Elle (devoir) prévenir sa mère.",
-                "hints": "devoir",
+                "question_text": "Elle ___ (devoir) prévenir sa mère.",
+                "options": [],
+                "hints": "💡 Conjugaison du verbe devoir : elle doit",
                 "answer": "doit"
             },
             {
-                "page": 44,
-                "exercise_block": "EXERCICE 5.1",
+                "exercise_block": "Exercice 5.1",
                 "question_number": "2",
-                "question_text": "Tu (devoir) partir immédiatement.",
-                "hints": "devoir",
+                "question_text": "Tu ___ (devoir) partir immédiatement.",
+                "options": [],
+                "hints": "💡 Conjugaison du verbe devoir : tu dois",
+                "answer": "dois"
+            },
+            {
+                "exercise_block": "Exercice 5.1",
+                "question_number": "3",
+                "question_text": "Vous ___ (devoir) refuser leur offre.",
+                "options": [],
+                "hints": "💡 Conjugaison du verbe devoir : vous devez",
                 "answer": "devez"
             },
             {
-                "page": 44,
-                "exercise_block": "EXERCICE 5.1",
-                "question_number": "3",
-                "question_text": "Vous (devoir) refuser leur offre.",
-                "hints": "devoir",
+                "exercise_block": "Exercice 5.1",
+                "question_number": "4",
+                "question_text": "Elle ___ (devoir) prendre une navette.",
+                "options": [],
+                "hints": "💡 Conjugaison du verbe devoir : elle doit",
                 "answer": "doit"
             },
             {
-                "page": 44,
-                "exercise_block": "EXERCICE 5.1",
-                "question_number": "4",
-                "question_text": "Elle (devoir) prendre une navette.",
-                "hints": "devoir",
+                "exercise_block": "Exercice 5.1",
+                "question_number": "5",
+                "question_text": "Ils ___ (ne pas devoir) arriver avant dimanche.",
+                "options": [],
+                "hints": "💡 Conjugaison du verbe devoir à la forme négative : ils ne doivent pas",
                 "answer": "ne doivent pas"
             },
             {
-                "page": 44,
-                "exercise_block": "EXERCICE 5.1",
-                "question_number": "5",
-                "question_text": "Ils (ne pas devoir) arriver avant dimanche.",
-                "hints": "ne pas devoir",
+                "exercise_block": "Exercice 5.1",
+                "question_number": "6",
+                "question_text": "Je ___ (devoir) appeler Michel ?",
+                "options": [],
+                "hints": "💡 Conjugaison du verbe devoir : je dois",
+                "answer": "dois"
+            },
+            {
+                "exercise_block": "Exercice 5.1",
+                "question_number": "7",
+                "question_text": "L’avion ___ (devoir) décoller dans quelques minutes.",
+                "options": [],
+                "hints": "💡 Conjugaison du verbe devoir (L'avion = il) : il doit",
                 "answer": "doit"
             },
             {
-                "page": 44,
-                "exercise_block": "EXERCICE 5.1",
-                "question_number": "6",
-                "question_text": "Je (devoir) appeler Michel?",
-                "hints": "devoir",
+                "exercise_block": "Exercice 5.1",
+                "question_number": "8",
+                "question_text": "Les voitures ___ (devoir) embarquer sur le ferry.",
+                "options": [],
+                "hints": "💡 Conjugaison du verbe devoir (Les voitures = elles) : elles doivent",
                 "answer": "doivent"
             },
             {
-                "page": 44,
-                "exercise_block": "EXERCICE 5.1",
-                "question_number": "7",
-                "question_text": "L'avion (devoir) décoller dans quelques minutes.",
-                "hints": "devoir",
-                "answer": "dois"
-            },
-            {
-                "page": 44,
-                "exercise_block": "EXERCICE 5.1",
-                "question_number": "8",
-                "question_text": "Les voitures (devoir) embarquer sur le ferry.",
-                "hints": "devoir",
-                "answer": "doit"
-            },
-            {
-                "page": 44,
-                "exercise_block": "EXERCICE 5.1",
+                "exercise_block": "Exercice 5.1",
                 "question_number": "9",
-                "question_text": "Je (devoir) préparer le dîner.",
-                "hints": "devoir",
+                "question_text": "Je ___ (devoir) préparer le dîner.",
+                "options": [],
+                "hints": "💡 Conjugaison du verbe devoir : je dois",
                 "answer": "dois"
             },
             {
-                "page": 44,
-                "exercise_block": "EXERCICE 5.1",
+                "exercise_block": "Exercice 5.1",
                 "question_number": "10",
-                "question_text": "Tu (devoir) faire le plein sur l'autoroute.",
-                "hints": "devoir",
-                "answer": "doit"
+                "question_text": "Tu ___ (devoir) faire le plein sur l’autoroute.",
+                "options": [],
+                "hints": "💡 Conjugaison du verbe devoir : tu dois",
+                "answer": "dois"
             }
         ]
     },
@@ -3565,145 +3395,12 @@
                 "answer": "Vous ne devez pas inviter Pierre."
             },
             {
-                "page": 45,
-                "exercise_block": "EXERCICE 5.3",
-                "question_number": "1",
-                "question_text": "Elle a des dettes.",
-                "hints": null,
-                "answer": "a"
-            },
-            {
-                "page": 45,
-                "exercise_block": "EXERCICE 5.3",
-                "question_number": "2",
-                "question_text": "Elle n'est pas morte.",
-                "hints": null,
-                "answer": "a"
-            },
-            {
-                "page": 45,
-                "exercise_block": "EXERCICE 5.3",
-                "question_number": "3",
-                "question_text": "Elle va peut-être voyager.",
-                "hints": null,
-                "answer": "b"
-            },
-            {
-                "page": 45,
-                "exercise_block": "EXERCICE 5.3",
-                "question_number": "4",
-                "question_text": "Elle a des invités.",
-                "hints": null,
-                "answer": "c"
-            },
-            {
-                "page": 45,
-                "exercise_block": "EXERCICE 5.3",
-                "question_number": "5",
-                "question_text": "Elle hésite encore.",
-                "hints": null,
-                "answer": "b"
-            },
-            {
-                "page": 45,
-                "exercise_block": "EXERCICE 5.3",
-                "question_number": "a",
-                "question_text": "Elle doit la vie à son médecin.",
-                "hints": null,
-                "answer": "Elle doit la vie à son médecin."
-            },
-            {
-                "page": 45,
-                "exercise_block": "EXERCICE 5.3",
-                "question_number": "b",
-                "question_text": "Elle doit être prudente.",
-                "hints": null,
-                "answer": "Elle doit être prudente."
-            },
-            {
-                "page": 45,
-                "exercise_block": "EXERCICE 5.3",
-                "question_number": "c",
-                "question_text": "Elle doit faire la cuisine.",
-                "hints": null,
-                "answer": "Elle doit faire la cuisine."
-            },
-            {
-                "page": 45,
-                "exercise_block": "EXERCICE 5.3",
-                "question_number": "d",
-                "question_text": "Elle doit partir en vacances.",
-                "hints": null,
-                "answer": "Elle doit partir en vacances."
-            },
-            {
-                "page": 45,
-                "exercise_block": "EXERCICE 5.3",
-                "question_number": "e",
-                "question_text": "Elle doit de l'argent.",
-                "hints": null,
-                "answer": "Elle doit de l'argent."
-            }
-        ]
-    },
-    {
-        "page": 60,
-        "data": [
-            {
-                "page": 46,
-                "exercise_block": "Il y a (there is, there are)",
-                "question_number": null,
-                "question_text": "Il y a un chat sur le canapé. Il n'y a plus rien dans le frigo.",
-                "hints": null,
-                "answer": "Il y a un chat sur le canapé. Il n'y a plus rien dans le frigo."
-            },
-            {
-                "page": 46,
-                "exercise_block": "Il y a (there is, there are)",
-                "question_number": null,
-                "question_text": "Qu'est-ce qu'il y a? Il n'y a qu'à leur dire. Il y avait une fois... Il y a cinquante kilomètres d'ici à Paris. Il y en a qui feraient mieux de se taire.",
-                "hints": null,
-                "answer": "Qu'est-ce qu'il y a? Il n'y a rien. Il y avait une fois... Il y a cinquante kilomètres d'ici à Paris. Il y en a qui feraient mieux de se taire."
-            },
-            {
-                "page": 46,
-                "exercise_block": "Il s'agit de (it is a matter of, it's about)",
-                "question_number": null,
-                "question_text": "De quoi s'agit-il? Dans ce film, il s'agit d'un crime. Dans ce roman, il s'agit d'une princesse. Il s'agit de ton avenir. Il ne s'agit pas de plaisanter. Il s'agit de faire vite. Il ne s'agit pas de dettes. Il s'agit d'amour.",
-                "hints": null,
-                "answer": "De quoi s'agit-il? Dans ce film, il s'agit d'un crime. Dans ce roman, il s'agit d'une princesse. Il s'agit de ton avenir. Il ne s'agit pas de plaisanter. Il s'agit de faire vite. Il ne s'agit pas de dettes. Il s'agit d'amour."
-            },
-            {
-                "page": 46,
-                "exercise_block": "Verbs ending in -eindre and -aindre",
-                "question_number": null,
-                "question_text": "je peins tu peins il/elle peint",
-                "hints": null,
-                "answer": "je peins tu peins il/elle peint"
-            },
-            {
-                "page": 46,
-                "exercise_block": "Verbs ending in -eindre and -aindre",
-                "question_number": null,
-                "question_text": "Le peintre peint le plafond de l'opéra. Vous peignez un tableau abstrait.",
-                "hints": null,
-                "answer": "Le peintre peint le plafond de l'opéra. Vous peignez un tableau abstrait."
-            },
-            {
-                "page": 46,
-                "exercise_block": "Verbs ending in -eindre and -aindre",
-                "question_number": null,
-                "question_text": "je crains tu crains il/elle craint",
-                "hints": null,
-                "answer": "je crains que tu crains qu'il/elle craint"
-            },
-            {
-                "page": 46,
-                "exercise_block": "Verbs ending in -eindre and -aindre",
-                "question_number": null,
-                "question_text": "Ils craignent le pire. Il ne craint pas la douleur.",
-                "hints": null,
-                "answer": "Ils craignent le pire. Il ne craint pas la douleur."
+                "exercise_block": "Exercice 5.3",
+                "question_number": "1-5",
+                "question_text": "Associez chaque situation à la phrase correspondante avec le verbe « devoir » :\n\n1. ___ Elle a des dettes.\n2. ___ Elle n’est pas morte.\n3. ___ Elle va peut-être voyager.\n4. ___ Elle a des invités.\n5. ___ Elle hésite encore.",
+                "options": [],
+                "hints": "💡 Options disponibles :\na. Elle doit la vie à son médecin.\nb. Elle doit être prudente.\nc. Elle doit faire la cuisine.\nd. Elle doit partir en vacances.\ne. Elle doit de l’argent.\n\n📌 Point de grammaire (Les sens du verbe « devoir ») :\n- Devoir + nom = avoir une dette envers quelqu'un (ex: devoir de l'argent, devoir la vie).\n- Devoir + infinitif = exprimer une obligation (ex: devoir faire la cuisine) ou une probabilité/supposition (ex: elle doit partir en vacances).",
+                "answer": "1.e, 2.a, 3.d, 4.c, 5.b"
             }
         ]
     },
@@ -3711,84 +3408,84 @@
         "page": 61,
         "data": [
             {
-                "page": 47,
-                "exercise_block": "EXERCICE 5.4",
+                "exercise_block": "Exercice 5.4",
                 "question_number": "1",
-                "question_text": "Elle (craindre) ___ de profonds changements.",
-                "hints": "craindre",
+                "question_text": "Elle ___ (craindre) de profonds changements.",
+                "options": [],
+                "hints": "💡 Conjugaison des verbes en -indre (craindre) : je crains, tu crains, il/elle craint, nous craignons, vous craignez, ils/elles craignent.",
                 "answer": "craint"
             },
             {
-                "page": 47,
-                "exercise_block": "EXERCICE 5.4",
+                "exercise_block": "Exercice 5.4",
                 "question_number": "2",
-                "question_text": "Il (feindre) ___ la tristesse.",
-                "hints": "feindre",
+                "question_text": "Il ___ (feindre) la tristesse.",
+                "options": [],
+                "hints": "💡 Conjugaison des verbes en -indre (feindre) : au singulier (il), on remplace -dre par -t.",
                 "answer": "feint"
             },
             {
-                "page": 47,
-                "exercise_block": "EXERCICE 5.4",
+                "exercise_block": "Exercice 5.4",
                 "question_number": "3",
-                "question_text": "Ils (plaindre) ___ la pauvre femme.",
-                "hints": "plaindre",
-                "answer": "plaigent"
+                "question_text": "Ils ___ (plaindre) la pauvre femme.",
+                "options": [],
+                "hints": "💡 Conjugaison des verbes en -indre (plaindre) : au pluriel (ils), le 'nd' se transforme en 'gn'.",
+                "answer": "plaignent"
             },
             {
-                "page": 47,
-                "exercise_block": "EXERCICE 5.4",
+                "exercise_block": "Exercice 5.4",
                 "question_number": "4",
-                "question_text": "La muraille (ceindre) ___ la ville.",
-                "hints": "ceindre",
+                "question_text": "La muraille ___ (ceindre) la ville.",
+                "options": [],
+                "hints": "💡 Conjugaison (ceindre) : La muraille = elle (singulier), donc la terminaison est -t.",
+                "answer": "ceint"
+            },
+            {
+                "exercise_block": "Exercice 5.4",
+                "question_number": "5",
+                "question_text": "Vous ___ (feindre) l’indifférence.",
+                "options": [],
+                "hints": "💡 Conjugaison des verbes en -indre : au pluriel avec vous, on utilise 'gn' -> feignez.",
                 "answer": "feignez"
             },
             {
-                "page": 47,
-                "exercise_block": "EXERCICE 5.4",
-                "question_number": "5",
-                "question_text": "Vous (feindre) ___ l'indifférence.",
-                "hints": "feindre",
+                "exercise_block": "Exercice 5.4",
+                "question_number": "6",
+                "question_text": "Nous ___ (craindre) le ridicule.",
+                "options": [],
+                "hints": "💡 Conjugaison (craindre) avec nous : on utilise la racine en 'gn' -> craignons.",
                 "answer": "craignons"
             },
             {
-                "page": 47,
-                "exercise_block": "EXERCICE 5.4",
-                "question_number": "6",
-                "question_text": "Nous (craindre) ___ le ridicule.",
-                "hints": "craindre",
+                "exercise_block": "Exercice 5.4",
+                "question_number": "7",
+                "question_text": "Vous ___ (peindre) le mur en bleu.",
+                "options": [],
+                "hints": "💡 Conjugaison (peindre) avec vous : la terminaison est -ez après le 'gn'.",
                 "answer": "peignez"
             },
             {
-                "page": 47,
-                "exercise_block": "EXERCICE 5.4",
-                "question_number": "7",
-                "question_text": "Vous (peindre) ___ le mur en bleu.",
-                "hints": "peindre",
+                "exercise_block": "Exercice 5.4",
+                "question_number": "8",
+                "question_text": "Ils ___ (craindre) le froid.",
+                "options": [],
+                "hints": "💡 Conjugaison (craindre) au pluriel : ils craignent.",
                 "answer": "craignent"
             },
             {
-                "page": 47,
-                "exercise_block": "EXERCICE 5.4",
-                "question_number": "8",
-                "question_text": "Ils (craindre) ___ le froid.",
-                "hints": "craindre",
-                "answer": "se plaint"
-            },
-            {
-                "page": 47,
-                "exercise_block": "EXERCICE 5.4",
+                "exercise_block": "Exercice 5.4",
                 "question_number": "9",
-                "question_text": "Elle (teindre) ___ en blond les moustaches de l'acteur.",
-                "hints": "teindre",
-                "answer": "Elle teint en blond les moustaches de l'acteur."
+                "question_text": "Elle ___ (teindre) en blond les moustaches de l’acteur.",
+                "options": [],
+                "hints": "💡 Conjugaison (teindre) au singulier : elle teint.",
+                "answer": "teint"
             },
             {
-                "page": 47,
-                "exercise_block": "EXERCICE 5.4",
+                "exercise_block": "Exercice 5.4",
                 "question_number": "10",
-                "question_text": "Elle (se plaindre) ___ tout le temps.",
-                "hints": "se plaindre",
-                "answer": "Elle se plaint tout le temps."
+                "question_text": "Elle ___ (se plaindre) tout le temps.",
+                "options": [],
+                "hints": "💡 Verbe pronominal (se plaindre) : comme plaindre, au singulier cela donne 'se plaint'.",
+                "answer": "se plaint"
             },
             {
                 "page": 47,
@@ -3845,145 +3542,35 @@
                 "question_text": "There are books on the table.",
                 "hints": null,
                 "answer": "Il y a des livres sur la table."
+            },{
+                "exercise_block": "Exercice 5.5",
+                "question_number": "8",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nIs there a computer?",
+                "options": [],
+                "hints": "💡 提示：表达“有...吗？”或者“是否存在...？”时，法语常用句型是「Est-ce qu'il y a... ?」。",
+                "answer": "Est-ce qu’il y a un ordinateur?"
+            },
+            {
+                "exercise_block": "Exercice 5.5",
+                "question_number": "9",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nAre you painting the flowers?",
+                "options": [],
+                "hints": "💡 提示：这里考查带有「Est-ce que」的疑问句，以及动词 peindre（画）的变位：tu peins。",
+                "answer": "Est-ce que tu peins les fleurs?"
+            },
+            {
+                "exercise_block": "Exercice 5.5",
+                "question_number": "10",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nIt’s a matter of passion.",
+                "options": [],
+                "hints": "💡 提示：表达“关于...”、“涉及...”或“这是一个...的问题”时，法语中有一个非常经典的高频无人称短语：「Il s'agit de...」。",
+                "answer": "Il s’agit de passion."
             }
         ]
     },
     {
         "page": 62,
         "data": []
-    },
-    {
-        "page": 63,
-        "data": [
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "1",
-                "question_text": "je me lève",
-                "hints": null,
-                "answer": "je me lève"
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "2",
-                "question_text": "tu te lèves",
-                "hints": null,
-                "answer": "tu t'élèves"
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "3",
-                "question_text": "il/elle se lève",
-                "hints": null,
-                "answer": "il se lève\nelle se lève"
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "4",
-                "question_text": "nous nous levons",
-                "hints": null,
-                "answer": "nous nous levons"
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "5",
-                "question_text": "vous vous levez",
-                "hints": null,
-                "answer": "vous vous levez"
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "6",
-                "question_text": "ils/elles se lèvent",
-                "hints": null,
-                "answer": "ils se lèvent"
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "7",
-                "question_text": "Il se lève à sept heures.",
-                "hints": null,
-                "answer": "Il se lève à sept heures."
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "8",
-                "question_text": "Je me couche à onze heures.",
-                "hints": null,
-                "answer": "Je me couche à onze heures."
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "9",
-                "question_text": "Il s'assoit sur un banc.",
-                "hints": null,
-                "answer": "Il s'assoit sur un banc."
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "10",
-                "question_text": "Elle ne se réveille pas avant huit heures.",
-                "hints": null,
-                "answer": "Elle ne se réveille pas avant huit heures."
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "11",
-                "question_text": "Tu ne te reposes pas assez.",
-                "hints": null,
-                "answer": "Tu ne te reposes pas assez."
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "12",
-                "question_text": "Se rase-t-il tous les matins?",
-                "hints": null,
-                "answer": "Se ras-il tous les matins?"
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "13",
-                "question_text": "S'occupent-elles de ce dossier?",
-                "hints": null,
-                "answer": "S'occupent-elles de ce dossier?"
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "14",
-                "question_text": "Vous maquillez-vous pour monter sur scène?",
-                "hints": null,
-                "answer": "Vous vous maquillez-vous pour monter sur scène?"
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "15",
-                "question_text": "Est-ce que vous vous préparez à partir?",
-                "hints": null,
-                "answer": "Est-ce que vous vous préparez à partir ?"
-            },
-            {
-                "page": 49,
-                "exercise_block": "Reflexive verbs",
-                "question_number": "16",
-                "question_text": "Est-ce que tu t'habilles pour la soirée?",
-                "hints": null,
-                "answer": "Est-ce que tu t'habilles pour la soirée ?"
-            }
-        ]
     },
     {
         "page": 64,
