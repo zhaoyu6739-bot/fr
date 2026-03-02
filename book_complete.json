@@ -2065,36 +2065,84 @@
         "page": 42,
         "data": [
             {
-                "page": 28,
-                "exercise_block": "3.6",
+                "exercise_block": "Exercice 3.6",
                 "question_number": "1",
-                "question_text": "Est-ce que vous (savoir) ___ jouer au poker?",
-                "hints": "savoir",
+                "question_text": "Est-ce que vous ___ (savoir) jouer au poker ?",
+                "options": [],
+                "hints": "💡 考查 savoir 的变位：vous savez",
                 "answer": "savez"
             },
             {
-                "page": 28,
-                "exercise_block": "3.6",
+                "exercise_block": "Exercice 3.6",
                 "question_number": "2",
-                "question_text": "Je (savoir) ___ que Laurent est un bon musicien.",
-                "hints": "savoir",
+                "question_text": "Je ___ (savoir) que Laurent est un bon musicien.",
+                "options": [],
+                "hints": "💡 考查 savoir 的变位：je sais",
                 "answer": "sais"
             },
             {
-                "page": 28,
-                "exercise_block": "3.6",
+                "exercise_block": "Exercice 3.6",
                 "question_number": "3",
-                "question_text": "Elle (ne pas savoir) ___ s'il travaille lundi.",
-                "hints": "ne pas savoir",
+                "question_text": "Elle ___ (ne pas savoir) s'il travaille lundi.",
+                "options": [],
+                "hints": "💡 考查 savoir 的变位及否定形式：elle ne sait pas",
                 "answer": "ne sait pas"
             },
             {
-                "page": 28,
-                "exercise_block": "3.6",
+                "exercise_block": "Exercice 3.6",
                 "question_number": "4",
-                "question_text": "Nous (savoir) ___ utiliser cet ordinateur.",
-                "hints": "savoir",
+                "question_text": "Nous ___ (savoir) utiliser cet ordinateur.",
+                "options": [],
+                "hints": "💡 考查 savoir 的变位：nous savons",
                 "answer": "savons"
+            },
+            {
+                "exercise_block": "Exercice 3.6",
+                "question_number": "5",
+                "question_text": "Tu ___ (savoir) parler espagnol ?",
+                "options": [],
+                "hints": "💡 考查 savoir 的变位：tu sais",
+                "answer": "sais"
+            },
+            {
+                "exercise_block": "Exercice 3.6",
+                "question_number": "6",
+                "question_text": "Est-ce que tu ___ (savoir) parler anglais ?",
+                "options": [],
+                "hints": "💡 考查 savoir 的变位：tu sais",
+                "answer": "sais"
+            },
+            {
+                "exercise_block": "Exercice 3.6",
+                "question_number": "7",
+                "question_text": "Il ___ (ne pas savoir) faire la cuisine.",
+                "options": [],
+                "hints": "💡 考查 savoir 的变位及否定形式：il ne sait pas",
+                "answer": "ne sait pas"
+            },
+            {
+                "exercise_block": "Exercice 3.6",
+                "question_number": "8",
+                "question_text": "___ (Savoir)-vous quand ils partent ?",
+                "options": [],
+                "hints": "💡 考查 savoir 的变位及疑问句倒装：Savez-vous (注意首字母大写)",
+                "answer": "Savez"
+            },
+            {
+                "exercise_block": "Exercice 3.6",
+                "question_number": "9",
+                "question_text": "Tu ___ (savoir) si ce restaurant est cher ?",
+                "options": [],
+                "hints": "💡 考查 savoir 的变位：tu sais",
+                "answer": "sais"
+            },
+            {
+                "exercise_block": "Exercice 3.6",
+                "question_number": "10",
+                "question_text": "Vous ___ (savoir) où se trouve la Bastille ?",
+                "options": [],
+                "hints": "💡 考查 savoir 的变位：vous savez",
+                "answer": "savez"
             }
         ]
     },
@@ -10338,4 +10386,5 @@
     }
 
 ]
+
 
