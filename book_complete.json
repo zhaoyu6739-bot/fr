@@ -1,33 +1,5 @@
 [
     {
-        "page": 10,
-        "data": []
-    },
-    {
-        "page": 11,
-        "data": []
-    },
-    {
-        "page": 12,
-        "data": []
-    },
-    {
-        "page": 13,
-        "data": []
-    },
-    {
-        "page": 14,
-        "data": []
-    },
-    {
-        "page": 15,
-        "data": []
-    },
-    {
-        "page": 16,
-        "data": []
-    },
-    {
         "page": 17,
         "data": [
             {
@@ -1704,11 +1676,8 @@
             }
         ]
     },
-    {
-        "page": 39,
-        "data": [
             {
-                "page": 25,
+                "page": 39,
                 "data": [
                     {
                         "page": 11,
@@ -1837,9 +1806,7 @@
                         "question_text": "Le musée est ouvert?",
                         "hints": null,
                         "answer": "Oui, le musée est ouvert."
-                    }
-                ]
-            }
+                     }
         ]
     },
     {
@@ -3745,84 +3712,84 @@
         "page": 66,
         "data": [
             {
-                "page": 6,
-                "exercise_block": "EXERCICE 6.3",
+                "exercise_block": "Exercice 6.3",
                 "question_number": "1",
-                "question_text": "Elle (s'apercevoir) ___ de sa gaffe.",
-                "hints": null,
-                "answer": "s'apercevoir"
+                "question_text": "Elle ___ (s’apercevoir) de sa gaffe.",
+                "options": [],
+                "hints": "💡 考查代词式动词 s'apercevoir 的变位：elle s'aperçoit",
+                "answer": "s'aperçoit"
             },
             {
-                "page": 6,
-                "exercise_block": "EXERCICE 6.3",
+                "exercise_block": "Exercice 6.3",
                 "question_number": "2",
-                "question_text": "Ils (se dépêcher) ___ pour arriver à l'heure.",
-                "hints": null,
-                "answer": "se dépêcher"
+                "question_text": "Ils ___ (se dépêcher) pour arriver à l’heure.",
+                "options": [],
+                "hints": "💡 考查代词式动词 se dépêcher 的变位：ils se dépêchent",
+                "answer": "se dépêchent"
             },
             {
-                "page": 6,
-                "exercise_block": "EXERCICE 6.3",
+                "exercise_block": "Exercice 6.3",
                 "question_number": "3",
-                "question_text": "Tu (s'attendre) ___ à sa visite.",
-                "hints": null,
+                "question_text": "Tu ___ (s’attendre) à sa visite.",
+                "options": [],
+                "hints": "💡 考查代词式动词 s'attendre 的变位：tu t'attends",
                 "answer": "t'attends"
             },
             {
-                "page": 6,
-                "exercise_block": "EXERCICE 6.3",
+                "exercise_block": "Exercice 6.3",
                 "question_number": "4",
-                "question_text": "Qu'est-ce qui (se passer) ___?",
-                "hints": null,
+                "question_text": "Qu’est-ce qui ___ (se passer) ?",
+                "options": [],
+                "hints": "💡 考查代词式动词 se passer 的变位，主语是 qu'est-ce qui (第三人称单数)：il se passe",
                 "answer": "se passe"
             },
             {
-                "page": 6,
-                "exercise_block": "EXERCICE 6.3",
+                "exercise_block": "Exercice 6.3",
                 "question_number": "5",
-                "question_text": "Vous (se servir) ___ d'un nouvel appareil.",
-                "hints": null,
+                "question_text": "Vous ___ (se servir) d’un nouvel appareil.",
+                "options": [],
+                "hints": "💡 考查代词式动词 se servir 的变位：vous vous servez",
                 "answer": "vous servez"
             },
             {
-                "page": 6,
-                "exercise_block": "EXERCICE 6.3",
+                "exercise_block": "Exercice 6.3",
                 "question_number": "6",
-                "question_text": "Je (se rendre compte) ___ de mon erreur.",
-                "hints": null,
+                "question_text": "Je ___ (se rendre compte) de mon erreur.",
+                "options": [],
+                "hints": "💡 考查代词式动词 se rendre compte 的变位：je me rends compte",
                 "answer": "me rends compte"
             },
             {
-                "page": 6,
-                "exercise_block": "EXERCICE 6.3",
+                "exercise_block": "Exercice 6.3",
                 "question_number": "7",
-                "question_text": "Tu (se demander) ___ ce qui va se passer.",
-                "hints": null,
+                "question_text": "Tu ___ (se demander) ce qui va se passer.",
+                "options": [],
+                "hints": "💡 考查代词式动词 se demander 的变位：tu te demandes",
                 "answer": "te demandes"
             },
             {
-                "page": 6,
-                "exercise_block": "EXERCICE 6.3",
+                "exercise_block": "Exercice 6.3",
                 "question_number": "8",
-                "question_text": "Elle (se dépêcher) ___ car elle est en retard.",
-                "hints": null,
+                "question_text": "Elle ___ (se dépêcher) car elle est en retard.",
+                "options": [],
+                "hints": "💡 考查代词式动词 se dépêcher 的变位：elle se dépêche",
                 "answer": "se dépêche"
             },
             {
-                "page": 6,
-                "exercise_block": "EXERCICE 6.3",
+                "exercise_block": "Exercice 6.3",
                 "question_number": "9",
-                "question_text": "Tu (se tromper) ___ de chemin.",
-                "hints": null,
-                "answer": "s'envole"
+                "question_text": "Tu ___ (se tromper) de chemin.",
+                "options": [],
+                "hints": "💡 考查代词式动词 se tromper 的变位：tu te trompes",
+                "answer": "te trompes"
             },
             {
-                "page": 6,
-                "exercise_block": "EXERCICE 6.3",
+                "exercise_block": "Exercice 6.3",
                 "question_number": "10",
-                "question_text": "L'oiseau (s'envoler) ___ dans le ciel.",
-                "hints": null,
-                "answer": "L'oiseau s'envole dans le ciel."
+                "question_text": "L’oiseau ___ (s’envoler) dans le ciel.",
+                "options": [],
+                "hints": "💡 考查代词式动词 s'envoler 的变位，主语是 l'oiseau (第三人称单数)：il s'envole",
+                "answer": "s'envole"
             }
         ]
     },
@@ -3910,44 +3877,12 @@
                 "answer": "nous plaindre"
             },
             {
-                "page": 53,
-                "exercise_block": "EXERCICE 6.5",
-                "question_number": "1",
-                "question_text": "Ils sont toujours ensemble.",
-                "hints": null,
-                "answer": "e"
-            },
-            {
-                "page": 53,
-                "exercise_block": "EXERCICE 6.5",
-                "question_number": "2",
-                "question_text": "Ils communiquent sans cesse.",
-                "hints": null,
-                "answer": "a"
-            },
-            {
-                "page": 53,
-                "exercise_block": "EXERCICE 6.5",
-                "question_number": "3",
-                "question_text": "Ils s'attendent au pire.",
-                "hints": null,
-                "answer": "d"
-            },
-            {
-                "page": 53,
-                "exercise_block": "EXERCICE 6.5",
-                "question_number": "4",
-                "question_text": "Ils se promènent.",
-                "hints": null,
-                "answer": "c"
-            },
-            {
-                "page": 53,
-                "exercise_block": "EXERCICE 6.5",
-                "question_number": "5",
-                "question_text": "Ils ne se parlent jamais.",
-                "hints": null,
-                "answer": "b"
+                "exercise_block": "Exercice 6.5",
+                "question_number": "1-5",
+                "question_text": "连线匹配题（请将 1-5 句与 a-e 的正确含义进行匹配）：\n\n1. ___ Ils sont toujours ensemble.\n2. ___ Ils communiquent sans cesse.\n3. ___ Ils s’attendent au pire.\n4. ___ Ils se promènent.\n5. ___ Ils ne se parlent jamais.",
+                "options": [],
+                "hints": "💡 备选项：\na. Ils s’écrivent. (他们互相写信)\nb. Ils se détestent. (他们互相讨厌)\nc. Ils aiment marcher. (他们喜欢散步)\nd. Ils sont pessimistes. (他们很悲观)\ne. Ils s’aiment. (他们相爱)\n\n📌 考点：理解代词式动词的相互意义 (sens réciproque) 以及根据上下文推断同义句。",
+                "answer": "1.e, 2.a, 3.d, 4.c, 5.b"
             },
             {
                 "page": 53,
@@ -3972,136 +3907,62 @@
                 "question_text": "She cuts her hair.",
                 "hints": null,
                 "answer": "Elle se coupe les cheveux."
-            }
-        ]
-    },
-    {
-        "page": 68,
-        "data": [
+            },
             {
-                "page": 54,
-                "exercise_block": "Grammar Exercises",
+                "exercise_block": "Exercice 6.6",
                 "question_number": "4",
-                "question_text": "Nous marchons dans le parc.",
-                "hints": null,
-                "answer": "Nous marchons dans le parc."
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nWe are walking in the park.",
+                "options": [],
+                "hints": "💡 提示：考查代词式动词 se promener (散步) 的变位：nous nous promenons。",
+                "answer": "Nous nous promenons dans le parc."
             },
             {
-                "page": 54,
-                "exercise_block": "Grammar Exercises",
+                "exercise_block": "Exercice 6.6",
                 "question_number": "5",
-                "question_text": "Ils se reposent parce que leurs jambes sont fatiguées.",
-                "hints": null,
-                "answer": "Ils se reposent parce que leurs jambes sont fatiguées."
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nThey rest because their legs are tired.",
+                "options": [],
+                "hints": "💡 提示：考查代词式动词 se reposer (休息)。",
+                "answer": "Ils (Elles) se reposent car leurs jambes sont fatiguées."
             },
             {
-                "page": 54,
-                "exercise_block": "Grammar Exercises",
+                "exercise_block": "Exercice 6.6",
                 "question_number": "6",
-                "question_text": "Il se rase.",
-                "hints": null,
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nHe is shaving.",
+                "options": [],
+                "hints": "💡 提示：考查代词式动词 se raser (刮胡子)。",
                 "answer": "Il se rase."
             },
             {
-                "page": 54,
-                "exercise_block": "Grammar Exercises",
+                "exercise_block": "Exercice 6.6",
                 "question_number": "7",
-                "question_text": "Ils viennent de se marier.",
-                "hints": null,
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nThey just got married.",
+                "options": [],
+                "hints": "💡 提示：考查代词式动词 se marier (结婚) 以及“刚刚做某事”的句型 (venir de + 动词原形)。",
                 "answer": "Ils viennent de se marier."
             },
             {
-                "page": 54,
-                "exercise_block": "Grammar Exercises",
+                "exercise_block": "Exercice 6.6",
                 "question_number": "8",
-                "question_text": "Ils s'écrivent.",
-                "hints": null,
-                "answer": "Ils s'écrivent."
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nThey write to each other.",
+                "options": [],
+                "hints": "💡 提示：考查代词式动词的相互意义 s'écrire (互相写信)。",
+                "answer": "Ils (Elles) s’écrivent."
             },
             {
-                "page": 54,
-                "exercise_block": "Grammar Exercises",
+                "exercise_block": "Exercice 6.6",
                 "question_number": "9",
-                "question_text": "Il est fatigué. Il s'assoit sur un banc.",
-                "hints": null,
-                "answer": "Il est fatigué. Il s'assoit sur un banc."
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nHe is tired. He sits on a bench.",
+                "options": [],
+                "hints": "💡 提示：考查代词式动词 s'asseoir (坐下) 的变位：il s'assoit (或 il s'assied)。",
+                "answer": "Il est fatigué. Il s’assoit sur un banc."
             },
             {
-                "page": 54,
-                "exercise_block": "Grammar Exercises",
+                "exercise_block": "Exercice 6.6",
                 "question_number": "10",
-                "question_text": "Ils s'aiment.",
-                "hints": null,
-                "answer": "Ils s'aiment."
-            }
-        ]
-    },
-    {
-        "page": 69,
-        "data": [
-            {
-                "page": 55,
-                "exercise_block": "The passé composé",
-                "question_number": "a",
-                "question_text": "Elle a pris une décision.",
-                "hints": "She made a decision. She has made a decision. She did make a decision.",
-                "answer": "Elle a prise une décision."
-            },
-            {
-                "page": 55,
-                "exercise_block": "The passé composé",
-                "question_number": null,
-                "question_text": "Il a vendu sa voiture.",
-                "hints": "He sold his car.",
-                "answer": "Il a vendu sa voiture."
-            },
-            {
-                "page": 55,
-                "exercise_block": "The passé composé",
-                "question_number": null,
-                "question_text": "Il n'a pas vendu sa voiture.",
-                "hints": "He did not sell his car.",
-                "answer": "Il n'a pas vendu sa voiture."
-            },
-            {
-                "page": 55,
-                "exercise_block": "The passé composé",
-                "question_number": null,
-                "question_text": "Ils ont dîné au restaurant.",
-                "hints": "They had dinner at the restaurant.",
-                "answer": "Ils ont dîné au restaurant."
-            },
-            {
-                "page": 55,
-                "exercise_block": "The passé composé",
-                "question_number": null,
-                "question_text": "Ils n'ont pas dîné au restaurant.",
-                "hints": "They did not have dinner at the restaurant.",
-                "answer": "Ils n'ont pas dîné au restaurant."
-            },
-            {
-                "page": 55,
-                "exercise_block": "The passé composé",
-                "question_number": null,
-                "question_text": "Vous avez aimé la pièce?",
-                "hints": "Did you like the play?",
-                "answer": "Vous avez aimé la pièce?"
-            },
-            {
-                "page": 55,
-                "exercise_block": "The passé composé",
-                "question_number": null,
-                "question_text": "Avez-vous aimé la pièce?",
-                "hints": "Did you like the play?",
-                "answer": "Avez-vous aimé la pièce?"
-            },
-            {
-                "page": 55,
-                "exercise_block": "The passé composé",
-                "question_number": null,
-                "question_text": "Est-ce que vous avez aimé la pièce?",
-                "hints": "Did you like the play?",
-                "answer": "Est-ce que vous avez aimé la pièce?"
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nThey love each other.",
+                "options": [],
+                "hints": "💡 提示：考查代词式动词的相互意义 s'aimer (相爱)。",
+                "answer": "Ils s’aiment."
             }
         ]
     },
@@ -4163,6 +4024,30 @@
                 "question_text": "Vous (louer) ___ une voiture?",
                 "hints": "louer",
                 "answer": "avez loué"
+            },
+            {
+                "exercise_block": "Exercice 7.1",
+                "question_number": "8",
+                "question_text": "Elle ___ (sous-titrer) le film.",
+                "options": [],
+                "hints": "💡 考查复合过去时 (Passé composé)。\n助动词 avoir (elle a) + 过去分词 sous-titré。",
+                "answer": "a sous-titré"
+            },
+            {
+                "exercise_block": "Exercice 7.1",
+                "question_number": "9",
+                "question_text": "Vous ___ (téléphoner) à vos cousins.",
+                "options": [],
+                "hints": "💡 考查复合过去时 (Passé composé)。\n助动词 avoir (vous avez) + 过去分词 téléphoné。",
+                "answer": "avez téléphoné"
+            },
+            {
+                "exercise_block": "Exercice 7.1",
+                "question_number": "10",
+                "question_text": "Tu ___ (assister) à la pièce de théâtre.",
+                "options": [],
+                "hints": "💡 考查复合过去时 (Passé composé)。\n助动词 avoir (tu as) + 过去分词 assisté。",
+                "answer": "as assisté"
             }
         ]
     },
@@ -4425,44 +4310,12 @@
         "page": 74,
         "data": [
             {
-                "page": 7,
-                "exercise_block": "EXERCICE 7.5",
-                "question_number": "1",
-                "question_text": "Elle a conduit ___",
-                "hints": null,
-                "answer": "est-il monté"
-            },
-            {
-                "page": 7,
-                "exercise_block": "EXERCICE 7.5",
-                "question_number": "2",
-                "question_text": "Tu as compris ___",
-                "hints": null,
-                "answer": "sommes rentré(e)s"
-            },
-            {
-                "page": 7,
-                "exercise_block": "EXERCICE 7.5",
-                "question_number": "3",
-                "question_text": "Vous avez lu ___",
-                "hints": null,
-                "answer": "est tombée"
-            },
-            {
-                "page": 7,
-                "exercise_block": "EXERCICE 7.5",
-                "question_number": "4",
-                "question_text": "Il a eu ___",
-                "hints": null,
-                "answer": "sont descendus"
-            },
-            {
-                "page": 7,
-                "exercise_block": "EXERCICE 7.5",
-                "question_number": "5",
-                "question_text": "Nous avons fait ___",
-                "hints": null,
-                "answer": "sont revenues"
+                "exercise_block": "Exercice 7.5",
+                "question_number": "1-5",
+                "question_text": "连线匹配题（请将 1-5 句与 a-e 的正确宾语/状语进行匹配）：\n\n1. ___ Elle a conduit\n2. ___ Tu as compris\n3. ___ Vous avez lu\n4. ___ Il a eu\n5. ___ Nous avons fait",
+                "options": [],
+                "hints": "💡 备选项：\na. le journal (报纸)\nb. un accident (一场事故)\nc. une promenade (一次散步)\nd. les explications (解释)\ne. à toute vitesse (全速地)\n\n📌 考点：理解不同动词的复合过去时与宾语/状语的合理逻辑搭配。",
+                "answer": "1.e, 2.d, 3.a, 4.b, 5.c"
             }
         ]
     },
@@ -4475,7 +4328,7 @@
                 "question_number": "1",
                 "question_text": "À quel âge ce comédien ___ sur scène ?",
                 "hints": "monter",
-                "answer": "Elle a lu le journal."
+                "answer": "est-il monté 2.  3.  4.  5.  6.  7.  9. "
             },
             {
                 "page": 61,
@@ -4483,7 +4336,7 @@
                 "question_number": "2",
                 "question_text": "Nous ___ du théâtre à minuit.",
                 "hints": "rentrer",
-                "answer": "Nous sommes allé(e)s à Paris."
+                "answer": "sommes rentré(e)s"
             },
             {
                 "page": 61,
@@ -4491,7 +4344,7 @@
                 "question_number": "3",
                 "question_text": "La voiture ___ en panne près de Madrid.",
                 "hints": "tomber",
-                "answer": "Ils sont partis (Elles sont parties) hier soir."
+                "answer": "est tombée"
             },
             {
                 "page": 61,
@@ -4499,7 +4352,7 @@
                 "question_number": "4",
                 "question_text": "Ils ___ par l'escalier.",
                 "hints": "descendre",
-                "answer": "Il a dû partir à cinq heures."
+                "answer": "sont descendus."
             },
             {
                 "page": 61,
@@ -4507,7 +4360,7 @@
                 "question_number": "5",
                 "question_text": "Elles ___ de vacances mardi.",
                 "hints": "revenir",
-                "answer": "Ils (Elles) ont habité en Italie."
+                "answer": "sont revenues"
             },
             {
                 "page": 61,
@@ -4515,7 +4368,7 @@
                 "question_number": "6",
                 "question_text": "Quel jour ___ ?",
                 "hints": "partir",
-                "answer": "Zola est né en 1902."
+                "answer": "est-il parti"
             },
             {
                 "page": 61,
@@ -4523,7 +4376,7 @@
                 "question_number": "7",
                 "question_text": "Elle ___ à l'opéra hier soir.",
                 "hints": "aller",
-                "answer": "J’ai écrit une longue lettre."
+                "answer": "est allée"
             },
             {
                 "page": 61,
@@ -4531,7 +4384,7 @@
                 "question_number": "8",
                 "question_text": "Luc ___ au Mexique l'hiver dernier.",
                 "hints": "aller",
-                "answer": "Elle a peint le mur en blanc."
+                "answer": "est allé"
             },
             {
                 "page": 61,
@@ -4539,7 +4392,7 @@
                 "question_number": "9",
                 "question_text": "Molière ___ en 1673.",
                 "hints": "mourir",
-                "answer": "Elle est restée à la maison."
+                "answer": "est mort"
             },
             {
                 "page": 61,
@@ -4547,284 +4400,87 @@
                 "question_number": "10",
                 "question_text": "Le metteur en scène ___ dans les coulisses.",
                 "hints": "rester",
-                "answer": "Ils partent en vacances."
+                "answer": "est resté"
             },
             {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.7",
+                "exercise_block": "Exercice 7.7",
                 "question_number": "1",
-                "question_text": "She read the newspaper.",
-                "hints": null,
-                "answer": "sont promenés"
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nShe read the newspaper.",
+                "options": [],
+                "hints": "💡 提示：考查动词 lire 的复合过去时，助动词为 avoir，过去分词为 lu。",
+                "answer": "Elle a lu le journal."
             },
             {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.7",
+                "exercise_block": "Exercice 7.7",
                 "question_number": "2",
-                "question_text": "We went to Paris.",
-                "hints": null,
-                "answer": "s’est douté"
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nWe went to Paris.",
+                "options": [],
+                "hints": "💡 提示：考查动词 aller 的复合过去时，助动词为 être。注意主语 nous 的性数配合。",
+                "answer": "Nous sommes allé(e)s à Paris."
             },
             {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.7",
+                "exercise_block": "Exercice 7.7",
                 "question_number": "3",
-                "question_text": "They left last night.",
-                "hints": null,
-                "answer": "sont maquillées"
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nThey left last night.",
+                "options": [],
+                "hints": "💡 提示：考查动词 partir 的复合过去时，助动词为 être。需要进行性数配合。",
+                "answer": "Ils sont partis (Elles sont parties) hier soir."
             },
             {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.7",
+                "exercise_block": "Exercice 7.7",
                 "question_number": "4",
-                "question_text": "He had to leave at five o'clock.",
-                "hints": null,
-                "answer": "se sont écrit"
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nHe had to leave at five o’clock.",
+                "options": [],
+                "hints": "💡 提示：考查动词 devoir 的复合过去时，助动词为 avoir，过去分词为 dû。",
+                "answer": "Il a dû partir à cinq heures."
             },
             {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.7",
+                "exercise_block": "Exercice 7.7",
                 "question_number": "5",
-                "question_text": "They lived in Italy.",
-                "hints": null,
-                "answer": "nous sommes arrêté(e)s"
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nThey lived in Italy.",
+                "options": [],
+                "hints": "💡 提示：考查动词 habiter 的复合过去时，助动词为 avoir。",
+                "answer": "Ils (Elles) ont habité en Italie."
             },
             {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.7",
+                "exercise_block": "Exercice 7.7",
                 "question_number": "6",
-                "question_text": "Zola died in 1902.",
-                "hints": null,
-                "answer": "se sont occupés"
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nZola died in 1902.",
+                "options": [],
+                "hints": "💡 提示：考查动词 mourir 的复合过去时，助动词为 être，过去分词为 mort。",
+                "answer": "Zola est mort en 1902."
             },
             {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.7",
+                "exercise_block": "Exercice 7.7",
                 "question_number": "7",
-                "question_text": "I wrote a long letter.",
-                "hints": null,
-                "answer": "se sont baladées"
-            }
-        ]
-    },
-    {
-        "page": 76,
-        "data": [
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nI wrote a long letter.",
+                "options": [],
+                "hints": "💡 提示：考查动词 écrire 的复合过去时，助动词为 avoir，过去分词为 écrit。",
+                "answer": "J’ai écrit une longue lettre."
+            },
             {
-                "page": 62,
-                "exercise_block": "8.",
-                "question_number": null,
-                "question_text": "She has painted the wall white.",
-                "hints": null,
+                "exercise_block": "Exercice 7.7",
+                "question_number": "8",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nShe has painted the wall white.",
+                "options": [],
+                "hints": "💡 提示：考查动词 peindre 的复合过去时，助动词为 avoir，过去分词为 peint。",
                 "answer": "Elle a peint le mur en blanc."
             },
             {
-                "page": 62,
-                "exercise_block": "9.",
-                "question_number": null,
-                "question_text": "She stayed at home.",
-                "hints": null,
+                "exercise_block": "Exercice 7.7",
+                "question_number": "9",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nShe stayed at home.",
+                "options": [],
+                "hints": "💡 提示：考查动词 rester 的复合过去时，助动词为 être。主语为 elle，需加 e 配合。",
                 "answer": "Elle est restée à la maison."
             },
             {
-                "page": 62,
-                "exercise_block": "10.",
-                "question_number": null,
-                "question_text": "He took some vacation.",
-                "hints": null,
-                "answer": "Il a pris一些时间休息。"
-            },
-            {
-                "page": 62,
-                "exercise_block": "Proniminal verbs in the passé composé",
-                "question_number": null,
-                "question_text": "As we mentioned earlier, all pronominal verbs are conjugated with être. The reflexive pronouns precede the auxiliary verb (être). In most cases, the past participle agrees in gender and number with the subject of the pronominal verb.",
-                "hints": null,
-                "answer": "Comme nous l'avons mentionné plus tôt, tous les verbes pronominaux sont conjugués avec être. Les pronominaux réfléchis précèdent l'auxiliaire (être). Dans la plupart des cas, le participe passé s'accorde en genre et en nombre avec le sujet du verbe pronominal."
-            },
-            {
-                "page": 62,
-                "exercise_block": "se réveiller to wake up",
-                "question_number": null,
-                "question_text": "je me suis réveillé(e) ___",
-                "hints": null,
-                "answer": "je me suis réveillé(e) ce matin"
-            },
-            {
-                "page": 62,
-                "exercise_block": "se réveiller to wake up",
-                "question_number": null,
-                "question_text": "tu t'es réveillé(e) ___",
-                "hints": null,
-                "answer": "tu t'es réveillé(e) ce matin"
-            },
-            {
-                "page": 62,
-                "exercise_block": "se réveiller to wake up",
-                "question_number": null,
-                "question_text": "il/elle s'est réveillé(e) ___",
-                "hints": null,
-                "answer": "il/elle s'est réveillé(e) ce matin"
-            },
-            {
-                "page": 62,
-                "exercise_block": "se réveiller to wake up",
-                "question_number": null,
-                "question_text": "nous nous sommes réveillé(e)s ___",
-                "hints": null,
-                "answer": "tard"
-            },
-            {
-                "page": 62,
-                "exercise_block": "se réveiller to wake up",
-                "question_number": null,
-                "question_text": "vous vous êtes réveillé(e)(s) ___",
-                "hints": null,
-                "answer": "à"
-            },
-            {
-                "page": 62,
-                "exercise_block": "se réveiller to wake up",
-                "question_number": null,
-                "question_text": "ils/elles se sont réveillé(e)s ___",
-                "hints": null,
-                "answer": "ils/elles se sont réveillé(e)s ce matin"
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Elle s'est promenée sur la plage.",
-                "hints": null,
-                "answer": "Elle s'est promenée sur la plage."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Ils se sont ennuyés à la réception.",
-                "hints": null,
-                "answer": "Ils se sont ennuyés à la réception."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Il s'est évanoui à cause de la chaleur.",
-                "hints": null,
-                "answer": "Il s'est évanoui à cause de la chaleur."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "In the negative, the negation is placed around the auxiliary verb être.",
-                "hints": null,
-                "answer": "Dans le négatif, la négation est placée autour de l'auxiliaire verb être."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Ils ne se sont pas couchés de bonne heure.",
-                "hints": null,
-                "answer": "Ils ne se sont pas couchés tôt."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Elle ne s'est pas promenée le long du canal.",
-                "hints": null,
-                "answer": "Elle ne s'est pas promenée le long du canal."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "In the interrogative form, the reflexive pronoun is placed before être.",
-                "hints": null,
-                "answer": "Dans la forme interrogative, le pronom réfléchi est placé avant être."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "S'est-il rendu compte de son erreur?",
-                "hints": null,
-                "answer": "S'est-il rendu compte de son erreur?"
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Vous êtes-vous bien amusés à la fête?",
-                "hints": null,
-                "answer": "Vous vous êtes bien amusés à la fête?"
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Note that the past participle does not agree with the subject of the pronominal verb when the verb is followed by a direct object or by another verb.",
-                "hints": null,
-                "answer": "Note que le participe passé ne concorde pas avec le sujet du verbe pronominal lorsque le verbe est suivi d'un complément direct ou d'un autre verbe."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Elle s'est offert une nouvelle moto.",
-                "hints": null,
-                "answer": "Elle s'est offert une nouvelle moto."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Elle s'est coupé les ongles.",
-                "hints": null,
-                "answer": "Elle s'est coupé les ongles."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Elle s'est fait arracher une dent.",
-                "hints": null,
-                "answer": "Elle s'est fait arracher une dent."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "When reciprocal verbs take a direct object, the past participle agrees with the subject.",
-                "hints": null,
-                "answer": "Lorsque les verbes réciproques prennent un complément direct, le participe passé s'accorde avec le sujet."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Ils se sont rencontrés à Venise.",
-                "hints": null,
-                "answer": "Ils se sont rencontrés à Venise."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Ils se sont embrassés.",
-                "hints": null,
-                "answer": "Ils se sont embrassés."
-            },
-            {
-                "page": 62,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Ils se sont mariés en mars.",
-                "hints": null,
-                "answer": "Ils se sont mariés en mars."
+                "exercise_block": "Exercice 7.7",
+                "question_number": "10",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nHe took some vacation.",
+                "options": [],
+                "hints": "💡 提示：考查动词 prendre 的复合过去时，助动词为 avoir，过去分词为 pris。",
+                "answer": "Il a pris des vacances."
             }
         ]
     },
@@ -4832,84 +4488,84 @@
         "page": 77,
         "data": [
             {
-                "page": 63,
-                "exercise_block": "EXERCICE 7.8",
+                "exercise_block": "Exercice 7.8",
                 "question_number": "1",
-                "question_text": "Ils (se promener) ___ le long de la rivière.",
-                "hints": "se promener",
-                "answer": "voyageait"
+                "question_text": "Ils ___ (se promener) le long de la rivière.",
+                "options": [],
+                "hints": "💡 提示：代词式动词复合过去时助动词用 être。主语 ils 是阳性复数，过去分词加 s。变位：se sont promenés。",
+                "answer": "se sont promenés"
             },
             {
-                "page": 63,
-                "exercise_block": "EXERCICE 7.8",
+                "exercise_block": "Exercice 7.8",
                 "question_number": "2",
-                "question_text": "Il (se douter) ___ de quelque chose.",
-                "hints": "se douter",
-                "answer": "faisais"
+                "question_text": "Il ___ (se douter) de quelque chose.",
+                "options": [],
+                "hints": "💡 提示：主语 il 是阳性单数，过去分词无变化。变位：s’est douté。",
+                "answer": "s’est douté"
             },
             {
-                "page": 63,
-                "exercise_block": "EXERCICE 7.8",
+                "exercise_block": "Exercice 7.8",
                 "question_number": "3",
-                "question_text": "Elles (se maquiller) ___ pour aller au bal.",
-                "hints": "se maquiller",
-                "answer": "étions"
+                "question_text": "Elles ___ (se maquiller) pour aller au bal.",
+                "options": [],
+                "hints": "💡 提示：主语 elles 是阴性复数，过去分词配合加 es。变位：se sont maquillées。",
+                "answer": "se sont maquillées"
             },
             {
-                "page": 63,
-                "exercise_block": "EXERCICE 7.8",
+                "exercise_block": "Exercice 7.8",
                 "question_number": "4",
-                "question_text": "Ils (s'écrire) ___ régulièrement.",
-                "hints": "s'écrire",
-                "answer": "buvaient"
+                "question_text": "Ils ___ (s’écrire) régulièrement.",
+                "options": [],
+                "hints": "💡 提示：⚠️ 难点！s'écrire 的自反代词 se 是间接宾语（écrire à qqn），所以过去分词【不配合】！变位：se sont écrit。",
+                "answer": "se sont écrit"
             },
             {
-                "page": 63,
-                "exercise_block": "EXERCICE 7.8",
+                "exercise_block": "Exercice 7.8",
                 "question_number": "5",
-                "question_text": "Nous (s'arrêter) ___ au bord de la route.",
-                "hints": "s'arrêter",
-                "answer": "j’étais"
+                "question_text": "Nous ___ (s’arrêter) au bord de la route.",
+                "options": [],
+                "hints": "💡 提示：主语 nous，过去分词需要配合（根据说话人性别加 s 或 es）。变位：nous sommes arrêté(e)s。",
+                "answer": "nous sommes arrêté(e)s"
             },
             {
-                "page": 63,
-                "exercise_block": "EXERCICE 7.8",
+                "exercise_block": "Exercice 7.8",
                 "question_number": "6",
-                "question_text": "Ils (s'occuper) ___ de tout.",
-                "hints": "s'occuper",
-                "answer": "aimions"
+                "question_text": "Ils ___ (s’occuper) de tout.",
+                "options": [],
+                "hints": "💡 提示：主语 ils 是阳性复数，过去分词配合加 s。变位：se sont occupés。",
+                "answer": "se sont occupés"
             },
             {
-                "page": 63,
-                "exercise_block": "EXERCICE 7.8",
+                "exercise_block": "Exercice 7.8",
                 "question_number": "7",
-                "question_text": "Elles (se balader) ___ à la campagne.",
-                "hints": "se balader",
-                "answer": "partageaient"
+                "question_text": "Elles ___ (se balader) à la campagne.",
+                "options": [],
+                "hints": "💡 提示：主语 elles 是阴性复数，过去分词配合加 es。变位：se sont baladées。",
+                "answer": "se sont baladées"
             },
             {
-                "page": 63,
-                "exercise_block": "EXERCICE 7.8",
+                "exercise_block": "Exercice 7.8",
                 "question_number": "8",
-                "question_text": "Ils (se rencontrer) ___ à une conférence.",
-                "hints": "se rencontrer",
-                "answer": "prenait"
+                "question_text": "Ils ___ (se rencontrer) à une conférence.",
+                "options": [],
+                "hints": "💡 提示：主语 ils，互相遇见，se 是直接宾语，过去分词配合加 s。变位：se sont rencontrés。",
+                "answer": "se sont rencontrés"
             },
             {
-                "page": 63,
-                "exercise_block": "EXERCICE 7.8",
+                "exercise_block": "Exercice 7.8",
                 "question_number": "9",
-                "question_text": "Tu (se couper) ___ le doigt.",
-                "hints": "se couper",
-                "answer": "encourageait"
+                "question_text": "Tu ___ (se couper) le doigt.",
+                "options": [],
+                "hints": "💡 提示：⚠️ 难点！后面有直接宾语 le doigt，此时自反代词 se 变成间接宾语，过去分词【不配合】！变位：t’es coupé。",
+                "answer": "t’es coupé"
             },
             {
-                "page": 63,
-                "exercise_block": "EXERCICE 7.8",
+                "exercise_block": "Exercice 7.8",
                 "question_number": "10",
-                "question_text": "Nous (se demander) ___ pourquoi il était absent.",
-                "hints": "se demander",
-                "answer": "alliez"
+                "question_text": "Nous ___ (se demander) pourquoi il était absent.",
+                "options": [],
+                "hints": "💡 提示：⚠️ 难点！se demander 的自反代词 se 是间接宾语（demander à qqn），过去分词【不配合】！变位：nous sommes demandé。",
+                "answer": "nous sommes demandé"
             }
         ]
     },
@@ -4917,281 +4573,12 @@
         "page": 78,
         "data": [
             {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.9",
-                "question_number": "1",
-                "question_text": "Elle a sorti ___",
-                "hints": null,
-                "answer": "e"
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.9",
-                "question_number": "2",
-                "question_text": "Il a retourné ___",
-                "hints": null,
-                "answer": "a"
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.9",
-                "question_number": "3",
-                "question_text": "Elle est rentrée ___",
-                "hints": null,
-                "answer": "d"
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.9",
-                "question_number": "4",
-                "question_text": "Je suis passée ___",
-                "hints": null,
-                "answer": "b"
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.9",
-                "question_number": "5",
-                "question_text": "Elle est retourné à Rome ___",
-                "hints": null,
-                "answer": "c"
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.9",
-                "question_number": "a",
-                "question_text": "___ le bifteck",
-                "hints": null,
-                "answer": "Servez-le bifteck"
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.10",
-                "question_number": "1",
-                "question_text": "They spent a month in China.",
-                "hints": null,
-                "answer": "Ils ont passé un mois en Chine."
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.10",
-                "question_number": "2",
-                "question_text": "She fainted.",
-                "hints": null,
-                "answer": "Elle s'est évanouie."
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.10",
-                "question_number": "3",
-                "question_text": "They kissed each other.",
-                "hints": null,
-                "answer": "Ils se sont embrassés."
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.10",
-                "question_number": "4",
-                "question_text": "They had fun at the party.",
-                "hints": null,
-                "answer": "Ils se sont amusés à la fête."
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.10",
-                "question_number": "5",
-                "question_text": "She took the suitcases down.",
-                "hints": null,
-                "answer": "Elle a descendu les valises."
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.10",
-                "question_number": "6",
-                "question_text": "He brushed his teeth.",
-                "hints": null,
-                "answer": "Il s'est brossé les dents."
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.10",
-                "question_number": "7",
-                "question_text": "He woke up tired.",
-                "hints": null,
-                "answer": "Il s'est réveillé fatigué."
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.10",
-                "question_number": "8",
-                "question_text": "They wrote each other regularly.",
-                "hints": null,
-                "answer": "Ils se sont écrit régulièrement."
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.10",
-                "question_number": "9",
-                "question_text": "Anna stopped for ten minutes.",
-                "hints": null,
-                "answer": "Anna s'est arrêtée pendant dix minutes."
-            },
-            {
-                "page": 64,
-                "exercise_block": "EXERCICE 7.10",
-                "question_number": "10",
-                "question_text": "He flipped the omelette.",
-                "hints": null,
-                "answer": "Il a retourné l'omelette."
-            }
-        ]
-    },
-    {
-        "page": 79,
-        "data": [
-            {
-                "page": 65,
-                "exercise_block": "parler to speak",
-                "question_number": null,
-                "question_text": "nous parlons ___",
-                "hints": null,
-                "answer": "nous parlons français"
-            },
-            {
-                "page": 65,
-                "exercise_block": "parler to speak",
-                "question_number": null,
-                "question_text": "je parlais ___",
-                "hints": null,
-                "answer": "je parlais avec"
-            },
-            {
-                "page": 65,
-                "exercise_block": "parler to speak",
-                "question_number": null,
-                "question_text": "tu parlais ___",
-                "hints": null,
-                "answer": "tu parlais du"
-            },
-            {
-                "page": 65,
-                "exercise_block": "parler to speak",
-                "question_number": null,
-                "question_text": "il/elle parlait ___",
-                "hints": null,
-                "answer": "il/elle parlait something"
-            },
-            {
-                "page": 65,
-                "exercise_block": "parler to speak",
-                "question_number": null,
-                "question_text": "nous parlions ___",
-                "hints": null,
-                "answer": "nous parlions du"
-            },
-            {
-                "page": 65,
-                "exercise_block": "parler to speak",
-                "question_number": null,
-                "question_text": "vous parliez ___",
-                "hints": null,
-                "answer": "vous parliez avec"
-            },
-            {
-                "page": 65,
-                "exercise_block": "parler to speak",
-                "question_number": null,
-                "question_text": "ils/elles parlaient ___",
-                "hints": null,
-                "answer": "ils/elles parlaient ensemble"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "j'encourageais ___",
-                "hints": null,
-                "answer": "j'encourageais quelqu'un"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "elle exigeait ___",
-                "hints": null,
-                "answer": "elle exigeait que"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "ils partageaient ___",
-                "hints": null,
-                "answer": "ils partageaient entre eux"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "il avançait ___",
-                "hints": null,
-                "answer": "il avançait lentement"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "elle remplaçait ___",
-                "hints": null,
-                "answer": "elle remplaçait par"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "elles annonçaient ___",
-                "hints": null,
-                "answer": "elles annonçaient des"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "nous nagiions ___",
-                "hints": null,
-                "answer": "nous nagions dans"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "nous protégions ___",
-                "hints": null,
-                "answer": "nous protégions nos"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "nous commencions ___",
-                "hints": null,
-                "answer": "nous commencions par"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "vous effaciez ___",
-                "hints": null,
-                "answer": "vous effaciez le"
-            },
-            {
-                "page": 65,
-                "exercise_block": null,
-                "question_number": null,
-                "question_text": "Elle faisait... ___",
-                "hints": null,
-                "answer": "Elle faisait... du shopping"
+                "exercise_block": "Exercice 7.9",
+                "question_number": "1-5",
+                "question_text": "Faites correspondre les deux colonnes (连线匹配题，请输入对应字母) :\n\n1. ___ Elle a sorti\n2. ___ Il a retourné\n3. ___ Elle est rentrée\n4. ___ Je suis passée\n5. ___ Elle est retournée à Rome",
+                "options": [],
+                "hints": "💡 Options (备选项) :\na. le bifteck (牛排)\nb. devant le boulanger (在面包店前)\nc. pour la cinquième fois (第五次)\nd. très tard (很晚)\ne. les chaises de jardin (花园的椅子)\n\n📌 考点：部分动词（如 sortir, retourner, rentrer, passer）作及物动词（后面跟直接宾语）时，用 avoir 作助动词；作不及物动词（表示位置移动）时，用 être 作助动词。注意用 être 时过去分词要与主语进行性数配合。",
+                "answer": "1.e, 2.a, 3.d, 4.b, 5.c"
             }
         ]
     },
@@ -5199,84 +4586,84 @@
         "page": 80,
         "data": [
             {
-                "page": 66,
-                "exercise_block": "EXERCICE 8.1",
+                "exercise_block": "Exercice 8.1",
                 "question_number": "1",
-                "question_text": "Il (voyager) ___ chaque année en Australie.",
-                "hints": "voyager",
-                "answer": "croyait"
+                "question_text": "Il ___ (voyager) chaque année en Australie.",
+                "options": [],
+                "hints": "💡 提示：考查 voyager 的未完成过去时（imparfait）。注意为了保持 g 的发音，要在 a 前面加 e：il voyageait。",
+                "answer": "voyageait"
             },
             {
-                "page": 66,
-                "exercise_block": "EXERCICE 8.1",
+                "exercise_block": "Exercice 8.1",
                 "question_number": "2",
-                "question_text": "Tu (faire) ___ du sport à l'école?",
-                "hints": "faire",
-                "answer": "j’étais"
+                "question_text": "Tu ___ (faire) du sport à l’école ?",
+                "options": [],
+                "hints": "💡 提示：考查 faire 的未完成过去时。词根为 fais-，变位：tu faisais。",
+                "answer": "faisais"
             },
             {
-                "page": 66,
-                "exercise_block": "EXERCICE 8.1",
+                "exercise_block": "Exercice 8.1",
                 "question_number": "3",
-                "question_text": "Nous (être) ___ enchantés de notre expédition.",
-                "hints": "être",
-                "answer": "pensait"
-            },
-            {
-                "page": 66,
-                "exercise_block": "EXERCICE 8.1",
-                "question_number": "4",
-                "question_text": "Ils (boire) ___ du café noir le matin.",
-                "hints": "boire",
-                "answer": "espérait"
-            },
-            {
-                "page": 66,
-                "exercise_block": "EXERCICE 8.1",
-                "question_number": "5",
-                "question_text": "Je (être) ___ champion de tennis.",
-                "hints": "être",
-                "answer": "avait"
-            },
-            {
-                "page": 66,
-                "exercise_block": "EXERCICE 8.1",
-                "question_number": "6",
-                "question_text": "Nous (aimer) ___ faire la cuisine.",
-                "hints": "aimer",
-                "answer": "savais"
-            },
-            {
-                "page": 66,
-                "exercise_block": "EXERCICE 8.1",
-                "question_number": "7",
-                "question_text": "Elles (partager) ___ une chambre à l'université.",
-                "hints": "partager",
+                "question_text": "Nous ___ (être) enchantés de notre expédition.",
+                "options": [],
+                "hints": "💡 提示：考查 être 的未完成过去时，这是唯一一个不规则词根的动词，词根为 ét-。变位：nous étions。",
                 "answer": "étions"
             },
             {
-                "page": 66,
-                "exercise_block": "EXERCICE 8.1",
+                "exercise_block": "Exercice 8.1",
+                "question_number": "4",
+                "question_text": "Ils ___ (boire) du café noir le matin.",
+                "options": [],
+                "hints": "💡 提示：考查 boire 的未完成过去时。由 nous buvons 得出词根 buv-。变位：ils buvaient。",
+                "answer": "buvaient"
+            },
+            {
+                "exercise_block": "Exercice 8.1",
+                "question_number": "5",
+                "question_text": "J'___ (être) champion de tennis.",
+                "options": [],
+                "hints": "💡 提示：考查 être 的未完成过去时。Je 遇到元音变成 J'。变位填 étais。",
+                "answer": "étais"
+            },
+            {
+                "exercise_block": "Exercice 8.1",
+                "question_number": "6",
+                "question_text": "Nous ___ (aimer) faire la cuisine.",
+                "options": [],
+                "hints": "💡 提示：考查 aimer 的未完成过去时。变位：nous aimions。",
+                "answer": "aimions"
+            },
+            {
+                "exercise_block": "Exercice 8.1",
+                "question_number": "7",
+                "question_text": "Elles ___ (partager) une chambre à l’université.",
+                "options": [],
+                "hints": "💡 提示：考查 partager 的未完成过去时。注意为了保持 g 的发音，要在 a 前加 e。变位：elles partageaient。",
+                "answer": "partageaient"
+            },
+            {
+                "exercise_block": "Exercice 8.1",
                 "question_number": "8",
-                "question_text": "Il (prendre) ___ toujours une semaine de vacances en février.",
-                "hints": "prendre",
-                "answer": "paraisiez"
+                "question_text": "Il ___ (prendre) toujours une semaine de vacances en février.",
+                "options": [],
+                "hints": "💡 提示：考查 prendre 的未完成过去时，由 nous prenons 得出词根 pren-。变位：il prenait。",
+                "answer": "prenait"
             },
             {
-                "page": 66,
-                "exercise_block": "EXERCICE 8.1",
+                "exercise_block": "Exercice 8.1",
                 "question_number": "9",
-                "question_text": "Le guide (encourager) ___ les marcheurs.",
-                "hints": "encourager",
-                "answer": "était"
+                "question_text": "Le guide ___ (encourager) les marcheurs.",
+                "options": [],
+                "hints": "💡 提示：考查 encourager 的未完成过去时，同样需要保留 g 后面的 e。变位：il encourageait。",
+                "answer": "encourageait"
             },
             {
-                "page": 66,
-                "exercise_block": "EXERCICE 8.1",
+                "exercise_block": "Exercice 8.1",
                 "question_number": "10",
-                "question_text": "Vous (aller) ___ au bord de la mer en été.",
-                "hints": "aller",
-                "answer": "faisait"
+                "question_text": "Vous ___ (aller) au bord de la mer en été.",
+                "options": [],
+                "hints": "💡 提示：考查 aller 的未完成过去时，词根为 all-。变位：vous alliez。",
+                "answer": "alliez"
             }
         ]
     },
@@ -5284,84 +4671,84 @@
         "page": 81,
         "data": [
             {
-                "page": 67,
-                "exercise_block": "EXERCICE 8.2",
+                "exercise_block": "Exercice 8.2",
                 "question_number": "1",
-                "question_text": "Il (croire) ___ que tu ne voulais pas venir.",
-                "hints": null,
-                "answer": "suivions"
+                "question_text": "Il ___ (croire) que tu ne voulais pas venir.",
+                "options": [],
+                "hints": "💡 提示：考查 croire 的未完成过去时。词根为 croy-。变位：il croyait。",
+                "answer": "croyait"
             },
             {
-                "page": 67,
-                "exercise_block": "EXERCICE 8.2",
+                "exercise_block": "Exercice 8.2",
                 "question_number": "2",
-                "question_text": "Je (être) ___ à la montagne.",
-                "hints": null,
-                "answer": "faisais"
+                "question_text": "J'___ (être) à la montagne.",
+                "options": [],
+                "hints": "💡 提示：考查 être 的未完成过去时。变位：J'étais。",
+                "answer": "étais"
             },
             {
-                "page": 67,
-                "exercise_block": "EXERCICE 8.2",
+                "exercise_block": "Exercice 8.2",
                 "question_number": "3",
-                "question_text": "Elle (penser) ___ à ses prochaines vacances.",
-                "hints": null,
+                "question_text": "Elle ___ (penser) à ses prochaines vacances.",
+                "options": [],
+                "hints": "💡 提示：考查第一组动词 penser 的未完成过去时。变位：elle pensait。",
+                "answer": "pensait"
+            },
+            {
+                "exercise_block": "Exercice 8.2",
+                "question_number": "4",
+                "question_text": "Ils ___ (espérer) un miracle.",
+                "options": [],
+                "hints": "💡 提示：考查 espérer 的未完成过去时。变位：ils espéraient。",
+                "answer": "espéraient"
+            },
+            {
+                "exercise_block": "Exercice 8.2",
+                "question_number": "5",
+                "question_text": "Elle ___ (avoir) très faim.",
+                "options": [],
+                "hints": "💡 提示：考查 avoir 的未完成过去时。词根为 av-。变位：elle avait。",
+                "answer": "avait"
+            },
+            {
+                "exercise_block": "Exercice 8.2",
+                "question_number": "6",
+                "question_text": "Je ___ (savoir) qu’il avait raison.",
+                "options": [],
+                "hints": "💡 提示：考查 savoir 的未完成过去时。词根为 sav-。变位：je savais。",
+                "answer": "savais"
+            },
+            {
+                "exercise_block": "Exercice 8.2",
+                "question_number": "7",
+                "question_text": "Nous ___ (être) réalistes.",
+                "options": [],
+                "hints": "💡 提示：考查 être 的未完成过去时。变位：nous étions。",
+                "answer": "étions"
+            },
+            {
+                "exercise_block": "Exercice 8.2",
+                "question_number": "8",
+                "question_text": "Vous ___ (paraître) sceptique.",
+                "options": [],
+                "hints": "💡 提示：考查 paraître 的未完成过去时。词根为 paraiss-。变位：vous paraissiez。",
+                "answer": "paraissiez"
+            },
+            {
+                "exercise_block": "Exercice 8.2",
+                "question_number": "9",
+                "question_text": "L’exposition ___ (être) fascinante.",
+                "options": [],
+                "hints": "💡 提示：考查 être 的未完成过去时（L'exposition = elle）。变位：était。",
                 "answer": "était"
             },
             {
-                "page": 67,
-                "exercise_block": "EXERCICE 8.2",
-                "question_number": "4",
-                "question_text": "Ils (espérer) ___ un miracle.",
-                "hints": null,
-                "answer": "faisions"
-            },
-            {
-                "page": 67,
-                "exercise_block": "EXERCICE 8.2",
-                "question_number": "5",
-                "question_text": "Elle (avoir) ___ très faim.",
-                "hints": null,
-                "answer": "habitait"
-            },
-            {
-                "page": 67,
-                "exercise_block": "EXERCICE 8.2",
-                "question_number": "6",
-                "question_text": "Je (savoir) ___ qu'il avait raison.",
-                "hints": null,
-                "answer": "buvaient"
-            },
-            {
-                "page": 67,
-                "exercise_block": "EXERCICE 8.2",
-                "question_number": "7",
-                "question_text": "Nous (être) ___ réalistes.",
-                "hints": null,
-                "answer": "assistaient"
-            },
-            {
-                "page": 67,
-                "exercise_block": "EXERCICE 8.2",
-                "question_number": "8",
-                "question_text": "Vous (paraître) ___ sceptique.",
-                "hints": null,
-                "answer": "faisait"
-            },
-            {
-                "page": 67,
-                "exercise_block": "EXERCICE 8.2",
-                "question_number": "9",
-                "question_text": "L'exposition (être) ___ fascinante.",
-                "hints": null,
-                "answer": "vous voyiez"
-            },
-            {
-                "page": 67,
-                "exercise_block": "EXERCICE 8.2",
+                "exercise_block": "Exercice 8.2",
                 "question_number": "10",
-                "question_text": "Il (faire) ___ un temps glacial.",
-                "hints": null,
-                "answer": "travaillait"
+                "question_text": "Il ___ (faire) un temps glacial.",
+                "options": [],
+                "hints": "💡 提示：考查 faire 的未完成过去时。词根为 fais-。变位：il faisait。",
+                "answer": "faisait"
             }
         ]
     },
@@ -5369,84 +4756,84 @@
         "page": 82,
         "data": [
             {
-                "page": 68,
-                "exercise_block": "8.3",
+                "exercise_block": "Exercice 8.3",
                 "question_number": "1",
-                "question_text": "Nous (suivre) ___ des cours de danse tous les mardis.",
-                "hints": "suivre",
+                "question_text": "Nous ___ (suivre) des cours de danse tous les mardis.",
+                "options": [],
+                "hints": "💡 提示：考查 suivre 的未完成过去时。词根为 suiv-（来自 nous suivons）。变位：nous suivions。",
+                "answer": "suivions"
+            },
+            {
+                "exercise_block": "Exercice 8.3",
+                "question_number": "2",
+                "question_text": "Je ___ (faire) de la natation tous les jours.",
+                "options": [],
+                "hints": "💡 提示：考查 faire 的未完成过去时。词根为 fais-。变位：je faisais。",
+                "answer": "faisais"
+            },
+            {
+                "exercise_block": "Exercice 8.3",
+                "question_number": "3",
+                "question_text": "La vie ___ (être) plus facile.",
+                "options": [],
+                "hints": "💡 提示：考查 être 的未完成过去时（La vie = elle）。变位：était。",
+                "answer": "était"
+            },
+            {
+                "exercise_block": "Exercice 8.3",
+                "question_number": "4",
+                "question_text": "Nous ___ (faire) la grasse matinée tous les dimanches.",
+                "options": [],
+                "hints": "💡 提示：考查 faire 的未完成过去时。词根为 fais-。变位：nous faisions。",
+                "answer": "faisions"
+            },
+            {
+                "exercise_block": "Exercice 8.3",
+                "question_number": "5",
+                "question_text": "À cette époque, ils ___ (habiter) en banlieue.",
+                "options": [],
+                "hints": "💡 提示：考查 habiter 的未完成过去时。变位：ils habitaient。",
+                "answer": "habitaient"
+            },
+            {
+                "exercise_block": "Exercice 8.3",
+                "question_number": "6",
+                "question_text": "Nous ___ (boire) du café.",
+                "options": [],
+                "hints": "💡 提示：考查 boire 的未完成过去时。词根为 buv-（来自 nous buvons）。变位：nous buvions。",
+                "answer": "buvions"
+            },
+            {
+                "exercise_block": "Exercice 8.3",
+                "question_number": "7",
+                "question_text": "Autrefois, ils ___ (assister) à tous les concerts.",
+                "options": [],
+                "hints": "💡 提示：考查 assister 的未完成过去时。变位：ils assistaient。",
+                "answer": "assistaient"
+            },
+            {
+                "exercise_block": "Exercice 8.3",
+                "question_number": "8",
+                "question_text": "Dans son enfance, elle ___ (faire) de l’équitation.",
+                "options": [],
+                "hints": "💡 提示：考查 faire 的未完成过去时。变位：elle faisait。",
                 "answer": "faisait"
             },
             {
-                "page": 68,
-                "exercise_block": "8.3",
-                "question_number": "2",
-                "question_text": "Je (faire) ___ de la natation tous les jours.",
-                "hints": "faire",
-                "answer": "dormais"
-            },
-            {
-                "page": 68,
-                "exercise_block": "8.3",
-                "question_number": "3",
-                "question_text": "La vie (être) ___ plus facile.",
-                "hints": "être",
-                "answer": "bavardais"
-            },
-            {
-                "page": 68,
-                "exercise_block": "8.3",
-                "question_number": "4",
-                "question_text": "Nous (faire) ___ la grasse matinée tous les dimanches.",
-                "hints": "faire",
-                "answer": "se reposait"
-            },
-            {
-                "page": 68,
-                "exercise_block": "8.3",
-                "question_number": "5",
-                "question_text": "À cette époque, ils (habiter) ___ en banlieue.",
-                "hints": "habiter",
-                "answer": "parliez"
-            },
-            {
-                "page": 68,
-                "exercise_block": "8.3",
-                "question_number": "6",
-                "question_text": "Nous (boire) ___ du café.",
-                "hints": "boire",
-                "answer": "étudiait"
-            },
-            {
-                "page": 68,
-                "exercise_block": "8.3",
-                "question_number": "7",
-                "question_text": "Autrefois, ils (assister) ___ à tous les concerts.",
-                "hints": "assister",
-                "answer": "dansait"
-            },
-            {
-                "page": 68,
-                "exercise_block": "8.3",
-                "question_number": "8",
-                "question_text": "Dans son enfance, elle (faire) ___ de l'équitation.",
-                "hints": "faire",
-                "answer": "réfléchissait"
-            },
-            {
-                "page": 68,
-                "exercise_block": "8.3",
+                "exercise_block": "Exercice 8.3",
                 "question_number": "9",
-                "question_text": "Dans le passé, vous (se voir) ___ plus souvent.",
-                "hints": "se voir",
-                "answer": "travaillait"
+                "question_text": "Dans le passé, vous ___ (se voir) plus souvent.",
+                "options": [],
+                "hints": "💡 提示：考查代词式动词 se voir 的未完成过去时。注意 vous 变位时会出现双 'i' (词根 voy- + 词尾 -iez)：vous vous voyiez。",
+                "answer": "vous voyiez"
             },
             {
-                "page": 68,
-                "exercise_block": "8.3",
+                "exercise_block": "Exercice 8.3",
                 "question_number": "10",
-                "question_text": "Elle (travailler) ___ chez Guerlain.",
-                "hints": "travailler",
-                "answer": "j’attendais"
+                "question_text": "Elle ___ (travailler) chez Guerlain.",
+                "options": [],
+                "hints": "💡 提示：考查 travailler 的未完成过去时。变位：elle travaillait。",
+                "answer": "travaillait"
             }
         ]
     },
@@ -5454,124 +4841,164 @@
         "page": 83,
         "data": [
             {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.4",
+                "exercise_block": "Exercice 8.4",
                 "question_number": "1",
-                "question_text": "Il ___ (faire) un discours quand quelqu'un dans l'assistance l'a interrompu.",
-                "hints": "faire",
+                "question_text": "Il ___ (faire) un discours quand quelqu’un dans l’assistance l’a interrompu.",
+                "options": [],
+                "hints": "💡 提示：考查 faire 的未完成过去时（表示背景动作）。变位：il faisait。",
+                "answer": "faisait"
+            },
+            {
+                "exercise_block": "Exercice 8.4",
+                "question_number": "2",
+                "question_text": "Je ___ (dormir) quand le chat a sauté sur mon lit.",
+                "options": [],
+                "hints": "💡 提示：考查 dormir 的未完成过去时。词根为 dorm-（来自 nous dormons）。变位：je dormais。",
+                "answer": "dormais"
+            },
+            {
+                "exercise_block": "Exercice 8.4",
+                "question_number": "3",
+                "question_text": "Nous ___ (bavarder) depuis une heure quand il est arrivé.",
+                "options": [],
+                "hints": "💡 提示：考查 bavarder (闲聊) 的未完成过去时。变位：nous bavardions。",
+                "answer": "bavardions"
+            },
+            {
+                "exercise_block": "Exercice 8.4",
+                "question_number": "4",
+                "question_text": "Ils ___ (se reposer) quand une alarme a retenti.",
+                "options": [],
+                "hints": "💡 提示：考查代词式动词 se reposer 的未完成过去时。变位：ils se reposaient。",
+                "answer": "se reposaient"
+            },
+            {
+                "exercise_block": "Exercice 8.4",
+                "question_number": "5",
+                "question_text": "Vous ___ (parler) depuis un moment quand soudain il s’est levé.",
+                "options": [],
+                "hints": "💡 提示：考查 parler 的未完成过去时。变位：vous parliez。",
+                "answer": "parliez"
+            },
+            {
+                "exercise_block": "Exercice 8.4",
+                "question_number": "6",
+                "question_text": "Elle ___ (étudier) l’architecture depuis un year quand elle a décidé de changer de filière.",
+                "options": [],
+                "hints": "💡 提示：考查 étudier 的未完成过去时。变位：elle étudiait。",
+                "answer": "étudiait"
+            },
+            {
+                "exercise_block": "Exercice 8.4",
+                "question_number": "7",
+                "question_text": "Ils ___ (danser) quand la musique s’est arrêtée.",
+                "options": [],
+                "hints": "💡 提示：考查 danser 的未完成过去时。变位：ils dansaient。",
+                "answer": "dansaient"
+            },
+            {
+                "exercise_block": "Exercice 8.4",
+                "question_number": "8",
+                "question_text": "Il ___ (réfléchir) quand une idée lui a traversé l’esprit.",
+                "options": [],
+                "hints": "💡 提示：考查第二组动词 réfléchir 的未完成过去时。词根为 réfléchiss-。变位：il réfléchissait。",
+                "answer": "réfléchissait"
+            },
+            {
+                "exercise_block": "Exercice 8.4",
+                "question_number": "9",
+                "question_text": "Elle ___ (travailler) dans son bureau quand ils ont frappé à la porte.",
+                "options": [],
+                "hints": "💡 提示：考查 travailler 的未完成过去时。变位：elle travaillait。",
+                "answer": "travaillait"
+            },
+            {
+                "exercise_block": "Exercice 8.4",
+                "question_number": "10",
+                "question_text": "J’___ (attendre) Roland depuis dix minutes quand enfin il est arrivé.",
+                "options": [],
+                "hints": "💡 提示：考查 attendre 的未完成过去时。Je 遇到元音变成 J'，词根 attend-。变位：J’attendais。",
+                "answer": "attendais"
+            },
+            {
+                "exercise_block": "Exercice 8.5",
+                "question_number": "1",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nI used to play tennis every Thursday.",
+                "options": [],
+                "hints": "💡 提示：表示过去的习惯（used to），使用未完成过去时（imparfait）。变位：Je jouais。",
                 "answer": "Je jouais au tennis tous les jeudis."
             },
             {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.4",
+                "exercise_block": "Exercice 8.5",
                 "question_number": "2",
-                "question_text": "Je ___ (dormir) quand le chat a sauté sur mon lit.",
-                "hints": "dormir",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nYou were studying when the phone rang.",
+                "options": [],
+                "hints": "💡 提示：正在进行中动作（imparfait）被突发动作（passé composé）中断。注意 étudier 的变位：tu étudiais。",
                 "answer": "Tu étudiais quand le téléphone a sonné."
             },
             {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.4",
+                "exercise_block": "Exercice 8.5",
                 "question_number": "3",
-                "question_text": "Nous ___ (bavarder) depuis une heure quand il est arrivé.",
-                "hints": "bavarder",
-                "answer": "Nous dormions quand tout à coup nous entendin un bruit fort."
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nWe were sleeping when suddenly we heard a loud noise.",
+                "options": [],
+                "hints": "💡 提示：动作背景用 imparfait (dormir)，突发事件用 passé composé (entendre)。变位：Nous dormions... nous avons entendu。",
+                "answer": "Nous dormions quand tout à coup nous avons entendu un bruit fort."
             },
             {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.4",
+                "exercise_block": "Exercice 8.5",
                 "question_number": "4",
-                "question_text": "Ils ___ (se reposer) quand une alarme a retenti.",
-                "hints": "se reposer",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nThe restaurant was crowded.",
+                "options": [],
+                "hints": "💡 提示：描述过去的场景或状态使用 imparfait。形容词：bondé (拥挤的)。变位：Le restaurant était bondé。",
                 "answer": "Le restaurant était bondé."
             },
             {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.4",
+                "exercise_block": "Exercice 8.5",
                 "question_number": "5",
-                "question_text": "Vous ___ (parler) depuis un moment quand soudain il s'est levé.",
-                "hints": "parler",
-                "answer": "Il (Ils) avaient froid à la montagne."
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nIt was cold in the mountains.",
+                "options": [],
+                "hints": "💡 提示：描述天气使用无人称句型 il faisait...。变位：Il faisait froid à la montagne。",
+                "answer": "Il faisait froid à la montagne."
             },
             {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.4",
+                "exercise_block": "Exercice 8.5",
                 "question_number": "6",
-                "question_text": "Elle ___ (étudier) l'architecture depuis un an quand elle a décidé de changer de filière.",
-                "hints": "étudier",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nThey looked tired.",
+                "options": [],
+                "hints": "💡 提示：描述状态。使用短语 avoir l'air (看起来...)，并将 avoir 变为 imparfait。变位：Ils (Elles) avaient l’air fatigué.",
                 "answer": "Ils (Elles) avaient l’air fatigué."
             },
             {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.4",
+                "exercise_block": "Exercice 8.5",
                 "question_number": "7",
-                "question_text": "Ils ___ (danser) quand la musique s'est arrêtée.",
-                "hints": "danser",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nThe play was fascinating.",
+                "options": [],
+                "hints": "💡 提示：描述事物特征。La pièce (戏剧) 是阴性名词。变位：La pièce était fascinante。",
                 "answer": "La pièce était fascinante."
             },
             {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.4",
+                "exercise_block": "Exercice 8.5",
                 "question_number": "8",
-                "question_text": "Il ___ (réfléchir) quand une idée lui a traversé l'esprit.",
-                "hints": "réfléchir",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nShe used to work at the Galeries Lafayette.",
+                "options": [],
+                "hints": "💡 提示：表示过去的习惯/背景使用 imparfait。注意介词：aux (à + les) Galeries Lafayette。",
                 "answer": "Elle travaillait aux Galeries Lafayette."
             },
             {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.4",
+                "exercise_block": "Exercice 8.5",
                 "question_number": "9",
-                "question_text": "Elle ___ (travailler) dans son bureau quand ils ont frappé à la porte.",
-                "hints": "travailler",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nWe were waiting for the bus when it started to rain.",
+                "options": [],
+                "hints": "💡 提示：背景动作 imparfait (attendre) + 突发动作 passé composé (commencer)。变位：Nous attendions... il a commencé。",
                 "answer": "Nous attendions l’autobus quand il a commencé à pleuvoir."
             },
             {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.4",
+                "exercise_block": "Exercice 8.5",
                 "question_number": "10",
-                "question_text": "Je ___ (attendre) Roland depuis dix minutes quand enfin il est arrivé.",
-                "hints": "attendre",
+                "question_text": "Traduisez en français (请翻译成法语) :\n\nShe knew they were wrong.",
+                "options": [],
+                "hints": "💡 提示：表示过去持续的思想状态，两者都使用 imparfait。avoir tort (犯错/理亏)。变位：Elle savait qu’ils (elles) avaient tort。",
                 "answer": "Elle savait qu’ils (elles) avaient tort."
-            },
-            {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.5",
-                "question_number": "1",
-                "question_text": "I used to play tennis every Thursday.",
-                "hints": null,
-                "answer": "il allait"
-            },
-            {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.5",
-                "question_number": "2",
-                "question_text": "You were studying when the phone rang.",
-                "hints": null,
-                "answer": "déjeunait"
-            },
-            {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.5",
-                "question_number": "3",
-                "question_text": "We were sleeping when suddenly we heard a loud noise.",
-                "hints": null,
-                "answer": "apportait"
-            },
-            {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.5",
-                "question_number": "4",
-                "question_text": "The restaurant was crowded.",
-                "hints": null,
-                "answer": "attendait"
-            },
-            {
-                "page": 69,
-                "exercise_block": "EXERCICE 8.5",
-                "question_number": "5",
-                "question_text": "It was cold in the mountains.",
-                "hints": null,
-                "answer": "commandait"
             }
         ]
     },
@@ -5579,84 +5006,84 @@
         "page": 84,
         "data": [
             {
-                "page": 70,
-                "exercise_block": "EXERCICE 8.6",
+                "exercise_block": "Exercice 8.6",
                 "question_number": "1",
-                "question_text": "Si on (aller) ___ se promener dans la forêt?",
-                "hints": "aller",
-                "answer": "Je suis allé(e) chez le dentiste hier."
+                "question_text": "Si on ___ (aller) se promener dans la forêt ?",
+                "options": [],
+                "hints": "💡 提示：在法语中，“Si on + 未完成过去时 (imparfait)”常用于表示提议或建议（我们去...怎么样？）。aller 的变位为 allait。",
+                "answer": "allait"
             },
             {
-                "page": 70,
-                "exercise_block": "EXERCICE 8.6",
+                "exercise_block": "Exercice 8.6",
                 "question_number": "2",
-                "question_text": "Si on (déjeuner) ___ ensemble?",
-                "hints": "déjeuner",
-                "answer": "Quand il était adolescent, il jouait au football."
+                "question_text": "Si on ___ (déjeuner) ensemble ?",
+                "options": [],
+                "hints": "💡 提示：表示建议。déjeuner 的变位为 déjeunait。",
+                "answer": "déjeunait"
             },
             {
-                "page": 70,
-                "exercise_block": "EXERCICE 8.6",
+                "exercise_block": "Exercice 8.6",
                 "question_number": "3",
-                "question_text": "Si on (apporter) ___ une boîte de chocolats à Julie?",
-                "hints": "apporter",
-                "answer": "À cette époque-là, ils tenaient une brasserie place d’Italie."
+                "question_text": "Si on ___ (apporter) une boîte de chocolats à Julie ?",
+                "options": [],
+                "hints": "💡 提示：表示建议。apporter 的变位为 apportait。",
+                "answer": "apportait"
             },
             {
-                "page": 70,
-                "exercise_block": "EXERCICE 8.6",
+                "exercise_block": "Exercice 8.6",
                 "question_number": "4",
-                "question_text": "Si on (attendre) ___ encore quelques minutes?",
-                "hints": "attendre",
-                "answer": "Ils ont randonné dans les Alpes le week-end passé."
+                "question_text": "Si on ___ (attendre) encore quelques minutes ?",
+                "options": [],
+                "hints": "💡 提示：表示建议。attendre 的词根为 attend-，变位为 attendait。",
+                "answer": "attendait"
             },
             {
-                "page": 70,
-                "exercise_block": "EXERCICE 8.6",
+                "exercise_block": "Exercice 8.6",
                 "question_number": "5",
-                "question_text": "Si on (commander) ___ un dessert?",
-                "hints": "commander",
-                "answer": "Nous dînons dans ce restaurant tous les samedis."
+                "question_text": "Si on ___ (commander) un dessert ?",
+                "options": [],
+                "hints": "💡 提示：表示建议。commander 的变位为 commandait。",
+                "answer": "commandait"
             },
             {
-                "page": 70,
-                "exercise_block": "EXERCICE 8.6",
+                "exercise_block": "Exercice 8.6",
                 "question_number": "6",
-                "question_text": "Si on (faire) ___ un voyage en Grèce?",
-                "hints": "faire",
-                "answer": "On se prenait un café?"
+                "question_text": "Si on ___ (faire) un voyage en Grèce ?",
+                "options": [],
+                "hints": "💡 提示：表示建议。faire 的词根为 fais-，变位为 faisait。",
+                "answer": "faisait"
             },
             {
-                "page": 70,
-                "exercise_block": "EXERCICE 8.6",
+                "exercise_block": "Exercice 8.6",
                 "question_number": "7",
-                "question_text": "Si on (ouvrir) ___ un restaurant?",
-                "hints": "ouvrir",
-                "answer": "Tu avais l’air fatigué."
+                "question_text": "Si on ___ (ouvrir) un restaurant ?",
+                "options": [],
+                "hints": "💡 提示：表示建议。ouvrir 的变位为 ouvrait。",
+                "answer": "ouvrait"
             },
             {
-                "page": 70,
-                "exercise_block": "EXERCICE 8.6",
+                "exercise_block": "Exercice 8.6",
                 "question_number": "8",
-                "question_text": "Si on (investir) ___ dans cette entreprise?",
-                "hints": "investir",
-                "answer": "Si on investit dans cette entreprise?"
+                "question_text": "Si on ___ (investir) dans cette entreprise ?",
+                "options": [],
+                "hints": "💡 提示：表示建议。注意 investir 是第二组动词，词根包含 -iss-。变位为 investissait。",
+                "answer": "investissait"
             },
             {
-                "page": 70,
-                "exercise_block": "EXERCICE 8.6",
+                "exercise_block": "Exercice 8.6",
                 "question_number": "9",
-                "question_text": "Si on (réfléchir) ___ avant de prendre une décision?",
-                "hints": "réfléchir",
-                "answer": "Si on réfléchit avant de prendre une décision?"
+                "question_text": "Si on ___ (réfléchir) avant de prendre une décision ?",
+                "options": [],
+                "hints": "💡 提示：表示建议。réfléchir 是第二组动词，变位为 réfléchissait。",
+                "answer": "réfléchissait"
             },
             {
-                "page": 70,
-                "exercise_block": "EXERCICE 8.6",
+                "exercise_block": "Exercice 8.6",
                 "question_number": "10",
-                "question_text": "Si on (choisir) ___ une autre formule?",
-                "hints": "choisir",
-                "answer": "Si on choisissait une autre formule?"
+                "question_text": "Si on ___ (choisir) une autre formule ?",
+                "options": [],
+                "hints": "💡 提示：表示建议。choisir 是第二组动词，变位为 choisissait。",
+                "answer": "choisissait"
             }
         ]
     },
@@ -5664,233 +5091,84 @@
         "page": 85,
         "data": [
             {
-                "page": 71,
-                "exercise_block": "8.7",
+                "exercise_block": "Exercice 8.7",
                 "question_number": "1",
-                "question_text": "Je (aller) ___ chez le dentiste hier.",
-                "hints": "aller",
-                "answer": "suis allé(e)"
+                "question_text": "Je ___ (aller) chez le dentiste hier.",
+                "options": [],
+                "hints": "💡 提示：表示昨天（hier）发生的具体完成动作，使用复合过去时（Passé composé）。变位：Je suis allé(e)。",
+                "answer": "Je suis allé(e) chez le dentiste hier."
             },
             {
-                "page": 71,
-                "exercise_block": "8.7",
+                "exercise_block": "Exercice 8.7",
                 "question_number": "2",
-                "question_text": "Quand il (être) ___ adolescent, il (jouer) ___ au football.",
-                "hints": "être, jouer",
-                "answer": "était, jouait"
+                "question_text": "Quand il ___ (être) adolescent, il ___ (jouer) au football.",
+                "options": [],
+                "hints": "💡 提示：表示过去的一段时期以及当时的习惯动作，两者都使用未完成过去时（Imparfait）。变位：était... jouait。",
+                "answer": "Quand il était adolescent, il jouait au football."
             },
             {
-                "page": 71,
-                "exercise_block": "8.7",
+                "exercise_block": "Exercice 8.7",
                 "question_number": "3",
-                "question_text": "À cette époque-là, ils (tenir) ___ une brasserie place d'Italie.",
-                "hints": "tenir",
-                "answer": "tenaient"
+                "question_text": "À cette époque-là, ils ___ (tenir) une brasserie place d’Italie.",
+                "options": [],
+                "hints": "💡 提示：描述过去的某种持续状态或职业背景，使用未完成过去时（Imparfait）。变位：tenaient。",
+                "answer": "À cette époque-là, ils tenaient une brasserie place d’Italie."
             },
             {
-                "page": 71,
-                "exercise_block": "8.7",
+                "exercise_block": "Exercice 8.7",
                 "question_number": "4",
-                "question_text": "Ils (randonner) ___ dans les Alpes le week-end passé.",
-                "hints": "randonner",
-                "answer": "ont randonné"
+                "question_text": "Ils ___ (randonner) dans les Alpes le week-end passé.",
+                "options": [],
+                "hints": "💡 提示：表示上周末发生的具体、有时间界限的动作，使用复合过去时（Passé composé）。变位：ont randonné。",
+                "answer": "Ils ont randonné dans les Alpes le week-end passé."
             },
             {
-                "page": 71,
-                "exercise_block": "8.7",
+                "exercise_block": "Exercice 8.7",
                 "question_number": "5",
-                "question_text": "Nous (dîner) ___ dans ce restaurant tous les samedis.",
-                "hints": "dîner",
-                "answer": "dînions"
+                "question_text": "Nous ___ (dîner) dans ce restaurant tous les samedis.",
+                "options": [],
+                "hints": "💡 提示：关键词 tous les samedis 表示过去的重复习惯，使用未完成过去时（Imparfait）。变位：dînions。",
+                "answer": "Nous dînions dans ce restaurant tous les samedis."
             },
             {
-                "page": 71,
-                "exercise_block": "8.7",
+                "exercise_block": "Exercice 8.7",
                 "question_number": "6",
-                "question_text": "Si on (prendre) ___ un café?",
-                "hints": "prendre",
-                "answer": "prenait"
+                "question_text": "Si on ___ (prendre) un café ?",
+                "options": [],
+                "hints": "💡 提示：固定用法 Si on + Imparfait 表示建议。变位：prenait。",
+                "answer": "Si on prenait un café ?"
             },
             {
-                "page": 71,
-                "exercise_block": "8.7",
+                "exercise_block": "Exercice 8.7",
                 "question_number": "7",
-                "question_text": "Tu (avoir) ___ l'air fatigué.",
-                "hints": "avoir",
-                "answer": "avais"
+                "question_text": "Tu ___ (avoir) l’air fatigué.",
+                "options": [],
+                "hints": "💡 提示：描述过去某种持续的状态或样子，使用未完成过去时（Imparfait）。变位：avais。",
+                "answer": "Tu avais l’air fatigué."
             },
             {
-                "page": 71,
-                "exercise_block": "8.7",
+                "exercise_block": "Exercice 8.7",
                 "question_number": "8",
-                "question_text": "Chaque jour, il (écrire) ___ une letter à son amie.",
-                "hints": "écrire",
-                "answer": "écrivait"
+                "question_text": "Chaque jour, il ___ (écrire) une lettre à son amie.",
+                "options": [],
+                "hints": "💡 提示：Chaque jour 表示过去的频率/习惯，使用未完成过去时（Imparfait）。变位：écrivait。",
+                "answer": "Chaque jour, il écrivait une lettre à son amie."
             },
             {
-                "page": 71,
-                "exercise_block": "8.7",
+                "exercise_block": "Exercice 8.7",
                 "question_number": "9",
-                "question_text": "Je (regarder) ___ un film quand elle (arriver) ___.",
-                "hints": "regarder, arriver",
-                "answer": "regardais, est arrivée"
+                "question_text": "Je ___ (regarder) un film quand elle ___ (arriver).",
+                "options": [],
+                "hints": "💡 提示：背景动作（在看电影）用 Imparfait，突然发生的中断动作（她到了）用 Passé composé。变位：regardais... est arrivée。",
+                "answer": "Je regardais un film quand elle est arrivée."
             },
             {
-                "page": 71,
-                "exercise_block": "8.7",
+                "exercise_block": "Exercice 8.7",
                 "question_number": "10",
-                "question_text": "La campagne (être) ___ si belle.",
-                "hints": "être",
-                "answer": "était"
-            }
-        ]
-    },
-    {
-        "page": 86,
-        "data": [
-            {
-                "page": 72,
-                "exercise_block": "décider to decide",
-                "question_number": "1",
-                "question_text": "je ___",
-                "hints": "(décider)",
-                "answer": "je décide"
-            },
-            {
-                "page": 72,
-                "exercise_block": "décider to decide",
-                "question_number": "2",
-                "question_text": "tu ___",
-                "hints": "(décider)",
-                "answer": "tu décides"
-            },
-            {
-                "page": 72,
-                "exercise_block": "décider to decide",
-                "question_number": "3",
-                "question_text": "il/elle ___",
-                "hints": "(décider)",
-                "answer": "il/elle décide"
-            },
-            {
-                "page": 72,
-                "exercise_block": "décider to decide",
-                "question_number": "4",
-                "question_text": "nous ___",
-                "hints": "(décider)",
-                "answer": "nous decidons"
-            },
-            {
-                "page": 72,
-                "exercise_block": "décider to decide",
-                "question_number": "5",
-                "question_text": "vous ___",
-                "hints": "(décider)",
-                "answer": "vous décidez"
-            },
-            {
-                "page": 72,
-                "exercise_block": "décider to decide",
-                "question_number": "6",
-                "question_text": "ils/elles ___",
-                "hints": "(décider)",
-                "answer": "ils/elles décident"
-            },
-            {
-                "page": 72,
-                "exercise_block": "choisir to choose",
-                "question_number": "1",
-                "question_text": "je ___",
-                "hints": "(choisir)",
-                "answer": "je choisis"
-            },
-            {
-                "page": 72,
-                "exercise_block": "choisir to choose",
-                "question_number": "2",
-                "question_text": "tu ___",
-                "hints": "(choisir)",
-                "answer": "tu choisis"
-            },
-            {
-                "page": 72,
-                "exercise_block": "choisir to choose",
-                "question_number": "3",
-                "question_text": "il/elle ___",
-                "hints": "(choisir)",
-                "answer": "il/elle choisit"
-            },
-            {
-                "page": 72,
-                "exercise_block": "choisir to choose",
-                "question_number": "4",
-                "question_text": "nous ___",
-                "hints": "(choisir)",
-                "answer": "nous choisissons"
-            },
-            {
-                "page": 72,
-                "exercise_block": "choisir to choose",
-                "question_number": "5",
-                "question_text": "vous ___",
-                "hints": "(choisir)",
-                "answer": "vous choisissez"
-            },
-            {
-                "page": 72,
-                "exercise_block": "choisir to choose",
-                "question_number": "6",
-                "question_text": "ils/elles ___",
-                "hints": "(choisir)",
-                "answer": "ils/elles choisissent"
-            },
-            {
-                "page": 72,
-                "exercise_block": "répondre to answer",
-                "question_number": "1",
-                "question_text": "je ___",
-                "hints": "(répondre)",
-                "answer": "je réponds"
-            },
-            {
-                "page": 72,
-                "exercise_block": "répondre to answer",
-                "question_number": "2",
-                "question_text": "tu ___",
-                "hints": "(répondre)",
-                "answer": "tu réponds"
-            },
-            {
-                "page": 72,
-                "exercise_block": "répondre to answer",
-                "question_number": "3",
-                "question_text": "il/elle ___",
-                "hints": "(répondre)",
-                "answer": "il/elle répond"
-            },
-            {
-                "page": 72,
-                "exercise_block": "répondre to answer",
-                "question_number": "4",
-                "question_text": "nous ___",
-                "hints": "(répondre)",
-                "answer": "nous répondons"
-            },
-            {
-                "page": 72,
-                "exercise_block": "répondre to answer",
-                "question_number": "5",
-                "question_text": "vous ___",
-                "hints": "(répondre)",
-                "answer": "vous répondez"
-            },
-            {
-                "page": 72,
-                "exercise_block": "répondre to answer",
-                "question_number": "6",
-                "question_text": "ils/elles ___",
-                "hints": "(répondre)",
-                "answer": "ils/elles répondent"
+                "question_text": "La campagne ___ (être) si belle.",
+                "options": [],
+                "hints": "💡 提示：描述过去的景色或状态，使用未完成过去时（Imparfait）。变位：était。",
+                "answer": "La campagne était si belle."
             }
         ]
     },
@@ -5898,84 +5176,84 @@
         "page": 87,
         "data": [
             {
-                "page": 91,
-                "exercise_block": "EXERCICE 9.1",
+                "exercise_block": "Exercice 9.1",
                 "question_number": "1",
-                "question_text": "Vous (suivre) ___ un cours de français.",
-                "hints": "suivre",
-                "answer": "Vous irez à l’opéra quand vos amis seront à Lyon."
+                "question_text": "Vous ___ (suivre) un cours de français.",
+                "options": [],
+                "hints": "💡 提示：考查 suivre 的简单将来时（Futur simple）。以 -e 结尾的动词去掉 e 再加词尾。变位：vous suivrez。",
+                "answer": "suivrez"
             },
             {
-                "page": 91,
-                "exercise_block": "EXERCICE 9.1",
+                "exercise_block": "Exercice 9.1",
                 "question_number": "2",
-                "question_text": "Nous (dîner) ___ chez Yann la semaine prochaine.",
-                "hints": "dîner",
-                "answer": "Nous prendrons une décision dès que la presse annoncera les résultats."
+                "question_text": "Nous ___ (dîner) chez Yann la semaine prochaine.",
+                "options": [],
+                "hints": "💡 提示：考查第一组动词 dîner 的简单将来时。直接在动词不定式后加词尾。变位：nous dînerons。",
+                "answer": "dînerons"
             },
             {
-                "page": 91,
-                "exercise_block": "EXERCICE 9.1",
+                "exercise_block": "Exercice 9.1",
                 "question_number": "3",
-                "question_text": "Tu (entendre) ___ de la belle musique.",
-                "hints": "entendre",
-                "answer": "L’exposition aura lieu en janvier quand tous les tableaux seront réunis."
+                "question_text": "Tu ___ (entendre) de la belle musique.",
+                "options": [],
+                "hints": "💡 提示：考查 entendre 的简单将来时。去掉词尾的 e 后加变位。变位：tu entendras。",
+                "answer": "entendras"
             },
             {
-                "page": 91,
-                "exercise_block": "EXERCICE 9.1",
+                "exercise_block": "Exercice 9.1",
                 "question_number": "4",
-                "question_text": "Elle (chercher) ___ un autre emploi.",
-                "hints": "chercher",
-                "answer": "Le professeur emmènera les élèves au musée dès qu’il pourra."
+                "question_text": "Elle ___ (chercher) un autre emploi.",
+                "options": [],
+                "hints": "💡 提示：考查 chercher 的简单将来时。直接在不定式后加词尾。变位：elle cherchera。",
+                "answer": "cherchera"
             },
             {
-                "page": 91,
-                "exercise_block": "EXERCICE 9.1",
+                "exercise_block": "Exercice 9.1",
                 "question_number": "5",
-                "question_text": "Ils (ne jamais oublier) ___ votre générosité.",
-                "hints": "ne jamais oublier",
-                "answer": "Il devra nous appeler dès qu’il sera en contact avec M. Clément."
+                "question_text": "Ils ___ (ne jamais oublier) votre générosité.",
+                "options": [],
+                "hints": "💡 提示：简单将来时的否定句。词根为 oublier，注意 ne jamais 的位置。变位：n’oublieront jamais。",
+                "answer": "n’oublieront jamais"
             },
             {
-                "page": 91,
-                "exercise_block": "EXERCICE 9.1",
+                "exercise_block": "Exercice 9.1",
                 "question_number": "6",
-                "question_text": "Je (travailler) ___ samedi après-midi.",
-                "hints": "travailler",
-                "answer": "Tant qu’il y aura des hommes, il y aura des guerres."
+                "question_text": "Je ___ (travailler) samedi après-midi.",
+                "options": [],
+                "hints": "💡 提示：考查 travailler 的简单将来时。变位：je travaillerai。",
+                "answer": "travaillerai"
             },
             {
-                "page": 91,
-                "exercise_block": "EXERCICE 9.1",
+                "exercise_block": "Exercice 9.1",
                 "question_number": "7",
-                "question_text": "Nous (rendre visite) ___ à notre famille.",
-                "hints": "rendre visite",
-                "answer": "Elle enseignera le français quand elle aura de longues vacances."
+                "question_text": "Nous ___ (rendre visite) à notre famille.",
+                "options": [],
+                "hints": "💡 提示：考查 rendre visite 的简单将来时。变位：nous rendrons visite。",
+                "answer": "rendrons visite"
             },
             {
-                "page": 91,
-                "exercise_block": "EXERCICE 9.1",
+                "exercise_block": "Exercice 9.1",
                 "question_number": "8",
-                "question_text": "Il (finir) ___ le livre avant lundi.",
-                "hints": "finir",
-                "answer": "Nous jouerons au bridge quand nous rendrons visite à nos amis."
+                "question_text": "Il ___ (finir) le livre avant lundi.",
+                "options": [],
+                "hints": "💡 提示：考查第二组动词 finir 的简单将来时。直接在不定式后加词尾。变位：il finira。",
+                "answer": "finira"
             },
             {
-                "page": 91,
-                "exercise_block": "EXERCICE 9.1",
+                "exercise_block": "Exercice 9.1",
                 "question_number": "9",
-                "question_text": "On (remplacer) ___ tous les meubles.",
-                "hints": "remplacer",
-                "answer": "Elle se reposera quand elle aura de longues vacances."
+                "question_text": "On ___ (remplacer) tous les meubles.",
+                "options": [],
+                "hints": "💡 提示：考查 remplacer 的简单将来时。变位：on remplacera。",
+                "answer": "remplacera"
             },
             {
-                "page": 91,
-                "exercise_block": "EXERCICE 9.1",
+                "exercise_block": "Exercice 9.1",
                 "question_number": "10",
-                "question_text": "Tu (partir) ___ avant nous.",
-                "hints": "partir",
-                "answer": "Dès qu’il obtiendra l’accord, il partira."
+                "question_text": "Tu ___ (partir) avant nous.",
+                "options": [],
+                "hints": "💡 提示：考查 partir 的简单将来时。变位：tu partiras。",
+                "answer": "partiras"
             }
         ]
     },
@@ -6012,7 +5290,7 @@
                 "question_number": "4",
                 "question_text": "Nous (avoir) ___ les résultats demain.",
                 "hints": null,
-                "answer": "auras"
+                "answer": "aurons"
             },
             {
                 "page": 9,
@@ -6060,7 +5338,7 @@
                 "question_number": "10",
                 "question_text": "Il (pleuvoir) ___ demain.",
                 "hints": null,
-                "answer": "Il pleuvra"
+                "answer": "pleuvra"
             }
         ]
     },
@@ -6068,84 +5346,84 @@
         "page": 89,
         "data": [
             {
-                "page": 9,
-                "exercise_block": "EXERCICE 9.3",
+                "exercise_block": "Exercice 9.3",
                 "question_number": "1",
-                "question_text": "Vous (aller) ___ à l'opéra quand vos amis (être) ___ à Lyon.",
-                "hints": "aller, être",
-                "answer": "L’avion décollera à onze heures."
+                "question_text": "Vous ___ (aller) à l’opéra quand vos amis ___ (être) à Lyon.",
+                "options": [],
+                "hints": "💡 提示：考查 aller 和 être 的简单将来时变位。注意 aller 的词根是 ir-，être 的词根是 ser-。变位：irez... seront。",
+                "answer": "irez... seront"
             },
             {
-                "page": 9,
-                "exercise_block": "EXERCICE 9.3",
+                "exercise_block": "Exercice 9.3",
                 "question_number": "2",
-                "question_text": "Nous (prendre) ___ une décision dès que la presse (annoncer) ___ les résultats.",
-                "hints": "prendre, annoncer",
-                "answer": "Tu apprendras à conduire."
+                "question_text": "Nous ___ (prendre) une décision dès que la presse ___ (annoncer) les résultats.",
+                "options": [],
+                "hints": "💡 提示：考查 prendre 和 annoncer 的简单将来时。注意 prendre 去掉词尾 e 后变位。变位：prendrons... annoncera。",
+                "answer": "prendrons... annoncera"
             },
             {
-                "page": 9,
-                "exercise_block": "EXERCICE 9.3",
+                "exercise_block": "Exercice 9.3",
                 "question_number": "3",
-                "question_text": "L'exposition (avoir lieu) ___ en janvier quand tous les tableaux (être) ___ réunis.",
-                "hints": "avoir lieu, être",
-                "answer": "Je prendrai le salon."
+                "question_text": "L’exposition ___ (avoir lieu) en janvier quand tous les tableaux ___ (être) réunis.",
+                "options": [],
+                "hints": "💡 提示：考查 avoir 和 être 的简单将来时。avoir 的词根是 aur-。变位：aura lieu... seront。",
+                "answer": "aura lieu... seront"
             },
             {
-                "page": 9,
-                "exercise_block": "EXERCICE 9.3",
+                "exercise_block": "Exercice 9.3",
                 "question_number": "4",
-                "question_text": "Le professeur (emmener) ___ les élèves au musée dès qu'il (pouvoir) ___.",
-                "hints": "emmener, pouvoir",
-                "answer": "Ils sortiront avec des amis."
+                "question_text": "Le professeur ___ (emmener) les élèves au musée dès qu’il ___ (pouvoir).",
+                "options": [],
+                "hints": "💡 提示：考查 emmener 和 pouvoir 的简单将来时。pouvoir 的词根是 pourr-。变位：emmènera... pourra。",
+                "answer": "emmènera... pourra"
             },
             {
-                "page": 9,
-                "exercise_block": "EXERCICE 9.3",
+                "exercise_block": "Exercice 9.3",
                 "question_number": "5",
-                "question_text": "Il (devoir) ___ nous appeler dès qu'il (être) ___ en contact avec M. Clément.",
-                "hints": "devoir, être",
-                "answer": "Vous recevrez une invitation."
+                "question_text": "Il ___ (devoir) nous appeler dès qu’il ___ (être) en contact avec M. Clément.",
+                "options": [],
+                "hints": "💡 提示：考查 devoir 和 être 的简单将来时。devoir 的词根是 devr-。变位：devra... sera。",
+                "answer": "devra... sera"
             },
             {
-                "page": 9,
-                "exercise_block": "EXERCICE 9.3",
+                "exercise_block": "Exercice 9.3",
                 "question_number": "6",
-                "question_text": "Tant qu'il y (avoir) ___ des hommes, il y (avoir) ___ des guerres.",
-                "hints": "avoir, avoir",
-                "answer": "Nous débarquerons à midi."
+                "question_text": "Tant qu’il y ___ (avoir) des hommes, il y ___ (avoir) des guerres.",
+                "options": [],
+                "hints": "💡 提示：考查无人称句型 il y a 的简单将来时变位（y aura）。变位：aura... aura。",
+                "answer": "aura... aura"
             },
             {
-                "page": 9,
-                "exercise_block": "EXERCICE 9.3",
+                "exercise_block": "Exercice 9.3",
                 "question_number": "7",
-                "question_text": "Elle (enseigner) ___ le français quand elle (habiter) ___ au Vietnam.",
-                "hints": "enseigner, habiter",
-                "answer": "Elle écrira une lettre au président."
+                "question_text": "Elle ___ (enseigner) le français quand elle ___ (habiter) au Vietnam.",
+                "options": [],
+                "hints": "💡 提示：考查第一组动词 enseigner 和 habiter 的简单将来时。变位：enseignera... habitera。",
+                "answer": "enseignera... habitera"
             },
             {
-                "page": 9,
-                "exercise_block": "EXERCICE 9.3",
+                "exercise_block": "Exercice 9.3",
                 "question_number": "8",
-                "question_text": "Nous (jouer) ___ au bridge quand nous (rendre visite) ___ à nos amis.",
-                "hints": "jouer, rendre visite",
-                "answer": "Tu mettras ton chapeau gris."
+                "question_text": "Nous ___ (jouer) au bridge quand nous ___ (rendrez visite) à nos amis.",
+                "options": [],
+                "hints": "💡 提示：考查 jouer 和 rendre visite 的简单将来时。变位：jouerons... rendrons visite。",
+                "answer": "jouerons... rendrons visite"
             },
             {
-                "page": 9,
-                "exercise_block": "EXERCICE 9.3",
+                "exercise_block": "Exercice 9.3",
                 "question_number": "9",
-                "question_text": "Elle (se reposer) ___ quand elle (avoir) ___ de longues vacances.",
-                "hints": "se reposer, avoir",
-                "answer": "Ils iront en Bolivie."
+                "question_text": "Elle ___ (se reposer) quand elle ___ (avoir) de longues vacances.",
+                "options": [],
+                "hints": "💡 提示：考查代词式动词 se reposer 和 avoir 的简单将来时。变位：se reposera... aura。",
+                "answer": "se reposera... aura"
             },
             {
-                "page": 9,
-                "exercise_block": "EXERCICE 9.3",
+                "exercise_block": "Exercice 9.3",
                 "question_number": "10",
-                "question_text": "Dès qu'il (obtenir) ___ l'accord, il (partir) ___.",
-                "hints": "obtenir, partir",
-                "answer": "Il vivra jusqu’à cent ans."
+                "question_text": "Dès qu’il ___ (obtenir) l’accord, il ___ (partir).",
+                "options": [],
+                "hints": "💡 提示：考查 obtenir 和 partir 的简单将来时。注意 obtenir 的变位类似 venir (obtiendr-)。变位：obtiendra... partira。",
+                "answer": "obtiendra... partira"
             }
         ]
     },
@@ -6153,211 +5431,179 @@
         "page": 90,
         "data": [
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.4",
+                "exercise_block": "Exercice 9.4",
                 "question_number": "1",
-                "question_text": "L'avion va décoller à onze heures.",
-                "hints": null,
-                "answer": "J’aurai appris."
+                "question_text": "Transformez au futur simple : L’avion va décoller à onze heures.",
+                "options": [],
+                "hints": "💡 提示：将最近将来时转换为简单将来时。décoller 的简单将来时变位：décollera。",
+                "answer": "L’avion décollera à onze heures."
             },
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.4",
+                "exercise_block": "Exercice 9.4",
                 "question_number": "2",
-                "question_text": "Tu vas apprendre à conduire.",
-                "hints": null,
-                "answer": "aura fini"
+                "question_text": "Transformez au futur simple : Tu vas apprendre à conduire.",
+                "options": [],
+                "hints": "💡 提示：apprendre 去掉词尾 e 后加变位。变位：apprendras。",
+                "answer": "Tu apprendras à conduire."
             },
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.4",
+                "exercise_block": "Exercice 9.4",
                 "question_number": "3",
-                "question_text": "Je vais peindre le salon.",
-                "hints": null,
-                "answer": "aurons visité"
+                "question_text": "Transformez au futur simple : Je vais peindre le salon.",
+                "options": [],
+                "hints": "💡 提示：peindre 去掉词尾 e 后加变位。变位：peindrai。",
+                "answer": "Je peindrai le salon."
             },
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.4",
+                "exercise_block": "Exercice 9.4",
                 "question_number": "4",
-                "question_text": "Ils vont sortir avec des amis.",
-                "hints": null,
-                "answer": "auront trouvé"
+                "question_text": "Transformez au futur simple : Ils vont sortir avec des amis.",
+                "options": [],
+                "hints": "💡 提示：sortir 的简单将来时变位：sortiront。",
+                "answer": "Ils sortiront avec des amis."
             },
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.4",
+                "exercise_block": "Exercice 9.4",
                 "question_number": "5",
-                "question_text": "Vous allez recevoir une invitation.",
-                "hints": null,
-                "answer": "aura découvert"
+                "question_text": "Transformez au futur simple : Vous allez recevoir une invitation.",
+                "options": [],
+                "hints": "💡 提示：注意 recevoir 的词根是不规则的 (recevr-)。变位：recevrez。",
+                "answer": "Vous recevrez une invitation."
             },
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.4",
+                "exercise_block": "Exercice 9.4",
                 "question_number": "6",
-                "question_text": "Nous allons débarquer à midi.",
-                "hints": null,
-                "answer": "J’aurai répondu"
+                "question_text": "Transformez au futur simple : Nous allons débarquer à midi.",
+                "options": [],
+                "hints": "💡 提示：débarquer 的简单将来时变位：débarquerons。",
+                "answer": "Nous débarquerons à midi."
             },
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.4",
+                "exercise_block": "Exercice 9.4",
                 "question_number": "7",
-                "question_text": "Elle va écrire une lettre au président.",
-                "hints": null,
-                "answer": "se sera reposée"
+                "question_text": "Transformez au futur simple : Elle va écrire une lettre au président.",
+                "options": [],
+                "hints": "💡 提示：écrire 去掉词尾 e 后加变位。变位：écrira。",
+                "answer": "Elle écrira une lettre au président."
             },
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.4",
+                "exercise_block": "Exercice 9.4",
                 "question_number": "8",
-                "question_text": "Tu vas mettre ton chapeau gris.",
-                "hints": null,
-                "answer": "aura complété"
+                "question_text": "Transformez au futur simple : Tu vas mettre ton chapeau gris.",
+                "options": [],
+                "hints": "💡 提示：mettre 去掉词尾 e 后加变位。变位：mettras。",
+                "answer": "Tu mettras ton chapeau gris."
             },
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.4",
+                "exercise_block": "Exercice 9.4",
                 "question_number": "9",
-                "question_text": "Ils vont aller en Bolivie.",
-                "hints": null,
-                "answer": "sera mort"
+                "question_text": "Transformez au futur simple : Ils vont aller en Bolivie.",
+                "options": [],
+                "hints": "💡 提示：注意 aller 的词根是 ir-。变位：iront。",
+                "answer": "Ils iront en Bolivie."
             },
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.4",
+                "exercise_block": "Exercice 9.4",
                 "question_number": "10",
-                "question_text": "Il va vivre jusqu'à cent ans.",
-                "hints": null,
-                "answer": "J’aurai vu."
+                "question_text": "Transformez au futur simple : Il va vivre jusqu’à cent ans.",
+                "options": [],
+                "hints": "💡 提示：vivre 去掉词尾 e 后加变位。变位：vivra。",
+                "answer": "Il vivra jusqu’à cent ans."
             },
             {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.5",
-                "question_number": "1",
-                "question_text": "Elle recevra ___",
-                "hints": null,
-                "answer": "Nous jouerons au tennis."
-            },
-            {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.5",
-                "question_number": "2",
-                "question_text": "Tu courras ___",
-                "hints": null,
-                "answer": "Vous aurez besoin d’acheter une nouvelle voiture."
-            },
-            {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.5",
-                "question_number": "3",
-                "question_text": "Il enseignera ___",
-                "hints": null,
-                "answer": "Je suivrai un cours d’histoire."
-            },
-            {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.5",
-                "question_number": "4",
-                "question_text": "Elle mourra ___",
-                "hints": null,
-                "answer": "Nous visiterons Venise quand nous serons en Italie."
-            },
-            {
-                "page": 76,
-                "exercise_block": "EXERCICE 9.5",
-                "question_number": "5",
-                "question_text": "Il deviendra ___",
-                "hints": null,
-                "answer": "Ils (Elles) iront à Dakar."
+                "exercise_block": "Exercice 9.5",
+                "question_number": "1-5",
+                "question_text": "Faites correspondre les deux colonnes (连线匹配题，请输入对应字母) :\n\n1. ___ Elle recevra\n2. ___ Tu courras\n3. ___ Il enseignera\n4. ___ Elle mourra\n5. ___ Il deviendra",
+                "options": [],
+                "hints": "💡 Options (备选项) :\na. le français (法语)\nb. à un âge avancé (高龄时)\nc. son diplôme en juin (六月份的毕业证)\nd. pilote de ligne (民航飞行员)\ne. dans le parc (在公园里)\n\n📌 考点：简单将来时（Futur simple）的动词（包括 recevra, courras, deviendra 等不规则词根）与其语义合理的宾语或状语搭配。",
+                "answer": "1.c, 2.e, 3.a, 4.b, 5.d"
             }
         ]
     },
     {
         "page": 91,
         "data": [
-            {
-                "page": 77,
-                "exercise_block": "EXERCICE 9.6",
-                "question_number": "1",
-                "question_text": "Elle (apprendre) ___ le français au Laos.",
-                "hints": "apprendre",
-                "answer": "Je n’irai pas."
-            },
-            {
-                "page": 77,
-                "exercise_block": "EXERCICE 9.6",
-                "question_number": "2",
-                "question_text": "Il (finir) ___ son roman avant la fin de l'année.",
-                "hints": "finir",
-                "answer": "fera"
-            },
-            {
-                "page": 77,
-                "exercise_block": "EXERCICE 9.6",
-                "question_number": "3",
-                "question_text": "Nous (visiter) ___ tous les sites historiques de la région.",
-                "hints": "visiter",
-                "answer": "ne pourra pas"
-            },
-            {
-                "page": 77,
-                "exercise_block": "EXERCICE 9.6",
-                "question_number": "4",
-                "question_text": "Les chercheurs (trouver) ___ un nouveau vaccin.",
-                "hints": "trouver",
-                "answer": "gêlera"
-            },
-            {
-                "page": 77,
-                "exercise_block": "EXERCICE 9.6",
-                "question_number": "5",
-                "question_text": "On (découvrir) ___ un remède plus efficace.",
-                "hints": "découvrir",
-                "answer": "nous promènerons"
-            },
-            {
-                "page": 77,
-                "exercise_block": "EXERCICE 9.6",
-                "question_number": "6",
-                "question_text": "Je (répondre) ___ à toutes les questions.",
-                "hints": "répondre",
-                "answer": "enverra"
-            },
-            {
-                "page": 77,
-                "exercise_block": "EXERCICE 9.6",
-                "question_number": "7",
-                "question_text": "Elle (se reposer) ___ des semaines au bord du lac.",
-                "hints": "se reposer",
-                "answer": "ferai"
-            },
-            {
-                "page": 77,
-                "exercise_block": "EXERCICE 9.6",
-                "question_number": "8",
-                "question_text": "Ils (compléter) ___ leur stage de formation.",
-                "hints": "compléter",
-                "answer": "ira"
-            },
-            {
-                "page": 77,
-                "exercise_block": "EXERCICE 9.6",
-                "question_number": "9",
-                "question_text": "Il (mourir) ___ depuis longtemps.",
-                "hints": "mourir",
-                "answer": "découvriras"
-            },
-            {
-                "page": 77,
-                "exercise_block": "EXERCICE 9.6",
-                "question_number": "10",
-                "question_text": "Je (voir) ___ l'essentiel.",
-                "hints": "voir",
-                "answer": "contacterai."
-            }
-        ]
+    {
+        "exercise_block": "Exercice 9.6",
+        "question_number": "1",
+        "question_text": "Elle ___ (apprendre) le français au Laos.",
+        "options": [],
+        "hints": "💡 提示：先将来时。助动词 avoir 的将来时 (aura) + apprendre 的过去分词 (appris)。",
+        "answer": "aura appris"
+    },
+    {
+        "exercise_block": "Exercice 9.6",
+        "question_number": "2",
+        "question_text": "Il ___ (finir) son roman avant la fin de l'année.",
+        "options": [],
+        "hints": "💡 提示：先将来时。助动词 avoir (aura) + finir 的过去分词 (fini)。",
+        "answer": "aura fini"
+    },
+    {
+        "exercise_block": "Exercice 9.6",
+        "question_number": "3",
+        "question_text": "Nous ___ (visiter) les sites historiques de la région.",
+        "options": [],
+        "hints": "💡 提示：先将来时。助动词 avoir (aurons) + visiter 的过去分词 (visité)。",
+        "answer": "aurons visité"
+    },
+    {
+        "exercise_block": "Exercice 9.6",
+        "question_number": "4",
+        "question_text": "Les chercheurs ___ (trouver) un nouveau vaccin.",
+        "options": [],
+        "hints": "💡 提示：先将来时。助动词 avoir (auront) + trouver 的过去分词 (trouvé)。",
+        "answer": "auront trouvé"
+    },
+    {
+        "exercise_block": "Exercice 9.6",
+        "question_number": "5",
+        "question_text": "On ___ (découvrir) un remède plus efficace.",
+        "options": [],
+        "hints": "💡 提示：先将来时。助动词 avoir (aura) + découvrir 的过去分词 (découvert)。",
+        "answer": "aura découvert"
+    },
+    {
+        "exercise_block": "Exercice 9.6",
+        "question_number": "6",
+        "question_text": "Je ___ (répondre) à toutes les questions.",
+        "options": [],
+        "hints": "💡 提示：先将来时。J' 遇到元音变为 J'aurai + répondre 的过去分词 (répondu)。",
+        "answer": "J'aurai répondu"
+    },
+    {
+        "exercise_block": "Exercice 9.6",
+        "question_number": "7",
+        "question_text": "Elle ___ (se reposer) des semaines au bord du lac.",
+        "options": [],
+        "hints": "💡 提示：代词式动词的先将来时，助动词必须用 être (sera)，且过去分词需与主语 elle 配合加 e。",
+        "answer": "se sera reposée"
+    },
+    {
+        "exercise_block": "Exercice 9.6",
+        "question_number": "8",
+        "question_text": "Les travaux ___ (se terminer).",
+        "options": [],
+        "hints": "💡 提示：代词式动词先将来时。助动词用 être (seront)，过去分词 terminé 配合加 s。",
+        "answer": "se seront terminés"
+    },
+    {
+        "exercise_block": "Exercice 9.6",
+        "question_number": "9",
+        "question_text": "Il ___ (mourir) depuis longtemps.",
+        "options": [],
+        "hints": "💡 提示：先将来时。mourir 的助动词用 être (sera)，过去分词为 mort。",
+        "answer": "sera mort"
+    },
+    {
+        "exercise_block": "Exercice 9.6",
+        "question_number": "10",
+        "question_text": "Je ___ (voir) l'essentiel.",
+        "options": [],
+        "hints": "💡 提示：先将来时。助动词 avoir (aurai) + voir 的过去分词 (vu)。",
+        "answer": "J'aurai vu"
+    }
+]
     },
     {
         "page": 92,
@@ -6407,132 +5653,172 @@
     {
         "page": 93,
         "data": [
-            {
-                "page": 79,
-                "exercise_block": "Exercice",
-                "question_number": "6.",
-                "question_text": "We'll walk along the beach.",
-                "hints": null,
-                "answer": "Nous marcherons le long de la plage"
-            },
-            {
-                "page": 79,
-                "exercise_block": "Exercice",
-                "question_number": "7.",
-                "question_text": "He'll study French when he is in Bordeaux.",
-                "hints": null,
-                "answer": "Il étudiera le français quand il sera à Bordeaux."
-            },
-            {
-                "page": 79,
-                "exercise_block": "Exercice",
-                "question_number": "8.",
-                "question_text": "They'll see the Picasso exhibition when they are in Paris.",
-                "hints": null,
-                "answer": "Ils (Elles) verront l’exposition Picasso quand ils (elles) seront à Paris."
-            },
-            {
-                "page": 79,
-                "exercise_block": "Exercice",
-                "question_number": "9.",
-                "question_text": "She'll travel to Asia when she gets her degree.",
-                "hints": null,
-                "answer": "Elle voyagera en Asie quand elle obtiendra son diplôme."
-            },
-            {
-                "page": 79,
-                "exercise_block": "Exercice",
-                "question_number": "10.",
-                "question_text": "He'll become a doctor.",
-                "hints": null,
-                "answer": "Il deviendra médecin"
-            }
-        ]
+    {
+        "exercise_block": "Exercice 9.7",
+        "question_number": "1",
+        "question_text": "Traduisez : We will play tennis.",
+        "options": [],
+        "hints": "💡 提示：jouer 的简单将来时：nous jouerons。",
+        "answer": "Nous jouerons au tennis."
+    },
+    {
+        "exercise_block": "Exercice 9.7",
+        "question_number": "2",
+        "question_text": "Traduisez : You will need to buy a new car.",
+        "options": [],
+        "hints": "💡 提示：avoir besoin de 的将来时：vous aurez besoin de...。",
+        "answer": "Vous aurez besoin d'acheter une nouvelle voiture."
+    },
+    {
+        "exercise_block": "Exercice 9.7",
+        "question_number": "3",
+        "question_text": "Traduisez : I will take a history course.",
+        "options": [],
+        "hints": "💡 提示：suivre un cours (上课) 的将来时：je suivrai。",
+        "answer": "Je suivrai un cours d'histoire."
+    },
+    {
+        "exercise_block": "Exercice 9.7",
+        "question_number": "4",
+        "question_text": "Traduisez : We will visit Venice when we are in Italy.",
+        "options": [],
+        "hints": "💡 提示：quand 引导的时间从句也要用将来时 (serons)。",
+        "answer": "Nous visiterons Venise quand nous serons en Italie."
+    },
+    {
+        "exercise_block": "Exercice 9.7",
+        "question_number": "5",
+        "question_text": "Traduisez : They will go to Dakar.",
+        "options": [],
+        "hints": "💡 提示：aller 的将来时词根是 ir-。变位：ils iront。",
+        "answer": "Ils (Elles) iront à Dakar."
+    },
+    {
+        "exercise_block": "Exercice 9.7",
+        "question_number": "6",
+        "question_text": "Traduisez : We will walk along the beach.",
+        "options": [],
+        "hints": "💡 提示：marcher (走路/步行) 的将来时：nous marcherons。",
+        "answer": "Nous marcherons le long de la plage."
+    },
+    {
+        "exercise_block": "Exercice 9.7",
+        "question_number": "7",
+        "question_text": "Traduisez : He will study French when he is in Bordeaux.",
+        "options": [],
+        "hints": "💡 提示：étudier 的将来时：il étudiera。",
+        "answer": "Il étudiera le français quand il sera à Bordeaux."
+    },
+    {
+        "exercise_block": "Exercice 9.7",
+        "question_number": "8",
+        "question_text": "Traduisez : They will see the Picasso exhibition when they are in Paris.",
+        "options": [],
+        "hints": "💡 提示：voir 的将来时词根是 verr-。变位：ils verront。",
+        "answer": "Ils (Elles) verront l'exposition Picasso quand ils (elles) seront à Paris."
+    },
+    {
+        "exercise_block": "Exercice 9.7",
+        "question_number": "9",
+        "question_text": "Traduisez : After her degree, she will travel to Asia.",
+        "options": [],
+        "hints": "💡 提示：obtenir (获得) 的将来时词根：obtiendra。",
+        "answer": "Elle voyagera en Asie quand elle obtiendra son diplôme."
+    },
+    {
+        "exercise_block": "Exercice 9.7",
+        "question_number": "10",
+        "question_text": "Traduisez : He will become a doctor.",
+        "options": [],
+        "hints": "💡 提示：devenir (成为) 的将来时词根：deviendra。",
+        "answer": "Il deviendra médecin."
+    }
+]
     },
     {
         "page": 94,
         "data": [
-            {
-                "page": 80,
-                "exercise_block": "EXERCICE 9.8",
-                "question_number": "1",
-                "question_text": "Puisqu'il a raté son examen, il (ne pas aller) ___ en vacances.",
-                "hints": "(ne pas aller)",
-                "answer": "n'ira pas"
-            },
-            {
-                "page": 80,
-                "exercise_block": "EXERCICE 9.8",
-                "question_number": "2",
-                "question_text": "Étant donné qu'il est parti, la situation ne (faire) ___ qu'empirer.",
-                "hints": "(faire)",
-                "answer": "fera"
-            },
-            {
-                "page": 80,
-                "exercise_block": "EXERCICE 9.8",
-                "question_number": "3",
-                "question_text": "Il devra trouver une excuse parce qu'elle (ne pas pouvoir) ___ assister à la réunion.",
-                "hints": "(ne pas pouvoir)",
-                "answer": "ne pourra pas"
-            },
-            {
-                "page": 80,
-                "exercise_block": "EXERCICE 9.8",
-                "question_number": "4",
-                "question_text": "Il fera chaud chez elle alors que chez lui, on (geler) ___.",
-                "hints": "(geler)",
-                "answer": "gèlera"
-            },
-            {
-                "page": 80,
-                "exercise_block": "EXERCICE 9.8",
-                "question_number": "5",
-                "question_text": "Si nous avons le temps, nous (se promener) ___ au bord du lac.",
-                "hints": "(se promener)",
-                "answer": "nous promènerons"
-            },
-            {
-                "page": 80,
-                "exercise_block": "EXERCICE 9.8",
-                "question_number": "6",
-                "question_text": "Dès que j'aurai terminé l'enregistrement, je vous (envoyer) ___ un CD.",
-                "hints": "(envoyer)",
-                "answer": "enverrai"
-            },
-            {
-                "page": 80,
-                "exercise_block": "EXERCICE 9.8",
-                "question_number": "7",
-                "question_text": "Elle dormira tandis que je (faire) ___ la vaisselle.",
-                "hints": "(faire)",
-                "answer": "ferai"
-            },
-            {
-                "page": 80,
-                "exercise_block": "EXERCICE 9.8",
-                "question_number": "8",
-                "question_text": "Tant qu'ils seront là, tout (aller) ___ bien.",
-                "hints": "(aller)",
-                "answer": "ira"
-            },
-            {
-                "page": 80,
-                "exercise_block": "EXERCICE 9.8",
-                "question_number": "9",
-                "question_text": "Quand tu vivras à Paris, tu (découvrir) ___ beaucoup de nouvelles choses.",
-                "hints": "(découvrir)",
-                "answer": "découvriras"
-            },
-            {
-                "page": 80,
-                "exercise_block": "EXERCICE 9.8",
-                "question_number": "10",
-                "question_text": "Aussitôt que le paquet sera arrivé, je vous (contacter) ___.",
-                "hints": "(contacter)",
-                "answer": "contacterai"
-            }
-        ]
+    {
+        "exercise_block": "Exercice 9.8",
+        "question_number": "1",
+        "question_text": "Puisqu'il a raté son examen, il ___ (ne pas aller) en vacances.",
+        "options": [],
+        "hints": "💡 提示：aller 的将来时词根 ir-。否定：n'ira pas。",
+        "answer": "n'ira pas"
+    },
+    {
+        "exercise_block": "Exercice 9.8",
+        "question_number": "2",
+        "question_text": "Étant donné qu'il est parti, la situation ne ___ (faire) qu'empirer.",
+        "options": [],
+        "hints": "💡 提示：faire 的将来时词根 fer-。变位：fera。",
+        "answer": "fera"
+    },
+    {
+        "exercise_block": "Exercice 9.8",
+        "question_number": "3",
+        "question_text": "Elle ___ (ne pas pouvoir) assister à la réunion.",
+        "options": [],
+        "hints": "💡 提示：pouvoir 的将来时词根 pourr-。否定：ne pourra pas。",
+        "answer": "ne pourra pas"
+    },
+    {
+        "exercise_block": "Exercice 9.8",
+        "question_number": "4",
+        "question_text": "Chez lui, on ___ (geler).",
+        "options": [],
+        "hints": "💡 提示：geler (结冰/挨冻) 的将来时：gèlera (注意音符变化)。",
+        "answer": "gèlera"
+    },
+    {
+        "exercise_block": "Exercice 9.8",
+        "question_number": "5",
+        "question_text": "Si nous avons le temps, nous ___ (se promener) au bord du lac.",
+        "options": [],
+        "hints": "💡 提示：代词式动词将来时。变位：nous nous promènerons。",
+        "answer": "nous nous promènerons"
+    },
+    {
+        "exercise_block": "Exercice 9.8",
+        "question_number": "6",
+        "question_text": "Dès que j'aurai terminé l'enregistrement, je vous ___ (envoyer) un CD.",
+        "options": [],
+        "hints": "💡 提示：envoyer 的将来时词根 enverr-。变位：enverrai。",
+        "answer": "enverrai"
+    },
+    {
+        "exercise_block": "Exercice 9.8",
+        "question_number": "7",
+        "question_text": "Elle dormira tandis que je ___ (faire) la vaisselle.",
+        "options": [],
+        "hints": "💡 提示：tandis que (而) 引导两个同时发生的将来动作。变位：ferai。",
+        "answer": "ferai"
+    },
+    {
+        "exercise_block": "Exercice 9.8",
+        "question_number": "8",
+        "question_text": "Tant qu'ils seront là, tout ___ (aller) bien.",
+        "options": [],
+        "hints": "💡 提示：aller 的将来时。变位：ira。",
+        "answer": "ira"
+    },
+    {
+        "exercise_block": "Exercice 9.8",
+        "question_number": "9",
+        "question_text": "Quand tu vivras à Paris, tu ___ (découvrir) beaucoup de nouvelles choses.",
+        "options": [],
+        "hints": "💡 提示：découvrir 的将来时。变位：découvriras。",
+        "answer": "découvriras"
+    },
+    {
+        "exercise_block": "Exercice 9.8",
+        "question_number": "10",
+        "question_text": "Aussitôt que le paquet sera arrivé, je vous ___ (contacter).",
+        "options": [],
+        "hints": "💡 提示：contacter 的将来时。变位：contacterai。",
+        "answer": "contacterai"
+    }
+]
     },
     {
         "page": 95,
@@ -9959,18 +9245,7 @@
                 "question_text": "He was surprised. ________________.",
                 "hints": "(être)",
                 "answer": "Il fut surpris."
-            }
+               }
         ]
-    },
-    {
-        "page": 149,
-        "data": []
-    },
-    {
-        "page": 150,
-        "data": []
     }
-
 ]
-
-
