@@ -9025,5 +9025,2233 @@
     "answer": "Il sourit et partit."
   }
         ]
-    }
+    },
+{
+    "page": 17.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 17.1",
+        "question_number": "1",
+        "question_text": "Mettez à la voix passive : Le policier a attrapé le voleur.",
+        "hints": "💡 提示：主动句为复合过去时（a attrapé），被动句中助动词 être 需变为复合过去时（a été），过去分词 attrapé 需与主语 Le voleur 配合。",
+        "answer": "Le voleur a été attrapé par le policier."
+      },
+      {
+        "exercise_block": "Exercice 17.1",
+        "question_number": "2",
+        "question_text": "Mettez à la voix passive : Le roi a signé le traité.",
+        "hints": "💡 提示：主动句为复合过去时，助动词 être 变为 a été，引出施动者用 par。",
+        "answer": "Le traité a été signé par le roi."
+      },
+      {
+        "exercise_block": "Exercice 17.1",
+        "question_number": "3",
+        "question_text": "Mettez à la voix passive : Le médecin prescrit un nouveau traitement.",
+        "hints": "💡 提示：主动句为现在时（prescrit），被动句中 être 需用现在时（est）。",
+        "answer": "Un nouveau traitement est prescrit par le médecin."
+      },
+      {
+        "exercise_block": "Exercice 17.1",
+        "question_number": "4",
+        "question_text": "Mettez à la voix passive : Le cambrioleur a volé le tableau.",
+        "hints": "💡 提示：时态为复合过去时。Le tableau 作主语，助动词用 a été。",
+        "answer": "Le tableau a été volé par le cambrioleur."
+      },
+      {
+        "exercise_block": "Exercice 17.1",
+        "question_number": "5",
+        "question_text": "Mettez à la voix passive : Le chien a mordu l’homme au chapeau gris.",
+        "hints": "💡 提示：mordre 的过去分词为 mordu。注意保持介词短语 au chapeau gris 跟随名词 l’homme。",
+        "answer": "L’homme au chapeau gris a été mordu par le chien."
+      },
+      {
+        "exercise_block": "Exercice 17.1",
+        "question_number": "6",
+        "question_text": "Mettez à la voix passive : L’ennemi a pris l’otage.",
+        "hints": "💡 提示：prendre 的过去分词为 pris。",
+        "answer": "L’otage a été pris par l’ennemi."
+      },
+      {
+        "exercise_block": "Exercice 17.1",
+        "question_number": "7",
+        "question_text": "Mettez à la voix passive : L’enfant a déchiré le canapé.",
+        "hints": "💡 提示：déchirer 为规则 -er 动词，复合过去时被动语态为 a été déchiré。",
+        "answer": "Le canapé a été déchiré par l’enfant."
+      },
+      {
+        "exercise_block": "Exercice 17.1",
+        "question_number": "8",
+        "question_text": "Mettez à la voix passive : Le marchand d’art vendra un célèbre tableau.",
+        "hints": "💡 提示：主动句为简单将来时（vendra），被动句中 être 需用简单将来时（sera）。",
+        "answer": "Un célèbre tableau sera vendu par le marchand d’art."
+      },
+      {
+        "exercise_block": "Exercice 17.1",
+        "question_number": "9",
+        "question_text": "Mettez à la voix passive : Les envahisseurs prennent la forteresse.",
+        "hints": "💡 提示：主动句为现在时。新主语 la forteresse 是阴性单数，过去分词需加 -e (prise)。",
+        "answer": "La forteresse est prise par les envahisseurs."
+      },
+      {
+        "exercise_block": "Exercice 17.1",
+        "question_number": "10",
+        "question_text": "Mettez à la voix passive : Le professeur félicite les étudiants.",
+        "hints": "💡 提示：主动句为现在时。新主语 les étudiants 是阳性复数，être 变位为 sont，过去分词需加 -s。",
+        "answer": "Les étudiants sont félicités par le professeur."
+      }
+    ]
+  },
+  {
+    "page": 17.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 17.2",
+        "question_number": "1",
+        "question_text": "Mettez à la voix active : Le gâteau a été fait par le chef.",
+        "hints": "💡 提示：被动句的 être 处于复合过去时（a été），还原为主动时动词 faire 也需用复合过去时（a fait）。",
+        "answer": "Le chef a fait le gâteau."
+      },
+      {
+        "exercise_block": "Exercice 17.2",
+        "question_number": "2",
+        "question_text": "Mettez à la voix active : L’objet a été conçu par l’artisan.",
+        "hints": "💡 提示：concevoir 的复合过去时为 a conçu。",
+        "answer": "L’artisan a conçu l’objet."
+      },
+      {
+        "exercise_block": "Exercice 17.2",
+        "question_number": "3",
+        "question_text": "Mettez à la voix active : Le château a été érigé par le roi.",
+        "hints": "💡 提示：ériger 的复合过去时为 a érigé。",
+        "answer": "Le roi a érigé le château."
+      },
+      {
+        "exercise_block": "Exercice 17.2",
+        "question_number": "4",
+        "question_text": "Mettez à la voix active : Le document sera signé par l’ambassadeur.",
+        "hints": "💡 提示：被动句为简单将来时（sera），还原时动词 signer 也要用简单将来时（signera）。",
+        "answer": "L’ambassadeur signera le document."
+      },
+      {
+        "exercise_block": "Exercice 17.2",
+        "question_number": "5",
+        "question_text": "Mettez à la voix active : Le tableau a été vendu par le propriétaire.",
+        "hints": "💡 提示：时态还原为复合过去时 a vendu。",
+        "answer": "Le propriétaire a vendu le tableau."
+      },
+      {
+        "exercise_block": "Exercice 17.2",
+        "question_number": "6",
+        "question_text": "Mettez à la voix active : Le fauteuil est griffé par le chat.",
+        "hints": "💡 提示：被动句为现在时（est），还原时动词 griffer 用现在时（griffe）。",
+        "answer": "Le chat griffe le fauteuil."
+      },
+      {
+        "exercise_block": "Exercice 17.2",
+        "question_number": "7",
+        "question_text": "Mettez à la voix active : L’amende a été payée par le malfaiteur.",
+        "hints": "💡 提示：还原复合过去时，注意主动句中不需与宾语进行多余的性数配合，payer 变为 a payé。",
+        "answer": "Le malfaiteur a payé l’amende."
+      },
+      {
+        "exercise_block": "Exercice 17.2",
+        "question_number": "8",
+        "question_text": "Mettez à la voix active : Le vase a été volé par l’antiquaire.",
+        "hints": "💡 提示：时态还原为复合过去时 a volé。",
+        "answer": "L’antiquaire a volé le vase."
+      },
+      {
+        "exercise_block": "Exercice 17.2",
+        "question_number": "9",
+        "question_text": "Mettez à la voix active : Le livre sera écrit par un journaliste.",
+        "hints": "💡 提示：被动句是简单将来时（sera），动词 écrire 的简单将来时是 écrira。",
+        "answer": "Un journaliste écrira le livre."
+      },
+      {
+        "exercise_block": "Exercice 17.2",
+        "question_number": "10",
+        "question_text": "Mettez à la voix active : Les élèves sont punis par le professeur.",
+        "hints": "💡 提示：被动句是现在时（sont），动词 punir 用第三人称单数现在时（punit）。",
+        "answer": "Le professeur punit les élèves."
+      }
+    ]
+  },
+  {
+    "page": 17.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 17.3",
+        "question_number": "1",
+        "question_text": "Traduisez en utilisant la voix passive : The castle is being built by the queen.",
+        "hints": "💡 提示：英语的 is being built 翻译为法语的现在时被动语态 est construit。引出施动者用 par。",
+        "answer": "Le château est construit par la reine."
+      },
+      {
+        "exercise_block": "Exercice 17.3",
+        "question_number": "2",
+        "question_text": "Traduisez en utilisant la voix passive : The painting was stolen by an art dealer.",
+        "hints": "💡 提示：表示过去发生的单一事件，用复合过去时 a été volé。",
+        "answer": "Le tableau a été volé par un marchand d’art."
+      },
+      {
+        "exercise_block": "Exercice 17.3",
+        "question_number": "3",
+        "question_text": "Traduisez en utilisant la voix passive : A pink hat was found in the park yesterday.",
+        "hints": "💡 提示：复合过去时。找回/找到：retrouver。注意单词顺序和时态配合。",
+        "answer": "Un chapeau rose a été retrouvé dans le parc hier."
+      },
+      {
+        "exercise_block": "Exercice 17.3",
+        "question_number": "4",
+        "question_text": "Traduisez en utilisant la voix passive : This verb is followed by the indicative (mood).",
+        "hints": "💡 提示：表示状态和规律，“被...跟随”固定用法为 être suivi de。",
+        "answer": "Ce verbe est suivi de l’indicatif."
+      },
+      {
+        "exercise_block": "Exercice 17.3",
+        "question_number": "5",
+        "question_text": "Traduisez en utilisant la voix passive : The house is surrounded by the police.",
+        "hints": "💡 提示：“被包围”如果是被具体有主观动作的人/机构包围，用 par (par la police)。阴性主语注意性数配合。",
+        "answer": "La maison est entourée par la police."
+      },
+      {
+        "exercise_block": "Exercice 17.3",
+        "question_number": "6",
+        "question_text": "Traduisez en utilisant la voix passive : A new remedy will be invented before 2050.",
+        "hints": "💡 提示：时态为简单将来时 sera inventé。",
+        "answer": "Un nouveau remède sera inventé avant 2050."
+      },
+      {
+        "exercise_block": "Exercice 17.3",
+        "question_number": "7",
+        "question_text": "Traduisez en utilisant la voix passive : This vaccine was invented in 1885.",
+        "hints": "💡 提示：时态为复合过去时 a été inventé。",
+        "answer": "Ce vaccin a été inventé en 1885."
+      },
+      {
+        "exercise_block": "Exercice 17.3",
+        "question_number": "8",
+        "question_text": "Traduisez en utilisant la voix passive : The decision was made on Monday.",
+        "hints": "💡 提示：“做决定”用 prendre une décision，被动形式用 a été prise (注意阴性配合)。",
+        "answer": "La décision a été prise lundi."
+      },
+      {
+        "exercise_block": "Exercice 17.3",
+        "question_number": "9",
+        "question_text": "Traduisez en utilisant la voix passive : The letter was read by a witness.",
+        "hints": "💡 提示：时态为复合过去时。主语 la lettre 是阴性，lire 的过去分词 lu 需配合为 lue。",
+        "answer": "La lettre a été lue par un témoin."
+      },
+      {
+        "exercise_block": "Exercice 17.3",
+        "question_number": "10",
+        "question_text": "Traduisez en utilisant la voix passive : The house is surrounded by trees.",
+        "hints": "💡 提示：被没有主观意愿的事物（如树木）包围时，介词通常用 de (entourée d'arbres) 而不是 par。",
+        "answer": "La maison est entourée d’arbres."
+      }
+    ]
+  },
+  {
+    "page": 18.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 18.1",
+        "question_number": "1",
+        "question_text": "Mettez au discours indirect : Le programme du parti est bien défini. (Commencez par : Il veut savoir si...)",
+        "hints": "💡 提示：主句动词（veut）是现在时，从句时态不变，直接用 si 连接即可。",
+        "answer": "Il veut savoir si le programme du parti est bien défini."
+      },
+      {
+        "exercise_block": "Exercice 18.1",
+        "question_number": "2",
+        "question_text": "Mettez au discours indirect : Nous allons boycotter les prochaines élections. (Commencez par : Il veut savoir si...)",
+        "hints": "💡 提示：主句为现在时，直接保留从句的最近将来时（allons boycotter）。",
+        "answer": "Il veut savoir si nous allons boycotter les prochaines élections."
+      },
+      {
+        "exercise_block": "Exercice 18.1",
+        "question_number": "3",
+        "question_text": "Mettez au discours indirect : Tu vas voter dimanche. (Commencez par : Il veut savoir si...)",
+        "hints": "💡 提示：直接加上 si，语序和时态均不需要改变。",
+        "answer": "Il veut savoir si tu vas voter dimanche."
+      },
+      {
+        "exercise_block": "Exercice 18.1",
+        "question_number": "4",
+        "question_text": "Mettez au discours indirect : Le ministre de l’éducation a proposé des réformes. (Commencez par : Il veut savoir si...)",
+        "hints": "💡 提示：主句是现在时，从句的复合过去时保持不变。",
+        "answer": "Il veut savoir si le ministre de l’éducation a proposé des réformes."
+      },
+      {
+        "exercise_block": "Exercice 18.1",
+        "question_number": "5",
+        "question_text": "Mettez au discours indirect : Elle acceptera notre proposition. (Commencez par : Il veut savoir si...)",
+        "hints": "💡 提示：注意 si 遇到 elle 时不需要省音（只有遇到 il/ils 才变成 s'il / s'ils）。",
+        "answer": "Il veut savoir si elle acceptera notre proposition."
+      },
+      {
+        "exercise_block": "Exercice 18.1",
+        "question_number": "6",
+        "question_text": "Mettez au discours indirect : Le parti a choisi son candidat. (Commencez par : Il veut savoir si...)",
+        "hints": "💡 提示：主句为现在时，直接用 si 引导保留原时态。",
+        "answer": "Il veut savoir si le parti a choisi son candidat."
+      },
+      {
+        "exercise_block": "Exercice 18.1",
+        "question_number": "7",
+        "question_text": "Mettez au discours indirect : Les femmes peuvent voter dans ce pays. (Commencez par : Il veut savoir si...)",
+        "hints": "💡 提示：直接在句子前加上 Il veut savoir si。",
+        "answer": "Il veut savoir si les femmes peuvent voter dans ce pays."
+      },
+      {
+        "exercise_block": "Exercice 18.1",
+        "question_number": "8",
+        "question_text": "Mettez au discours indirect : Vous viendrez samedi soir. (Commencez par : Il veut savoir si...)",
+        "hints": "💡 提示：保留简单将来时 viendrez。",
+        "answer": "Il veut savoir si vous viendrez samedi soir."
+      },
+      {
+        "exercise_block": "Exercice 18.1",
+        "question_number": "9",
+        "question_text": "Mettez au discours indirect : Elle a fini ses recherches. (Commencez par : Il veut savoir si...)",
+        "hints": "💡 提示：si 后接 elle，不要缩合为 s'elle，必须写成 si elle。",
+        "answer": "Il veut savoir si elle a fini ses recherches."
+      },
+      {
+        "exercise_block": "Exercice 18.1",
+        "question_number": "10",
+        "question_text": "Mettez au discours indirect : La parité sera jamais réalisée. (Commencez par : Il veut savoir si...)",
+        "hints": "💡 提示：时态不变，直接拼接即可。",
+        "answer": "Il veut savoir si la parité sera jamais réalisée."
+      }
+    ]
+  },
+  {
+    "page": 18.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 18.2",
+        "question_number": "1",
+        "question_text": "Reliez : Elle sera absente mardi. (Elle annonce que)",
+        "hints": "💡 提示：主句是现在时（annonce），从句时态不变。注意 que 遇到 elle 需要省音（qu'elle）。",
+        "answer": "Elle annonce qu’elle sera absente mardi."
+      },
+      {
+        "exercise_block": "Exercice 18.2",
+        "question_number": "2",
+        "question_text": "Reliez : Paul s’est trompé. (Ils avouent que)",
+        "hints": "💡 提示：主句为现在时，直接连接，保留复合过去时。",
+        "answer": "Ils avouent que Paul s’est trompé."
+      },
+      {
+        "exercise_block": "Exercice 18.2",
+        "question_number": "3",
+        "question_text": "Reliez : Ses produits sont les meilleurs. (La marchande dit)",
+        "hints": "💡 提示：主句为现在时，直接用 que 连接。",
+        "answer": "La marchande dit que ses produits sont les meilleurs."
+      },
+      {
+        "exercise_block": "Exercice 18.2",
+        "question_number": "4",
+        "question_text": "Reliez : Elles avaient tort. (Tu sais bien que)",
+        "hints": "💡 提示：que 遇到 elles 需要省音（qu'elles）。",
+        "answer": "Tu sais bien qu’elles avaient tort."
+      },
+      {
+        "exercise_block": "Exercice 18.2",
+        "question_number": "5",
+        "question_text": "Reliez : Le candidat a peu de chance de gagner. (On se rend compte que)",
+        "hints": "💡 提示：直接连接，保留原句形式。",
+        "answer": "On se rend compte que le candidat a peu de chance de gagner."
+      },
+      {
+        "exercise_block": "Exercice 18.2",
+        "question_number": "6",
+        "question_text": "Reliez : Le musée est ouvert. (Ils ne savent pas si)",
+        "hints": "💡 提示：用 si 连接表疑问“是否”。",
+        "answer": "Ils ne savent pas si le musée est ouvert."
+      },
+      {
+        "exercise_block": "Exercice 18.2",
+        "question_number": "7",
+        "question_text": "Reliez : Tu n’avais rien entendu. (Tu réponds que)",
+        "hints": "💡 提示：主句现在时，从句继续保留愈过去时。",
+        "answer": "Tu réponds que tu n’avais rien entendu."
+      },
+      {
+        "exercise_block": "Exercice 18.2",
+        "question_number": "8",
+        "question_text": "Reliez : Il n’est jamais allé en France. (Elle nous apprend que)",
+        "hints": "💡 提示：que 遇到 il 必须省音变为 qu'il。",
+        "answer": "Elle nous apprend qu’il n’est jamais allé en France."
+      },
+      {
+        "exercise_block": "Exercice 18.2",
+        "question_number": "9",
+        "question_text": "Reliez : Ils avaient dilapidé leur fortune. (Il nous déclare que)",
+        "hints": "💡 提示：que + ils 变为 qu'ils。",
+        "answer": "Il nous déclare qu’ils avaient dilapidé leur fortune."
+      },
+      {
+        "exercise_block": "Exercice 18.2",
+        "question_number": "10",
+        "question_text": "Reliez : Le peintre habite. (Il ignore où)",
+        "hints": "💡 提示：引出地点状语从句用 où。",
+        "answer": "Il ignore où le peintre habite."
+      }
+    ]
+  },
+  {
+    "page": 18.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 18.3",
+        "question_number": "1",
+        "question_text": "Commencez par 'J’ai entendu dire que' : Tu as accepté leur offre la semaine dernière.",
+        "hints": "💡 提示：时态配合规则（Concordance des temps）：主句是过去时，从句的复合过去时要变成愈过去时（avais accepté）。",
+        "answer": "J’ai entendu dire que tu avais accepté leur offre la semaine dernière."
+      },
+      {
+        "exercise_block": "Exercice 18.3",
+        "question_number": "2",
+        "question_text": "Commencez par 'J’ai entendu dire que' : Elle a vendu sa voiture hier.",
+        "hints": "💡 提示：主句是过去时，从句的 a vendu 需降级为愈过去时 avait vendu。",
+        "answer": "J’ai entendu dire qu’elle avait vendu sa voiture hier."
+      },
+      {
+        "exercise_block": "Exercice 18.3",
+        "question_number": "3",
+        "question_text": "Commencez par 'J’ai entendu dire que' : Tu travailleras à Chicago l’an prochain.",
+        "hints": "💡 提示：主句是过去时，从句的简单将来时（travailleras）要变成条件式现在时（travaillerais）。",
+        "answer": "J’ai entendu dire que tu travaillerais à Chicago l’an prochain."
+      },
+      {
+        "exercise_block": "Exercice 18.3",
+        "question_number": "4",
+        "question_text": "Commencez par 'J’ai entendu dire que' : Elle ira en Asie demain.",
+        "hints": "💡 提示：主句过去时，将来时 ira 要变成条件式现在时 irait。",
+        "answer": "J’ai entendu dire qu’elle irait en Asie demain."
+      },
+      {
+        "exercise_block": "Exercice 18.3",
+        "question_number": "5",
+        "question_text": "Commencez par 'J’ai entendu dire que' : Ils se sont mariés le mois dernier.",
+        "hints": "💡 提示：主句过去时，从句复合过去时 se sont mariés 需变成愈过去时 s'étaient mariés。",
+        "answer": "J’ai entendu dire qu’ils s’étaient mariés le mois dernier."
+      },
+      {
+        "exercise_block": "Exercice 18.3",
+        "question_number": "6",
+        "question_text": "Commencez par 'J’ai entendu dire que' : Il fait froid à Moscou aujourd’hui.",
+        "hints": "💡 提示：主句过去时，从句的现在时 fait 要变成未完成过去时 faisait。",
+        "answer": "J’ai entendu dire qu’il faisait froid à Moscou aujourd’hui."
+      },
+      {
+        "exercise_block": "Exercice 18.3",
+        "question_number": "7",
+        "question_text": "Commencez par 'J’ai entendu dire que' : Ils s’installeront au Canada l’an prochain.",
+        "hints": "💡 提示：将来时 s'installeront 需根据时态配合变为条件式现在时 s'installeraient。",
+        "answer": "J’ai entendu dire qu’ils s’installeraient au Canada l’an prochain."
+      },
+      {
+        "exercise_block": "Exercice 18.3",
+        "question_number": "8",
+        "question_text": "Commencez par 'J’ai entendu dire que' : Il a quitté son poste vendredi dernier.",
+        "hints": "💡 提示：复合过去时 a quitté 要退级变为愈过去时 avait quitté。",
+        "answer": "J’ai entendu dire qu’il avait quitté son poste vendredi dernier."
+      },
+      {
+        "exercise_block": "Exercice 18.3",
+        "question_number": "9",
+        "question_text": "Commencez par 'J’ai entendu dire que' : Elle est la candidate favorite en ce moment.",
+        "hints": "💡 提示：现在时 est 根据时态配合要变为未完成过去时 était。",
+        "answer": "J’ai entendu dire qu’elle était la candidate favorite en ce moment."
+      },
+      {
+        "exercise_block": "Exercice 18.3",
+        "question_number": "10",
+        "question_text": "Commencez par 'J’ai entendu dire que' : Tu as pris beaucoup de photos hier soir.",
+        "hints": "💡 提示：复合过去时 as pris 变为愈过去时 avais pris。",
+        "answer": "J’ai entendu dire que tu avais pris beaucoup de photos hier soir."
+      }
+    ]
+  },
+  {
+    "page": 18.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 18.4",
+        "question_number": "1",
+        "question_text": "Traduisez : They know you are living in Paris. (utilisez vous)",
+        "hints": "💡 提示：主句 (Ils savent) 是现在时，从句 (habitez) 时态无需变动。",
+        "answer": "Ils (Elles) savent que vous habitez à Paris."
+      },
+      {
+        "exercise_block": "Exercice 18.4",
+        "question_number": "2",
+        "question_text": "Traduisez : I have heard you are living in Paris. (utilisez vous)",
+        "hints": "💡 提示：主句 (J'ai entendu dire) 是过去时，从句的现在时必须降级为未完成过去时 (habitiez)。",
+        "answer": "J’ai entendu dire que vous habitiez à Paris."
+      },
+      {
+        "exercise_block": "Exercice 18.4",
+        "question_number": "3",
+        "question_text": "Traduisez : I heard you lived in Paris in 1995. (utilisez vous)",
+        "hints": "💡 提示：主句过去时，从句原为过去时（复合过去时/简单过去时），需配合变为愈过去时 (aviez habité)。",
+        "answer": "J’ai entendu dire que vous aviez habité à Paris en 1995."
+      },
+      {
+        "exercise_block": "Exercice 18.4",
+        "question_number": "4",
+        "question_text": "Traduisez : I heard you’ll go to Paris next year. (utilisez vous)",
+        "hints": "💡 提示：主句过去时，从句将来时要变为条件式现在时 (iriez)。",
+        "answer": "J’ai entendu dire que vous iriez à Paris l’année prochaine."
+      },
+      {
+        "exercise_block": "Exercice 18.4",
+        "question_number": "5",
+        "question_text": "Traduisez : He says his cat is adorable.",
+        "hints": "💡 提示：主句现在时 (Il dit que)，从句时态不变 (est)。",
+        "answer": "Il dit que son chat est adorable."
+      },
+      {
+        "exercise_block": "Exercice 18.4",
+        "question_number": "6",
+        "question_text": "Traduisez : I heard you had a cat. (utilisez vous)",
+        "hints": "💡 提示：主句过去时，从句表过去的状态，用未完成过去时 (aviez)。",
+        "answer": "J’ai entendu dire que vous aviez un chat."
+      },
+      {
+        "exercise_block": "Exercice 18.4",
+        "question_number": "7",
+        "question_text": "Traduisez : I heard you had a cat when you lived on the Victor Hugo Boulevard.",
+        "hints": "💡 提示：主句过去时，从句过去状态均使用未完成过去时 (aviez, habitiez)。",
+        "answer": "J’ai entendu dire que vous aviez un chat quand vous habitiez boulevard Victor Hugo."
+      },
+      {
+        "exercise_block": "Exercice 18.4",
+        "question_number": "8",
+        "question_text": "Traduisez : I heard your sister will give you her cat. (utilisez vous)",
+        "hints": "💡 提示：主句过去时，表示将来的动作 (will give) 要用条件式现在时 (donnerait)。",
+        "answer": "J’ai entendu dire que votre sœur vous donnerait son chat."
+      },
+      {
+        "exercise_block": "Exercice 18.4",
+        "question_number": "9",
+        "question_text": "Traduisez : I was told you voted for me. (utilisez vous)",
+        "hints": "💡 提示：“I was told”常用 On m'a dit 表达；从句动作先于主句发生，用愈过去时 (aviez voté)。",
+        "answer": "On m’a dit que vous aviez voté pour moi."
+      },
+      {
+        "exercise_block": "Exercice 18.4",
+        "question_number": "10",
+        "question_text": "Traduisez : We realize she has a chance to win.",
+        "hints": "💡 提示：“We realize” = Nous nous rendons compte；主句现在时，从句现在时不变 (a)。",
+        "answer": "Nous nous rendons compte qu’elle a une chance de gagner."
+      }
+    ]
+  },
+  {
+    "page": 19.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 19.1",
+        "question_number": "1",
+        "question_text": "Mettez à l’impératif : Prendre le train de neuf heures. (tu)",
+        "hints": "💡 提示：prendre 是 -re 动词，命令式 tu 人称变位保留 s（Prends）。",
+        "answer": "Prends le train de neuf heures!"
+      },
+      {
+        "exercise_block": "Exercice 19.1",
+        "question_number": "2",
+        "question_text": "Mettez à l’impératif : Regarder le film à la télé ce soir. (vous)",
+        "hints": "💡 提示：vous 人称的命令式与现在时变位相同（Regardez），直接去掉主语即可。",
+        "answer": "Regardez le film à la télé ce soir!"
+      },
+      {
+        "exercise_block": "Exercice 19.1",
+        "question_number": "3",
+        "question_text": "Mettez à l’impératif : Dîner sur la terrasse. (nous)",
+        "hints": "💡 提示：nous 人称表建议“我们...吧”。",
+        "answer": "Dînons sur la terrasse!"
+      },
+      {
+        "exercise_block": "Exercice 19.1",
+        "question_number": "4",
+        "question_text": "Mettez à l’impératif : Acheter le journal. (tu)",
+        "hints": "💡 提示：acheter 是第一组 (-er) 动词，tu 的命令式必须去掉词尾的 -s（Achète）。",
+        "answer": "Achète le journal!"
+      },
+      {
+        "exercise_block": "Exercice 19.1",
+        "question_number": "5",
+        "question_text": "Mettez à l’impératif : Boire à sa santé. (nous)",
+        "hints": "💡 提示：boire 的 nous 现在时变位是 buvons，直接作命令式。",
+        "answer": "Buvons à sa santé!"
+      },
+      {
+        "exercise_block": "Exercice 19.1",
+        "question_number": "6",
+        "question_text": "Mettez à l’impératif : Expliquer les conditions. (vous)",
+        "hints": "💡 提示：vous 人称动词变位加 -ez。",
+        "answer": "Expliquez les conditions!"
+      },
+      {
+        "exercise_block": "Exercice 19.1",
+        "question_number": "7",
+        "question_text": "Mettez à l’impératif : Ne pas courir si vite. (tu)",
+        "hints": "💡 提示：否定命令式，ne pas 放在变位动词两边。courir 是 -ir 动词，tu 人称保留 -s (cours)。",
+        "answer": "Ne cours pas si vite!"
+      },
+      {
+        "exercise_block": "Exercice 19.1",
+        "question_number": "8",
+        "question_text": "Mettez à l’impératif : Épeler ton nom. (tu)",
+        "hints": "💡 提示：épeler 是拼写变化动词，tu 的变位要双写 l (épelles)，并且作为 -er 动词的命令式，要去掉 -s。",
+        "answer": "Épelle ton nom!"
+      },
+      {
+        "exercise_block": "Exercice 19.1",
+        "question_number": "9",
+        "question_text": "Mettez à l’impératif : Prêter votre dictionnaire à Marie. (vous)",
+        "hints": "💡 提示：vous 人称的命令式（Prêtez）。",
+        "answer": "Prêtez votre dictionnaire à Marie!"
+      },
+      {
+        "exercise_block": "Exercice 19.1",
+        "question_number": "10",
+        "question_text": "Mettez à l’impératif : Ne pas inviter Denis. (tu)",
+        "hints": "💡 提示：-er 动词的 tu 人称命令式去掉 s，注意 n' 和 pas 夹住动词。",
+        "answer": "N’invite pas Denis!"
+      }
+    ]
+  },
+  {
+    "page": 19.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 19.2",
+        "question_number": "1",
+        "question_text": "Mettez à l’impératif : Se laver les mains. (tu)",
+        "hints": "💡 提示：肯定命令式中，自反代词放在动词后，te 变成 toi，中间加连字符（Lave-toi）。",
+        "answer": "Lave-toi les mains!"
+      },
+      {
+        "exercise_block": "Exercice 19.2",
+        "question_number": "2",
+        "question_text": "Mettez à l’impératif : Se balader dans la forêt. (vous)",
+        "hints": "💡 提示：vous 的自反代词放在动词之后，加连字符。",
+        "answer": "Baladez-vous dans la forêt!"
+      },
+      {
+        "exercise_block": "Exercice 19.2",
+        "question_number": "3",
+        "question_text": "Mettez à l’impératif : S’écrire plus souvent. (nous)",
+        "hints": "💡 提示：nous 的自反代词放在动词后，加连字符。",
+        "answer": "Écrivons-nous plus souvent!"
+      },
+      {
+        "exercise_block": "Exercice 19.2",
+        "question_number": "4",
+        "question_text": "Mettez à l’impératif : Ne pas se coucher trop tard. (tu)",
+        "hints": "💡 提示：在否定命令式中，自反代词要保持在动词前面（Ne te couche pas）。",
+        "answer": "Ne te couche pas trop tard!"
+      },
+      {
+        "exercise_block": "Exercice 19.2",
+        "question_number": "5",
+        "question_text": "Mettez à l’impératif : Se réveiller à cinq heures. (vous)",
+        "hints": "💡 提示：肯定形式，代词后置（Réveillez-vous）。",
+        "answer": "Réveillez-vous à cinq heures!"
+      },
+      {
+        "exercise_block": "Exercice 19.2",
+        "question_number": "6",
+        "question_text": "Mettez à l’impératif : S’habiller vite. (tu)",
+        "hints": "💡 提示：肯定命令式代词后置，te 变 toi（Habille-toi）。",
+        "answer": "Habille-toi vite!"
+      },
+      {
+        "exercise_block": "Exercice 19.2",
+        "question_number": "7",
+        "question_text": "Mettez à l’impératif : Ne pas se tromper de route. (vous)",
+        "hints": "💡 提示：否定命令式，代词在动词前（Ne vous trompez pas）。",
+        "answer": "Ne vous trompez pas de route!"
+      },
+      {
+        "exercise_block": "Exercice 19.2",
+        "question_number": "8",
+        "question_text": "Mettez à l’impératif : Se retrouver devant la Brasserie Lipp. (nous)",
+        "hints": "💡 提示：肯定命令式代词后置，加连字符。",
+        "answer": "Retrouvons-nous devant la Brasserie Lipp!"
+      },
+      {
+        "exercise_block": "Exercice 19.2",
+        "question_number": "9",
+        "question_text": "Mettez à l’impératif : Se dépêcher. (tu)",
+        "hints": "💡 提示：肯定命令式代词后置（Dépêche-toi）。",
+        "answer": "Dépêche-toi!"
+      },
+      {
+        "exercise_block": "Exercice 19.2",
+        "question_number": "10",
+        "question_text": "Mettez à l’impératif : Se rencontrer un jour à Paris. (nous)",
+        "hints": "💡 提示：肯定命令式代词后置（Rencontrons-nous）。",
+        "answer": "Rencontrons-nous un jour à Paris!"
+      }
+    ]
+  },
+  {
+    "page": 19.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 19.3",
+        "question_number": "1",
+        "question_text": "Traduisez : Don’t forget your passport! (tu)",
+        "hints": "💡 提示：否定命令式。oublier 是 -er 动词，tu 人称去掉 s。",
+        "answer": "N’oublie pas ton passeport!"
+      },
+      {
+        "exercise_block": "Exercice 19.3",
+        "question_number": "2",
+        "question_text": "Traduisez : Let’s rest on the bench! (nous)",
+        "hints": "💡 提示：代词式动词 se reposer 的肯定命令式（nous 人称代词后置）。",
+        "answer": "Reposons-nous sur le banc!"
+      },
+      {
+        "exercise_block": "Exercice 19.3",
+        "question_number": "3",
+        "question_text": "Traduisez : Bring your identification card! (vous)",
+        "hints": "💡 提示：apporter，vous 人称命令式。",
+        "answer": "Apportez votre carte d’identité!"
+      },
+      {
+        "exercise_block": "Exercice 19.3",
+        "question_number": "4",
+        "question_text": "Traduisez : Tell us his first name! (tu)",
+        "hints": "💡 提示：dire 的命令式 (dis)，加上间接宾语代词 nous。",
+        "answer": "Dis-nous son prénom!"
+      },
+      {
+        "exercise_block": "Exercice 19.3",
+        "question_number": "5",
+        "question_text": "Traduisez : Take this medicine! (tu)",
+        "hints": "💡 提示：prendre 的 tu 人称命令式 (prends)。",
+        "answer": "Prends ce médicament!"
+      },
+      {
+        "exercise_block": "Exercice 19.3",
+        "question_number": "6",
+        "question_text": "Traduisez : Don’t be late! (vous)",
+        "hints": "💡 提示：être 的命令式是不规则的（sois, soyons, soyez）。",
+        "answer": "Ne soyez pas en retard!"
+      },
+      {
+        "exercise_block": "Exercice 19.3",
+        "question_number": "7",
+        "question_text": "Traduisez : Let’s go to Italy! (nous)",
+        "hints": "💡 提示：aller 的 nous 命令式 (allons)。",
+        "answer": "Allons en Italie!"
+      },
+      {
+        "exercise_block": "Exercice 19.3",
+        "question_number": "8",
+        "question_text": "Traduisez : Close the door! (tu)",
+        "hints": "💡 提示：fermer 是 -er 动词，去掉 s。",
+        "answer": "Ferme la porte!"
+      },
+      {
+        "exercise_block": "Exercice 19.3",
+        "question_number": "9",
+        "question_text": "Traduisez : Wait for me! (vous)",
+        "hints": "💡 提示：attendre，带重读人称代词 moi 并用连字符连接。",
+        "answer": "Attendez-moi!"
+      },
+      {
+        "exercise_block": "Exercice 19.3",
+        "question_number": "10",
+        "question_text": "Traduisez : Write your address on the envelope! (vous)",
+        "hints": "💡 提示：écrire 的 vous 命令式 (écrivez)。",
+        "answer": "Écrivez votre adresse sur l’enveloppe!"
+      }
+    ]
+  },
+  {
+    "page": 20.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 20.1",
+        "question_number": "1",
+        "question_text": "Complétez avec l’article partitif approprié : Il prend _____ vacances.",
+        "hints": "💡 提示：观察名词 vacances 的词尾，判断其单复数形式以选择正确的冠词。",
+        "answer": "des"
+      },
+      {
+        "exercise_block": "Exercice 20.1",
+        "question_number": "2",
+        "question_text": "Complétez avec l’article partitif approprié : Nous mangeons _____ pain.",
+        "hints": "💡 提示：pain（面包）在法语中是一个阳性不可数名词。",
+        "answer": "du"
+      },
+      {
+        "exercise_block": "Exercice 20.1",
+        "question_number": "3",
+        "question_text": "Complétez avec l’article partitif approprié : Elle visite _____ monuments.",
+        "hints": "💡 提示：注意名词 monuments 的单复数属性。",
+        "answer": "des"
+      },
+      {
+        "exercise_block": "Exercice 20.1",
+        "question_number": "4",
+        "question_text": "Complétez avec l’article partitif approprié : Elle a _____ chance.",
+        "hints": "💡 提示：chance（运气）是一个阴性不可数名词。",
+        "answer": "de la"
+      },
+      {
+        "exercise_block": "Exercice 20.1",
+        "question_number": "5",
+        "question_text": "Complétez avec l’article partitif approprié : Il met _____ ail dans la salade.",
+        "hints": "💡 提示：ail（大蒜）的首字母是元音，请注意冠词的省音规则。",
+        "answer": "de l'"
+      },
+      {
+        "exercise_block": "Exercice 20.1",
+        "question_number": "6",
+        "question_text": "Complétez avec l’article partitif approprié : Vous choisissez _____ cadeaux pour vos amis.",
+        "hints": "💡 提示：名词 cadeaux 以 -x 结尾，表示它是复数形式。",
+        "answer": "des"
+      },
+      {
+        "exercise_block": "Exercice 20.1",
+        "question_number": "7",
+        "question_text": "Complétez avec l’article partitif approprié : Il boit _____ lait.",
+        "hints": "💡 提示：lait（牛奶）是一个阳性不可数名词。",
+        "answer": "du"
+      },
+      {
+        "exercise_block": "Exercice 20.1",
+        "question_number": "8",
+        "question_text": "Complétez avec l’article partitif approprié : Nous envoyons _____ cartes postales en vacances.",
+        "hints": "💡 提示：根据 cartes postales 的形式判断它需要搭配什么数的冠词。",
+        "answer": "des"
+      },
+      {
+        "exercise_block": "Exercice 20.1",
+        "question_number": "9",
+        "question_text": "Complétez avec l’article partitif approprié : Tu plantes _____ légumes.",
+        "hints": "💡 提示：注意 légumes 的词尾特征。",
+        "answer": "des"
+      },
+      {
+        "exercise_block": "Exercice 20.1",
+        "question_number": "10",
+        "question_text": "Complétez avec l’article partitif approprié : Elle veut _____ crème fraîche.",
+        "hints": "💡 提示：crème fraîche（鲜奶油）在法语中是阴性不可数名词。",
+        "answer": "de la"
+      }
+    ]
+  },
+  {
+    "page": 20.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 20.2",
+        "question_number": "1",
+        "question_text": "Masculin ou féminin? Le ou la? : _____ réveil",
+        "hints": "💡 提示：这是一个表示物品的普通名词，在法语中属于阳性。",
+        "answer": "le"
+      },
+      {
+        "exercise_block": "Exercice 20.2",
+        "question_number": "2",
+        "question_text": "Masculin ou féminin? Le ou la? : _____ chanteur",
+        "hints": "💡 提示：以 -eur 结尾的指代人的名词通常为阳性。",
+        "answer": "le"
+      },
+      {
+        "exercise_block": "Exercice 20.2",
+        "question_number": "3",
+        "question_text": "Masculin ou féminin? Le ou la? : _____ culture",
+        "hints": "💡 提示：以 -ure 结尾的名词大多数为阴性。",
+        "answer": "la"
+      },
+      {
+        "exercise_block": "Exercice 20.2",
+        "question_number": "4",
+        "question_text": "Masculin ou féminin? Le ou la? : _____ propriété",
+        "hints": "💡 提示：以 -té 结尾的名词一般为阴性。",
+        "answer": "la"
+      },
+      {
+        "exercise_block": "Exercice 20.2",
+        "question_number": "5",
+        "question_text": "Masculin ou féminin? Le ou la? : _____ courage",
+        "hints": "💡 提示：以 -age 结尾的名词通常为阳性。",
+        "answer": "le"
+      },
+      {
+        "exercise_block": "Exercice 20.2",
+        "question_number": "6",
+        "question_text": "Masculin ou féminin? Le ou la? : _____ chance",
+        "hints": "💡 提示：以 -ance 或 -ence 结尾的名词通常为阴性。",
+        "answer": "la"
+      },
+      {
+        "exercise_block": "Exercice 20.2",
+        "question_number": "7",
+        "question_text": "Masculin ou féminin? Le ou la? : _____ document",
+        "hints": "💡 提示：以 -ment 结尾的名词大多为阳性。",
+        "answer": "le"
+      },
+      {
+        "exercise_block": "Exercice 20.2",
+        "question_number": "8",
+        "question_text": "Masculin ou féminin? Le ou la? : _____ restaurant",
+        "hints": "💡 提示：这是一个常见的表示场所的阳性名词。",
+        "answer": "le"
+      },
+      {
+        "exercise_block": "Exercice 20.2",
+        "question_number": "9",
+        "question_text": "Masculin ou féminin? Le ou la? : _____ beauté",
+        "hints": "💡 提示：以 -té 结尾的抽象名词通常是阴性的。",
+        "answer": "la"
+      },
+      {
+        "exercise_block": "Exercice 20.2",
+        "question_number": "10",
+        "question_text": "Masculin ou féminin? Le ou la? : _____ gouvernement",
+        "hints": "💡 提示：同样是以 -ment 结尾的词，判断其阴阳性。",
+        "answer": "le"
+      }
+    ]
+  },
+  {
+    "page": 20.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 20.3",
+        "question_number": "1",
+        "question_text": "Mettez au masculin (avec l'article défini) : reine",
+        "hints": "💡 提示：王后 (reine) 对应的阳性名词是“国王”，这是一个完全不同的单词。",
+        "answer": "le roi"
+      },
+      {
+        "exercise_block": "Exercice 20.3",
+        "question_number": "2",
+        "question_text": "Mettez au masculin (avec l'article défini) : sœur",
+        "hints": "💡 提示：姐妹 (sœur) 对应的阳性名词是“兄弟”。",
+        "answer": "le frère"
+      },
+      {
+        "exercise_block": "Exercice 20.3",
+        "question_number": "3",
+        "question_text": "Mettez au masculin (avec l'article défini) : grand-mère",
+        "hints": "💡 提示：只需将 -mère 替换为对应的阳性词即可。",
+        "answer": "le grand-père"
+      },
+      {
+        "exercise_block": "Exercice 20.3",
+        "question_number": "4",
+        "question_text": "Mettez au masculin (avec l'article défini) : vendeuse",
+        "hints": "💡 提示：以 -euse 结尾的职业名词，其阳性形式词尾通常为 -eur。",
+        "answer": "le vendeur"
+      },
+      {
+        "exercise_block": "Exercice 20.3",
+        "question_number": "5",
+        "question_text": "Mettez au masculin (avec l'article défini) : décoratrice",
+        "hints": "💡 提示：以 -trice 结尾的职业名词，阳性形式词尾是 -teur。",
+        "answer": "le décorateur"
+      },
+      {
+        "exercise_block": "Exercice 20.3",
+        "question_number": "6",
+        "question_text": "Mettez au masculin (avec l'article défini) : nièce",
+        "hints": "💡 提示：侄女/外甥女对应的阳性形式“侄子/外甥”拼写变化较大，以 -eu 结尾。",
+        "answer": "le neveu"
+      },
+      {
+        "exercise_block": "Exercice 20.3",
+        "question_number": "7",
+        "question_text": "Mettez au masculin (avec l'article défini) : fille",
+        "hints": "💡 提示：女儿 (fille) 对应的阳性是儿子，注意该词单数以 -s 结尾且不发音。",
+        "answer": "le fils"
+      },
+      {
+        "exercise_block": "Exercice 20.3",
+        "question_number": "8",
+        "question_text": "Mettez au masculin (avec l'article défini) : rédactrice",
+        "hints": "💡 提示：与第5题类似，-trice 变 -teur。",
+        "answer": "le rédacteur"
+      },
+      {
+        "exercise_block": "Exercice 20.3",
+        "question_number": "9",
+        "question_text": "Mettez au masculin (avec l'article défini) : Brésilienne",
+        "hints": "💡 提示：表示国籍的词，阴性 -ienne 对应的阳性是 -ien。",
+        "answer": "le Brésilien"
+      },
+      {
+        "exercise_block": "Exercice 20.3",
+        "question_number": "10",
+        "question_text": "Mettez au masculin (avec l'article défini) : princesse",
+        "hints": "💡 提示：公主对应的阳性形式是王子，去掉词尾的 -sse。",
+        "answer": "le prince"
+      }
+    ]
+  },
+  {
+    "page": 20.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 20.4",
+        "question_number": "1",
+        "question_text": "Mettez au féminin : C’est le directeur.",
+        "hints": "💡 提示：只需要写出变成阴性后的名词短语即可。-teur 结尾变阴性为 -trice。",
+        "answer": "la directrice"
+      },
+      {
+        "exercise_block": "Exercice 20.4",
+        "question_number": "2",
+        "question_text": "Mettez au féminin : C’est mon coiffeur.",
+        "hints": "💡 提示：-eur 结尾变阴性为 -euse。注意前面的主有形容词也要跟着变为阴性。",
+        "answer": "ma coiffeuse"
+      },
+      {
+        "exercise_block": "Exercice 20.4",
+        "question_number": "3",
+        "question_text": "Mettez au féminin : C’est le pharmacien.",
+        "hints": "💡 提示：-ien 结尾变阴性时要双写 n 加 e。",
+        "answer": "la pharmacienne"
+      },
+      {
+        "exercise_block": "Exercice 20.4",
+        "question_number": "4",
+        "question_text": "Mettez au féminin : C’est l’oncle de Paul.",
+        "hints": "💡 提示：叔叔 (oncle) 对应的阴性名词是阿姨 (tante)。",
+        "answer": "la tante de Paul"
+      },
+      {
+        "exercise_block": "Exercice 20.4",
+        "question_number": "5",
+        "question_text": "Mettez au féminin : C’est mon frère.",
+        "hints": "💡 提示：兄弟 (frère) 对应的阴性名词是姐妹，别忘了修改主有形容词。",
+        "answer": "ma sœur"
+      },
+      {
+        "exercise_block": "Exercice 20.4",
+        "question_number": "6",
+        "question_text": "Mettez au féminin : C’est son instituteur.",
+        "hints": "💡 提示：-teur 变 -trice。由于阴性名词以元音开头，前面的 son 可以保持不变。",
+        "answer": "son institutrice"
+      },
+      {
+        "exercise_block": "Exercice 20.4",
+        "question_number": "7",
+        "question_text": "Mettez au féminin : C’est le roi.",
+        "hints": "💡 提示：国王对应的阴性名词是王后。",
+        "answer": "la reine"
+      },
+      {
+        "exercise_block": "Exercice 20.4",
+        "question_number": "8",
+        "question_text": "Mettez au féminin : C’est mon cousin.",
+        "hints": "💡 提示：表亲的阴性形式只需在词尾加 -e，同时修改主有形容词。",
+        "answer": "ma cousine"
+      },
+      {
+        "exercise_block": "Exercice 20.4",
+        "question_number": "9",
+        "question_text": "Mettez au féminin : C’est un homme.",
+        "hints": "💡 提示：男人的阴性名词是女人。",
+        "answer": "une femme"
+      },
+      {
+        "exercise_block": "Exercice 20.4",
+        "question_number": "10",
+        "question_text": "Mettez au féminin : C’est le boucher.",
+        "hints": "💡 提示：以 -er 结尾的职业名词，阴性形式通常变为 -ère。",
+        "answer": "la bouchère"
+      }
+    ]
+  },
+  {
+    "page": 20.5,
+    "data": [
+      {
+        "exercise_block": "Exercice 20.5",
+        "question_number": "1",
+        "question_text": "Masculin ou féminin? Mettez l'article défini : _____ Belgique",
+        "hints": "💡 提示：国家名以 -e 结尾，通常是阴性。",
+        "answer": "la"
+      },
+      {
+        "exercise_block": "Exercice 20.5",
+        "question_number": "2",
+        "question_text": "Masculin ou féminin? Mettez l'article défini : _____ Californie",
+        "hints": "💡 提示：以 -e 结尾的州或地区名称通常是阴性。",
+        "answer": "la"
+      },
+      {
+        "exercise_block": "Exercice 20.5",
+        "question_number": "3",
+        "question_text": "Masculin ou féminin? Mettez l'article défini : _____ Canada",
+        "hints": "💡 提示：以其他字母（非e）结尾的国家名通常是阳性。",
+        "answer": "le"
+      },
+      {
+        "exercise_block": "Exercice 20.5",
+        "question_number": "4",
+        "question_text": "Masculin ou féminin? Mettez l'article défini : _____ Angleterre",
+        "hints": "💡 提示：国家名以 -e 结尾是阴性，但由于它以元音开头，定冠词需要省音。",
+        "answer": "l'"
+      },
+      {
+        "exercise_block": "Exercice 20.5",
+        "question_number": "5",
+        "question_text": "Masculin ou féminin? Mettez l'article défini : _____ Colorado",
+        "hints": "💡 提示：以 -o 结尾的州名是阳性。",
+        "answer": "le"
+      },
+      {
+        "exercise_block": "Exercice 20.5",
+        "question_number": "6",
+        "question_text": "Masculin ou féminin? Mettez l'article défini : _____ Russie",
+        "hints": "💡 提示：国家名以 -e 结尾，通常是阴性。",
+        "answer": "la"
+      },
+      {
+        "exercise_block": "Exercice 20.5",
+        "question_number": "7",
+        "question_text": "Masculin ou féminin? Mettez l'article défini : _____ Égypte",
+        "hints": "💡 提示：以 -e 结尾且以元音开头，注意定冠词的省音形式。",
+        "answer": "l'"
+      },
+      {
+        "exercise_block": "Exercice 20.5",
+        "question_number": "8",
+        "question_text": "Masculin ou féminin? Mettez l'article défini : _____ Irlande",
+        "hints": "💡 提示：这同样是一个元音开头的阴性国家名。",
+        "answer": "l'"
+      },
+      {
+        "exercise_block": "Exercice 20.5",
+        "question_number": "9",
+        "question_text": "Masculin ou féminin? Mettez l'article défini : _____ Guatemala",
+        "hints": "💡 提示：以 -a 结尾的国家名，属于阳性。",
+        "answer": "le"
+      },
+      {
+        "exercise_block": "Exercice 20.5",
+        "question_number": "10",
+        "question_text": "Masculin ou féminin? Mettez l'article défini : _____ Hongrie",
+        "hints": "💡 提示：虽然以 H 开头，但这是哑音 h，需要判断其阴阳性且不省音。",
+        "answer": "la"
+      }
+    ]
+  },
+  {
+    "page": 20.6,
+    "data": [
+      {
+        "exercise_block": "Exercice 20.6",
+        "question_number": "1",
+        "question_text": "Complétez avec la préposition appropriée : Jean habite _____ Italie.",
+        "hints": "💡 提示：Italie 是以元音开头的阴性国家名，表示“在...”时用哪个介词？",
+        "answer": "en"
+      },
+      {
+        "exercise_block": "Exercice 20.6",
+        "question_number": "2",
+        "question_text": "Complétez avec la préposition appropriée : Maud s’est installée _____ Virginie.",
+        "hints": "💡 提示：Virginie（弗吉尼亚）是以 -e 结尾的阴性州名。",
+        "answer": "en"
+      },
+      {
+        "exercise_block": "Exercice 20.6",
+        "question_number": "3",
+        "question_text": "Complétez avec la préposition appropriée : Alex a des amis _____ Normandie.",
+        "hints": "💡 提示：Normandie 是以 -e 结尾的阴性地区名。",
+        "answer": "en"
+      },
+      {
+        "exercise_block": "Exercice 20.6",
+        "question_number": "4",
+        "question_text": "Complétez avec la préposition appropriée : Il envisage d’acheter une maison _____ Maroc.",
+        "hints": "💡 提示：Maroc 是以辅音开头的阳性国家名。",
+        "answer": "au"
+      },
+      {
+        "exercise_block": "Exercice 20.6",
+        "question_number": "5",
+        "question_text": "Complétez avec la préposition appropriée : Renée est en voyage d’affaires _____ Canada.",
+        "hints": "💡 提示：Canada 也是阳性国家名。",
+        "answer": "au"
+      },
+      {
+        "exercise_block": "Exercice 20.6",
+        "question_number": "6",
+        "question_text": "Complétez avec la préposition appropriée : Ils passent leurs vacances _____ Bolivie.",
+        "hints": "💡 提示：Bolivie 是以 -e 结尾的阴性国家名。",
+        "answer": "en"
+      },
+      {
+        "exercise_block": "Exercice 20.6",
+        "question_number": "7",
+        "question_text": "Complétez avec la préposition appropriée : Sandrine a de la famille _____ Espagne.",
+        "hints": "💡 提示：Espagne 是阴性国家名。",
+        "answer": "en"
+      },
+      {
+        "exercise_block": "Exercice 20.6",
+        "question_number": "8",
+        "question_text": "Complétez avec la préposition appropriée : Laurent a accepté un poste _____ Norvège.",
+        "hints": "💡 提示：Norvège 是阴性国家名。",
+        "answer": "en"
+      },
+      {
+        "exercise_block": "Exercice 20.6",
+        "question_number": "9",
+        "question_text": "Complétez avec la préposition appropriée : Nous aimerions aller _____ Japon.",
+        "hints": "💡 提示：Japon 是阳性国家名。",
+        "answer": "au"
+      },
+      {
+        "exercise_block": "Exercice 20.6",
+        "question_number": "10",
+        "question_text": "Complétez avec la préposition appropriée : Voudriez-vous aller _____ Inde avec nous?",
+        "hints": "💡 提示：Inde 是阴性国家名。",
+        "answer": "en"
+      }
+    ]
+  },
+  {
+    "page": 20.7,
+    "data": [
+      {
+        "exercise_block": "Exercice 20.7",
+        "question_number": "1",
+        "question_text": "Formulez une phrase complète (habiter + prépositions) : Marie / Lyon / France",
+        "hints": "💡 提示：城市前用介词 à，阴性国家前用 en。",
+        "answer": "Marie habite à Lyon, en France."
+      },
+      {
+        "exercise_block": "Exercice 20.7",
+        "question_number": "2",
+        "question_text": "Formulez une phrase complète (habiter + prépositions) : Christina / Istanbul / Turquie",
+        "hints": "💡 提示：城市前用 à（Istanbul 可省音为 à Istanbul，不过城市不加强制缩合），Turquie 是阴性国家。",
+        "answer": "Christina habite à Istanbul, en Turquie."
+      },
+      {
+        "exercise_block": "Exercice 20.7",
+        "question_number": "3",
+        "question_text": "Formulez une phrase complète (habiter + prépositions) : Fatima / Tunis / Tunisie",
+        "hints": "💡 提示：同上，注意城市与国家前介词的区别。",
+        "answer": "Fatima habite à Tunis, en Tunisie."
+      },
+      {
+        "exercise_block": "Exercice 20.7",
+        "question_number": "4",
+        "question_text": "Formulez une phrase complète (habiter + prépositions) : Laurent / Varsovie / Pologne",
+        "hints": "💡 提示：Pologne 是阴性国家。",
+        "answer": "Laurent habite à Varsovie, en Pologne."
+      },
+      {
+        "exercise_block": "Exercice 20.7",
+        "question_number": "5",
+        "question_text": "Formulez une phrase complète (habiter + prépositions) : Vincent / Caracas / Venezuela",
+        "hints": "💡 提示：Venezuela 是阳性国家，介词需用 au。",
+        "answer": "Vincent habite à Caracas, au Venezuela."
+      },
+      {
+        "exercise_block": "Exercice 20.7",
+        "question_number": "6",
+        "question_text": "Formulez une phrase complète (habiter + prépositions) : Nancy / Toronto / Canada",
+        "hints": "💡 提示：Canada 是阳性国家。",
+        "answer": "Nancy habite à Toronto, au Canada."
+      },
+      {
+        "exercise_block": "Exercice 20.7",
+        "question_number": "7",
+        "question_text": "Formulez une phrase complète (habiter + prépositions) : Xavier / Mexico / Mexique",
+        "hints": "💡 提示：Mexique 虽以 -e 结尾，但它是特例，属于阳性国家。",
+        "answer": "Xavier habite à Mexico, au Mexique."
+      },
+      {
+        "exercise_block": "Exercice 20.7",
+        "question_number": "8",
+        "question_text": "Formulez une phrase complète (habiter + prépositions) : Patrick / Boston / États-Unis",
+        "hints": "💡 提示：États-Unis 是复数国家，介词需用 aux。",
+        "answer": "Patrick habite à Boston, aux États-Unis."
+      },
+      {
+        "exercise_block": "Exercice 20.7",
+        "question_number": "9",
+        "question_text": "Formulez une phrase complète (habiter + prépositions) : Henri / Sydney / Australie",
+        "hints": "💡 提示：Australie 是阴性国家。",
+        "answer": "Henri habite à Sydney, en Australie."
+      },
+      {
+        "exercise_block": "Exercice 20.7",
+        "question_number": "10",
+        "question_text": "Formulez une phrase complète (habiter + prépositions) : Martha / Berlin / Allemagne",
+        "hints": "💡 提示：Allemagne 是阴性国家。",
+        "answer": "Martha habite à Berlin, en Allemagne."
+      }
+    ]
+  },
+  {
+    "page": 20.8,
+    "data": [
+      {
+        "exercise_block": "Exercice 20.8",
+        "question_number": "1",
+        "question_text": "Complétez : Cet objet vient _____ Égypte.",
+        "hints": "💡 提示：表示“来自”，大洲/阴性国家/元音开头的区域使用 de 或 d'。",
+        "answer": "d'"
+      },
+      {
+        "exercise_block": "Exercice 20.8",
+        "question_number": "2",
+        "question_text": "Complétez : Ces bijoux en provenance _____ Inde sont en argent.",
+        "hints": "💡 提示：Inde 是元音开头的阴性国家。",
+        "answer": "d'"
+      },
+      {
+        "exercise_block": "Exercice 20.8",
+        "question_number": "3",
+        "question_text": "Complétez : Marc vient _____ Normandie.",
+        "hints": "💡 提示：Normandie 是阴性地区，且以辅音开头。",
+        "answer": "de"
+      },
+      {
+        "exercise_block": "Exercice 20.8",
+        "question_number": "4",
+        "question_text": "Complétez : Rapporte-moi un pull _____ Écosse.",
+        "hints": "💡 提示：Écosse 是元音开头的阴性国家。",
+        "answer": "d'"
+      },
+      {
+        "exercise_block": "Exercice 20.8",
+        "question_number": "5",
+        "question_text": "Complétez : Ils sont natifs _____ Chili.",
+        "hints": "💡 提示：表示“来自”时，辅音开头的阳性国家必须保留定冠词，即 de + le = du。",
+        "answer": "du"
+      },
+      {
+        "exercise_block": "Exercice 20.8",
+        "question_number": "6",
+        "question_text": "Complétez : Ces épices viennent _____ Maroc.",
+        "hints": "💡 提示：Maroc 是阳性国家。",
+        "answer": "du"
+      },
+      {
+        "exercise_block": "Exercice 20.8",
+        "question_number": "7",
+        "question_text": "Complétez : Ce paquet est arrivé ce matin _____ États-Unis.",
+        "hints": "💡 提示：复数国家保留定冠词，即 de + les = des。",
+        "answer": "des"
+      },
+      {
+        "exercise_block": "Exercice 20.8",
+        "question_number": "8",
+        "question_text": "Complétez : Ces épices proviennent _____ Asie.",
+        "hints": "💡 提示：Asie（亚洲）是大洲，使用 de 的省音形式。",
+        "answer": "d'"
+      },
+      {
+        "exercise_block": "Exercice 20.8",
+        "question_number": "9",
+        "question_text": "Complétez : Ces produits en provenance _____ Colombie sont vendus dans les supermarchés.",
+        "hints": "💡 提示：Colombie 是阴性国家，辅音开头。",
+        "answer": "de"
+      },
+      {
+        "exercise_block": "Exercice 20.8",
+        "question_number": "10",
+        "question_text": "Complétez : Il est tout juste revenu _____ Mexique.",
+        "hints": "💡 提示：Mexique 是特殊的阳性国家，需要缩合为 du。",
+        "answer": "du"
+      }
+    ]
+  },
+  {
+    "page": 20.9,
+    "data": [
+      {
+        "exercise_block": "Exercice 20.9",
+        "question_number": "1",
+        "question_text": "Traduisez : She lives in a village in Ireland.",
+        "hints": "💡 提示：翻译“在爱尔兰”需使用国家介词 en (Irlande 是元音开头的阴性国家)。",
+        "answer": "Elle habite dans un village en Irlande."
+      },
+      {
+        "exercise_block": "Exercice 20.9",
+        "question_number": "2",
+        "question_text": "Traduisez : Her brother lives in Russia.",
+        "hints": "💡 提示：Russia 对应阴性国家 Russie，介词用 en。",
+        "answer": "Son frère habite en Russie."
+      },
+      {
+        "exercise_block": "Exercice 20.9",
+        "question_number": "3",
+        "question_text": "Traduisez : He studied in France.",
+        "hints": "💡 提示：时态为复合过去时 (a étudié)，France 前用 en。",
+        "answer": "Il a étudié en France."
+      },
+      {
+        "exercise_block": "Exercice 20.9",
+        "question_number": "4",
+        "question_text": "Traduisez : She went to Normandy last summer.",
+        "hints": "💡 提示：aller 助动词用 être (est allée)，Normandie 是阴性地区名。",
+        "answer": "Elle est allée en Normandie l’été dernier."
+      },
+      {
+        "exercise_block": "Exercice 20.9",
+        "question_number": "5",
+        "question_text": "Traduisez : They traveled to Greece in May.",
+        "hints": "💡 提示：Grèce 是阴性国家。",
+        "answer": "Ils (Elles) ont voyagé en Grèce en mai."
+      },
+      {
+        "exercise_block": "Exercice 20.9",
+        "question_number": "6",
+        "question_text": "Traduisez : They import products from Argentina.",
+        "hints": "💡 提示：表示“来自/从...进口”，Argentine 是元音开头的阴性国家，用 d'。",
+        "answer": "Ils (Elles) importent des produits d’Argentine."
+      },
+      {
+        "exercise_block": "Exercice 20.9",
+        "question_number": "7",
+        "question_text": "Traduisez : Their son works in California.",
+        "hints": "💡 提示：Californie 是阴性州名，用 en。",
+        "answer": "Leur fils travaille en Californie."
+      },
+      {
+        "exercise_block": "Exercice 20.9",
+        "question_number": "8",
+        "question_text": "Traduisez : She took this picture in Japan.",
+        "hints": "💡 提示：Japon 是阳性国家，介词用 au。",
+        "answer": "Elle a pris cette photo au Japon."
+      },
+      {
+        "exercise_block": "Exercice 20.9",
+        "question_number": "9",
+        "question_text": "Traduisez : They are building a bridge in a village in Senegal.",
+        "hints": "💡 提示：Sénégal 是阳性国家，介词用 au。",
+        "answer": "Ils (Elles) construisent un pont dans un village au Sénégal."
+      },
+      {
+        "exercise_block": "Exercice 20.9",
+        "question_number": "10",
+        "question_text": "Traduisez : Let’s go to China!",
+        "hints": "💡 提示：命令式第一人称复数 (Allons)，Chine 是阴性国家。",
+        "answer": "Allons en Chine!"
+      }
+    ]
+  },
+  {
+    "page": 21.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.1",
+        "question_number": "1",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet direct : Elle achète **les fl eurs bleues**.",
+        "hints": "💡 提示：判断加粗部分的单复数形式，并将代词置于动词前。",
+        "answer": "Elle les achète."
+      },
+      {
+        "exercise_block": "Exercice 21.1",
+        "question_number": "2",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet direct : Il consulte **le médecin**.",
+        "hints": "💡 提示：判断该名词的阴阳性。",
+        "answer": "Il le consulte."
+      },
+      {
+        "exercise_block": "Exercice 21.1",
+        "question_number": "3",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet direct : Nous soutenons **votre projet**.",
+        "hints": "💡 提示：这是一个阳性单数名词。",
+        "answer": "Nous le soutenons."
+      },
+      {
+        "exercise_block": "Exercice 21.1",
+        "question_number": "4",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet direct : Ils construisent **la maison de leurs rêves**.",
+        "hints": "💡 提示：核心词为 maison，注意其阴阳性。",
+        "answer": "Ils la construisent."
+      },
+      {
+        "exercise_block": "Exercice 21.1",
+        "question_number": "5",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet direct : J’ouvre **la porte**.",
+        "hints": "💡 提示：遇到元音开头的动词时，单数代词需要省音。",
+        "answer": "Je l'ouvre."
+      },
+      {
+        "exercise_block": "Exercice 21.1",
+        "question_number": "6",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet direct : Elle conduit **la voiture de son père**.",
+        "hints": "💡 提示：判断直接宾语的阴阳性。",
+        "answer": "Elle la conduit."
+      },
+      {
+        "exercise_block": "Exercice 21.1",
+        "question_number": "7",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet direct : Il accepte **les résultats**.",
+        "hints": "💡 提示：判断单复数。",
+        "answer": "Il les accepte."
+      },
+      {
+        "exercise_block": "Exercice 21.1",
+        "question_number": "8",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet direct : Nous comprenons **leur décision**.",
+        "hints": "💡 提示：décision 是阴性名词。",
+        "answer": "Nous la comprenons."
+      },
+      {
+        "exercise_block": "Exercice 21.1",
+        "question_number": "9",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet direct : Tu visites **le château de Fontainebleau**.",
+        "hints": "💡 提示：判断核心名词的阴阳性。",
+        "answer": "Tu le visites."
+      },
+      {
+        "exercise_block": "Exercice 21.1",
+        "question_number": "10",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet direct : Elle étudie **sa leçon**.",
+        "hints": "💡 提示：注意动词的开头字母与代词的省音。",
+        "answer": "Elle l'étudie."
+      }
+    ]
+  },
+  {
+    "page": 21.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.2",
+        "question_number": "1",
+        "question_text": "Traduisez (utilisez vous et l'inversion si nécessaire) : He thanks me.",
+        "hints": "💡 提示：代词需放在动词之前。",
+        "answer": "Il me remercie."
+      },
+      {
+        "exercise_block": "Exercice 21.2",
+        "question_number": "2",
+        "question_text": "Traduisez (utilisez vous et l'inversion si nécessaire) : The writer sends them.",
+        "hints": "💡 提示：注意复数代词的形式。",
+        "answer": "L'écrivain les envoie."
+      },
+      {
+        "exercise_block": "Exercice 21.2",
+        "question_number": "3",
+        "question_text": "Traduisez (utilisez vous et l'inversion si nécessaire) : They invite us.",
+        "hints": "💡 提示：第一人称复数代词作为宾语的用法。",
+        "answer": "Ils (Elles) nous invitent."
+      },
+      {
+        "exercise_block": "Exercice 21.2",
+        "question_number": "4",
+        "question_text": "Traduisez (utilisez vous et l'inversion si nécessaire) : We accept it.",
+        "hints": "💡 提示：注意动词元音开头时的代词省音。",
+        "answer": "Nous l'acceptons."
+      },
+      {
+        "exercise_block": "Exercice 21.2",
+        "question_number": "5",
+        "question_text": "Traduisez (utilisez vous et l'inversion si nécessaire) : She called them.",
+        "hints": "💡 提示：在复合过去时中，代词的位置在哪？过去分词需要配合吗？",
+        "answer": "Elle les a appelé(e)s."
+      },
+      {
+        "exercise_block": "Exercice 21.2",
+        "question_number": "6",
+        "question_text": "Traduisez (utilisez vous et l'inversion si nécessaire) : Bring them!",
+        "hints": "💡 提示：这是肯定命令式，注意代词的位置及标点符号。",
+        "answer": "Apportez-les!"
+      },
+      {
+        "exercise_block": "Exercice 21.2",
+        "question_number": "7",
+        "question_text": "Traduisez (utilisez vous et l'inversion si nécessaire) : I am going to buy it.",
+        "hints": "💡 提示：在包含不定式的句子中（如最近将来时），代词应放在哪个动词前？",
+        "answer": "Je vais l'acheter."
+      },
+      {
+        "exercise_block": "Exercice 21.2",
+        "question_number": "8",
+        "question_text": "Traduisez (utilisez vous et l'inversion si nécessaire) : Do not sell it!",
+        "hints": "💡 提示：否定命令式的代词位置与肯定命令式不同。",
+        "answer": "Ne le (la) vendez pas!"
+      },
+      {
+        "exercise_block": "Exercice 21.2",
+        "question_number": "9",
+        "question_text": "Traduisez (utilisez vous et l'inversion si nécessaire) : We must see it.",
+        "hints": "💡 提示：代词应紧挨着它所作宾语的那个动词。",
+        "answer": "Nous devons le (la) voir."
+      },
+      {
+        "exercise_block": "Exercice 21.2",
+        "question_number": "10",
+        "question_text": "Traduisez (utilisez vous et l'inversion si nécessaire) : Do you know her?",
+        "hints": "💡 提示：使用倒装疑问句结构，代词放在句首。",
+        "answer": "La connaissez-vous?"
+      }
+    ]
+  },
+  {
+    "page": 21.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.3",
+        "question_number": "1",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet indirect : La grand-mère a raconté une histoire **aux petits-enfants**.",
+        "hints": "💡 提示：判断间接宾语的单复数（lui 还是 leur）。",
+        "answer": "La grand-mère leur a raconté une histoire."
+      },
+      {
+        "exercise_block": "Exercice 21.3",
+        "question_number": "2",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet indirect : Nous avons fait un cadeau **à Marie**.",
+        "hints": "💡 提示：第三人称单数间接宾语代词不分阴阳性。",
+        "answer": "Nous lui avons fait un cadeau."
+      },
+      {
+        "exercise_block": "Exercice 21.3",
+        "question_number": "3",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet indirect : Je ferai parvenir le dossier **à Jean** dès que possible.",
+        "hints": "💡 提示：判断人称并放置在变位动词前。",
+        "answer": "Je lui ferai parvenir le dossier dès que possible."
+      },
+      {
+        "exercise_block": "Exercice 21.3",
+        "question_number": "4",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet indirect : Nous enverrons des fl eurs **à notre collègue**.",
+        "hints": "💡 提示：单数间接宾语。",
+        "answer": "Nous lui enverrons des fleurs."
+      },
+      {
+        "exercise_block": "Exercice 21.3",
+        "question_number": "5",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet indirect : Ce théâtre appartient **à un ancien comédien**.",
+        "hints": "💡 提示：单数间接宾语。",
+        "answer": "Ce théâtre lui appartient."
+      },
+      {
+        "exercise_block": "Exercice 21.3",
+        "question_number": "6",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet indirect : Est-ce que tu as écrit **au rédacteur en chef**?",
+        "hints": "💡 提示：单数形式。",
+        "answer": "Est-ce que tu lui as écrit?"
+      },
+      {
+        "exercise_block": "Exercice 21.3",
+        "question_number": "7",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet indirect : Téléphonez **à Louise** aussitôt que possible!",
+        "hints": "💡 提示：注意在肯定命令式中的代词位置。",
+        "answer": "Téléphonez-lui aussitôt que possible!"
+      },
+      {
+        "exercise_block": "Exercice 21.3",
+        "question_number": "8",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet indirect : Ne mentionnez rien **à Odile**!",
+        "hints": "💡 提示：注意否定命令式的代词位置规则。",
+        "answer": "Ne lui mentionnez rien!"
+      },
+      {
+        "exercise_block": "Exercice 21.3",
+        "question_number": "9",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet indirect : Il annoncera sa décision **à ses employés** demain.",
+        "hints": "💡 提示：判断间接宾语的单复数形式。",
+        "answer": "Il leur annoncera sa décision demain."
+      },
+      {
+        "exercise_block": "Exercice 21.3",
+        "question_number": "10",
+        "question_text": "Remplacer les mots en caractères gras par un pronom objet indirect : Il donnera le scénario **aux acteurs** en fi n de journée.",
+        "hints": "💡 提示：这是复数形式。",
+        "answer": "Il leur donnera le scénario en fin de journée."
+      }
+    ]
+  },
+  {
+    "page": 21.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.4",
+        "question_number": "1",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : Bring me a book!",
+        "hints": "💡 提示：肯定命令式中，代词 me 需要改变形式。",
+        "answer": "Apporte-moi un livre!"
+      },
+      {
+        "exercise_block": "Exercice 21.4",
+        "question_number": "2",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : Do not call them after eight P.M.!",
+        "hints": "💡 提示：注意否定命令式中代词的位置。",
+        "answer": "Ne les appelle pas après huit heures du soir!"
+      },
+      {
+        "exercise_block": "Exercice 21.4",
+        "question_number": "3",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : Send us your new play!",
+        "hints": "💡 提示：肯定命令式。",
+        "answer": "Envoie-nous ta nouvelle pièce!"
+      },
+      {
+        "exercise_block": "Exercice 21.4",
+        "question_number": "4",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : I will write him a letter.",
+        "hints": "💡 提示：判断 him 属于直接宾语还是间接宾语。",
+        "answer": "Je lui écrirai une lettre."
+      },
+      {
+        "exercise_block": "Exercice 21.4",
+        "question_number": "5",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : She’ll give me an answer on Monday.",
+        "hints": "💡 提示：第一人称宾语代词。",
+        "answer": "Elle me donnera une réponse lundi."
+      },
+      {
+        "exercise_block": "Exercice 21.4",
+        "question_number": "6",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : He did not return the books to me.",
+        "hints": "💡 提示：在复合过去时的否定句中，注意代词和 ne...pas 的摆放顺序及省音。",
+        "answer": "Il ne m'a pas rendu les livres."
+      },
+      {
+        "exercise_block": "Exercice 21.4",
+        "question_number": "7",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : This pen belongs to her.",
+        "hints": "💡 提示：属于某人用 appartenir à，因此要用间接宾语代词。",
+        "answer": "Ce stylo lui appartient."
+      },
+      {
+        "exercise_block": "Exercice 21.4",
+        "question_number": "8",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : He does not talk to us.",
+        "hints": "💡 提示：间接宾语代词的位置。",
+        "answer": "Il ne nous parle pas."
+      },
+      {
+        "exercise_block": "Exercice 21.4",
+        "question_number": "9",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : They told us a good story.",
+        "hints": "💡 提示：复合过去时结构。",
+        "answer": "Ils (Elles) nous ont raconté une bonne histoire."
+      },
+      {
+        "exercise_block": "Exercice 21.4",
+        "question_number": "10",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : They’ll lend you their house for the weekend.",
+        "hints": "💡 提示：第二人称单数间接宾语代词的运用。",
+        "answer": "Ils (Elles) te prêteront leur maison pour le week-end."
+      }
+    ]
+  },
+  {
+    "page": 21.5,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.5",
+        "question_number": "1",
+        "question_text": "Remplacer les éléments en caractères gras par y : Elle s’habitue **à tout**.",
+        "hints": "💡 提示：代词 y 取代由 à 引导的物或概念，放在变位动词前面。",
+        "answer": "Elle s'y habitue."
+      },
+      {
+        "exercise_block": "Exercice 21.5",
+        "question_number": "2",
+        "question_text": "Remplacer les éléments en caractères gras par y : Tu devrais prêter attention **à ce qu’il dit**.",
+        "hints": "💡 提示：在带有不定式的句子中，代词通常放在它所充当宾语的那个动词前面。",
+        "answer": "Tu devrais y prêter attention."
+      },
+      {
+        "exercise_block": "Exercice 21.5",
+        "question_number": "3",
+        "question_text": "Remplacer les éléments en caractères gras par y : Nous nous intéressons **à son œuvre**.",
+        "hints": "💡 提示：代词式动词中，y 放在自反代词之后、动词之前。",
+        "answer": "Nous nous y intéressons."
+      },
+      {
+        "exercise_block": "Exercice 21.5",
+        "question_number": "4",
+        "question_text": "Remplacer les éléments en caractères gras par y : Je m’abonne **à ce magazine**.",
+        "hints": "💡 提示：注意元音开头的动词，自反代词的省音形式不受影响。",
+        "answer": "Je m’y abonne."
+      },
+      {
+        "exercise_block": "Exercice 21.5",
+        "question_number": "5",
+        "question_text": "Remplacer les éléments en caractères gras par y : Elle tient **à ses bijoux**.",
+        "hints": "💡 提示：y 直接放在变位动词前。",
+        "answer": "Elle y tient."
+      },
+      {
+        "exercise_block": "Exercice 21.5",
+        "question_number": "6",
+        "question_text": "Remplacer les éléments en caractères gras par y : Nous ne croyons pas **à cette nouvelle théorie scientifique**.",
+        "hints": "💡 提示：在否定句中，ne 和 pas 包裹住代词和动词整体（ne + 代词 + 动词 + pas）。",
+        "answer": "Nous n’y croyons pas."
+      },
+      {
+        "exercise_block": "Exercice 21.5",
+        "question_number": "7",
+        "question_text": "Remplacer les éléments en caractères gras par y : Il ne pense jamais **aux conséquences de ses actes**.",
+        "hints": "💡 提示：同上，否定词 ne... jamais 将代词与动词包裹在内。",
+        "answer": "Il n’y pense jamais."
+      },
+      {
+        "exercise_block": "Exercice 21.5",
+        "question_number": "8",
+        "question_text": "Remplacer les éléments en caractères gras par y : Ils n’obéissent pas **à la loi**.",
+        "hints": "💡 提示：注意否定结构和代词的摆放顺序。",
+        "answer": "Ils n’y obéissent pas."
+      },
+      {
+        "exercise_block": "Exercice 21.5",
+        "question_number": "9",
+        "question_text": "Remplacer les éléments en caractères gras par y : Elle réfléchira **au rôle que vous lui proposez**.",
+        "hints": "💡 提示：时态为简单将来时，代词位置规则不变。",
+        "answer": "Elle y réfléchira."
+      },
+      {
+        "exercise_block": "Exercice 21.5",
+        "question_number": "10",
+        "question_text": "Remplacer les éléments en caractères gras par y : Pourquoi n’avez-vous jamais répondu **à notre demande**?",
+        "hints": "💡 提示：复合过去时的否定疑问句，代词 y 必须放在助动词 (avez) 前面。",
+        "answer": "Pourquoi n’y avez-vous jamais répondu?"
+      }
+    ]
+  },
+  {
+    "page": 21.6,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.6",
+        "question_number": "1",
+        "question_text": "Remplacer les éléments en caractères gras par le pronom en : J’ai parlé **de tous nos problèmes**.",
+        "hints": "💡 提示：代词 en 取代由 de 引导的名词，在复合时态中放在助动词前。且过去分词不与 en 配合。",
+        "answer": "J’en ai parlé."
+      },
+      {
+        "exercise_block": "Exercice 21.6",
+        "question_number": "2",
+        "question_text": "Remplacer les éléments en caractères gras par le pronom en : Ils ont envie **d’aller en France en mai**.",
+        "hints": "💡 提示：en 可以取代 de 引导的不定式短语。",
+        "answer": "Ils en ont envie."
+      },
+      {
+        "exercise_block": "Exercice 21.6",
+        "question_number": "3",
+        "question_text": "Remplacer les éléments en caractères gras par le pronom en : Nous avons besoin **d’un logiciel plus performant**.",
+        "hints": "💡 提示：avoir besoin de 结构，代词直接放在 avoir 变位前。",
+        "answer": "Nous en avons besoin."
+      },
+      {
+        "exercise_block": "Exercice 21.6",
+        "question_number": "4",
+        "question_text": "Remplacer les éléments en caractères gras par le pronom en : Il s’est approché **du château** très lentement.",
+        "hints": "💡 提示：代词式动词的复合过去时，en 放在自反代词之后、助动词 être 之前。",
+        "answer": "Il s’en est approché très lentement."
+      },
+      {
+        "exercise_block": "Exercice 21.6",
+        "question_number": "5",
+        "question_text": "Remplacer les éléments en caractères gras par le pronom en : Je me chargerai **de tout ce qui facilitera son séjour à Aix**.",
+        "hints": "💡 提示：时态为简单将来时，en 的位置在自反代词之后。",
+        "answer": "Je m’en chargerai."
+      },
+      {
+        "exercise_block": "Exercice 21.6",
+        "question_number": "6",
+        "question_text": "Remplacer les éléments en caractères gras par le pronom en : Tu te sers **de ce dictionnaire**?",
+        "hints": "💡 提示：注意疑问句中代词的语序。",
+        "answer": "Tu t’en sers?"
+      },
+      {
+        "exercise_block": "Exercice 21.6",
+        "question_number": "7",
+        "question_text": "Remplacer les éléments en caractères gras par le pronom en : Il a peur **des changements**.",
+        "hints": "💡 提示：avoir peur de，使用 en 替换 de 及后面的部分。",
+        "answer": "Il en a peur."
+      },
+      {
+        "exercise_block": "Exercice 21.6",
+        "question_number": "8",
+        "question_text": "Remplacer les éléments en caractères gras par le pronom en : Je ne me souviens pas **de sa conférence**.",
+        "hints": "💡 提示：否定句中，ne 和 pas 包裹住 (自反代词 + en + 动词)。",
+        "answer": "Je ne m’en souviens pas."
+      },
+      {
+        "exercise_block": "Exercice 21.6",
+        "question_number": "9",
+        "question_text": "Remplacer les éléments en caractères gras par le pronom en : Elle s’est occupée **des réservations**.",
+        "hints": "💡 提示：注意代词位置。这里的过去分词 occupée 与主语 Elle 配合，与 en 无关。",
+        "answer": "Elle s’en est occupée."
+      },
+      {
+        "exercise_block": "Exercice 21.6",
+        "question_number": "10",
+        "question_text": "Remplacer les éléments en caractères gras par le pronom en : Il ne pourra jamais se débarrasser **de ses livres de l’école primaire**.",
+        "hints": "💡 提示：有两个动词时（这里带有不定式），en 放在它所作宾语的动词（se débarrasser）之前。",
+        "answer": "Il ne pourra jamais s’en débarrasser."
+      }
+    ]
+  },
+  {
+    "page": 21.7,
+    "data": [
+      {
+    
+        "exercise_block": "Exercice 21.7",
+        "question_number": "1",
+        "question_text": "Faire correspondre les deux colonnes :\n1. Il a peur\n2. Elle s’intéresse\n3. Je me sers\n4. Ils ne se souviennent pas\n5. Tu t’abonnes\n---\na. d’un ordinateur portable\nb. à un magazine hebdomadaire\nc. du nom de l’hôtel\nd. à ce nouveau candidat\ne. des insectes",
+        "hints": "💡 提示：这道题考察的是动词短语的固定介词搭配。回忆一下：avoir peur de, s'intéresser à, se servir de, se souvenir de, s'abonner à。",
+        "answer": "1-e, 2-d, 3-a, 4-c, 5-b"
+      }
+    ]
+  },
+  {
+    "page": 21.8,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.8",
+        "question_number": "1",
+        "question_text": "Remplacer les éléments en caractères gras : Ne parlez pas **de ce détail à Zoé**!",
+        "hints": "💡 提示：否定命令式中代词在动词前。间接宾语（lui）必须放在 en 的前面。",
+        "answer": "Ne lui en parlez pas!"
+      },
+      {
+        "exercise_block": "Exercice 21.8",
+        "question_number": "2",
+        "question_text": "Remplacer les éléments en caractères gras : Elle a emprunté **de l’argent à sa sœur**.",
+        "hints": "💡 提示：同时替换 de l'argent (en) 和 à sa sœur (lui)。顺序是 lui 在前，en 在后。",
+        "answer": "Elle lui en a emprunté."
+      },
+      {
+        "exercise_block": "Exercice 21.8",
+        "question_number": "3",
+        "question_text": "Remplacer les éléments en caractères gras : Je ferai parvenir **ce document à votre avocat**.",
+        "hints": "💡 提示：双代词都为第三人称时，直接宾语 (le) 放在间接宾语 (lui) 前面。",
+        "answer": "Je le lui ferai parvenir."
+      },
+      {
+        "exercise_block": "Exercice 21.8",
+        "question_number": "4",
+        "question_text": "Remplacer les éléments en caractères gras : Patrick a raconté **ses aventures (f.pl.) à son frère**.",
+        "hints": "💡 提示：第三人称双代词顺序 (les + lui)。注意：直接宾语前置，复合过去时的过去分词需要进行性数配合！",
+        "answer": "Patrick les lui a racontées."
+      },
+      {
+        "exercise_block": "Exercice 21.8",
+        "question_number": "5",
+        "question_text": "Remplacer les éléments en caractères gras : Le musicien a envoyé **sa nouvelle composition à son agent**.",
+        "hints": "💡 提示：直接宾语为阴性单数 (la)。前置时不要忘记过去分词的性数配合。",
+        "answer": "Le musicien la lui a envoyée."
+      },
+      {
+        "exercise_block": "Exercice 21.8",
+        "question_number": "6",
+        "question_text": "Remplacer les éléments en caractères gras : L’ouvrier a donné **la lettre au patron**.",
+        "hints": "💡 提示：双代词顺位 (la + lui)，以及复合过去时配合。",
+        "answer": "L’ouvrier la lui a donnée."
+      },
+      {
+        "exercise_block": "Exercice 21.8",
+        "question_number": "7",
+        "question_text": "Remplacer les éléments en caractères gras : J’ai demandé **la photo au photographe**.",
+        "hints": "💡 提示：同上，注意 la + lui 以及过去分词配合。",
+        "answer": "Je la lui ai demandée."
+      },
+      {
+        "exercise_block": "Exercice 21.8",
+        "question_number": "8",
+        "question_text": "Remplacer les éléments en caractères gras : Il vendra **sa maison à son cousin**.",
+        "hints": "💡 提示：简单将来时。直接宾语 la 放在间接宾语 lui 前面。",
+        "answer": "Il la lui vendra."
+      },
+      {
+        "exercise_block": "Exercice 21.8",
+        "question_number": "9",
+        "question_text": "Remplacer les éléments en caractères gras : Le médecin a prescrit **ce médicament au malade**.",
+        "hints": "💡 提示：直接宾语为阳性单数 (le)，无须对过去分词进行阴性配合。",
+        "answer": "Le médecin le lui a prescrit."
+      },
+      {
+        "exercise_block": "Exercice 21.8",
+        "question_number": "10",
+        "question_text": "Remplacer les éléments en caractères gras : Je recommande **cet hôtel à tous mes amis**.",
+        "hints": "💡 提示：直接宾语是阳性单数 (le)，间接宾语是复数 (leur)。顺序为 le + leur。",
+        "answer": "Je le leur recommande."
+      }
+    ]
+  },
+  {
+    "page": 21.9,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.9",
+        "question_number": "1",
+        "question_text": "Traduisez : I am thinking about it. (tu)",
+        "hints": "💡 提示：penser à + 事物，使用代词 y 替代。",
+        "answer": "J’y pense."
+      },
+      {
+        "exercise_block": "Exercice 21.9",
+        "question_number": "2",
+        "question_text": "Traduisez : He is not interested in it.",
+        "hints": "💡 提示：s'intéresser à + 事物，使用代词 y。注意否定词的位置。",
+        "answer": "Il ne s’y intéresse pas."
+      },
+      {
+        "exercise_block": "Exercice 21.9",
+        "question_number": "3",
+        "question_text": "Traduisez : She took care of it.",
+        "hints": "💡 提示：s'occuper de + 事物，使用代词 en。注意复合过去时的自反代词形式。",
+        "answer": "Elle s’en est occupée."
+      },
+      {
+        "exercise_block": "Exercice 21.9",
+        "question_number": "4",
+        "question_text": "Traduisez : I sent it (f.) to you. (tu)",
+        "hints": "💡 提示：双代词。直接宾语 la 与间接宾语 te 的顺序。注意过去分词的性数配合。",
+        "answer": "Je te l’ai envoyée."
+      },
+      {
+        "exercise_block": "Exercice 21.9",
+        "question_number": "5",
+        "question_text": "Traduisez : We gave it (m.) to them.",
+        "hints": "💡 提示：第三人称双代词，直接宾语 le 放在间接宾语 leur 前面。",
+        "answer": "Nous le leur avons donné."
+      },
+      {
+        "exercise_block": "Exercice 21.9",
+        "question_number": "6",
+        "question_text": "Traduisez : I use it every day.",
+        "hints": "💡 提示：se servir de + 事物，使用代词 en 替代。",
+        "answer": "Je m’en sers tous les jours."
+      },
+      {
+        "exercise_block": "Exercice 21.9",
+        "question_number": "7",
+        "question_text": "Traduisez : He spoke about it.",
+        "hints": "💡 提示：parler de + 事物，使用代词 en。",
+        "answer": "Il en a parlé."
+      },
+      {
+        "exercise_block": "Exercice 21.9",
+        "question_number": "8",
+        "question_text": "Traduisez : I need it.",
+        "hints": "💡 提示：avoir besoin de + 事物，使用代词 en。",
+        "answer": "J’en ai besoin."
+      },
+      {
+        "exercise_block": "Exercice 21.9",
+        "question_number": "9",
+        "question_text": "Traduisez : She borrowed some from me.",
+        "hints": "💡 提示：表示数量/部分使用 en，“从我这里”使用间接宾语代词 me。",
+        "answer": "Elle m’en a emprunté."
+      },
+      {
+        "exercise_block": "Exercice 21.9",
+        "question_number": "10",
+        "question_text": "Traduisez : They gave us some.",
+        "hints": "💡 提示：间接宾语 nous 和代词 en 结合，en 永远放在最后。",
+        "answer": "Ils (Elles) nous en ont donné."
+      }
+    ]
+  },
+  {
+    "page": 21.10,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.10",
+        "question_number": "1",
+        "question_text": "Mettez en relief le pronom sujet avec l’expression C’est... qui : Il a gagné le prix.",
+        "hints": "💡 提示：主语 Il 对应的重读人称代词（pronom disjoint）是什么？",
+        "answer": "C’est lui qui a gagné le prix."
+      },
+      {
+        "exercise_block": "Exercice 21.10",
+        "question_number": "2",
+        "question_text": "Mettez en relief le pronom sujet avec l’expression C’est... qui : Je prendrai la décision.",
+        "hints": "💡 提示：强调“我” (Je)。",
+        "answer": "C’est moi qui prendrai la décision."
+      },
+      {
+        "exercise_block": "Exercice 21.10",
+        "question_number": "3",
+        "question_text": "Mettez en relief le pronom sujet avec l’expression C’est... qui : Vous écrirez le discours.",
+        "hints": "💡 提示：强调“您/你们” (Vous)。",
+        "answer": "C’est vous qui écrirez le discours."
+      },
+      {
+        "exercise_block": "Exercice 21.10",
+        "question_number": "4",
+        "question_text": "Mettez en relief le pronom sujet avec l’expression C’est... qui : Nous préparons le dîner.",
+        "hints": "💡 提示：强调“我们” (Nous)。",
+        "answer": "C’est nous qui préparons le dîner."
+      },
+      {
+        "exercise_block": "Exercice 21.10",
+        "question_number": "5",
+        "question_text": "Mettez en relief le pronom sujet avec l’expression C’est... qui : Tu as fait cette erreur.",
+        "hints": "💡 提示：强调“你” (Tu)。",
+        "answer": "C’est toi qui as fait cette erreur."
+      },
+      {
+        "exercise_block": "Exercice 21.10",
+        "question_number": "6",
+        "question_text": "Mettez en relief le pronom sujet avec l’expression C’est... qui : Elle lui fait toujours de beaux cadeaux.",
+        "hints": "💡 提示：强调“她” (Elle)。",
+        "answer": "C’est elle qui lui fait toujours de beaux cadeaux."
+      },
+      {
+        "exercise_block": "Exercice 21.10",
+        "question_number": "7",
+        "question_text": "Mettez en relief le pronom sujet avec l’expression C’est... qui : Je vous ai invité.",
+        "hints": "💡 提示：强调“我”。注意过去分词和句式结构。",
+        "answer": "C’est moi qui vous ai invité."
+      },
+      {
+        "exercise_block": "Exercice 21.10",
+        "question_number": "8",
+        "question_text": "Mettez en relief le pronom sujet avec l’expression C’est... qui : Ils sont responsables de cette situation désastreuse.",
+        "hints": "💡 提示：强调阳性复数“他们” (Ils)，重读人称代词用 eux。",
+        "answer": "C’est eux qui sont responsables de cette situation désastreuse."
+      },
+      {
+        "exercise_block": "Exercice 21.10",
+        "question_number": "9",
+        "question_text": "Mettez en relief le pronom sujet avec l’expression C’est... qui : Elles s’occuperont de tous les détails.",
+        "hints": "💡 提示：强调阴性复数“她们” (Elles)。",
+        "answer": "C’est elles qui s’occuperont de tous les détails."
+      },
+      {
+        "exercise_block": "Exercice 21.10",
+        "question_number": "10",
+        "question_text": "Mettez en relief le pronom sujet avec l’expression C’est... qui : Il fait les courses.",
+        "hints": "💡 提示：强调阳性单数“他” (Il)。",
+        "answer": "C’est lui qui fait les courses."
+      }
+    ]
+  },
+  {
+    "page": 21.11,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.11",
+        "question_number": "1",
+        "question_text": "Traduisez en utilisant un pronom disjoint : He will go to France with me.",
+        "hints": "💡 提示：介词 avec 后接重读人称代词。",
+        "answer": "Il ira en France avec moi."
+      },
+      {
+        "exercise_block": "Exercice 21.11",
+        "question_number": "2",
+        "question_text": "Traduisez en utilisant un pronom disjoint : I hate coffee!",
+        "hints": "💡 提示：在句首使用重读人称代词来强调主语“我”。",
+        "answer": "Moi, je déteste le café!"
+      },
+      {
+        "exercise_block": "Exercice 21.11",
+        "question_number": "3",
+        "question_text": "Traduisez en utilisant un pronom disjoint : She works for us.",
+        "hints": "💡 提示：介词 pour 后接重读人称代词。",
+        "answer": "Elle travaille pour nous."
+      },
+      {
+        "exercise_block": "Exercice 21.11",
+        "question_number": "4",
+        "question_text": "Traduisez en utilisant un pronom disjoint : Whose book is this?",
+        "hints": "💡 提示：表达“属于某人”，通常用 être à + 重读人称代词/疑问词。",
+        "answer": "À qui est ce livre?"
+      },
+      {
+        "exercise_block": "Exercice 21.11",
+        "question_number": "5",
+        "question_text": "Traduisez en utilisant un pronom disjoint : Do it yourself! (tu)",
+        "hints": "💡 提示：加强语气“你自己” (yourself)，使用 -même 连字符结构。",
+        "answer": "Fais-le toi-même!"
+      },
+      {
+        "exercise_block": "Exercice 21.11",
+        "question_number": "6",
+        "question_text": "Traduisez en utilisant un pronom disjoint : I can’t make this decision without you. (tu)",
+        "hints": "💡 提示：介词 sans 后接对应的重读代词。",
+        "answer": "Je ne peux pas prendre cette décision sans toi."
+      },
+      {
+        "exercise_block": "Exercice 21.11",
+        "question_number": "7",
+        "question_text": "Traduisez en utilisant un pronom disjoint : He is taller than you are. (tu)",
+        "hints": "💡 提示：在比较级 que 的后面使用重读人称代词。",
+        "answer": "Il est plus grand que toi."
+      },
+      {
+        "exercise_block": "Exercice 21.11",
+        "question_number": "8",
+        "question_text": "Traduisez en utilisant un pronom disjoint : I am thinking about her.",
+        "hints": "💡 提示：penser à 指代“人”时，不能用 y，必须保留 à 并加上重读人称代词。",
+        "answer": "Je pense à elle."
+      },
+      {
+        "exercise_block": "Exercice 21.11",
+        "question_number": "9",
+        "question_text": "Traduisez en utilisant un pronom disjoint : They are afraid of him.",
+        "hints": "💡 提示：avoir peur de 指代“人”时，不能用 en，必须用 de + 重读代词。",
+        "answer": "Ils (Elles) ont peur de lui."
+      },
+      {
+        "exercise_block": "Exercice 21.11",
+        "question_number": "10",
+        "question_text": "Traduisez en utilisant un pronom disjoint : She said it herself.",
+        "hints": "💡 提示：加强语气“她自己” (herself)。",
+        "answer": "Elle l’a dit elle-même."
+      }
+    ]
+  },
+  {
+    "page": 21.12,
+    "data": [
+      {
+        "exercise_block": "Exercice 21.12",
+        "question_number": "1",
+        "question_text": "Formulez une courte réponse en utilisant aussi ou non plus : Il n’aime pas le froid. Je n’aime pas le froid.",
+        "hints": "💡 提示：否定句中表示“也不”时，使用 重读代词 + non plus。",
+        "answer": "Moi non plus."
+      },
+      {
+        "exercise_block": "Exercice 21.12",
+        "question_number": "2",
+        "question_text": "Formulez une courte réponse en utilisant aussi ou non plus : Nous allons en France. Ils vont en France.",
+        "hints": "💡 提示：肯定句中表示“也”时，使用 重读代词 + aussi。Ils 的重读形式是 eux。",
+        "answer": "Eux aussi."
+      },
+      {
+        "exercise_block": "Exercice 21.12",
+        "question_number": "3",
+        "question_text": "Formulez une courte réponse en utilisant aussi ou non plus : Je prends des vacances. Elle prend des vacances.",
+        "hints": "💡 提示：肯定句，使用相应的重读代词。",
+        "answer": "Elle aussi."
+      },
+      {
+        "exercise_block": "Exercice 21.12",
+        "question_number": "4",
+        "question_text": "Formulez une courte réponse en utilisant aussi ou non plus : Nous commandons un dessert. Elles commandent un dessert.",
+        "hints": "💡 提示：阴性复数的重读代词。",
+        "answer": "Elles aussi."
+      },
+      {
+        "exercise_block": "Exercice 21.12",
+        "question_number": "5",
+        "question_text": "Formulez une courte réponse en utilisant aussi ou non plus : Il lit beaucoup. Nous lisons beaucoup.",
+        "hints": "💡 提示：第一人称复数的重读代词。",
+        "answer": "Nous aussi."
+      }
+    ]
+  }
 ]
