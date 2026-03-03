@@ -8878,7 +8878,7 @@
 ]
     },
     {
-        "page": 148,
+        "page": 16.2,
         "data": [
             {
     "exercise_block": "Exercice 16.2",
@@ -8949,8 +8949,12 @@
     "question_text": "Mettez au passé simple : La Côte-d’Ivoire (devenir) indépendante en 1960.",
     "hints": "💡 提示：devenir 的变位与 venir 相同。",
     "answer": "devint"
-  },
-            {
+  }
+         ]
+    },
+    {
+        "page": 16.3,
+        "data": [   {
     "exercise_block": "Exercice 16.3",
     "question_number": "1",
     "question_text": "Traduisez en utilisant le passé simple : He lived ten years in Amsterdam.",
