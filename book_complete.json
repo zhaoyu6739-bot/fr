@@ -11228,5 +11228,633 @@
         "answer": "Nous aussi."
       }
     ]
+  },{
+    "page": 22.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 22.1",
+        "question_number": "1",
+        "question_text": "Traduisez les adjectifs : Ta grand-mère est (French)? —Non, elle est (Italian).",
+        "hints": "💡 提示：主语是阴性单数，注意国籍形容词的阴性形式配合。",
+        "answer": "française / italienne"
+      },
+      {
+        "exercise_block": "Exercice 22.1",
+        "question_number": "2",
+        "question_text": "Traduisez les adjectifs : Ces fenêtres sont (clean)? —Non, ces fenêtres sont (dirty).",
+        "hints": "💡 提示：fenêtres（窗户）是阴性复数，对应的形容词需加 -s 或 -es。",
+        "answer": "propres / sales"
+      },
+      {
+        "exercise_block": "Exercice 22.1",
+        "question_number": "3",
+        "question_text": "Traduisez les adjectifs : Sa femme est (blond)? —Non, elle est (redhead).",
+        "hints": "💡 提示：主语为阴性。“红发”的阴性是一个特殊的不规则变化（-x 变什么？）。",
+        "answer": "blonde / rousse"
+      },
+      {
+        "exercise_block": "Exercice 22.1",
+        "question_number": "4",
+        "question_text": "Traduisez les adjectifs : Il porte ses chaussures (black)? —Non, il porte des chaussures (navy blue).",
+        "hints": "💡 提示：chaussures 是阴性复数。但请注意：在法语中，由两个词组成的复合颜色形容词（如 navy blue）是永远没有性数变化的！",
+        "answer": "noires / bleu marine"
+      },
+      {
+        "exercise_block": "Exercice 22.1",
+        "question_number": "5",
+        "question_text": "Traduisez les adjectifs : C’est une situation (serious)? —Oui, c’est une situation très (serious).",
+        "hints": "💡 提示：situation 是阴性。以 -eux 结尾的形容词，阴性变为什么？",
+        "answer": "sérieuse / sérieuse"
+      },
+      {
+        "exercise_block": "Exercice 22.1",
+        "question_number": "6",
+        "question_text": "Traduisez les adjectifs : C’est une histoire (tragic)? —Non, c’est une histoire (funny).",
+        "hints": "💡 提示：histoire 是阴性单数，注意形容词的词尾变化。",
+        "answer": "tragique / amusante"
+      },
+      {
+        "exercise_block": "Exercice 22.1",
+        "question_number": "7",
+        "question_text": "Traduisez les adjectifs : C’est un (long) voyage? —Non, c’est assez (short).",
+        "hints": "💡 提示：voyage 是阳性单数。在法语中长和短对应哪两个词？",
+        "answer": "long / court"
+      },
+      {
+        "exercise_block": "Exercice 22.1",
+        "question_number": "8",
+        "question_text": "Traduisez les adjectifs : Votre projet est (ambitious). —Non, c’est la directrice qui est (ambitious).",
+        "hints": "💡 提示：第一个修饰 projet（阳性），第二个修饰 directrice（阴性）。",
+        "answer": "ambitieux / ambitieuse"
+      },
+      {
+        "exercise_block": "Exercice 22.1",
+        "question_number": "9",
+        "question_text": "Traduisez les adjectifs : Ses idées sont (good)? —Oui, ses idées sont (better) que les nôtres.",
+        "hints": "💡 提示：idées 是阴性复数。注意“good”在法语里的不规则比较级形式。",
+        "answer": "bonnes / meilleures"
+      },
+      {
+        "exercise_block": "Exercice 22.1",
+        "question_number": "10",
+        "question_text": "Traduisez les adjectifs : Ton travail est (boring)? —Non, mon travail est très (interesting).",
+        "hints": "💡 提示：travail 是阳性单数。",
+        "answer": "ennuyeux / intéressant"
+      }
+    ]
+  },
+  {
+    "page": 22.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 22.2",
+        "question_number": "1",
+        "question_text": "Choisir l’adjectif logique : Les antiquités sont __________ méchantes/vieilles/courtes.",
+        "hints": "💡 提示：哪一个形容词最适合描述“古董”的属性？",
+        "answer": "vieilles"
+      },
+      {
+        "exercise_block": "Exercice 22.2",
+        "question_number": "2",
+        "question_text": "Choisir l’adjectif logique : Mon chat est __________ adorable/bavard/immense.",
+        "hints": "💡 提示：形容宠物“猫”最合理的词汇是什么？",
+        "answer": "adorable"
+      },
+      {
+        "exercise_block": "Exercice 22.2",
+        "question_number": "3",
+        "question_text": "Choisir l’adjectif logique : Le musée du Louvre est __________ brave/dernier/fascinant.",
+        "hints": "💡 提示：卢浮宫博物馆通常被如何评价？",
+        "answer": "fascinant"
+      },
+      {
+        "exercise_block": "Exercice 22.2",
+        "question_number": "4",
+        "question_text": "Choisir l’adjectif logique : Le professeur d’italien est __________ silencieux/intéressant/fi nal.",
+        "hints": "💡 提示：形容一位教授的授课或性格。",
+        "answer": "intéressant"
+      },
+      {
+        "exercise_block": "Exercice 22.2",
+        "question_number": "5",
+        "question_text": "Choisir l’adjectif logique : Sa nouvelle histoire est __________ première/folle/violette.",
+        "hints": "💡 提示：故事可以是“疯狂的/不可思议的”。",
+        "answer": "folle"
+      }
+    ]
+  },
+  {
+    "page": 22.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 22.3",
+        "question_number": "1",
+        "question_text": "Mettez les adjectifs au féminin en remplaçant Patrick par Sonia : Patrick est français. Sonia est __________.",
+        "hints": "💡 提示：规则形容词，加 -e 变为阴性。",
+        "answer": "française"
+      },
+      {
+        "exercise_block": "Exercice 22.3",
+        "question_number": "2",
+        "question_text": "Mettez au féminin : Patrick est charmant. Sonia est __________.",
+        "hints": "💡 提示：规则形容词，加 -e。",
+        "answer": "charmante"
+      },
+      {
+        "exercise_block": "Exercice 22.3",
+        "question_number": "3",
+        "question_text": "Mettez au féminin : Patrick est amoureux. Sonia est __________.",
+        "hints": "💡 提示：-eux 结尾的形容词，阴性变为 -euse。",
+        "answer": "amoureuse"
+      },
+      {
+        "exercise_block": "Exercice 22.3",
+        "question_number": "4",
+        "question_text": "Mettez au féminin : Patrick est beau. Sonia est __________.",
+        "hints": "💡 提示：beau 的阴性形式是完全不规则的常用词。",
+        "answer": "belle"
+      },
+      {
+        "exercise_block": "Exercice 22.3",
+        "question_number": "5",
+        "question_text": "Mettez au féminin : Patrick est agressif. Sonia est __________.",
+        "hints": "💡 提示：以 -f 结尾的形容词，阴性变为 -ve。",
+        "answer": "agressive"
+      },
+      {
+        "exercise_block": "Exercice 22.3",
+        "question_number": "6",
+        "question_text": "Mettez au féminin : Patrick est actif. Sonia est __________.",
+        "hints": "💡 提示：与上一题规律相同，-f 变 -ve。",
+        "answer": "active"
+      },
+      {
+        "exercise_block": "Exercice 22.3",
+        "question_number": "7",
+        "question_text": "Mettez au féminin : Patrick est fou. Sonia est __________.",
+        "hints": "💡 提示：fou（疯的）的阴性是不规则的特殊变化。",
+        "answer": "folle"
+      },
+      {
+        "exercise_block": "Exercice 22.3",
+        "question_number": "8",
+        "question_text": "Mettez au féminin : Patrick est généreux. Sonia est __________.",
+        "hints": "💡 提示：-eux 变为 -euse。",
+        "answer": "généreuse"
+      },
+      {
+        "exercise_block": "Exercice 22.3",
+        "question_number": "9",
+        "question_text": "Mettez au féminin : Patrick est roux. Sonia est __________.",
+        "hints": "💡 提示：roux（红发的）的阴性形式也是不规则的（-x 变 -sse）。",
+        "answer": "rousse"
+      },
+      {
+        "exercise_block": "Exercice 22.3",
+        "question_number": "10",
+        "question_text": "Mettez au féminin : Patrick est doué. Sonia est __________.",
+        "hints": "💡 提示：以 -é 结尾的形容词，变阴性直接再加一个 -e。",
+        "answer": "douée"
+      }
+    ]
+  },
+  {
+    "page": 22.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 22.4",
+        "question_number": "1",
+        "question_text": "Traduire : Je suis (more optimistic) que lui.",
+        "hints": "💡 提示：形容词的较高比较级结构为 plus + 形容词。",
+        "answer": "plus optimiste"
+      },
+      {
+        "exercise_block": "Exercice 22.4",
+        "question_number": "2",
+        "question_text": "Traduire : Cécile est (as effi cient) que Carole.",
+        "hints": "💡 提示：形容词的同级比较结构为 aussi + 形容词。",
+        "answer": "aussi effi cace"
+      },
+      {
+        "exercise_block": "Exercice 22.4",
+        "question_number": "3",
+        "question_text": "Traduire : Ce vin-ci est (better) que ce vin-là.",
+        "hints": "💡 提示：“好”(bon)的比较级是不规则的。",
+        "answer": "meilleur"
+      },
+      {
+        "exercise_block": "Exercice 22.4",
+        "question_number": "4",
+        "question_text": "Traduire : Sa sœur est (as intelligent) qu’elle.",
+        "hints": "💡 提示：同级比较，记得形容词要和主语(Sa sœur)进行阴性配合。",
+        "answer": "aussi intelligente"
+      },
+      {
+        "exercise_block": "Exercice 22.4",
+        "question_number": "5",
+        "question_text": "Traduire : Votre chambre est (less expensive) que la mienne.",
+        "hints": "💡 提示：形容词的较低比较级结构为 moins + 形容词。",
+        "answer": "moins chère"
+      },
+      {
+        "exercise_block": "Exercice 22.4",
+        "question_number": "6",
+        "question_text": "Traduire : Arnaud a (as much) argent que vous?",
+        "hints": "💡 提示：比较的是名词(数量)时，同级比较用 autant de + 名词，注意省音。",
+        "answer": "autant d'"
+      },
+      {
+        "exercise_block": "Exercice 22.4",
+        "question_number": "7",
+        "question_text": "Traduire : Ce prix est (the best)!",
+        "hints": "💡 提示：“最好”是 bon 的最高级形式。",
+        "answer": "le meilleur"
+      },
+      {
+        "exercise_block": "Exercice 22.4",
+        "question_number": "8",
+        "question_text": "Traduire : Marie a (fewer) paires de chaussures que toi.",
+        "hints": "💡 提示：名词的较低比较级结构为 moins de + 名词。",
+        "answer": "moins de"
+      },
+      {
+        "exercise_block": "Exercice 22.4",
+        "question_number": "9",
+        "question_text": "Traduire : Elle est (more organized) que lui.",
+        "hints": "💡 提示：注意形容词与主语 Elle 的阴性配合。",
+        "answer": "plus organisée"
+      },
+      {
+        "exercise_block": "Exercice 22.4",
+        "question_number": "10",
+        "question_text": "Traduire : Cet appartement est (the most beautiful) de l’immeuble.",
+        "hints": "💡 提示：形容词的最高级结构为 定冠词 + plus + 形容词。",
+        "answer": "le plus beau"
+      }
+    ]
+  },
+  {
+    "page": 22.5,
+    "data": [
+      {
+        "exercise_block": "Exercice 22.5",
+        "question_number": "1",
+        "question_text": "Formuler une phrase avec les éléments : Charlotte/Lucie/grande/+",
+        "hints": "💡 提示：符号 + 代表要求写出较高比较级 (plus ... que)。",
+        "answer": "Charlotte est plus grande que Lucie."
+      },
+      {
+        "exercise_block": "Exercice 22.5",
+        "question_number": "2",
+        "question_text": "Formuler une phrase avec les éléments : Charles/Xavier/drôle/=",
+        "hints": "💡 提示：符号 = 代表要求写出同级比较 (aussi ... que)。",
+        "answer": "Charles est aussi drôle que Xavier."
+      },
+      {
+        "exercise_block": "Exercice 22.5",
+        "question_number": "3",
+        "question_text": "Formuler une phrase avec les éléments : Véronique/Sébastien/optimiste/-",
+        "hints": "💡 提示：符号 - 代表要求写出较低比较级 (moins ... que)。",
+        "answer": "Véronique est moins optimiste que Sébastien."
+      },
+      {
+        "exercise_block": "Exercice 22.5",
+        "question_number": "4",
+        "question_text": "Formuler une phrase avec les éléments : Lucien/sa sœur/intelligent/+",
+        "hints": "💡 提示：较高比较级结构 (plus ... que)。",
+        "answer": "Lucien est plus intelligent que sa sœur."
+      },
+      {
+        "exercise_block": "Exercice 22.5",
+        "question_number": "5",
+        "question_text": "Formuler une phrase avec les éléments : Élodie/Thérèse/bronzée/=",
+        "hints": "💡 提示：同级比较结构 (aussi ... que)。",
+        "answer": "Élodie est aussi bronzée que Thérèse."
+      }
+    ]
+  },
+  {
+    "page": 22.6,
+    "data": [
+      {
+        "exercise_block": "Exercice 22.6",
+        "question_number": "1",
+        "question_text": "Traduisez : It’s a good idea.",
+        "hints": "💡 提示：常见的简短形容词（如 bon/bonne）通常放在名词前面。",
+        "answer": "C’est une bonne idée."
+      },
+      {
+        "exercise_block": "Exercice 22.6",
+        "question_number": "2",
+        "question_text": "Traduisez : They bought an old house in Normandy.",
+        "hints": "💡 提示：“老的 (vieux/vieille)”要放在名词前面。诺曼底是阴性地区名，介词用 en。",
+        "answer": "Ils (Elles) ont acheté une vieille maison en Normandie."
+      },
+      {
+        "exercise_block": "Exercice 22.6",
+        "question_number": "3",
+        "question_text": "Traduisez : This young man is ambitious.",
+        "hints": "💡 提示：“年轻的 (jeune)”放在名词前。注意指示代词 ce 在元音或哑音 h 前的变化。",
+        "answer": "Ce jeune homme est ambitieux."
+      },
+      {
+        "exercise_block": "Exercice 22.6",
+        "question_number": "4",
+        "question_text": "Traduisez : This white shirt is mine.",
+        "hints": "💡 提示：颜色形容词放在名词之后。表达“属于我”用 être à + 重读人称代词。",
+        "answer": "Cette chemise blanche est à moi."
+      },
+      {
+        "exercise_block": "Exercice 22.6",
+        "question_number": "5",
+        "question_text": "Traduisez : Her aunt loves old French songs.",
+        "hints": "💡 提示：“古老的”放在名词前，“法国的（国籍/属性）”放在名词后，并注意阴性复数配合。",
+        "answer": "Sa tante aime les vieilles chansons françaises."
+      },
+      {
+        "exercise_block": "Exercice 22.6",
+        "question_number": "6",
+        "question_text": "Traduisez : I do not have your new address.",
+        "hints": "💡 提示：“新的 (nouveau/nouvelle)”放在名词前面。",
+        "answer": "Je n’ai pas votre nouvelle adresse."
+      },
+      {
+        "exercise_block": "Exercice 22.6",
+        "question_number": "7",
+        "question_text": "Traduisez : England is smaller than France.",
+        "hints": "💡 提示：较高比较级结构 (plus + 形容词 + que)，注意形容词的阴性配合。",
+        "answer": "L’Angleterre est plus petite que la France."
+      },
+      {
+        "exercise_block": "Exercice 22.6",
+        "question_number": "8",
+        "question_text": "Traduisez : She does not like this yellow jacket.",
+        "hints": "💡 提示：颜色形容词放在名词之后。",
+        "answer": "Elle n’aime pas cette veste jaune."
+      },
+      {
+        "exercise_block": "Exercice 22.6",
+        "question_number": "9",
+        "question_text": "Traduisez : She is as ambitious as he is.",
+        "hints": "💡 提示：同级比较用 (aussi + 形容词 + que)，后面接重读人称代词。",
+        "answer": "Elle est aussi ambitieuse que lui."
+      },
+      {
+        "exercise_block": "Exercice 22.6",
+        "question_number": "10",
+        "question_text": "Traduisez : This story is boring.",
+        "hints": "💡 提示：主语 histoire 是阴性，“无聊的 (ennuyeux)”需变阴性形式。",
+        "answer": "Cette histoire est ennuyeuse."
+      }
+    ]
+  },
+  {
+    "page": 22.7,
+    "data": [
+      {
+        "exercise_block": "Exercice 22.7",
+        "question_number": "1",
+        "question_text": "Faire correspondre les deux colonnes :\n1. Il travaillait ici dans le passé.\n2. Ils n’ont pas d’argent.\n3. Il n’a pas de chemise à porter.\n4. C’est une femme grande.\n5. Elle est tombée.\n---\na. Elles sont toutes sales.\nb. Elle mesure 1,80 m.\nc. Son pauvre genou!\nd. Ils sont pauvres.\ne. C’est l’ancien directeur.",
+        "hints": "💡 提示：此题考察形容词在名词前后的含义区别。例如：ancien 放在前面意为“前任的”，grand 放在后面意为“高个子的”，pauvre 放在后面意为“贫穷的”，放在前面意为“可怜的”。",
+        "answer": "1-e, 2-d, 3-a, 4-b, 5-c"
+      }
+    ]
+  },
+  {
+    "page": 23.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 23.1",
+        "question_number": "1",
+        "question_text": "Complétez avec ce, cet, cette ou ces : Ma sœur n’aime pas (this) _____ robe rouge.",
+        "hints": "💡 提示：robe 是阴性单数名词。",
+        "answer": "cette"
+      },
+      {
+        "exercise_block": "Exercice 23.1",
+        "question_number": "2",
+        "question_text": "Complétez avec ce, cet, cette ou ces : Mon petit frère préfère (this) _____ dessin animé.",
+        "hints": "💡 提示：dessin 是阳性单数名词。",
+        "answer": "ce"
+      },
+      {
+        "exercise_block": "Exercice 23.1",
+        "question_number": "3",
+        "question_text": "Complétez avec ce, cet, cette ou ces : Nos parents arrivent (this) _____ semaine.",
+        "hints": "💡 提示：semaine 是阴性单数。",
+        "answer": "cette"
+      },
+      {
+        "exercise_block": "Exercice 23.1",
+        "question_number": "4",
+        "question_text": "Complétez avec ce, cet, cette ou ces : Tu vas voir ton cousin (this) _____ soir.",
+        "hints": "💡 提示：soir 是阳性单数。",
+        "answer": "ce"
+      },
+      {
+        "exercise_block": "Exercice 23.1",
+        "question_number": "5",
+        "question_text": "Complétez avec ce, cet, cette ou ces : J’achète (these) _____ cadeaux pour mes enfants.",
+        "hints": "💡 提示：cadeaux 是复数名词，指示代词的复数形式阴阳性通用。",
+        "answer": "ces"
+      },
+      {
+        "exercise_block": "Exercice 23.1",
+        "question_number": "6",
+        "question_text": "Complétez avec ce, cet, cette ou ces : (This) _____ maison est trop petite pour notre famille.",
+        "hints": "💡 提示：maison 是阴性单数。",
+        "answer": "Cette"
+      },
+      {
+        "exercise_block": "Exercice 23.1",
+        "question_number": "7",
+        "question_text": "Complétez avec ce, cet, cette ou ces : Son neveu trouve (this) _____ jeu difficile.",
+        "hints": "💡 提示：jeu 是阳性单数。",
+        "answer": "ce"
+      },
+      {
+        "exercise_block": "Exercice 23.1",
+        "question_number": "8",
+        "question_text": "Complétez avec ce, cet, cette ou ces : Ma cousine fait toujours (these) _____ plats pour sa belle-mère.",
+        "hints": "💡 提示：plats 是复数形式。",
+        "answer": "ces"
+      },
+      {
+        "exercise_block": "Exercice 23.1",
+        "question_number": "9",
+        "question_text": "Complétez avec ce, cet, cette ou ces : (This) _____ famille habite ici depuis longtemps et les enfants aiment (this) _____ quartier.",
+        "hints": "💡 提示：第一空修饰阴性单数 famille，第二空修饰阳性单数 quartier。",
+        "answer": "Cette / ce"
+      },
+      {
+        "exercise_block": "Exercice 23.1",
+        "question_number": "10",
+        "question_text": "Complétez avec ce, cet, cette ou ces : (This) _____ bébé est adorable.",
+        "hints": "💡 提示：bébé 是阳性单数名词。",
+        "answer": "Ce"
+      }
+    ]
+  },
+  {
+    "page": 23.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 23.2",
+        "question_number": "1",
+        "question_text": "Faites la distinction entre les deux éléments : Ma mère achète les biscuits dans (this) _____ et les gâteaux dans (that) _____.",
+        "hints": "💡 提示：要区分“这个”和“那个”，需要在名词后加上 -ci 和 -là。pâtisserie 是阴性名词。",
+        "answer": "cette pâtisserie-ci / cette pâtisserie-là"
+      },
+      {
+        "exercise_block": "Exercice 23.2",
+        "question_number": "2",
+        "question_text": "Faites la distinction entre les deux éléments : Leur enfant joue avec (this) _____ mais il ne joue pas avec (that) _____.",
+        "hints": "💡 提示：jouet 是阳性名词。",
+        "answer": "ce jouet-ci / ce jouet-là"
+      },
+      {
+        "exercise_block": "Exercice 23.2",
+        "question_number": "3",
+        "question_text": "Faites la distinction entre les deux éléments : Mes parents habitent loin d’ici. (This) _____ habite à San Francisco, (that) _____ est à New York.",
+        "hints": "💡 提示：cousin 是阳性名词。",
+        "answer": "Ce cousin-ci / ce cousin-là"
+      },
+      {
+        "exercise_block": "Exercice 23.2",
+        "question_number": "4",
+        "question_text": "Faites la distinction entre les deux éléments : (This) _____ appartient à Tante Marthe, (that) _____ appartient à son fils.",
+        "hints": "💡 提示：maison 是阴性名词。",
+        "answer": "Cette maison-ci / cette maison-là"
+      },
+      {
+        "exercise_block": "Exercice 23.2",
+        "question_number": "5",
+        "question_text": "Faites la distinction entre les deux éléments : (This) _____ et (that) _____ sont nés le même jour.",
+        "hints": "💡 提示：neveu（侄子）是阳性名词。",
+        "answer": "Ce neveu-ci / ce neveu-là"
+      },
+      {
+        "exercise_block": "Exercice 23.2",
+        "question_number": "6",
+        "question_text": "Faites la distinction entre les deux éléments : Mon mari aime (this) _____, mais il n’aime pas (that) _____.",
+        "hints": "💡 提示：belle-sœur 是阴性名词。",
+        "answer": "cette belle-sœur-ci / cette belle-sœur-là"
+      },
+      {
+        "exercise_block": "Exercice 23.2",
+        "question_number": "7",
+        "question_text": "Faites la distinction entre les deux éléments : Son frère a écrit (this) _____, mais il n’a pas écrit (that) _____.",
+        "hints": "💡 提示：roman 是阳性名词。",
+        "answer": "ce roman-ci / ce roman-là"
+      },
+      {
+        "exercise_block": "Exercice 23.2",
+        "question_number": "8",
+        "question_text": "Faites la distinction entre les deux éléments : Leurs enfants aiment (this) _____ mais ils n’aiment pas (that) _____.",
+        "hints": "💡 提示：jeu 是阳性名词。",
+        "answer": "ce jeu-ci / ce jeu-là"
+      },
+      {
+        "exercise_block": "Exercice 23.2",
+        "question_number": "9",
+        "question_text": "Faites la distinction entre les deux éléments : (This) _____ et (that) _____ sont des cadeaux de Tante Agathe.",
+        "hints": "💡 提示：poupée（洋娃娃）是阴性名词。",
+        "answer": "Cette poupée-ci / cette poupée-là"
+      },
+      {
+        "exercise_block": "Exercice 23.2",
+        "question_number": "10",
+        "question_text": "Faites la distinction entre les deux éléments : Notre tante a envoyé (this) _____ à son fils et (that) _____ à sa mère, notre grand-mère.",
+        "hints": "💡 提示：carte 是阴性名词。",
+        "answer": "cette carte-ci / cette carte-là"
+      }
+    ]
+  },
+  {
+    "page": 23.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 23.3",
+        "question_number": "1",
+        "question_text": "Complétez avec l’adjectif possessif approprié : Aimez-vous (his) _____ nouvelle pièce?",
+        "hints": "💡 提示：主有形容词需与被修饰的名词（pièce，阴性单数）保持性数一致，而不是根据所有者变化。",
+        "answer": "sa"
+      },
+      {
+        "exercise_block": "Exercice 23.3",
+        "question_number": "2",
+        "question_text": "Complétez avec l’adjectif possessif approprié : Non, mais j’aime (his) _____ nouveau conte de fée.",
+        "hints": "💡 提示：conte 是阳性单数。",
+        "answer": "son"
+      },
+      {
+        "exercise_block": "Exercice 23.3",
+        "question_number": "3",
+        "question_text": "Complétez avec l’adjectif possessif approprié : Que penses-tu de (her) _____ dernier roman?",
+        "hints": "💡 提示：roman 是阳性单数，即使所有者是女性（her），也要用阳性的主有形容词。",
+        "answer": "son"
+      },
+      {
+        "exercise_block": "Exercice 23.3",
+        "question_number": "4",
+        "question_text": "Complétez avec l’adjectif possessif approprié : (Her) _____ dernière pièce est plus intéressante.",
+        "hints": "💡 提示：pièce 是阴性单数。",
+        "answer": "Sa"
+      },
+      {
+        "exercise_block": "Exercice 23.3",
+        "question_number": "5",
+        "question_text": "Complétez avec l’adjectif possessif approprié : As-tu besoin de (our) _____ voiture?",
+        "hints": "💡 提示：voiture 是单数，对应的第一人称复数主有形容词是什么？",
+        "answer": "notre"
+      },
+      {
+        "exercise_block": "Exercice 23.3",
+        "question_number": "6",
+        "question_text": "Complétez avec l’adjectif possessif approprié : Oui, j’ai besoin de (your) _____ voiture.",
+        "hints": "💡 提示：此处回答上一题，对应的“你们的”单数名词主有形容词。",
+        "answer": "votre"
+      },
+      {
+        "exercise_block": "Exercice 23.3",
+        "question_number": "7",
+        "question_text": "Complétez avec l’adjectif possessif approprié : (Your) _____ sœur est actrice?",
+        "hints": "💡 提示：sœur 是阴性单数，这里使用尊称/复数形式的 your。",
+        "answer": "Votre"
+      },
+      {
+        "exercise_block": "Exercice 23.3",
+        "question_number": "8",
+        "question_text": "Complétez avec l’adjectif possessif approprié : Non, (my) _____ sœur est architecte.",
+        "hints": "💡 提示：sœur 是阴性单数。",
+        "answer": "ma"
+      },
+      {
+        "exercise_block": "Exercice 23.3",
+        "question_number": "9",
+        "question_text": "Complétez avec l’adjectif possessif approprié : Quel âge a (their) _____ fille?",
+        "hints": "💡 提示：fille 是单数名词，“他们的”修饰单数名词时没有 -s。",
+        "answer": "leur"
+      },
+      {
+        "exercise_block": "Exercice 23.3",
+        "question_number": "10",
+        "question_text": "Complétez avec l’adjectif possessif approprié : (Their) _____ filles sont jumelles. Elles ont quatre ans.",
+        "hints": "💡 提示：filles 是复数，所以“他们的”也要加上表示复数的 -s。",
+        "answer": "Leurs"
+      }
+    ]
+  },
+  {
+    "page": 23.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 23.4",
+        "question_number": "1",
+        "question_text": "Faire correspondre les deux colonnes :\n1. frère\n2. amies\n3. oncle\n4. maison\n5. belle-sœur\n---\na. ma\nb. mon\nc. ma\nd. mon\ne. mes",
+        "hints": "💡 提示：根据名词的阴阳性和单复数选择主有形容词。注意：复数名词用 mes；阳性单数和以元音开头的阴性单数用 mon；以辅音开头的阴性单数用 ma。由于选项有重复（有两个 ma 和两个 mon），所以部分词会有多个对应字母。",
+        "answer": "1-b/d, 2-e, 3-b/d, 4-a/c, 5-a/c"
+      }
+    ]
   }
 ]
