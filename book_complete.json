@@ -518,7 +518,7 @@
                 "question_number": "1-10",
                 "question_text": "连线匹配题（请将 1-10 与 a-j 进行正确匹配）：\n\n1. ___ Il épelle\n2. ___ Je regarde\n3. ___ Nous habitons\n4. ___ Tu aimes nager\n5. ___ Ils déjeunent toujours\n6. ___ Vous chantez\n7. ___ Elle remplace\n8. ___ Je m’appelle\n9. ___ Elle annule\n10. ___ Nous déménageons",
                 "options": [],
-                "hints": "备选项：\na. dans l’Atlantique\nb. à midi et demi\nc. la comédienne malade\nd. Amélie\ne. la télévision\nf. son voyage au Japon\ng. à la fin du mois\nh. au troisième étage\ni. le mot\nj. une belle chanson",
+                "hints": "备选项：\n\na. dans l’Atlantique\nb. à midi et demi\n\nc. la comédienne malade\nd. Amélie\n\ne. la télévision\n\nf. son voyage au Japon\n\ng. à la fin du mois\n\nh. au troisième étage\n\ni. le mot\n\nj. une belle chanson",
                 "answer": "1.i, 2.e, 3.h, 4.a, 5.b, 6.j, 7.c, 8.d, 9.f, 10.g"
             }
         ]
@@ -864,31 +864,6 @@
                 "question_text": "Il ___ de faim.",
                 "hints": "mourir",
                 "answer": "meurt"
-            }
-        ]
-    },
-    {
-        "page": 29,
-        "data": []
-    },
-    {
-        "page": 30,
-        "data": [
-            {
-                "page": 9,
-                "exercise_block": null,
-                "question_number": "9",
-                "question_text": "She solves the mystery.",
-                "hints": null,
-                "answer": "Elle résout le mystère."
-            },
-            {
-                "page": 9,
-                "exercise_block": null,
-                "question_number": "10",
-                "question_text": "They sleep in Sonia's bedroom.",
-                "hints": null,
-                "answer": "Ils dorment dans la chambre de Sonia."
             }
         ]
     },
@@ -2932,7 +2907,7 @@
                 "question_number": "EXERCICE4.6",
                 "question_text": "Associez chaque phrase avec sa signification (entrez les lettres correspondantes) :\n\n1. ___ Il tient à sa voiture.\n2. ___ Il ne tient compte de rien.\n3. ___ Il ne tient pas ses promesses.\n4. ___ Il tient de sa sœur.\n5. ___ Il tient à te parler.",
                 "options": [],
-                "hints": "💡 Options disponibles :\na. Il ressemble à sa parente.\nb. Il veut discuter avec toi.\nc. Il est attaché à cette chose.\nd. Il ignore tout.\ne. Il ne respecte pas ses engagements.\n\n📌 Point de grammaire (Le verbe « tenir ») :\n- tenir à (quelque chose) = y être attaché\n- tenir à (faire quelque chose) = vouloir absolument\n- tenir de (quelqu'un) = ressembler à\n- tenir compte de = prendre en considération",
+                "hints": "💡 Options disponibles :\n\na. Il ressemble à sa parente.\n\nb. Il veut discuter avec toi.\n\nc. Il est attaché à cette chose.\n\nd. Il ignore tout.\n\ne. Il ne respecte pas ses engagements.\n\n📌 Point de grammaire (Le verbe « tenir ») :\n- tenir à (quelque chose) = y être attaché\n- tenir à (faire quelque chose) = vouloir absolument\n- tenir de (quelqu'un) = ressembler à\n- tenir compte de = prendre en considération",
                 "answer": "1.c, 2.d, 3.e, 4.a, 5.b"
             }
         ]
@@ -3881,7 +3856,7 @@
                 "question_number": "1-5",
                 "question_text": "连线匹配题（请将 1-5 句与 a-e 的正确含义进行匹配）：\n\n1. ___ Ils sont toujours ensemble.\n2. ___ Ils communiquent sans cesse.\n3. ___ Ils s’attendent au pire.\n4. ___ Ils se promènent.\n5. ___ Ils ne se parlent jamais.",
                 "options": [],
-                "hints": "💡 备选项：\na. Ils s’écrivent. (他们互相写信)\nb. Ils se détestent. (他们互相讨厌)\nc. Ils aiment marcher. (他们喜欢散步)\nd. Ils sont pessimistes. (他们很悲观)\ne. Ils s’aiment. (他们相爱)\n\n📌 考点：理解代词式动词的相互意义 (sens réciproque) 以及根据上下文推断同义句。",
+                "hints": "💡 备选项：\n\na. Ils s’écrivent. (他们互相写信)\n\nb. Ils se détestent. (他们互相讨厌)\n\nc. Ils aiment marcher. (他们喜欢散步)\n\nd. Ils sont pessimistes. (他们很悲观)\n\ne. Ils s’aiment. (他们相爱)\n\n📌 考点：理解代词式动词的相互意义 (sens réciproque) 以及根据上下文推断同义句。",
                 "answer": "1.e, 2.a, 3.d, 4.c, 5.b"
             },
             {
@@ -4314,7 +4289,7 @@
                 "question_number": "1-5",
                 "question_text": "连线匹配题（请将 1-5 句与 a-e 的正确宾语/状语进行匹配）：\n\n1. ___ Elle a conduit\n2. ___ Tu as compris\n3. ___ Vous avez lu\n4. ___ Il a eu\n5. ___ Nous avons fait",
                 "options": [],
-                "hints": "💡 备选项：\na. le journal (报纸)\nb. un accident (一场事故)\nc. une promenade (一次散步)\nd. les explications (解释)\ne. à toute vitesse (全速地)\n\n📌 考点：理解不同动词的复合过去时与宾语/状语的合理逻辑搭配。",
+                "hints": "💡 备选项：\n\na. le journal (报纸)\n\nb. un accident (一场事故)\n\nc. une promenade (一次散步)\n\nd. les explications (解释)\n\ne. à toute vitesse (全速地)\n\n📌 考点：理解不同动词的复合过去时与宾语/状语的合理逻辑搭配。",
                 "answer": "1.e, 2.d, 3.a, 4.b, 5.c"
             }
         ]
@@ -4577,7 +4552,7 @@
                 "question_number": "1-5",
                 "question_text": "Faites correspondre les deux colonnes (连线匹配题，请输入对应字母) :\n\n1. ___ Elle a sorti\n2. ___ Il a retourné\n3. ___ Elle est rentrée\n4. ___ Je suis passée\n5. ___ Elle est retournée à Rome",
                 "options": [],
-                "hints": "💡 Options (备选项) :\na. le bifteck (牛排)\nb. devant le boulanger (在面包店前)\nc. pour la cinquième fois (第五次)\nd. très tard (很晚)\ne. les chaises de jardin (花园的椅子)\n\n📌 考点：部分动词（如 sortir, retourner, rentrer, passer）作及物动词（后面跟直接宾语）时，用 avoir 作助动词；作不及物动词（表示位置移动）时，用 être 作助动词。注意用 être 时过去分词要与主语进行性数配合。",
+                "hints": "💡 Options (备选项) :\n\na. le bifteck (牛排)\n\nb. devant le boulanger (在面包店前)\n\nc. pour la cinquième fois (第五次)\n\nd. très tard (很晚)\n\ne. les chaises de jardin (花园的椅子)\n\n📌 考点：部分动词（如 sortir, retourner, rentrer, passer）作及物动词（后面跟直接宾语）时，用 avoir 作助动词；作不及物动词（表示位置移动）时，用 être 作助动词。注意用 être 时过去分词要与主语进行性数配合。",
                 "answer": "1.e, 2.a, 3.d, 4.b, 5.c"
             }
         ]
@@ -5515,7 +5490,7 @@
                 "question_number": "1-5",
                 "question_text": "Faites correspondre les deux colonnes (连线匹配题，请输入对应字母) :\n\n1. ___ Elle recevra\n2. ___ Tu courras\n3. ___ Il enseignera\n4. ___ Elle mourra\n5. ___ Il deviendra",
                 "options": [],
-                "hints": "💡 Options (备选项) :\na. le français (法语)\nb. à un âge avancé (高龄时)\nc. son diplôme en juin (六月份的毕业证)\nd. pilote de ligne (民航飞行员)\ne. dans le parc (在公园里)\n\n📌 考点：简单将来时（Futur simple）的动词（包括 recevra, courras, deviendra 等不规则词根）与其语义合理的宾语或状语搭配。",
+                "hints": "💡 Options (备选项) :\n\na. le français (法语)\n\nb. à un âge avancé (高龄时)\n\nc. son diplôme en juin (六月份的毕业证)\n\nd. pilote de ligne (民航飞行员)\n\ne. dans le parc (在公园里)\n\n📌 考点：简单将来时（Futur simple）的动词（包括 recevra, courras, deviendra 等不规则词根）与其语义合理的宾语或状语搭配。",
                 "answer": "1.c, 2.e, 3.a, 4.b, 5.d"
             }
         ]
@@ -5970,7 +5945,7 @@
             }
         ]
     },
-    {
+   {
         "page": 97,
         "data": [
             {
@@ -6658,7 +6633,7 @@
                 "question_number": "1-5",
                 "question_text": "Faites correspondre les deux colonnes (连线匹配题，请输入对应字母) :\n\n1. ___ Le chat serait content\n2. ___ Le mouton dormirait tranquillement\n3. ___ L’ours visiterait le désert\n4. ___ La grenouille serait ravie\n5. ___ La tortue avancerait plus vite",
                 "options": [],
-                "hints": "💡 Options (备选项) :\na. s’il y faisait moins chaud (如果那里没那么热的话)\nb. si elle ne portait pas sa maison sur son dos (如果它背上没背着房子的话)\nc. s’il attrapait une souris (如果它抓到一只老鼠的话)\nd. si le loup n’était pas dans la forêt (如果狼不在森林里的话)\ne. si elle pouvait être aussi grosse qu’un bœuf (如果它能长得像牛一样大的话)\n\n📌 考点：条件式现在时 (Conditionnel Présent) 的假设用法。结构为：主句 (Conditionnel) + si + 从句 (Imparfait)。这道题带有寓言色彩（例如第4题致敬了拉·封丹寓言《想变牛的青蛙》）。",
+                "hints": "💡 Options (备选项) :\n\na. s’il y faisait moins chaud (如果那里没那么热的话)\n\nb. si elle ne portait pas sa maison sur son dos (如果它背上没背着房子的话)\n\nc. s’il attrapait une souris (如果它抓到一只老鼠的话)\n\nd. si le loup n’était pas dans la forêt (如果狼不在森林里的话)\n\ne. si elle pouvait être aussi grosse qu’un bœuf (如果它能长得像牛一样大的话)\n\n📌 考点：条件式现在时 (Conditionnel Présent) 的假设用法。结构为：主句 (Conditionnel) + si + 从句 (Imparfait)。这道题带有寓言色彩（例如第4题致敬了拉·封丹寓言《想变牛的青蛙》）。",
                 "answer": "1.c, 2.d, 3.a, 4.e, 5.b"
             }
         ]
@@ -6923,7 +6898,7 @@
                 "question_number": "1-5",
                 "question_text": "Faites correspondre les deux colonnes (连线匹配题，请输入对应字母) :\n\n1. ___ Au cas où il pleuvrait\n2. ___ Au cas où tu l’aurais oublié\n3. ___ Au cas où ta télévision serait en panne\n4. ___ Au cas où elle aurait perdu ses notes\n5. ___ Au cas où quelque chose aurait été volé",
                 "options": [],
-                "hints": "💡 Options (备选项) :\na. viens regarder le film chez moi (来我家看电影)\nb. elle pourrait se servir des miennes (她可以用我的 [笔记])\nc. prends un parapluie (带把伞)\nd. prévenez la police (请报警)\ne. c’est mon anniversaire demain (明天是我的生日)\n\n📌 考点：短语「au cas où」(万一/以防) 的用法。在法语中，这个短语后面【必须】接条件式（Conditionnel Présent 或 Conditionnel Passé），用来表示一种可能性或预防措施。",
+                "hints": "💡 Options (备选项) :\n\na. viens regarder le film chez moi (来我家看电影)\n\nb. elle pourrait se servir des miennes (她可以用我的 [笔记])\n\nc. prends un parapluie (带把伞)\n\nd. prévenez la police (请报警)\n\ne. c’est mon anniversaire demain (明天是我的生日)\n\n📌 考点：短语「au cas où」(万一/以防) 的用法。在法语中，这个短语后面【必须】接条件式（Conditionnel Présent 或 Conditionnel Passé），用来表示一种可能性或预防措施。",
                 "answer": "1.c, 2.e, 3.a, 4.b, 5.d"
             }
         ]
@@ -7379,7 +7354,7 @@
                 "question_number": "1-5",
                 "question_text": "Faites correspondre les deux colonnes (连线匹配题，请输入对应字母) :\n\n1. ___ Marie serait ravie\n2. ___ Vous devriez\n3. ___ Quand elle habitait à la campagne,\n4. ___ Je serais moins inquiet\n5. ___ Tu aurais dû",
                 "options": [],
-                "hints": "💡 Options (备选项) :\na. venir manger à la maison ce soir. (今晚来家里吃饭 [建议])\nb. elle circulait en vélo. (她骑自行车出行 [过去习惯])\nc. si Marc l’invitait à dîner. (如果 Marc 邀请她吃晚饭 [假设])\nd. me prévenir que tes parents venaient aussi. (提醒我你父母也来 [过去的遗憾])\ne. si tu me téléphonais en arrivant. (如果你一到就给我打电话 [假设])\n\n📌 考点：综合考查 Conditionnel (假设/建议)、Imparfait (习惯) 和 Conditionnel Passé (遗憾)。注意主从句的时态配合逻辑。",
+                "hints": "💡 Options (备选项) :\n\na. venir manger à la maison ce soir. (今晚来家里吃饭 [建议])\n\nb. elle circulait en vélo. (她骑自行车出行 [过去习惯])\n\nc. si Marc l’invitait à dîner. (如果 Marc 邀请她吃晚饭 [假设])\n\nd. me prévenir que tes parents venaient aussi. (提醒我你父母也来 [过去的遗憾])\n\ne. si tu me téléphonais en arrivant. (如果你一到就给我打电话 [假设])\n\n📌 考点：综合考查 Conditionnel (假设/建议)、Imparfait (习惯) 和 Conditionnel Passé (遗憾)。注意主从句的时态配合逻辑。",
                 "answer": "1.c, 2.a, 3.b, 4.e, 5.d"
             }
         ]
@@ -8027,7 +8002,7 @@
                 "question_number": "1-5",
                 "question_text": "Faites correspondre les deux colonnes (连线匹配题，请输入对应字母) :\n\n1. ___ Je pense\n2. ___ Il est bizarre\n3. ___ Marie ! J’ai bien peur\n4. ___ Il est essentiel pour l’entreprise\n5. ___ Ils sont ravis",
                 "options": [],
-                "hints": "💡 Options (备选项) :\na. que nous ayons raté le dernier métro. (我们错过了末班地铁 [担忧])\nb. que leur fille ait obtenu son diplôme. (他们的女儿拿到了毕业证 [高兴])\nc. que Jean ait refusé une telle offre ! (Jean 竟然拒绝了这样的提议！[奇怪])\nd. qu’il pleuvra demain. (明天会下雨 [客观思考])\ne. que vous assistiez à la conférence de presse. (请您出席新闻发布会 [必要性])\n\n📌 考点：区分虚拟式与直陈式。注意第1题 'Je pense' 表达肯定看法，接直陈式将来时 (pleuvra)；而其他主句表达情感、评价或必要性，必须接虚拟式 (ayons, ait, assistiez)。",
+                "hints": "💡 Options (备选项) :\n\na. que nous ayons raté le dernier métro. (我们错过了末班地铁 [担忧])\n\nb. que leur fille ait obtenu son diplôme. (他们的女儿拿到了毕业证 [高兴])\n\nc. que Jean ait refusé une telle offre ! (Jean 竟然拒绝了这样的提议！[奇怪])\n\nd. qu’il pleuvra demain. (明天会下雨 [客观思考])\n\ne. que vous assistiez à la conférence de presse. (请您出席新闻发布会 [必要性])\n\n📌 考点：区分虚拟式与直陈式。注意第1题 'Je pense' 表达肯定看法，接直陈式将来时 (pleuvra)；而其他主句表达情感、评价或必要性，必须接虚拟式 (ayons, ait, assistiez)。",
                 "answer": "1.d, 2.c, 3.a, 4.e, 5.b"
             }
         ]
@@ -10908,7 +10883,7 @@
     
         "exercise_block": "Exercice 21.7",
         "question_number": "1",
-        "question_text": "Faire correspondre les deux colonnes :\n1. Il a peur\n2. Elle s’intéresse\n3. Je me sers\n4. Ils ne se souviennent pas\n5. Tu t’abonnes\n---\na. d’un ordinateur portable\nb. à un magazine hebdomadaire\nc. du nom de l’hôtel\nd. à ce nouveau candidat\ne. des insectes",
+        "question_text": "Faire correspondre les deux colonnes :\n\n1. Il a peur\n\n2. Elle s’intéresse\n\n3. Je me sers\n\n4. Ils ne se souviennent pas\n\n5. Tu t’abonnes\n---\n\na. d’un ordinateur portable\n\nb. à un magazine hebdomadaire\n\nc. du nom de l’hôtel\n\nd. à ce nouveau candidat\n\ne. des insectes",
         "hints": "💡 提示：这道题考察的是动词短语的固定介词搭配。回忆一下：avoir peur de, s'intéresser à, se servir de, se souvenir de, s'abonner à。",
         "answer": "1-e, 2-d, 3-a, 4-c, 5-b"
       }
