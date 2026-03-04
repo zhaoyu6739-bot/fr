@@ -64,23 +64,19 @@ def smart_check(user_input, std_answer):
 
 def parse_multi_answers(ans_str):
     """
-    判断并解析像 "1.i, 2.e, 3.h" 这样的组合答案。
-    如果是组合答案，返回字典：{"1": "i", "2": "e", ...}
-    如果不是，返回 None
+    判断并解析组合答案，例如 "1.i, 2.e, 3.h"
     """
     if not ans_str: return None
     
     parts = [p.strip() for p in ans_str.split(',')]
     parsed = {}
     for p in parts:
-        # 正则匹配：数字 + 点/冒号/短横线 + 答案内容 (例如 "1. i" 或 "10.g")
         match = re.search(r'^(\d+)\s*[\.\-：:]\s*(.*)$', p)
         if match:
             parsed[match.group(1)] = match.group(2).strip()
         else:
-            return None # 只要有一项不符合格式，就退回单输入框模式
+            return None 
             
-    # 解析出至少 2 个空，才认为是多空题
     return parsed if len(parsed) > 1 else None
 
 # ==========================================
@@ -97,34 +93,41 @@ else:
     st.sidebar.success("✅ AI 引擎已就绪")
 
 # ==========================================
-# 5. 【核心优化】侧边栏布局：冻结顶部 & 滚动选择
+# 5. 侧边栏布局：冻结顶部 & 滚动选择 (高度 700)
 # ==========================================
 pages = load_data()
 if not pages:
     st.error("找不到 book_complete.json 文件！")
     st.stop()
 
-# 提前声明变量
 display_questions = []
 current_page_name = ""
 
-# 定义固定在顶部的控制面板
+# 顶部冻结控制区
 top_control_panel = st.sidebar.container()
 
-# 定义可在内部滚动的页面选择面板（通过设定 height 实现固定窗口滚动）
 st.sidebar.markdown("<p style='font-size:14px; color:gray; margin-bottom:0px;'>⬇️ 拖动下方区域选择页面</p>", unsafe_allow_html=True)
-page_selector_panel = st.sidebar.container(height=750) 
 
-# --- A. 先在滚动区渲染页面选择（为后续判断做准备） ---
+# 限制高度的滚动菜单区
+page_selector_panel = st.sidebar.container(height=700) 
+
 with page_selector_panel:
     mode = st.radio("选择模式", ["📖 全书刷题", "📕 我的错题本"])
     
     if mode == "📖 全书刷题":
-        page_options = {f"第 {p['page']} 页 (共 {len(p['data'])} 题)": p for p in pages}
-        selected_option = st.radio("选择页面", list(page_options.keys()), label_visibility="collapsed")
+        # 利用 enumerate 加入唯一的序号 i，防止相同页码名称造成覆盖
+        page_options = {
+            f"[{i+1}] Exercice {p.get('page', '未知')}   (共 {len(p['data'])} 题)": p 
+            for i, p in enumerate(pages)
+        }
+        # 使用 Radio 框框菜单
+        selected_option = st.radio("选择Exercice", list(page_options.keys()), label_visibility="collapsed")
         display_questions = page_options[selected_option]["data"]
         current_page_name = selected_option
-        st.title(f"🇫🇷 当前练习：{selected_option.split(' ')[0]}")
+        
+        # 截取标题，去除最前面的序号部分 "[x] "，让主页面大标题保持干净
+        clean_title = selected_option.split('] ')[-1].split(' (')[0]
+        st.title(f"🇫🇷 当前练习：{clean_title}")
     else:
         display_questions = st.session_state.wrong_questions
         current_page_name = "错题本"
@@ -132,7 +135,7 @@ with page_selector_panel:
         if not display_questions:
             st.info("错题本是空的。点击全书刷题模式下的“⭐ 收藏”按钮来添加。")
 
-# --- B. 再在顶部固定区渲染核心按钮（实现冻结效果） ---
+# 回到顶部的固定区域绘制功能按钮
 with top_control_panel:
     if display_questions:
         if st.button("📝 一键批改当前页", use_container_width=True, type="primary"):
@@ -148,7 +151,6 @@ with top_control_panel:
                 multi_ans_dict = parse_multi_answers(std_val)
                 
                 if multi_ans_dict:
-                    # 【多空题智能批改】
                     sub_correct = True
                     any_filled = False
                     for sub_num, correct_val in multi_ans_dict.items():
@@ -161,14 +163,11 @@ with top_control_panel:
                     if sub_correct and any_filled:
                         correct_count += 1
                 else:
-                    # 【单空题智能批改】
                     user_val = st.session_state.get(f"input_{q_id}", "")
                     if smart_check(user_val, std_val):
                         correct_count += 1
             
             score = int((correct_count / total) * 100) if total > 0 else 0
-            
-            # 成绩指示器
             st.metric("📊 页面得分", f"{score}%", f"答对 {correct_count}/{total} 题")
             
             if score == 100:
@@ -177,7 +176,6 @@ with top_control_panel:
             elif score > 0:
                 st.info(f"继续加油！已纠正 {correct_count} 道题。")
 
-    # 存档管理模块
     with st.expander("💾 存档管理"):
         if st.session_state.wrong_questions:
             wrong_json = json.dumps(st.session_state.wrong_questions, ensure_ascii=False, indent=4)
@@ -197,13 +195,11 @@ with top_control_panel:
             except:
                 st.error("文件格式不对哦")
                 
-    # 错题本模式专属：一键清空
     if mode == "📕 我的错题本" and st.button("🗑️ 清空所有收藏", use_container_width=True):
         st.session_state.wrong_questions = []
         st.rerun()
 
     st.divider()
-
 
 # ==========================================
 # 6. 核心题目渲染逻辑
@@ -244,10 +240,9 @@ for idx, q in enumerate(display_questions):
     else:
         st.session_state.revealed_answers.discard(q_id)
 
-    # --- 【动态渲染作答区：多空分离 vs 单空】 ---
     if multi_ans_dict:
         st.markdown("<div style='font-size: 16px; color: #555; margin-bottom: 5px;'>📝 请分别填写各小题答案：</div>", unsafe_allow_html=True)
-        cols = st.columns(5) # 每行 5 个小框，节省空间
+        cols = st.columns(5)
         for i, (sub_num, correct_val) in enumerate(multi_ans_dict.items()):
             with cols[i % 5]:
                 st.text_input(f"题 {sub_num}", key=f"input_{q_id}_sub_{sub_num}")
@@ -259,7 +254,6 @@ for idx, q in enumerate(display_questions):
     with col1:
         if st.button("✅ 批改作答", key=f"btn_chk_{q_id}"):
             if multi_ans_dict:
-                # 【多空题详细报错】
                 results = []
                 all_correct = True
                 any_empty = False
@@ -280,7 +274,6 @@ for idx, q in enumerate(display_questions):
                 else:
                     st.warning(" | ".join(results))
             else:
-                # 【单空题报错】
                 user_answer = st.session_state.get(f"input_{q_id}", "")
                 if not user_answer.strip():
                     st.warning("你还没写答案哦。")
@@ -295,7 +288,6 @@ for idx, q in enumerate(display_questions):
                 st.warning("请先配置 API。")
             else:
                 with st.spinner("AI 老师正在批阅..."):
-                    # 拼凑用户输入的答案用于 AI 分析
                     if multi_ans_dict:
                         u_ans_list = [f"{k}.{st.session_state.get(f'input_{q_id}_sub_{k}', '')}" for k in multi_ans_dict.keys()]
                         user_answer_for_ai = ", ".join(u_ans_list)
