@@ -1,6 +1,6 @@
 [
     {
-        "page": 17,
+        "page": 1.1,
         "data": [
             {
                 "page": 3,
@@ -97,78 +97,84 @@
                 "question_text": "She cancels the trip.",
                 "hints": "",
                 "answer": "Elle annule le voyage."
-            },
-            {
-                "page": 3,
-                "exercise_block": "EXERCICE 1.2",
-                "question_number": "3",
-                "question_text": "He speaks French.",
-                "hints": "",
-                "answer": "Il parle français."
-            },
-            {
-                "page": 3,
-                "exercise_block": "EXERCICE 1.2",
-                "question_number": "4",
-                "question_text": "You bring some flowers.",
-                "hints": "formal",
-                "answer": "Vous apportez des fleurs."
-            },
-            {
-                "page": 3,
-                "exercise_block": "EXERCICE 1.2",
-                "question_number": "5",
-                "question_text": "I cut the bread.",
-                "hints": "",
-                "answer": "Je coupe le pain."
             }
-        ]
+            ]
     },
     {
-        "page": 18,
+        "page": 1.2,
         "data": [
             {
-                "page": 4,
-                "exercise_block": "EXERCICE 1.2",
-                "question_number": "6",
-                "question_text": "They are having lunch with Julie.",
-                "hints": "",
-                "answer": "Ils (Elles) déjeunent avec Julie."
-            },
-            {
-                "page": 4,
-                "exercise_block": "EXERCICE 1.2",
-                "question_number": "7",
-                "question_text": "He borrows ten euros.",
-                "hints": "",
-                "answer": "Il emprunte dix euros. "
-            },
-            {
-                "page": 4,
-                "exercise_block": "EXERCICE 1.2",
-                "question_number": "8",
-                "question_text": "I order a dessert.",
-                "hints": "",
-                "answer": "Je commande un dessert."
-            },
-            {
-                "page": 4,
-                "exercise_block": "EXERCICE 1.2",
-                "question_number": "9",
-                "question_text": "You study Russian.",
-                "hints": "(informal)",
-                "answer": "Tu étudies le russe."
-            },
-            {
-                "page": 4,
-                "exercise_block": "EXERCICE 1.2",
-                "question_number": "10",
-                "question_text": "They are looking for a good restaurant.",
-                "hints": "",
-                "answer": "Ils (Elles) cherchent un bon restaurant."
-            }
-        ]
-    },
+        "exercise_block": "Exercice 1.2",
+        "question_number": "1",
+        "question_text": "Traduire en français : We refuse the invitation.",
+        "hints": "💡 提示：主语是 nous，动词 refuser 的相应变位以 -ons 结尾。",
+        "answer": "Nous refusons l’invitation."
+      },
+      {
+        "exercise_block": "Exercice 1.2",
+        "question_number": "2",
+        "question_text": "Traduire en français : She cancels the trip.",
+        "hints": "💡 提示：主语是 elle，动词 annuler 的相应变位以 -e 结尾。“旅行”用 le voyage。",
+        "answer": "Elle annule le voyage."
+      },
+      {
+        "exercise_block": "Exercice 1.2",
+        "question_number": "3",
+        "question_text": "Traduire en français : He speaks French.",
+        "hints": "💡 提示：主语是 il，动词 parler。注意法语在表示语言名称时，首字母不大写。",
+        "answer": "Il parle français."
+      },
+      {
+        "exercise_block": "Exercice 1.2",
+        "question_number": "4",
+        "question_text": "Traduire en français : You bring some flowers. (formal)",
+        "hints": "💡 提示：(formal) 提示使用尊称/复数 vous 作为主语，动词 apporter 的相应变位以 -ez 结尾。“一些花”用 des fl eurs。",
+        "answer": "Vous apportez des fl eurs."
+      },
+      {
+        "exercise_block": "Exercice 1.2",
+        "question_number": "5",
+        "question_text": "Traduire en français : I cut the bread.",
+        "hints": "💡 提示：主语是 je，动词 couper。面包用 le pain。",
+        "answer": "Je coupe le pain."
+      },
+      {
+        "exercise_block": "Exercice 1.2",
+        "question_number": "6",
+        "question_text": "Traduire en français : They are having lunch with Julie.",
+        "hints": "💡 提示：主语是 ils 或 elles，动词 déjeuner（吃午饭）复数形式结尾是 -ent。",
+        "answer": "Ils (Elles) déjeunent avec Julie."
+      },
+      {
+        "exercise_block": "Exercice 1.2",
+        "question_number": "7",
+        "question_text": "Traduire en français : He borrows ten euros.",
+        "hints": "💡 提示：动词 emprunter (借入) 的第三人称单数变位。",
+        "answer": "Il emprunte dix euros."
+      },
+      {
+        "exercise_block": "Exercice 1.2",
+        "question_number": "8",
+        "question_text": "Traduire en français : I order a dessert.",
+        "hints": "💡 提示：动词 commander (点单) 的第一人称单数变位。",
+        "answer": "Je commande un dessert."
+      },
+      {
+        "exercise_block": "Exercice 1.2",
+        "question_number": "9",
+        "question_text": "Traduire en français : You study Russian. (informal)",
+        "hints": "💡 提示：(informal) 提示使用 tu 作为主语，动词 étudier 的变位以 -es 结尾。俄语用 le russe。",
+        "answer": "Tu étudies le russe."
+      },
+      {
+        "exercise_block": "Exercice 1.2",
+        "question_number": "10",
+        "question_text": "Traduire en français : They are looking for a good restaurant.",
+        "hints": "💡 提示：动词 chercher 已经包含了“寻找”的意思，后面直接加宾语，不需要加介词。“好的餐厅”用 un bon restaurant。",
+        "answer": "Ils (Elles) cherchent un bon restaurant."
+      }
+    ]
+  },
     {
         "page": 19,
         "data": [
@@ -2508,665 +2514,617 @@
         ]
     },
     {
-        "page": 48,
-        "data": []
-    },
-    {
-        "page": 49,
-        "data": [
-                {
-                "page": 35,
-                "exercise_block": "EXERCICE 4.1",
-                "question_number": "5",
-                "question_text": "Vous (aller) ___ en vacances à la fin de la semaine.",
-                "hints": "aller",
-                "answer": "allez"
-            },
-            {
-                "page": 35,
-                "exercise_block": "EXERCICE 4.1",
-                "question_number": "6",
-                "question_text": "Ça (aller) ___ ?",
-                "hints": "aller",
-                "answer": "va"
-            },
-            {
-                "page": 35,
-                "exercise_block": "EXERCICE 4.1",
-                "question_number": "7",
-                "question_text": "Elle (aller) ___ à la banque cet après-midi.",
-                "hints": "aller",
-                "answer": "vais"
-            },
-            {
-                "page": 35,
-                "exercise_block": "EXERCICE 4.1",
-                "question_number": "8",
-                "question_text": "Je (aller) ___ en Afrique avec mes amis.",
-                "hints": "aller",
-                "answer": "va"
-            },
-            {
-                "page": 35,
-                "exercise_block": "EXERCICE 4.1",
-                "question_number": "9",
-                "question_text": "Il (aller) ___ au match de base-ball ce soir.",
-                "hints": "aller",
-                "answer": "allez"
-            },
-            {
-                "page": 35,
-                "exercise_block": "EXERCICE 4.1",
-                "question_number": "10",
-                "question_text": "Comment (aller) -vous ?",
-                "hints": "aller",
-                "answer": "Comment allez-vous？"
-            }
+    "page": 4.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 4.1",
+        "question_number": "1",
+        "question_text": "Mettez au présent : Nous (aller) _____ à la plage cet après-midi.",
+        "hints": "💡 提示：主语是 nous，动词 aller 的第一人称复数变位。",
+        "answer": "allons"
+      },
+      {
+        "exercise_block": "Exercice 4.1",
+        "question_number": "2",
+        "question_text": "Mettez au présent : Ils (aller) _____ à Tahiti en décembre.",
+        "hints": "💡 提示：主语是 ils，动词 aller 的第三人称复数变位。",
+        "answer": "vont"
+      },
+      {
+        "exercise_block": "Exercice 4.1",
+        "question_number": "3",
+        "question_text": "Mettez au présent : Je (aller) _____ chez le dentiste demain matin.",
+        "hints": "💡 提示：主语是 je，动词 aller 的第一人称单数变位。",
+        "answer": "vais"
+      },
+      {
+        "exercise_block": "Exercice 4.1",
+        "question_number": "4",
+        "question_text": "Mettez au présent : Le lundi, il (aller) _____ à son cours d’anglais.",
+        "hints": "💡 提示：主语是 il，动词 aller 的第三人称单数变位。",
+        "answer": "va"
+      },
+      {
+        "exercise_block": "Exercice 4.1",
+        "question_number": "5",
+        "question_text": "Mettez au présent : Vous (aller) _____ en vacances à la fin de la semaine.",
+        "hints": "💡 提示：主语是 vous，动词 aller 的第二人称复数变位。",
+        "answer": "allez"
+      },
+      {
+        "exercise_block": "Exercice 4.1",
+        "question_number": "6",
+        "question_text": "Mettez au présent : Ça (aller) _____ ?",
+        "hints": "💡 提示：主语是 ça（相当于第三人称单数）。",
+        "answer": "va"
+      },
+      {
+        "exercise_block": "Exercice 4.1",
+        "question_number": "7",
+        "question_text": "Mettez au présent : Elle (aller) _____ à la banque cet après-midi.",
+        "hints": "💡 提示：主语是 elle。",
+        "answer": "va"
+      },
+      {
+        "exercise_block": "Exercice 4.1",
+        "question_number": "8",
+        "question_text": "Mettez au présent : Je (aller) _____ en Afrique avec mes amis.",
+        "hints": "💡 提示：主语是 je。",
+        "answer": "vais"
+      },
+      {
+        "exercise_block": "Exercice 4.1",
+        "question_number": "9",
+        "question_text": "Mettez au présent : Il (aller) _____ au match de base-ball ce soir.",
+        "hints": "💡 提示：主语是 il。",
+        "answer": "va"
+      },
+      {
+        "exercise_block": "Exercice 4.1",
+        "question_number": "10",
+        "question_text": "Mettez au présent : Comment (aller) _____ -vous?",
+        "hints": "💡 提示：这是一个倒装疑问句，主语是 vous。",
+        "answer": "allez"
+      }
+    ]
+  },
+  {
+    "page": 4.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 4.2",
+        "question_number": "1",
+        "question_text": "Mettez au futur immédiat : Nous achetons une nouvelle machine à laver.",
+        "hints": "💡 提示：最近将来时（futur immédiat）由 aller 的现在时 + 动词原形构成。",
+        "answer": "Nous allons acheter une nouvelle machine à laver."
+      },
+      {
+        "exercise_block": "Exercice 4.2",
+        "question_number": "2",
+        "question_text": "Mettez au futur immédiat : Il prend des vacances cet automne.",
+        "hints": "💡 提示：使用 il 对应的 aller 变位，后接 prendre 的原形。",
+        "answer": "Il va prendre des vacances cet automne."
+      },
+      {
+        "exercise_block": "Exercice 4.2",
+        "question_number": "3",
+        "question_text": "Mettez au futur immédiat : Vous investissez au Japon.",
+        "hints": "💡 提示：主语是 vous，动词变为 aller 变位 + investir。",
+        "answer": "Vous allez investir au Japon."
+      },
+      {
+        "exercise_block": "Exercice 4.2",
+        "question_number": "4",
+        "question_text": "Mettez au futur immédiat : Elle a vingt ans.",
+        "hints": "💡 提示：主语是 elle，a 是 avoir 的变位，需还原为动词原形。",
+        "answer": "Elle va avoir vingt ans."
+      },
+      {
+        "exercise_block": "Exercice 4.2",
+        "question_number": "5",
+        "question_text": "Mettez au futur immédiat : Cette agence promeut cette marchandise.",
+        "hints": "💡 提示：Cette agence 对应第三人称单数，promeut 的原形是 promouvoir。",
+        "answer": "Cette agence va promouvoir cette marchandise."
+      },
+      {
+        "exercise_block": "Exercice 4.2",
+        "question_number": "6",
+        "question_text": "Mettez au futur immédiat : Il est président.",
+        "hints": "💡 提示：动词 est 需还原为原形 être。",
+        "answer": "Il va être président."
+      },
+      {
+        "exercise_block": "Exercice 4.2",
+        "question_number": "7",
+        "question_text": "Mettez au futur immédiat : Nous choisissons un cadeau.",
+        "hints": "💡 提示：主语是 nous。",
+        "answer": "Nous allons choisir un cadeau."
+      },
+      {
+        "exercise_block": "Exercice 4.2",
+        "question_number": "8",
+        "question_text": "Mettez au futur immédiat : Tu dînes au restaurant.",
+        "hints": "💡 提示：主语是 tu。",
+        "answer": "Tu vas dîner au restaurant."
+      },
+      {
+        "exercise_block": "Exercice 4.2",
+        "question_number": "9",
+        "question_text": "Mettez au futur immédiat : Ils déménagent en janvier.",
+        "hints": "💡 提示：主语是 ils。",
+        "answer": "Ils vont déménager en janvier."
+      },
+      {
+        "exercise_block": "Exercice 4.2",
+        "question_number": "10",
+        "question_text": "Mettez au futur immédiat : Elle travaille au centre-ville.",
+        "hints": "💡 提示：主语是 elle。",
+        "answer": "Elle va travailler au centre-ville."
+      }
+    ]
+  },
+  {
+    "page": 4.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 4.3",
+        "question_number": "1",
+        "question_text": "Mettez au présent : Il (venir) _____ d’Espagne.",
+        "hints": "💡 提示：主语是 il，动词 venir 的第三人称单数变位。",
+        "answer": "vient"
+      },
+      {
+        "exercise_block": "Exercice 4.3",
+        "question_number": "2",
+        "question_text": "Mettez au présent : Est-ce qu’elles (venir) _____ ce midi?",
+        "hints": "💡 提示：主语是 elles，注意第三人称复数需要双写 n。",
+        "answer": "viennent"
+      },
+      {
+        "exercise_block": "Exercice 4.3",
+        "question_number": "3",
+        "question_text": "Mettez au présent : Tu (venir) _____ avec nous?",
+        "hints": "💡 提示：主语是 tu，动词 venir 的第二人称单数变位。",
+        "answer": "viens"
+      },
+      {
+        "exercise_block": "Exercice 4.3",
+        "question_number": "4",
+        "question_text": "Mettez au présent : Elle (venir) _____ du Canada.",
+        "hints": "💡 提示：主语是 elle。",
+        "answer": "vient"
+      },
+      {
+        "exercise_block": "Exercice 4.3",
+        "question_number": "5",
+        "question_text": "Mettez au présent : Vous (revenir) _____ des Maldives?",
+        "hints": "💡 提示：revenir 的变位规则与 venir 完全相同。主语是 vous。",
+        "answer": "revenez"
+      },
+      {
+        "exercise_block": "Exercice 4.3",
+        "question_number": "6",
+        "question_text": "Mettez au présent : Elle nous (prévenir) _____ toujours à la dernière minute.",
+        "hints": "💡 提示：prévenir 与 venir 同源。主语是 elle（nous 是宾语）。",
+        "answer": "prévient"
+      },
+      {
+        "exercise_block": "Exercice 4.3",
+        "question_number": "7",
+        "question_text": "Mettez au présent : Nous (venir) _____ tous ce soir.",
+        "hints": "💡 提示：主语是 nous。",
+        "answer": "venons"
+      },
+      {
+        "exercise_block": "Exercice 4.3",
+        "question_number": "8",
+        "question_text": "Mettez au présent : Il (devenir) _____ fou avec tout ce travail.",
+        "hints": "💡 提示：devenir 与 venir 同源。主语是 il。",
+        "answer": "devient"
+      },
+      {
+        "exercise_block": "Exercice 4.3",
+        "question_number": "9",
+        "question_text": "Mettez au présent : Vous (revenir) _____ cet après-midi?",
+        "hints": "💡 提示：主语是 vous。",
+        "answer": "revenez"
+      },
+      {
+        "exercise_block": "Exercice 4.3",
+        "question_number": "10",
+        "question_text": "Mettez au présent : Je (venir) _____ de la contacter.",
+        "hints": "💡 提示：主语是 je。",
+        "answer": "viens"
+      }
+    ]
+  },
+  {
+    "page": 4.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 4.4",
+        "question_number": "1",
+        "question_text": "Mettez au passé immédiat : Je téléphone à Bernard.",
+        "hints": "💡 提示：最近过去时（passé immédiat）由 venir de 的现在时变位 + 动词原形构成。",
+        "answer": "Je viens de téléphoner à Bernard."
+      },
+      {
+        "exercise_block": "Exercice 4.4",
+        "question_number": "2",
+        "question_text": "Mettez au passé immédiat : Il annule son vol.",
+        "hints": "💡 提示：使用 il 对应的 venir 变位，且动词 annuler 以元音开头，注意 de 需省音为 d’。",
+        "answer": "Il vient d'annuler son vol."
+      },
+      {
+        "exercise_block": "Exercice 4.4",
+        "question_number": "3",
+        "question_text": "Mettez au passé immédiat : Elle remplace tous ses meubles.",
+        "hints": "💡 提示：主语是 elle，后接 venir de + 原形。",
+        "answer": "Elle vient de remplacer tous ses meubles."
+      },
+      {
+        "exercise_block": "Exercice 4.4",
+        "question_number": "4",
+        "question_text": "Mettez au passé immédiat : La police révèle le secret.",
+        "hints": "💡 提示：La police 对应第三人称单数。",
+        "answer": "La police vient de révéler le secret."
+      },
+      {
+        "exercise_block": "Exercice 4.4",
+        "question_number": "5",
+        "question_text": "Mettez au passé immédiat : Vous commencez à travailler.",
+        "hints": "💡 提示：主语是 vous。",
+        "answer": "Vous venez de commencer à travailler."
+      },
+      {
+        "exercise_block": "Exercice 4.4",
+        "question_number": "6",
+        "question_text": "Mettez au passé immédiat : Elle manque le train.",
+        "hints": "💡 提示：主语是 elle。",
+        "answer": "Elle vient de manquer le train."
+      },
+      {
+        "exercise_block": "Exercice 4.4",
+        "question_number": "7",
+        "question_text": "Mettez au passé immédiat : Tu as trente ans.",
+        "hints": "💡 提示：动词 a 还原为原形 avoir，且注意 de 需要省音为 d’。",
+        "answer": "Tu viens d'avoir trente ans."
+      },
+      {
+        "exercise_block": "Exercice 4.4",
+        "question_number": "8",
+        "question_text": "Mettez au passé immédiat : Il achève ses études.",
+        "hints": "💡 提示：动词 achève 还原为原形 achever，注意省音。",
+        "answer": "Il vient d'achever ses études."
+      },
+      {
+        "exercise_block": "Exercice 4.4",
+        "question_number": "9",
+        "question_text": "Mettez au passé immédiat : Nous parlons à la directrice.",
+        "hints": "💡 提示：主语是 nous。",
+        "answer": "Nous venons de parler à la directrice."
+      },
+      {
+        "exercise_block": "Exercice 4.4",
+        "question_number": "10",
+        "question_text": "Mettez au passé immédiat : Ils voient un bon film.",
+        "hints": "💡 提示：主语是 ils。",
+        "answer": "Ils viennent de voir un bon film."
+      }
         ]
     },
     {
-        "page": 50,
-        "data": [
-            {
-                "page": 87,
-                "exercise_block": "EXERCICE 4.2",
-                "question_number": "1",
-                "question_text": "Nous ___ une nouvelle machine à laver.",
-                "hints": null,
-                "answer": "Vous allez acheter une nouvelle machine à laver."
-            },
-            {
-                "page": 87,
-                "exercise_block": "EXERCICE 4.2",
-                "question_number": "2",
-                "question_text": "Il ___ des vacances cet automne.",
-                "hints": null,
-                "answer": "Elle a vingt ans."
-            },
-            {
-                "page": 87,
-                "exercise_block": "EXERCICE 4.2",
-                "question_number": "3",
-                "question_text": "Vous ___ au Japon.",
-                "hints": null,
-                "answer": "Vous allez investir au Japon."
-            },
-            {
-                "page": 87,
-                "exercise_block": "EXERCICE 4.2",
-                "question_number": "4",
-                "question_text": "Elle ___ vingt ans.",
-                "hints": null,
-                "answer": "Elle va avoir vingt ans."
-            },
-            {
-                "page": 87,
-                "exercise_block": "EXERCICE 4.2",
-                "question_number": "5",
-                "question_text": "Cette agence ___ cette marchandise.",
-                "hints": null,
-                "answer": "Cette agence va promouvoir cette marchandise."
-            },
-            {
-                "page": 87,
-                "exercise_block": "EXERCICE 4.2",
-                "question_number": "6",
-                "question_text": "Il ___ président.",
-                "hints": null,
-                "answer": "Il va être président."
-            },
-            {
-                "page": 87,
-                "exercise_block": "EXERCICE 4.2",
-                "question_number": "7",
-                "question_text": "Nous ___ un cadeau.",
-                "hints": null,
-                "answer": "Nous allons choisir un cadeau."
-            },
-            {
-                "page": 87,
-                "exercise_block": "EXERCICE 4.2",
-                "question_number": "8",
-                "question_text": "Tu ___ au restaurant.",
-                "hints": null,
-                "answer": "Tu vas dîner au restaurant."
-            },
-            {
-                "page": 87,
-                "exercise_block": "EXERCICE 4.2",
-                "question_number": "9",
-                "question_text": "Ils ___ en janvier.",
-                "hints": null,
-                "answer": "sont"
-            },
-            {
-                "page": 87,
-                "exercise_block": "EXERCICE 4.2",
-                "question_number": "10",
-                "question_text": "Elle ___ au centre-ville.",
-                "hints": null,
-                "answer": "Elle va au centre-ville."
-            }
-        ]
-    },
-    {
-        "page": 51,
-        "data": [
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.3",
-                "question_number": "1",
-                "question_text": "Il (venir) ___ d'Espagne.",
-                "hints": null,
-                "answer": "Je viens de téléphoner à Bernard."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.3",
-                "question_number": "2",
-                "question_text": "Est-ce qu'elles (venir) ___ ce midi?",
-                "hints": null,
-                "answer": "Ils viennent d'annuler son vol."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.3",
-                "question_number": "3",
-                "question_text": "Tu (venir) ___ avec nous?",
-                "hints": null,
-                "answer": "Elle vient de remplacer tous ses meubles."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.3",
-                "question_number": "4",
-                "question_text": "Elle (venir) ___ du Canada.",
-                "hints": null,
-                "answer": "La police vient de révéler le secret."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.3",
-                "question_number": "5",
-                "question_text": "Vous (revenir) ___ des Maldives?",
-                "hints": null,
-                "answer": "Vous venez de commencer à travailler."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.3",
-                "question_number": "6",
-                "question_text": "Elle nous (prévenir) ___ toujours à la dernière minute.",
-                "hints": null,
-                "answer": "Elle vient de manquer le train."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.3",
-                "question_number": "7",
-                "question_text": "Nous (venir) ___ tous ce soir.",
-                "hints": null,
-                "answer": "Tu viens d'avoir trente ans."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.3",
-                "question_number": "8",
-                "question_text": "Il (devenir) ___ fou avec tout ce travail.",
-                "hints": null,
-                "answer": "Il vient d'acheter ses études."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.3",
-                "question_number": "9",
-                "question_text": "Vous (revenir) ___ cet après-midi?",
-                "hints": null,
-                "answer": "Nous venons de parler à la directrice."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.3",
-                "question_number": "10",
-                "question_text": "Je (venir) ___ de la contacter.",
-                "hints": null,
-                "answer": "Ils viennent de voir un bon film."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.4",
-                "question_number": "1",
-                "question_text": "Je téléphone à Bernard.",
-                "hints": null,
-                "answer": "Vas-tu au cinéma dimanche?"
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.4",
-                "question_number": "2",
-                "question_text": "Il annule son vol.",
-                "hints": null,
-                "answer": "Ils (Elles) vont bientôt déménager."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.4",
-                "question_number": "3",
-                "question_text": "Elle remplace tous ses meubles.",
-                "hints": null,
-                "answer": "Comment vas-tu?"
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.4",
-                "question_number": "4",
-                "question_text": "La police révèle le secret.",
-                "hints": null,
-                "answer": "Ils (Elles) vont investir au Portugal."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.4",
-                "question_number": "5",
-                "question_text": "Vous commencez à travailler.",
-                "hints": null,
-                "answer": "Elle vient de commencer un nouveau travail."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.4",
-                "question_number": "6",
-                "question_text": "Elle manque le train.",
-                "hints": null,
-                "answer": "Elle vient de manquer le train."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.4",
-                "question_number": "7",
-                "question_text": "Tu as trente ans.",
-                "hints": null,
-                "answer": "Tu viens d’avoir trente ans."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.4",
-                "question_number": "8",
-                "question_text": "Il achève ses études.",
-                "hints": null,
-                "answer": "Il vient d’achever ses études."
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.4",
-                "question_number": "9",
-                "question_text": "Nous parlons à la directrice.",
-                "hints": null,
-                "answer": "Nous venons de parler à la directrice. "
-            },
-            {
-                "page": 37,
-                "exercise_block": "EXERCICE 4.4",
-                "question_number": "10",
-                "question_text": "Ils voient un bon fi lm.",
-                "hints": null,
-                "answer": "Ils viennent de voir un bon film."
-            }
-        ]
-    },
-    {
-        "page": 52,
-        "data": [
-            {
-                "page": 38,
-                "exercise_block": "4.5",
-                "question_number": "1",
-                "question_text": "Are you going to the movies on Sunday?",
-                "hints": null,
-                "answer": "c"
-            },
-            {
-                "page": 38,
-                "exercise_block": "4.5",
-                "question_number": "2",
-                "question_text": "They are going to move soon.",
-                "hints": null,
-                "answer": "d"
-            },
-            {
-                "page": 38,
-                "exercise_block": "4.5",
-                "question_number": "3",
-                "question_text": "How are you doing?",
-                "hints": null,
-                "answer": "e"
-            },
-            {
-                "page": 38,
-                "exercise_block": "4.5",
-                "question_number": "4",
-                "question_text": "They are going to invest in Portugal.",
-                "hints": null,
-                "answer": "a"
-            },
-            {
-                "page": 38,
-                "exercise_block": "4.5",
-                "question_number": "5",
-                "question_text": "She's just started a new job.",
-                "hints": null,
-                "answer": "b"
-            },
-            {
-                "page": 38,
-                "exercise_block": "4.5",
-                "question_number": "6",
-                "question_text": "This hat looks good on you.",
-                "hints": null,
-                "answer": "Ce chapeau te va bien."
-            },
-            {
-                "page": 38,
-                "exercise_block": "4.5",
-                "question_number": "7",
-                "question_text": "They just canceled my flight.",
-                "hints": null,
-                "answer": "I(cls) ont annulé mon vol."
-            },
-            {
-                "page": 38,
-                "exercise_block": "4.5",
-                "question_number": "8",
-                "question_text": "He goes to the library on Saturdays.",
-                "hints": null,
-                "answer": "Il va à la bibliothèque les samedis."
-            },
-            {
-                "page": 38,
-                "exercise_block": "4.5",
-                "question_number": "9",
-                "question_text": "She just called François.",
-                "hints": null,
-                "answer": "Elle vient d’appeler François. "
-            },
-            {
-                "page": 38,
-                "exercise_block": "4.5",
-                "question_number": "10",
-                "question_text": "She is going to fi nish the book this afternoon.",
-                "hints": null,
-                "answer": "Elle va fi nir le livre cet après-midi."
-            }
-        ]
-    },
-    {
-        "page": 53,
-        "data": [
-            {
-                "exercise_block": "Exercice sur le verbe Tenir",
-                "question_number": "EXERCICE4.6",
-                "question_text": "Associez chaque phrase avec sa signification (entrez les lettres correspondantes) :\n\n1. ___ Il tient à sa voiture.\n2. ___ Il ne tient compte de rien.\n3. ___ Il ne tient pas ses promesses.\n4. ___ Il tient de sa sœur.\n5. ___ Il tient à te parler.",
-                "options": [],
-                "hints": "💡 Options disponibles :\n\na. Il ressemble à sa parente.\n\nb. Il veut discuter avec toi.\n\nc. Il est attaché à cette chose.\n\nd. Il ignore tout.\n\ne. Il ne respecte pas ses engagements.\n\n📌 Point de grammaire (Le verbe « tenir ») :\n- tenir à (quelque chose) = y être attaché\n- tenir à (faire quelque chose) = vouloir absolument\n- tenir de (quelqu'un) = ressembler à\n- tenir compte de = prendre en considération",
-                "answer": "1.c, 2.d, 3.e, 4.a, 5.b"
-            }
-        ]
-    },
-    {
-        "page": 54,
-        "data": [
-            {
-                "page": 40,
-                "exercise_block": "EXERCICE 4.7",
-                "question_number": "1",
-                "question_text": "Qui (faire) ___ quoi dans cette entreprise?",
-                "hints": "faire",
-                "answer": "Je fais lire le dossier."
-            },
-            {
-                "page": 40,
-                "exercise_block": "EXERCICE 4.7",
-                "question_number": "2",
-                "question_text": "Ils (faire) ___ un grand voyage chaque année.",
-                "hints": "faire",
-                "answer": "Vous faites laver la voiture."
-            },
-            {
-                "page": 40,
-                "exercise_block": "EXERCICE 4.7",
-                "question_number": "3",
-                "question_text": "Tu (faire) ___ la cuisine?",
-                "hints": "faire",
-                "answer": "Il fait réparer la télévision."
-            },
-            {
-                "page": 40,
-                "exercise_block": "EXERCICE 4.7",
-                "question_number": "4",
-                "question_text": "Quel temps (faire) ___ -il à Rome aujourd'hui?",
-                "hints": "faire",
-                "answer": "Elle fait investir sa fortune."
-            },
-            {
-                "page": 40,
-                "exercise_block": "EXERCICE 4.7",
-                "question_number": "5",
-                "question_text": "Nous (faire) ___ une promenade dans les jardins du Luxembourg.",
-                "hints": "faire",
-                "answer": "Je fais envoyer le paquet."
-            },
-            {
-                "page": 40,
-                "exercise_block": "EXERCICE 4.7",
-                "question_number": "6",
-                "question_text": "Elle (faire) ___ le marché le samedi matin.",
-                "hints": "faire",
-                "answer": "Il fait annuler le voyage."
-            },
-            {
-                "exercise_block": "Exercice 4.7",
-                "question_number": "7",
-                "question_text": "On ___ (faire) la queue depuis une demi-heure !",
-                "options": [],
-                "hints": "💡 考查 faire 的变位：on fait",
-                "answer": "fait"
-            },
-            {
-                "exercise_block": "Exercice 4.7",
-                "question_number": "8",
-                "question_text": "Ils ___ (faire) la sieste de trois à cinq heures.",
-                "options": [],
-                "hints": "💡 考查 faire 的变位：ils font",
-                "answer": "font"
-            },
-            {
-                "exercise_block": "Exercice 4.7",
-                "question_number": "9",
-                "question_text": "Vous ___ (faire) de l’exercice pour rester en forme ?",
-                "options": [],
-                "hints": "💡 考查 faire 的变位：vous faites",
-                "answer": "faites"
-            },
-            {
-                "exercise_block": "Exercice 4.7",
-                "question_number": "10",
-                "question_text": "Il ___ (faire) des grimaces devant le miroir.",
-                "options": [],
-                "hints": "💡 考查 faire 的变位：il fait",
-                "answer": "fait"
-            }
-        ]
-    },
-    {
-        "page": 55,
-        "data": [            
-            {
-                "exercise_block": "Exercice 4.8",
-                "question_number": "1",
-                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nJe lis le dossier. -> ___",
-                "options": [],
-                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Je，faire 变位为 fais，加上动词原形 lire。\n完整句子：Je fais lire le dossier.",
-                "answer": "Je fais lire le dossier."
-            },
-            {
-                "exercise_block": "Exercice 4.8",
-                "question_number": "2",
-                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nVous lavez la voiture. -> ___",
-                "options": [],
-                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Vous，faire 变位为 faites，加上动词原形 laver。\n完整句子：Vous faites laver la voiture.",
-                "answer": "Vous faites laver la voiture."
-            },
-            {
-                "exercise_block": "Exercice 4.8",
-                "question_number": "3",
-                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nIl répare la télévision. -> ___",
-                "options": [],
-                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Il，faire 变位为 fait，加上动词原形 réparer。\n完整句子：Il fait réparer la télévision.",
-                "answer": "Il fait réparer la télévision."
-            },
-            {
-                "exercise_block": "Exercice 4.8",
-                "question_number": "4",
-                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nElle investit sa fortune. -> ___",
-                "options": [],
-                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Elle，faire 变位为 fait，加上动词原形 investir。\n完整句子：Elle fait investir sa fortune.",
-                "answer": "Elle fait investir sa fortune."
-            },
-            {
-                "exercise_block": "Exercice 4.8",
-                "question_number": "5",
-                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nJ’envoie le paquet. -> ___",
-                "options": [],
-                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Je，faire 变位为 fais，加上动词原形 envoyer。\n完整句子：Je fais envoyer le paquet.",
-                "answer": "Je fais envoyer le paquet."
-            },
-            {
-                "exercise_block": "Exercice 4.8",
-                "question_number": "6",
-                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nIl annule le voyage. -> ___",
-                "options": [],
-                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Il，faire 变位为 fait，加上动词原形 annuler。\n完整句子：Il fait annuler le voyage.",
-                "answer": "Il fait annuler le voyage."
-            },
-            {
-                "exercise_block": "Exercice 4.8",
-                "question_number": "7",
-                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nTu remplaces l’employé malade. -> ___",
-                "options": [],
-                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Tu，faire 变位为 fais，加上动词原形 remplacer。\n完整句子：Tu fais remplacer l’employé malade.",
-                "answer": "Tu fais remplacer l’employé malade."
-            },
-            {
-                "exercise_block": "Exercice 4.8",
-                "question_number": "8",
-                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nIl visite l’entreprise. -> ___",
-                "options": [],
-                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Il，faire 变位为 fait，加上动词原形 visiter。\n完整句子：Il fait visiter l’entreprise.",
-                "answer": "Il fait visiter l’entreprise."
-            },
-            {
-                "exercise_block": "Exercice 4.8",
-                "question_number": "9",
-                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nJe corrige les copies des étudiants. -> ___",
-                "options": [],
-                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Je，faire 变位为 fais，加上动词原形 corriger。\n完整句子：Je fais corriger les copies des étudiants.",
-                "answer": "Je fais corriger les copies des étudiants."
-            },
-            {
-                "exercise_block": "Exercice 4.8",
-                "question_number": "10",
-                "question_text": "Transformez avec le verbe « faire » (改写句子) :\n\nJe chante la chanson. -> ___",
-                "options": [],
-                "hints": "💡 考查使役用法 (faire + infinitif)。\n主语是 Je，faire 变位为 fais，加上动词原形 chanter。\n完整句子：Je fais chanter la chanson.",
-                "answer": "Je fais chanter la chanson."
-            }
-        ]
-    },
-    {
-        "page": 56,
-        "data": [
-            {
-                "page": 42,
-                "exercise_block": "4.9",
-                "question_number": "1",
-                "question_text": "They have the letter sent to Paris.",
-                "hints": null,
-                "answer": "Ils (Elles) font envoyer la lettre à Paris."
-            },
-            {
-                "page": 42,
-                "exercise_block": "4.9",
-                "question_number": "2",
-                "question_text": "I have been standing in line for ten minutes.",
-                "hints": null,
-                "answer": "Je fais la queue depuis dix minutes."
-            },
-            {
-                "page": 42,
-                "exercise_block": "4.9",
-                "question_number": "3",
-                "question_text": "They are attached to their friends.",
-                "hints": null,
-                "answer": "Ils (Elles) tiennent à leurs amis."
-            },
-            {
-                "page": 42,
-                "exercise_block": "4.9",
-                "question_number": "4",
-                "question_text": "He really wants to sing this song.",
-                "hints": null,
-                "answer": "Il tient à chanter cette chanson."
-            },
-            {
-                "page": 42,
-                "exercise_block": "4.9",
-                "question_number": "5",
-                "question_text": "She is holding a vase.",
-                "hints": null,
-                "answer": "Elle tient un vase."
-            },
-            {
-                "page": 42,
-                "exercise_block": "4.9",
-                "question_number": "6",
-                "question_text": "He looks like his father.",
-                "hints": null,
-                "answer": "Il tient de son père."
-            },
-            {
-                "page": 42,
-                "exercise_block": "4.9",
-                "question_number": "7",
-                "question_text": "It's raining.",
-                "hints": null,
-                "answer": "Il pleut."
-            },
-            {
-                "page": 42,
-                "exercise_block": "4.9",
-                "question_number": "8",
-                "question_text": "Can you cook?",
-                "hints": null,
-                "answer": "Est-ce que vous savez faire la cuisine?"
-            },
-            {
-                "page": 42,
-                "exercise_block": "4.9",
-                "question_number": "9",
-                "question_text": "She has her car washed.",
-                "hints": null,
-                "answer": "Elle fait laver sa voiture."
-            },
-            {
-                "page": 42,
-                "exercise_block": "4.9",
-                "question_number": "10",
-                "question_text": "It's cold.",
-                "hints": null,
-                "answer": "Il fait froid."
-            }
-        ]
-    },
+    "page": 4.5,
+    "data": [
+      {
+        "exercise_block": "Exercice 4.5",
+        "question_number": "1",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : Are you going to the movies on Sunday?",
+        "hints": "💡 提示：使用 aller + 地点，并按要求使用 tu 加上倒装疑问句结构。",
+        "answer": "Vas-tu au cinéma dimanche?"
+      },
+      {
+        "exercise_block": "Exercice 4.5",
+        "question_number": "2",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : They are going to move soon.",
+        "hints": "💡 提示：表达“将要”使用最近将来时 (aller + 动词原形)。“不久”用 bientôt。",
+        "answer": "Ils (Elles) vont bientôt déménager."
+      },
+      {
+        "exercise_block": "Exercice 4.5",
+        "question_number": "3",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : How are you doing?",
+        "hints": "💡 提示：使用 tu 和倒装结构询问状况（Comment...）。",
+        "answer": "Comment vas-tu?"
+      },
+      {
+        "exercise_block": "Exercice 4.5",
+        "question_number": "4",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : They are going to invest in Portugal.",
+        "hints": "💡 提示：最近将来时。Portugal 是阳性国家名，用介词 au。",
+        "answer": "Ils (Elles) vont investir au Portugal."
+      },
+      {
+        "exercise_block": "Exercice 4.5",
+        "question_number": "5",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : She’s just started a new job.",
+        "hints": "💡 提示：表达“刚刚”使用最近过去时 (venir de + 动词原形)。",
+        "answer": "Elle vient de commencer un nouveau travail."
+      },
+      {
+        "exercise_block": "Exercice 4.5",
+        "question_number": "6",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : This hat looks good on you.",
+        "hints": "💡 提示：表达衣服/配饰“适合某人”，法语里常用动词 aller，即 aller bien à qqn。",
+        "answer": "Ce chapeau te va bien."
+      },
+      {
+        "exercise_block": "Exercice 4.5",
+        "question_number": "7",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : They just canceled my fl ight.",
+        "hints": "💡 提示：最近过去时 (venir de + 动词原形)。注意 de 遇元音省音。",
+        "answer": "Ils viennent d’annuler mon vol."
+      },
+      {
+        "exercise_block": "Exercice 4.5",
+        "question_number": "8",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : He goes to the library on Saturdays.",
+        "hints": "💡 提示：表示“每逢周六”的习惯性动作，直接用定冠词 le + 星期名词。",
+        "answer": "Il va à la bibliothèque le samedi."
+      },
+      {
+        "exercise_block": "Exercice 4.5",
+        "question_number": "9",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : She just called François.",
+        "hints": "💡 提示：最近过去时。",
+        "answer": "Elle vient d’appeler François."
+      },
+      {
+        "exercise_block": "Exercice 4.5",
+        "question_number": "10",
+        "question_text": "Traduisez (utilisez tu et l'inversion si nécessaire) : She is going to fi nish the book this afternoon.",
+        "hints": "💡 提示：最近将来时。",
+        "answer": "Elle va fi nir le livre cet après-midi."
+      }
+    ]
+  },
+  {
+    "page": 4.6,
+    "data": [
+      {
+        "exercise_block": "Exercice 4.6",
+        "question_number": "1",
+        "question_text": "Faire correspondre les deux colonnes :\n\n1. Il tient à sa voiture.\n\n2. Il ne tient compte de rien.\n\n3. Il ne tient pas ses promesses.\n\n4. Il tient de sa sœur.\n\n5. Il tient à te parler.\n---\n\na. Il ressemble à sa parente.\n\nb. Il veut discuter avec toi.\n\nc. Il est attaché à cette chose.\n\nd. Il ignore tout.\n\ne. Il ne respecte pas ses engagements.",
+        "hints": "💡 提示：这道题考察动词 tenir 的不同引申义：tenir à (重视/坚持)，tenir compte de (考虑/顾及)，tenir de (长得像/性格像) 等。",
+        "answer": "1-c, 2-d, 3-e, 4-a, 5-b"
+      }
+    ]
+  },
+  {
+    "page": 4.7,
+    "data": [
+      {
+        "exercise_block": "Exercice 4.7",
+        "question_number": "1",
+        "question_text": "Mettez au présent : Qui (faire) _____ quoi dans cette entreprise?",
+        "hints": "💡 提示：主语是 Qui，相当于第三人称单数 il/elle 的变位。",
+        "answer": "fait"
+      },
+      {
+        "exercise_block": "Exercice 4.7",
+        "question_number": "2",
+        "question_text": "Mettez au présent : Ils (faire) _____ un grand voyage chaque année.",
+        "hints": "💡 提示：主语是 ils，动词 faire 的第三人称复数变位。",
+        "answer": "font"
+      },
+      {
+        "exercise_block": "Exercice 4.7",
+        "question_number": "3",
+        "question_text": "Mettez au présent : Tu (faire) _____ la cuisine?",
+        "hints": "💡 提示：主语是 tu。",
+        "answer": "fais"
+      },
+      {
+        "exercise_block": "Exercice 4.7",
+        "question_number": "4",
+        "question_text": "Mettez au présent : Quel temps (faire) _____ -il à Rome aujourd’hui?",
+        "hints": "💡 提示：表达天气的非人称句，主语是 il。",
+        "answer": "fait"
+      },
+      {
+        "exercise_block": "Exercice 4.7",
+        "question_number": "5",
+        "question_text": "Mettez au présent : Nous (faire) _____ une promenade dans les jardins du Luxembourg.",
+        "hints": "💡 提示：主语是 nous。",
+        "answer": "faisons"
+      },
+      {
+        "exercise_block": "Exercice 4.7",
+        "question_number": "6",
+        "question_text": "Mettez au présent : Elle (faire) _____ le marché le samedi matin.",
+        "hints": "💡 提示：主语是 elle。",
+        "answer": "fait"
+      },
+      {
+        "exercise_block": "Exercice 4.7",
+        "question_number": "7",
+        "question_text": "Mettez au présent : On (faire) _____ la queue depuis une demi-heure!",
+        "hints": "💡 提示：主语是 on，相当于第三人称单数。",
+        "answer": "fait"
+      },
+      {
+        "exercise_block": "Exercice 4.7",
+        "question_number": "8",
+        "question_text": "Mettez au présent : Ils (faire) _____ la sieste de trois à cinq heures.",
+        "hints": "💡 提示：主语是 ils。",
+        "answer": "font"
+      },
+      {
+        "exercise_block": "Exercice 4.7",
+        "question_number": "9",
+        "question_text": "Mettez au présent : Vous (faire) _____ de l’exercice pour rester en forme?",
+        "hints": "💡 提示：主语是 vous。",
+        "answer": "faites"
+      },
+      {
+        "exercise_block": "Exercice 4.7",
+        "question_number": "10",
+        "question_text": "Mettez au présent : Il (faire) _____ des grimaces devant le miroir.",
+        "hints": "💡 提示：主语是 il。",
+        "answer": "fait"
+      }
+    ]
+  },
+  {
+    "page": 4.8,
+    "data": [
+      {
+        "exercise_block": "Exercice 4.8",
+        "question_number": "1",
+        "question_text": "Mettez à la forme causative : Je lis le dossier.",
+        "hints": "💡 提示：使役句型（la forme causative）由 faire 的变位 + 动作动词的原形构成。表示“让别人做某事/使某事发生”。",
+        "answer": "Je fais lire le dossier."
+      },
+      {
+        "exercise_block": "Exercice 4.8",
+        "question_number": "2",
+        "question_text": "Mettez à la forme causative : Vous lavez la voiture.",
+        "hints": "💡 提示：使用 vous 对应的 faire 变位，再接 laver 的原形。",
+        "answer": "Vous faites laver la voiture."
+      },
+      {
+        "exercise_block": "Exercice 4.8",
+        "question_number": "3",
+        "question_text": "Mettez à la forme causative : Il répare la télévision.",
+        "hints": "💡 提示：使用 il 的变位，再接 réparer 原形。",
+        "answer": "Il fait réparer la télévision."
+      },
+      {
+        "exercise_block": "Exercice 4.8",
+        "question_number": "4",
+        "question_text": "Mettez à la forme causative : Elle investit sa fortune.",
+        "hints": "💡 提示：使用 elle 变位 + investir。",
+        "answer": "Elle fait investir sa fortune."
+      },
+      {
+        "exercise_block": "Exercice 4.8",
+        "question_number": "5",
+        "question_text": "Mettez à la forme causative : J’envoie le paquet.",
+        "hints": "💡 提示：使用 je 变位 + envoyer。",
+        "answer": "Je fais envoyer le paquet."
+      },
+      {
+        "exercise_block": "Exercice 4.8",
+        "question_number": "6",
+        "question_text": "Mettez à la forme causative : Il annule le voyage.",
+        "hints": "💡 提示：使用 il 变位 + annuler。",
+        "answer": "Il fait annuler le voyage."
+      },
+      {
+        "exercise_block": "Exercice 4.8",
+        "question_number": "7",
+        "question_text": "Mettez à la forme causative : Tu remplaces l’employé malade.",
+        "hints": "💡 提示：使用 tu 变位 + remplacer。",
+        "answer": "Tu fais remplacer l’employé malade."
+      },
+      {
+        "exercise_block": "Exercice 4.8",
+        "question_number": "8",
+        "question_text": "Mettez à la forme causative : Il visite l’entreprise.",
+        "hints": "💡 提示：使用 il 变位 + visiter。",
+        "answer": "Il fait visiter l’entreprise."
+      },
+      {
+        "exercise_block": "Exercice 4.8",
+        "question_number": "9",
+        "question_text": "Mettez à la forme causative : Je corrige les copies des étudiants.",
+        "hints": "💡 提示：使用 je 变位 + corriger。",
+        "answer": "Je fais corriger les copies des étudiants."
+      },
+      {
+        "exercise_block": "Exercice 4.8",
+        "question_number": "10",
+        "question_text": "Mettez à la forme causative : Je chante la chanson.",
+        "hints": "💡 提示：使用 je 变位 + chanter。",
+        "answer": "Je fais chanter la chanson."
+      }
+    ]
+  },
+  {
+    "page": 4.9,
+    "data": [
+      {
+        "exercise_block": "Exercice 4.9",
+        "question_number": "1",
+        "question_text": "Traduisez (utilisez vous et est-ce que si nécessaire) : They have the letter sent to Paris.",
+        "hints": "💡 提示：使用使役结构 faire envoyer。",
+        "answer": "Ils (Elles) font envoyer la lettre à Paris."
+      },
+      {
+        "exercise_block": "Exercice 4.9",
+        "question_number": "2",
+        "question_text": "Traduisez (utilisez vous et est-ce que si nécessaire) : I have been standing in line for ten minutes.",
+        "hints": "💡 提示：排队用 faire la queue；由于动作还在持续，用 depuis + 现在的时态。",
+        "answer": "Je fais la queue depuis dix minutes."
+      },
+      {
+        "exercise_block": "Exercice 4.9",
+        "question_number": "3",
+        "question_text": "Traduisez (utilisez vous et est-ce que si nécessaire) : They are attached to their friends.",
+        "hints": "💡 提示：“在乎/重视/依恋”用 tenir à。",
+        "answer": "Ils (Elles) tiennent à leurs amis."
+      },
+      {
+        "exercise_block": "Exercice 4.9",
+        "question_number": "4",
+        "question_text": "Traduisez (utilisez vous et est-ce que si nécessaire) : He really wants to sing this song.",
+        "hints": "💡 提示：表达非常想/坚持做某事也可以用 tenir à + 动词原形。",
+        "answer": "Il tient à chanter cette chanson."
+      },
+      {
+        "exercise_block": "Exercice 4.9",
+        "question_number": "5",
+        "question_text": "Traduisez (utilisez vous et est-ce que si nécessaire) : She is holding a vase.",
+        "hints": "💡 提示：tenir 的本义就是“拿着”。",
+        "answer": "Elle tient un vase."
+      },
+      {
+        "exercise_block": "Exercice 4.9",
+        "question_number": "6",
+        "question_text": "Traduisez (utilisez vous et est-ce que si nécessaire) : He looks like his father.",
+        "hints": "💡 提示：“长得像/随某人”用 tenir de。",
+        "answer": "Il tient de son père."
+      },
+      {
+        "exercise_block": "Exercice 4.9",
+        "question_number": "7",
+        "question_text": "Traduisez (utilisez vous et est-ce que si nécessaire) : It’s raining.",
+        "hints": "💡 提示：表示天气的动词直接使用非人称主语 il 搭配 pleuvoir 的变位。",
+        "answer": "Il pleut."
+      },
+      {
+        "exercise_block": "Exercice 4.9",
+        "question_number": "8",
+        "question_text": "Traduisez (utilisez vous et est-ce que si nécessaire) : Can you cook?",
+        "hints": "💡 提示：表示“懂得怎么做某事”用 savoir；按要求使用 est-ce que 加上 vous 提问。",
+        "answer": "Est-ce que vous savez faire la cuisine?"
+      },
+      {
+        "exercise_block": "Exercice 4.9",
+        "question_number": "9",
+        "question_text": "Traduisez (utilisez vous et est-ce que si nécessaire) : She has her car washed.",
+        "hints": "💡 提示：“让(别人给)洗车”使用使役句型 faire laver。",
+        "answer": "Elle fait laver sa voiture."
+      },
+      {
+        "exercise_block": "Exercice 4.9",
+        "question_number": "10",
+        "question_text": "Traduisez (utilisez vous et est-ce que si nécessaire) : It’s cold.",
+        "hints": "💡 提示：表示天气冷用 il fait... 结构。",
+        "answer": "Il fait froid."
+      }
+    ]
+  },
     {
         "page": 58,
         "data": [
@@ -3253,7 +3211,7 @@
         ]
     },
     {
-        "page": 59,
+        "page": 5.2,
         "data": [
             {
                 "page": 45,
@@ -3334,13 +3292,17 @@
                 "question_text": "You should not invite Pierre.",
                 "hints": null,
                 "answer": "Vous ne devez pas inviter Pierre."
-            },
-            {
+            }
+             ]
+    },
+    {
+        "page": 5.3,
+        "data": [{
                 "exercise_block": "Exercice 5.3",
                 "question_number": "1-5",
-                "question_text": "Associez chaque situation à la phrase correspondante avec le verbe « devoir » :\n\n1. ___ Elle a des dettes.\n2. ___ Elle n’est pas morte.\n3. ___ Elle va peut-être voyager.\n4. ___ Elle a des invités.\n5. ___ Elle hésite encore.",
+                "question_text": "Associez chaque situation à la phrase correspondante avec le verbe « devoir » :\n\n1. ___ Elle a des dettes.\n\n2. ___ Elle n’est pas morte.\n\n3. ___ Elle va peut-être voyager.\n\n4. ___ Elle a des invités.\n\n5. ___ Elle hésite encore.",
                 "options": [],
-                "hints": "💡 Options disponibles :\na. Elle doit la vie à son médecin.\nb. Elle doit être prudente.\nc. Elle doit faire la cuisine.\nd. Elle doit partir en vacances.\ne. Elle doit de l’argent.\n\n📌 Point de grammaire (Les sens du verbe « devoir ») :\n- Devoir + nom = avoir une dette envers quelqu'un (ex: devoir de l'argent, devoir la vie).\n- Devoir + infinitif = exprimer une obligation (ex: devoir faire la cuisine) ou une probabilité/supposition (ex: elle doit partir en vacances).",
+                "hints": "💡 Options disponibles :\n\na. Elle doit la vie à son médecin.\n\nb. Elle doit être prudente.\n\nc. Elle doit faire la cuisine.\n\nd. Elle doit partir en vacances.\n\ne. Elle doit de l’argent.\n\n📌 Point de grammaire (Les sens du verbe « devoir ») :\n\n- Devoir + nom = avoir une dette envers quelqu'un (ex: devoir de l'argent, devoir la vie).\n- Devoir + infinitif = exprimer une obligation (ex: devoir faire la cuisine) ou une probabilité/supposition (ex: elle doit partir en vacances).",
                 "answer": "1.e, 2.a, 3.d, 4.c, 5.b"
             }
         ]
@@ -11614,7 +11576,7 @@
       {
         "exercise_block": "Exercice 22.7",
         "question_number": "1",
-        "question_text": "Faire correspondre les deux colonnes :\n1. Il travaillait ici dans le passé.\n2. Ils n’ont pas d’argent.\n3. Il n’a pas de chemise à porter.\n4. C’est une femme grande.\n5. Elle est tombée.\n---\na. Elles sont toutes sales.\nb. Elle mesure 1,80 m.\nc. Son pauvre genou!\nd. Ils sont pauvres.\ne. C’est l’ancien directeur.",
+        "question_text": "Faire correspondre les deux colonnes :\n\n1. Il travaillait ici dans le passé.\n\n2. Ils n’ont pas d’argent.\n\n3. Il n’a pas de chemise à porter.\n\n4. C’est une femme grande.\n\n5. Elle est tombée.\n---\n\na. Elles sont toutes sales.\n\nb. Elle mesure 1,80 m.\n\nc. Son pauvre genou!\n\nd. Ils sont pauvres.\n\ne. C’est l’ancien directeur.",
         "hints": "💡 提示：此题考察形容词在名词前后的含义区别。例如：ancien 放在前面意为“前任的”，grand 放在后面意为“高个子的”，pauvre 放在后面意为“贫穷的”，放在前面意为“可怜的”。",
         "answer": "1-e, 2-d, 3-a, 4-b, 5-c"
       }
@@ -11851,9 +11813,2440 @@
       {
         "exercise_block": "Exercice 23.4",
         "question_number": "1",
-        "question_text": "Faire correspondre les deux colonnes :\n1. frère\n2. amies\n3. oncle\n4. maison\n5. belle-sœur\n---\na. ma\nb. mon\nc. ma\nd. mon\ne. mes",
+        "question_text": "Faire correspondre les deux colonnes :\n\n1. frère\n\n2. amies\n\n3. oncle\n\n4. maison\n\n5. belle-sœur\n---\n\na. ma\n\nb. mon\n\nc. ma\n\nd. mon\n\ne. mes",
         "hints": "💡 提示：根据名词的阴阳性和单复数选择主有形容词。注意：复数名词用 mes；阳性单数和以元音开头的阴性单数用 mon；以辅音开头的阴性单数用 ma。由于选项有重复（有两个 ma 和两个 mon），所以部分词会有多个对应字母。",
         "answer": "1-b/d, 2-e, 3-b/d, 4-a/c, 5-a/c"
+      }
+    ]
+  },
+  {
+    "page": 23.5,
+    "data": [
+      {
+        "exercise_block": "Exercice 23.5",
+        "question_number": "1",
+        "question_text": "Traduisez les pronoms possessifs entre parenthèses : Mes documents sont en anglais. (His) _____ sont en français.",
+        "hints": "💡 提示：主有代词需要与被替代的名词（documents，阳性复数）保持性数一致。",
+        "answer": "Les siens"
+      },
+      {
+        "exercise_block": "Exercice 23.5",
+        "question_number": "2",
+        "question_text": "Traduisez les pronoms possessifs entre parenthèses : Ses parents viennent d’Écosse. (Mine) _____ viennent d’Irlande.",
+        "hints": "💡 提示：被替代的名词是 parents（阳性复数），第一人称主有代词。",
+        "answer": "Les miens"
+      },
+      {
+        "exercise_block": "Exercice 23.5",
+        "question_number": "3",
+        "question_text": "Traduisez les pronoms possessifs entre parenthèses : Il n’a pas trouvé son acte de naissance. Voici (mine) _____.",
+        "hints": "💡 提示：acte 是阳性单数名词。",
+        "answer": "le mien"
+      },
+      {
+        "exercise_block": "Exercice 23.5",
+        "question_number": "4",
+        "question_text": "Traduisez les pronoms possessifs entre parenthèses : Nous avons choisi notre itinéraire. Avez-vous choisi (yours) _____?",
+        "hints": "💡 提示：itinéraire 是阳性单数，且针对的是 vous（你们/您的）。",
+        "answer": "le vôtre"
+      },
+      {
+        "exercise_block": "Exercice 23.5",
+        "question_number": "5",
+        "question_text": "Traduisez les pronoms possessifs entre parenthèses : Elle a fi ni son roman. As-tu fi ni (yours) _____?",
+        "hints": "💡 提示：roman 是阳性单数，针对的是 tu（你的）。",
+        "answer": "le tien"
+      },
+      {
+        "exercise_block": "Exercice 23.5",
+        "question_number": "6",
+        "question_text": "Traduisez les pronoms possessifs entre parenthèses : Ses idées sont étranges. Et (theirs) _____ aussi.",
+        "hints": "💡 提示：idées 是阴性复数。",
+        "answer": "les leurs"
+      },
+      {
+        "exercise_block": "Exercice 23.5",
+        "question_number": "7",
+        "question_text": "Traduisez les pronoms possessifs entre parenthèses : Je suis vos conseils et je vous demande de suivre (ours) _____.",
+        "hints": "💡 提示：conseils 是阳性复数，第一人称复数的主有代词。",
+        "answer": "les nôtres"
+      },
+      {
+        "exercise_block": "Exercice 23.5",
+        "question_number": "8",
+        "question_text": "Traduisez les pronoms possessifs entre parenthèses : Mon blouson est en cuir marron et (hers) _____ est en cuir noir.",
+        "hints": "💡 提示：blouson 是阳性单数。",
+        "answer": "le sien"
+      },
+      {
+        "exercise_block": "Exercice 23.5",
+        "question_number": "9",
+        "question_text": "Traduisez les pronoms possessifs entre parenthèses : Ton plat est trop épicé et (mine) _____ est trop salé.",
+        "hints": "💡 提示：plat 是阳性单数。",
+        "answer": "le mien"
+      },
+      {
+        "exercise_block": "Exercice 23.5",
+        "question_number": "10",
+        "question_text": "Traduisez les pronoms possessifs entre parenthèses : Mon neveu est trop âgé et (his) _____ est trop jeune pour ce spectacle.",
+        "hints": "💡 提示：neveu 是阳性单数。",
+        "answer": "le sien"
+      }
+    ]
+  },
+  {
+    "page": 23.6,
+    "data": [
+      {
+        "exercise_block": "Exercice 23.6",
+        "question_number": "1",
+        "question_text": "Traduisez en utilisant vous si nécessaire : My family is larger than yours.",
+        "hints": "💡 提示：family (famille) 是阴性单数，“yours”对应阴性单数主有代词 (la vôtre)。",
+        "answer": "Ma famille est plus grande que la vôtre."
+      },
+      {
+        "exercise_block": "Exercice 23.6",
+        "question_number": "2",
+        "question_text": "Traduisez en utilisant vous si nécessaire : Our situation is more diffi cult than his.",
+        "hints": "💡 提示：situation 是阴性单数。",
+        "answer": "Notre situation est plus diffi cile que la sienne."
+      },
+      {
+        "exercise_block": "Exercice 23.6",
+        "question_number": "3",
+        "question_text": "Traduisez en utilisant vous si nécessaire : Her brothers are younger than she is.",
+        "hints": "💡 提示：注意前后主语的对应，后面使用重读人称代词 elle。",
+        "answer": "Ses frères sont plus jeunes qu’elle."
+      },
+      {
+        "exercise_block": "Exercice 23.6",
+        "question_number": "4",
+        "question_text": "Traduisez en utilisant vous si nécessaire : Their city is cleaner than ours.",
+        "hints": "💡 提示：city (ville) 是阴性单数。",
+        "answer": "Leur ville est plus propre que la nôtre."
+      },
+      {
+        "exercise_block": "Exercice 23.6",
+        "question_number": "5",
+        "question_text": "Traduisez en utilisant vous si nécessaire : My exercise is more advanced than theirs.",
+        "hints": "💡 提示：exercise (exercice) 是阳性单数。",
+        "answer": "Mon exercice est plus avancé que le leur."
+      },
+      {
+        "exercise_block": "Exercice 23.6",
+        "question_number": "6",
+        "question_text": "Traduisez en utilisant vous si nécessaire : Your dog is more handsome than his.",
+        "hints": "💡 提示：dog (chien) 是阳性单数。",
+        "answer": "Votre chien est plus beau que le sien."
+      },
+      {
+        "exercise_block": "Exercice 23.6",
+        "question_number": "7",
+        "question_text": "Traduisez en utilisant vous si nécessaire : Our neighbors are nicer than yours.",
+        "hints": "💡 提示：neighbors (voisins) 视为阳性复数。",
+        "answer": "Nos voisins sont plus sympathiques que les vôtres."
+      },
+      {
+        "exercise_block": "Exercice 23.6",
+        "question_number": "8",
+        "question_text": "Traduisez en utilisant vous si nécessaire : Your winters are colder than ours.",
+        "hints": "💡 提示：winters (hivers) 是阳性复数。",
+        "answer": "Vos hivers sont plus froids que les nôtres."
+      },
+      {
+        "exercise_block": "Exercice 23.6",
+        "question_number": "9",
+        "question_text": "Traduisez en utilisant vous si nécessaire : Their products are more expensive than yours.",
+        "hints": "💡 提示：products (produits) 是阳性复数。",
+        "answer": "Leurs produits sont plus chers que les vôtres."
+      },
+      {
+        "exercise_block": "Exercice 23.6",
+        "question_number": "10",
+        "question_text": "Traduisez en utilisant vous si nécessaire : Your children are more active than mine.",
+        "hints": "💡 提示：children (enfants) 是阳性复数。",
+        "answer": "Vos enfants sont plus actifs que les miens."
+      }
+    ]
+  },
+  {
+    "page": 23.7,
+    "data": [
+      {
+        "exercise_block": "Exercice 23.7",
+        "question_number": "1",
+        "question_text": "Traduisez en utilisant tu et l’inversion si nécessaire : What dress are you going to wear? —The one (that) I bought in Paris.",
+        "hints": "💡 提示：“The one”代替 robe（阴性单数），用指示代词 celle。",
+        "answer": "—Quelle robe vas-tu porter? —Celle que j’ai achetée à Paris."
+      },
+      {
+        "exercise_block": "Exercice 23.7",
+        "question_number": "2",
+        "question_text": "Traduisez en utilisant tu et l’inversion si nécessaire : What do you think of his new novel? —It’s awful!",
+        "hints": "💡 提示：对某事物的看法用 penser de。Awful 翻译为 affreux。",
+        "answer": "—Que penses-tu de son nouveau roman? —C’est affreux!"
+      },
+      {
+        "exercise_block": "Exercice 23.7",
+        "question_number": "3",
+        "question_text": "Traduisez en utilisant tu et l’inversion si nécessaire : What are these rings made of? —This one is gold and that one is silver.",
+        "hints": "💡 提示：rings (bagues) 是阴性复数。表示“这个...那个...”用 celle-ci / celle-là。",
+        "answer": "—En quoi sont ces bagues? —Celle-ci est en or et celle-là est en argent."
+      },
+      {
+        "exercise_block": "Exercice 23.7",
+        "question_number": "4",
+        "question_text": "Traduisez en utilisant tu et l’inversion si nécessaire : What do you think of my new house? —It’s beautiful!",
+        "hints": "💡 提示：使用 C'est 来表达感叹。注意答案给出的特殊组合形式。",
+        "answer": "—Que penses-tu de ma nouvelle maison? —C’est belle!"
+      },
+      {
+        "exercise_block": "Exercice 23.7",
+        "question_number": "5",
+        "question_text": "Traduisez en utilisant tu et l’inversion si nécessaire : What dishes can we prepare? —We can prepare the ones you prefer.",
+        "hints": "💡 提示：dishes (plats) 是阳性复数，“the ones”使用 ceux。",
+        "answer": "—Quels plats pouvons-nous préparer? —Nous pouvons préparer ceux que tu préfères."
+      },
+      {
+        "exercise_block": "Exercice 23.7",
+        "question_number": "6",
+        "question_text": "Traduisez en utilisant tu et l’inversion si nécessaire : Are these fi lms available? —This one is available but that one is not.",
+        "hints": "💡 提示：fi lms 是阳性复数。对比单数个体用 celui-ci 和 celui-là。",
+        "answer": "—Ces fi lms sont disponibles? —Celui-ci est disponible mais pas celui-là."
+      },
+      {
+        "exercise_block": "Exercice 23.7",
+        "question_number": "7",
+        "question_text": "Traduisez en utilisant tu et l’inversion si nécessaire : Are they subtitled? —This one is subtitled in French and that one is in German.",
+        "hints": "💡 提示：承接上题（阳性单数），继续使用 celui-ci / celui-là。",
+        "answer": "—Sont-ils sous-titrés? —Celui-ci est sous-titré en français et celui-là en allemand."
+      },
+      {
+        "exercise_block": "Exercice 23.7",
+        "question_number": "8",
+        "question_text": "Traduisez en utilisant tu et l’inversion si nécessaire : Their children like games but not the ones that are diffi cult.",
+        "hints": "💡 提示：games (jeux) 是阳性复数，“the ones”用 ceux。",
+        "answer": "Leurs enfants aiment les jeux mais pas ceux qui sont diffi ciles."
+      },
+      {
+        "exercise_block": "Exercice 23.7",
+        "question_number": "9",
+        "question_text": "Traduisez en utilisant tu et l’inversion si nécessaire : Look at these two books. Do you think my mother would like this one or that one?",
+        "hints": "💡 提示：books (livres) 是阳性复数。",
+        "answer": "Regarde ces deux livres. Penses-tu que ma mère aimerait celui-ci ou celui-là?"
+      },
+      {
+        "exercise_block": "Exercice 23.7",
+        "question_number": "10",
+        "question_text": "Traduisez en utilisant tu et l’inversion si nécessaire : Here are two bracelets. This one is Indian. That one is Egyptian.",
+        "hints": "💡 提示：bracelets 是阳性名词。",
+        "answer": "Voici deux bracelets. Celui-ci est indien. Celui-là est égyptien."
+      }
+    ]
+  },
+  {
+    "page": 23.8,
+    "data": [
+      {
+        "exercise_block": "Exercice 23.8",
+        "question_number": "1",
+        "question_text": "Remplacer l’adjectif démonstratif par le pronom démonstratif : Cette robe est rose. Cette robe est blanche.",
+        "hints": "💡 提示：用带 -ci 和 -là 的复合指示代词代替重复的名词。robe 为阴性单数。",
+        "answer": "Celle-ci est rose. Celle-là est blanche."
+      },
+      {
+        "exercise_block": "Exercice 23.8",
+        "question_number": "2",
+        "question_text": "Remplacer l’adjectif démonstratif par le pronom démonstratif : Ces écrivains sont inconnus. Ces écrivains sont célèbres.",
+        "hints": "💡 提示：écrivains 是阳性复数。",
+        "answer": "Ceux-ci sont inconnus. Ceux-là sont célèbres."
+      },
+      {
+        "exercise_block": "Exercice 23.8",
+        "question_number": "3",
+        "question_text": "Remplacer l’adjectif démonstratif par le pronom démonstratif : Cet oncle est jeune. Cet oncle est plus âgé.",
+        "hints": "💡 提示：oncle 是阳性单数。",
+        "answer": "Celui-ci est jeune. Celui-là est plus âgé."
+      },
+      {
+        "exercise_block": "Exercice 23.8",
+        "question_number": "4",
+        "question_text": "Remplacer l’adjectif démonstratif par le pronom démonstratif : Ce rendez-vous est trop tôt. Ce rendez-vous est trop tard.",
+        "hints": "💡 提示：rendez-vous 是阳性单数。",
+        "answer": "Celui-ci est trop tôt. Celui-là est trop tard."
+      },
+      {
+        "exercise_block": "Exercice 23.8",
+        "question_number": "5",
+        "question_text": "Remplacer l’adjectif démonstratif par le pronom démonstratif : Ce roman est un best-seller. Ce roman est épuisé.",
+        "hints": "💡 提示：roman 是阳性单数。",
+        "answer": "Celui-ci est un best-seller. Celui-là est épuisé."
+      },
+      {
+        "exercise_block": "Exercice 23.8",
+        "question_number": "6",
+        "question_text": "Remplacer l’adjectif démonstratif par le pronom démonstratif : Cet ordinateur est vieux. Cet ordinateur est le dernier modèle.",
+        "hints": "💡 提示：ordinateur 是阳性单数。",
+        "answer": "Celui-ci est vieux. Celui-là est le dernier modèle."
+      },
+      {
+        "exercise_block": "Exercice 23.8",
+        "question_number": "7",
+        "question_text": "Remplacer l’adjectif démonstratif par le pronom démonstratif : Cette peinture est trop claire. Cette peinture est trop foncée.",
+        "hints": "💡 提示：peinture 是阴性单数。",
+        "answer": "Celle-ci est trop claire. Celle-là est trop foncée."
+      },
+      {
+        "exercise_block": "Exercice 23.8",
+        "question_number": "8",
+        "question_text": "Remplacer l’adjectif démonstratif par le pronom démonstratif : Ces articles sont bien écrits. Ces articles sont mal écrits.",
+        "hints": "💡 提示：articles 是阳性复数。",
+        "answer": "Ceux-ci sont bien écrits. Ceux-là sont mal écrits."
+      },
+      {
+        "exercise_block": "Exercice 23.8",
+        "question_number": "9",
+        "question_text": "Remplacer l’adjectif démonstratif par le pronom démonstratif : Cette valise est légère. Cette valise est lourde.",
+        "hints": "💡 提示：valise 是阴性单数。",
+        "answer": "Celle-ci est légère. Celle-là est lourde."
+      },
+      {
+        "exercise_block": "Exercice 23.8",
+        "question_number": "10",
+        "question_text": "Remplacer l’adjectif démonstratif par le pronom démonstratif : Ces arguments sont bons. Ces arguments sont nuls.",
+        "hints": "💡 提示：arguments 是阳性复数。",
+        "answer": "Ceux-ci sont bons. Ceux-là sont nuls."
+      }
+    ]
+  },
+  {
+    "page": 23.9,
+    "data": [
+      {
+        "exercise_block": "Exercice 23.9",
+        "question_number": "1",
+        "question_text": "Traduisez en utilisant des expressions idiomatiques contenant un pronom possessif : After ten diffi cult years, she went back to her family.",
+        "hints": "💡 提示：表达“她的家人/亲属”习惯使用阳性复数主有代词 (les siens)。",
+        "answer": "Après dix années diffi ciles, elle est retournée chez les siens."
+      },
+      {
+        "exercise_block": "Exercice 23.9",
+        "question_number": "2",
+        "question_text": "Traduisez en utilisant des expressions idiomatiques contenant un pronom possessif : My friend René is not at ease among his peers.",
+        "hints": "💡 提示：“his peers (他的同类人/朋友)” 同样使用 les siens。",
+        "answer": "Mon ami René n’est pas à l’aise parmi les siens."
+      },
+      {
+        "exercise_block": "Exercice 23.9",
+        "question_number": "3",
+        "question_text": "Traduisez en utilisant des expressions idiomatiques contenant un pronom possessif : His young dog has been acting up again!",
+        "hints": "💡 提示：习语“捣乱/发脾气”是 faire des siennes (阴性复数)。",
+        "answer": "Son jeune chien a encore fait des siennes!"
+      },
+      {
+        "exercise_block": "Exercice 23.9",
+        "question_number": "4",
+        "question_text": "Traduisez en utilisant des expressions idiomatiques contenant un pronom possessif : Their granddaughter has been acting up again in school!",
+        "hints": "💡 提示：继续使用 faire des siennes。",
+        "answer": "Leur petite-fi lle a encore fait des siennes à l’école!"
+      },
+      {
+        "exercise_block": "Exercice 23.9",
+        "question_number": "5",
+        "question_text": "Traduisez en utilisant des expressions idiomatiques contenant un pronom possessif : Cheers! It’s your birthday.",
+        "hints": "💡 提示：“干杯(Cheers)”对朋友用单数非正式形式 À la tienne!。",
+        "answer": "À la tienne! C’est ton anniversaire."
+      },
+      {
+        "exercise_block": "Exercice 23.9",
+        "question_number": "6",
+        "question_text": "Traduisez en utilisant des expressions idiomatiques contenant un pronom possessif : You are going to lose everything if you don’t make an eff ort!",
+        "hints": "💡 提示：习语“做出努力/尽自己一份力”用 y mettre du sien (针对 tu 变为 y mettre du tien)。",
+        "answer": "Tu vas tout perdre si tu n’y mets pas du tien!"
+      },
+      {
+        "exercise_block": "Exercice 23.9",
+        "question_number": "7",
+        "question_text": "Traduisez en utilisant des expressions idiomatiques contenant un pronom possessif : If he does not contribute his share, the presentation will be a disaster!",
+        "hints": "💡 提示：继续使用 y mettre du sien 结构。",
+        "answer": "S’il n’y met pas du sien, la présentation sera un désastre!"
+      }
+    ]
+  },
+  {
+    "page": 24.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 24.1",
+        "question_number": "1",
+        "question_text": "Conjuguez le verbe au présent : C’est moi qui (être) _____ en charge de l’exposition.",
+        "hints": "💡 提示：当 qui 作主语时，从句谓语动词的变位要与 qui 所替代的先行词（这里是 moi，即 je）保持一致。",
+        "answer": "suis"
+      },
+      {
+        "exercise_block": "Exercice 24.1",
+        "question_number": "2",
+        "question_text": "Conjuguez le verbe au présent : C’est lui qui (suivre) _____ l’affaire.",
+        "hints": "💡 提示：先行词是 lui（即 il），动词 suivre 需使用第三人称单数变位。",
+        "answer": "suit"
+      },
+      {
+        "exercise_block": "Exercice 24.1",
+        "question_number": "3",
+        "question_text": "Conjuguez le verbe au présent : C’est nous qui (avoir) _____ les documents d’authenticité.",
+        "hints": "💡 提示：先行词是 nous。",
+        "answer": "avons"
+      },
+      {
+        "exercise_block": "Exercice 24.1",
+        "question_number": "4",
+        "question_text": "Conjuguez le verbe au présent : Ce sont eux qui (pouvoir) _____ prendre cette décision.",
+        "hints": "💡 提示：先行词是 eux（即 ils，阳性复数）。",
+        "answer": "peuvent"
+      },
+      {
+        "exercise_block": "Exercice 24.1",
+        "question_number": "5",
+        "question_text": "Conjuguez le verbe au présent : C’est elle qui (savoir) _____ la vérité.",
+        "hints": "💡 提示：先行词是 elle。",
+        "answer": "sait"
+      },
+      {
+        "exercise_block": "Exercice 24.1",
+        "question_number": "6",
+        "question_text": "Conjuguez le verbe au présent : C’est moi qui (avoir) _____ l’armoire de grand-mère.",
+        "hints": "💡 提示：先行词是 moi（je）。",
+        "answer": "ai"
+      },
+      {
+        "exercise_block": "Exercice 24.1",
+        "question_number": "7",
+        "question_text": "Conjuguez le verbe au présent : C’est vous qui (devoir) _____ nous aider à choisir.",
+        "hints": "💡 提示：先行词是 vous。",
+        "answer": "devez"
+      },
+      {
+        "exercise_block": "Exercice 24.1",
+        "question_number": "8",
+        "question_text": "Conjuguez le verbe au présent : C’est lui qui (faire) _____ la restauration.",
+        "hints": "💡 提示：先行词是 lui（il）。",
+        "answer": "fait"
+      },
+      {
+        "exercise_block": "Exercice 24.1",
+        "question_number": "9",
+        "question_text": "Conjuguez le verbe au présent : C’est toi qui (écrire) _____ l’article?",
+        "hints": "💡 提示：先行词是 toi（tu）。",
+        "answer": "écris"
+      },
+      {
+        "exercise_block": "Exercice 24.1",
+        "question_number": "10",
+        "question_text": "Conjuguez le verbe au présent : C’est eux qui (vouloir) _____ acheter ce buffet.",
+        "hints": "💡 提示：先行词是 eux（ils）。",
+        "answer": "veulent"
+      }
+    ]
+  },
+  {
+    "page": 24.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 24.2",
+        "question_number": "1",
+        "question_text": "Qui ou que? : Le magasin _____ se trouve place d’Italie a beaucoup de choix.",
+        "hints": "💡 提示：判断关系代词在从句中作主语还是宾语。这里缺少主语。",
+        "answer": "qui"
+      },
+      {
+        "exercise_block": "Exercice 24.2",
+        "question_number": "2",
+        "question_text": "Qui ou que? : L’antiquaire _____ elle a conseillé est fermé le dimanche.",
+        "hints": "💡 提示：从句中已有主语 elle，关系代词作直接宾语。注意遇到元音开头的词需要省音。",
+        "answer": "qu'"
+      },
+      {
+        "exercise_block": "Exercice 24.2",
+        "question_number": "3",
+        "question_text": "Qui ou que? : Tu veux me vendre le coffre _____ est dans le salon?",
+        "hints": "💡 提示：从句缺少主语。注意：qui 遇到元音不省音。",
+        "answer": "qui"
+      },
+      {
+        "exercise_block": "Exercice 24.2",
+        "question_number": "4",
+        "question_text": "Qui ou que? : Les manteaux sont dans le placard _____ est à gauche de la porte.",
+        "hints": "💡 提示：从句缺少主语。",
+        "answer": "qui"
+      },
+      {
+        "exercise_block": "Exercice 24.2",
+        "question_number": "5",
+        "question_text": "Qui ou que? : Le livre _____ je lis en ce moment est passionnant.",
+        "hints": "💡 提示：从句已有主语 je，关系代词代替 le livre 作直接宾语。",
+        "answer": "que"
+      },
+      {
+        "exercise_block": "Exercice 24.2",
+        "question_number": "6",
+        "question_text": "Qui ou que? : Les clients _____ sont dans le magasin sont indécis.",
+        "hints": "💡 提示：从句缺少主语。",
+        "answer": "qui"
+      },
+      {
+        "exercise_block": "Exercice 24.2",
+        "question_number": "7",
+        "question_text": "Qui ou que? : Il choisit toujours des gravures _____ je déteste.",
+        "hints": "💡 提示：从句已有主语 je，作宾语。",
+        "answer": "que"
+      },
+      {
+        "exercise_block": "Exercice 24.2",
+        "question_number": "8",
+        "question_text": "Qui ou que? : Achète quelque chose _____ fera plaisir aux enfants.",
+        "hints": "💡 提示：代替 quelque chose 作从句的主语。",
+        "answer": "qui"
+      },
+      {
+        "exercise_block": "Exercice 24.2",
+        "question_number": "9",
+        "question_text": "Qui ou que? : Le dessert _____ tu as acheté est délicieux.",
+        "hints": "💡 提示：从句已有主语 tu。",
+        "answer": "que"
+      },
+      {
+        "exercise_block": "Exercice 24.2",
+        "question_number": "10",
+        "question_text": "Qui ou que? : Il n’est pas satisfait du tableau _____ il peint.",
+        "hints": "💡 提示：从句已有主语 il。注意省音。",
+        "answer": "qu'"
+      }
+    ]
+  },
+  {
+    "page": 24.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 24.3",
+        "question_number": "1",
+        "question_text": "Faire correspondre les deux colonnes :\n\n1. Les chemises\n\n2. Les documents\n\n3. Le livre\n\n4. L’histoire\n\n5. Les photos\n---\n\na. qu’elle a lu\n\nb. qu’ils ont racontée\n\nc. qu’elle a lavées\n\nd. que tu as prises\n\ne. qu’il a consultés",
+        "hints": "💡 提示：这道题考察直接宾语提前时过去分词的性数配合。观察左边名词的阴阳性与单复数（如 Les chemises 是阴性复数），在右边寻找对应词尾（-es）的过去分词。",
+        "answer": "1-c, 2-e, 3-a, 4-b, 5-d"
+      }
+    ]
+  },
+  {
+    "page": 24.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 24.4",
+        "question_number": "1",
+        "question_text": "Complétez avec un pronom relatif : La femme, _____ je restaure ces meubles, est australienne. (pour)",
+        "hints": "💡 提示：指代人时，介词后可以用 qui，也可以用 lequel/laquelle 及其变化形式。先行词为 la femme。",
+        "answer": "pour qui / pour laquelle"
+      },
+      {
+        "exercise_block": "Exercice 24.4",
+        "question_number": "2",
+        "question_text": "Complétez avec un pronom relatif : La route _____ nous devons passer, est dangereuse. (par)",
+        "hints": "💡 提示：指代物（la route，阴性单数），介词后必须使用 lequel 的阴性形式。",
+        "answer": "par laquelle"
+      },
+      {
+        "exercise_block": "Exercice 24.4",
+        "question_number": "3",
+        "question_text": "Complétez avec un pronom relatif : Le tissu _____ il recouvre le canapé, est de la soie sauvage. (avec)",
+        "hints": "💡 提示：指代物（le tissu，阳性单数）。",
+        "answer": "avec lequel"
+      },
+      {
+        "exercise_block": "Exercice 24.4",
+        "question_number": "4",
+        "question_text": "Complétez avec un pronom relatif : L’époque _____ ils s’intéressent, est le dix-neuvième siècle. (à)",
+        "hints": "💡 提示：指代物（l'époque，阴性单数），注意介词 à 与 laquelle 组合不缩合。",
+        "answer": "à laquelle"
+      },
+      {
+        "exercise_block": "Exercice 24.4",
+        "question_number": "5",
+        "question_text": "Complétez avec un pronom relatif : Les livres _____ je fais mes recherches, sont à Sylvie. (avec)",
+        "hints": "💡 提示：指代物（les livres，阳性复数）。",
+        "answer": "avec lesquels"
+      },
+      {
+        "exercise_block": "Exercice 24.4",
+        "question_number": "6",
+        "question_text": "Complétez avec un pronom relatif : Le fauteuil _____ il est assis, appartenait à sa tante. (dans)",
+        "hints": "💡 提示：指代物（le fauteuil，阳性单数）。",
+        "answer": "dans lequel"
+      },
+      {
+        "exercise_block": "Exercice 24.4",
+        "question_number": "7",
+        "question_text": "Complétez avec un pronom relatif : Le poste _____ elle aspire, sera vacant d’ici la fin de l’année. (à)",
+        "hints": "💡 提示：先行词为阳性单数（le poste）。注意：介词 à 与 lequel 必须缩合成 auquel。",
+        "answer": "auquel"
+      },
+      {
+        "exercise_block": "Exercice 24.4",
+        "question_number": "8",
+        "question_text": "Complétez avec un pronom relatif : Les amis, _____ nous avons déjeuné dimanche, ont une belle collection de gravures. (chez)",
+        "hints": "💡 提示：指代人（les amis），可以用 qui，也可以用阳性复数形式的 lesquels。",
+        "answer": "chez qui / chez lesquels"
+      },
+      {
+        "exercise_block": "Exercice 24.4",
+        "question_number": "9",
+        "question_text": "Complétez avec un pronom relatif : Il pense à ses vacances? À ses projets? Je ne sais pas _____ il pense. (à)",
+        "hints": "💡 提示：先行词是不确定的事物（ideas/things），用泛指关系代词 quoi。",
+        "answer": "à quoi"
+      },
+      {
+        "exercise_block": "Exercice 24.4",
+        "question_number": "10",
+        "question_text": "Complétez avec un pronom relatif : Merci à Julie _____ ce projet n’aurait jamais vu le jour. (sans)",
+        "hints": "💡 提示：指代人（Julie，阴性单数）。",
+        "answer": "sans qui / sans laquelle"
+      }
+    ]
+  },
+  {
+    "page": 24.5,
+    "data": [
+      {
+        "exercise_block": "Exercice 24.5",
+        "question_number": "1",
+        "question_text": "Complétez avec qui, que ou dont : L’artisan _____ tu parles est à la retraite.",
+        "hints": "💡 提示：动词 parler 搭配介词 de (parler de qqn/qqch)，因此需要使用相应的关系代词。",
+        "answer": "dont"
+      },
+      {
+        "exercise_block": "Exercice 24.5",
+        "question_number": "2",
+        "question_text": "Complétez avec qui, que ou dont : Le fi lm _____ nous regardons est sous-titré.",
+        "hints": "💡 提示：关系代词在从句中作直接宾语（regarder qqch）。",
+        "answer": "que"
+      },
+      {
+        "exercise_block": "Exercice 24.5",
+        "question_number": "3",
+        "question_text": "Complétez avec qui, que ou dont : Le dictionnaire _____ ils se servent est bilingue.",
+        "hints": "💡 提示：se servir 搭配介词 de。",
+        "answer": "dont"
+      },
+      {
+        "exercise_block": "Exercice 24.5",
+        "question_number": "4",
+        "question_text": "Complétez avec qui, que ou dont : Le cadre _____ vous plaît n’est pas à vendre.",
+        "hints": "💡 提示：关系代词在从句中作主语（... plaît à vous）。",
+        "answer": "qui"
+      },
+      {
+        "exercise_block": "Exercice 24.5",
+        "question_number": "5",
+        "question_text": "Complétez avec qui, que ou dont : Les pinceaux _____ elle a besoin sont dans l’autre atelier.",
+        "hints": "💡 提示：avoir besoin 搭配介词 de。",
+        "answer": "dont"
+      },
+      {
+        "exercise_block": "Exercice 24.5",
+        "question_number": "6",
+        "question_text": "Complétez avec qui, que ou dont : Le livre d’art _____ est sur la table appartient à un client.",
+        "hints": "💡 提示：从句缺少主语。",
+        "answer": "qui"
+      },
+      {
+        "exercise_block": "Exercice 24.5",
+        "question_number": "7",
+        "question_text": "Complétez avec qui, que ou dont : Le seul incident _____ je me souviens c’est celui-ci.",
+        "hints": "💡 提示：se souvenir 搭配介词 de。",
+        "answer": "dont"
+      },
+      {
+        "exercise_block": "Exercice 24.5",
+        "question_number": "8",
+        "question_text": "Complétez avec qui, que ou dont : Le coussin _____ tu regardes est en soie.",
+        "hints": "💡 提示：作直接宾语。",
+        "answer": "que"
+      },
+      {
+        "exercise_block": "Exercice 24.5",
+        "question_number": "9",
+        "question_text": "Complétez avec qui, que ou dont : La maison _____ ils veulent acheter est en Camargue.",
+        "hints": "💡 提示：作直接宾语。注意遇到元音开头的代词 ils 需要省音。",
+        "answer": "qu'"
+      },
+      {
+        "exercise_block": "Exercice 24.5",
+        "question_number": "10",
+        "question_text": "Complétez avec qui, que ou dont : Les ouvriers _____ il est content recevront une augmentation de salaire.",
+        "hints": "💡 提示：être content 搭配介词 de。",
+        "answer": "dont"
+      }
+    ]
+  },
+  {
+    "page": 24.6,
+    "data": [
+      {
+        "exercise_block": "Exercice 24.6",
+        "question_number": "1",
+        "question_text": "Traduisez (utilisez vous si nécessaire) : I can remember the year he opened his shop.",
+        "hints": "💡 提示：“the year (when)”在法语中表示时间的先行词通常用关系代词 où 引导。",
+        "answer": "Je peux me souvenir de l’année où il a ouvert son magasin (sa boutique)."
+      },
+      {
+        "exercise_block": "Exercice 24.6",
+        "question_number": "2",
+        "question_text": "Traduisez (utilisez vous si nécessaire) : The chandelier he bought is for the living room.",
+        "hints": "💡 提示：先行词作从句的直接宾语。",
+        "answer": "Le lustre qu’il a acheté est pour le salon."
+      },
+      {
+        "exercise_block": "Exercice 24.6",
+        "question_number": "3",
+        "question_text": "Traduisez (utilisez vous si nécessaire) : The tool with which she is working is very old.",
+        "hints": "💡 提示：“with which”用 avec + lequel 形式，注意与 tool (outil，阳性单数) 配合。",
+        "answer": "L’outil avec lequel elle travaille est très vieux."
+      },
+      {
+        "exercise_block": "Exercice 24.6",
+        "question_number": "4",
+        "question_text": "Traduisez (utilisez vous si nécessaire) : Are you the owner?",
+        "hints": "💡 提示：使用 C'est vous qui... 的强调句式。",
+        "answer": "C’est vous qui êtes le (la) propriétaire?"
+      },
+      {
+        "exercise_block": "Exercice 24.6",
+        "question_number": "5",
+        "question_text": "Traduisez (utilisez vous si nécessaire) : The armchair you are sitting on belonged to my grandfather.",
+        "hints": "💡 提示：“sit on/in”在法语中是 être assis dans，用 dans + lequel。",
+        "answer": "Le fauteuil dans lequel vous êtes assis(e) appartenait à mon grand-père."
+      },
+      {
+        "exercise_block": "Exercice 24.6",
+        "question_number": "6",
+        "question_text": "Traduisez (utilisez vous si nécessaire) : The city where they live is quite beautiful.",
+        "hints": "💡 提示：表示地点的关系代词用 où。",
+        "answer": "La ville où ils (elles) habitent est très belle."
+      },
+      {
+        "exercise_block": "Exercice 24.6",
+        "question_number": "7",
+        "question_text": "Traduisez (utilisez vous si nécessaire) : I know the person he is talking about.",
+        "hints": "💡 提示：“talk about”是 parler de，替代由 de 引导的先行词用 dont。",
+        "answer": "Je connais la personne dont il parle."
+      },
+      {
+        "exercise_block": "Exercice 24.6",
+        "question_number": "8",
+        "question_text": "Traduisez (utilisez vous si nécessaire) : It’s the only detail I remember.",
+        "hints": "💡 提示：se souvenir de 需要搭配 dont。",
+        "answer": "C’est le seul détail dont je me souviens."
+      },
+      {
+        "exercise_block": "Exercice 24.6",
+        "question_number": "9",
+        "question_text": "Traduisez (utilisez vous si nécessaire) : The documents you need are at Valérie’s.",
+        "hints": "💡 提示：avoir besoin de 同样需要搭配 dont。",
+        "answer": "Les documents dont vous avez besoin sont chez Valérie."
+      },
+      {
+        "exercise_block": "Exercice 24.6",
+        "question_number": "10",
+        "question_text": "Traduisez (utilisez vous si nécessaire) : I don’t know what he is thinking about.",
+        "hints": "💡 提示：“what he is thinking about”没有具体先行词，penser à 搭配不定关系代词 ce à quoi。",
+        "answer": "Je ne sais pas à quoi il pense."
+      }
+    ]
+  },
+  {
+    "page": 24.7,
+    "data": [
+      {
+        "exercise_block": "Exercice 24.7",
+        "question_number": "1",
+        "question_text": "Complétez par ce qui, ce que, ce à quoi ou ce dont : _____ ils s’intéressent, c’est à l’opéra.",
+        "hints": "💡 提示：观察主句中的动词（s'intéresser à），需要搭配相应的泛指关系代词。",
+        "answer": "Ce à quoi"
+      },
+      {
+        "exercise_block": "Exercice 24.7",
+        "question_number": "2",
+        "question_text": "Complétez par ce qui, ce que, ce à quoi ou ce dont : _____ elle se souvient, c’est de son enfance en Indochine.",
+        "hints": "💡 提示：se souvenir de 需要搭配表 de 的泛指关系代词。",
+        "answer": "Ce dont"
+      },
+      {
+        "exercise_block": "Exercice 24.7",
+        "question_number": "3",
+        "question_text": "Complétez par ce qui, ce que, ce à quoi ou ce dont : _____ ils aiment, c’est l’art déco.",
+        "hints": "💡 提示：作直接宾语（aimer qqch），注意省音。",
+        "answer": "Ce qu'"
+      },
+      {
+        "exercise_block": "Exercice 24.7",
+        "question_number": "4",
+        "question_text": "Complétez par ce qui, ce que, ce à quoi ou ce dont : _____ tu as envie est beaucoup trop cher.",
+        "hints": "💡 提示：avoir envie 搭配介词 de。",
+        "answer": "Ce dont"
+      },
+      {
+        "exercise_block": "Exercice 24.7",
+        "question_number": "5",
+        "question_text": "Complétez par ce qui, ce que, ce à quoi ou ce dont : _____ j’ai besoin, c’est de votre aide.",
+        "hints": "💡 提示：avoir besoin 搭配介词 de。",
+        "answer": "Ce dont"
+      },
+      {
+        "exercise_block": "Exercice 24.7",
+        "question_number": "6",
+        "question_text": "Complétez par ce qui, ce que, ce à quoi ou ce dont : _____ est arrivé hier risque d’avoir des conséquences graves.",
+        "hints": "💡 提示：在从句中作主语。",
+        "answer": "Ce qui"
+      },
+      {
+        "exercise_block": "Exercice 24.7",
+        "question_number": "7",
+        "question_text": "Complétez par ce qui, ce que, ce à quoi ou ce dont : _____ je ne comprends pas, c’est son indifférence.",
+        "hints": "💡 提示：在从句中作直接宾语（comprendre qqch）。",
+        "answer": "Ce que"
+      },
+      {
+        "exercise_block": "Exercice 24.7",
+        "question_number": "8",
+        "question_text": "Complétez par ce qui, ce que, ce à quoi ou ce dont : _____ est fascinant, c’est sa collection.",
+        "hints": "💡 提示：在从句中作主语。",
+        "answer": "Ce qui"
+      },
+      {
+        "exercise_block": "Exercice 24.7",
+        "question_number": "9",
+        "question_text": "Complétez par ce qui, ce que, ce à quoi ou ce dont : _____ il parle n’a aucun intérêt.",
+        "hints": "💡 提示：parler 搭配介词 de。",
+        "answer": "Ce dont"
+      },
+      {
+        "exercise_block": "Exercice 24.7",
+        "question_number": "10",
+        "question_text": "Complétez par ce qui, ce que, ce à quoi ou ce dont : _____ je décris dans mon roman, c’est le paysage savoyard.",
+        "hints": "💡 提示：在从句中作直接宾语（décrire qqch）。",
+        "answer": "Ce que"
+      }
+    ]
+  },
+  {
+    "page": 24.8,
+    "data": [
+      {
+        "exercise_block": "Exercice 24.8",
+        "question_number": "1",
+        "question_text": "Traduisez en commençant par ce qui, ce que, ce à quoi ou ce dont : What he wants is more free time.",
+        "hints": "💡 提示：vouloir 是及物动词，作宾语用 Ce que (注意省音)。",
+        "answer": "Ce qu’il veut, c’est plus de temps libre."
+      },
+      {
+        "exercise_block": "Exercice 24.8",
+        "question_number": "2",
+        "question_text": "Traduisez en commençant par ce qui, ce que, ce à quoi ou ce dont : What the glassblower uses is in the other workshop.",
+        "hints": "💡 提示：se servir 搭配 de，使用 Ce dont。",
+        "answer": "Ce dont le souffleur de verre se sert est dans l’autre atelier."
+      },
+      {
+        "exercise_block": "Exercice 24.8",
+        "question_number": "3",
+        "question_text": "Traduisez en commençant par ce qui, ce que, ce à quoi ou ce dont : What I can’t remember is this incident in Camargue.",
+        "hints": "💡 提示：se souvenir 搭配 de。",
+        "answer": "Ce dont je ne peux pas me souvenir, c’est de cet incident en Camargue."
+      },
+      {
+        "exercise_block": "Exercice 24.8",
+        "question_number": "4",
+        "question_text": "Traduisez en commençant par ce qui, ce que, ce à quoi ou ce dont : What I expected was diff erent.",
+        "hints": "💡 提示：s'attendre 搭配 à，使用 Ce à quoi。",
+        "answer": "Ce à quoi je m’attendais était différent."
+      },
+      {
+        "exercise_block": "Exercice 24.8",
+        "question_number": "5",
+        "question_text": "Traduisez en commençant par ce qui, ce que, ce à quoi ou ce dont : What he needs is this book.",
+        "hints": "💡 提示：avoir besoin 搭配 de。",
+        "answer": "Ce dont il a besoin, c’est de ce livre."
+      },
+      {
+        "exercise_block": "Exercice 24.8",
+        "question_number": "6",
+        "question_text": "Traduisez en commençant par ce qui, ce que, ce à quoi ou ce dont : What they are talking about is interesting.",
+        "hints": "💡 提示：parler 搭配 de。",
+        "answer": "Ce dont ils (elles) parlent est intéressant."
+      },
+      {
+        "exercise_block": "Exercice 24.8",
+        "question_number": "7",
+        "question_text": "Traduisez en commençant par ce qui, ce que, ce à quoi ou ce dont : What he does is diffi cult.",
+        "hints": "💡 提示：作直接宾语。",
+        "answer": "Ce qu’il fait est difficile."
+      },
+      {
+        "exercise_block": "Exercice 24.8",
+        "question_number": "8",
+        "question_text": "Traduisez en commençant par ce qui, ce que, ce à quoi ou ce dont : What she is interested in is this art collection.",
+        "hints": "💡 提示：s'intéresser 搭配 à。",
+        "answer": "Ce à quoi elle s’intéresse, c’est à cette collection d’art."
+      },
+      {
+        "exercise_block": "Exercice 24.8",
+        "question_number": "9",
+        "question_text": "Traduisez en commençant par ce qui, ce que, ce à quoi ou ce dont : What they love is chocolate.",
+        "hints": "💡 提示：作直接宾语 (aimer)。",
+        "answer": "Ce qu’ils (elles) aiment, c’est le chocolat."
+      },
+      {
+        "exercise_block": "Exercice 24.8",
+        "question_number": "10",
+        "question_text": "Traduisez en commençant par ce qui, ce que, ce à quoi ou ce dont : What happened last night is very sad.",
+        "hints": "💡 提示：作从句的主语 (se passer)。",
+        "answer": "Ce qui s’est passé hier soir est très triste."
+      }
+    ]
+  },
+  {
+    "page": 24.9,
+    "data": [
+      {
+        "exercise_block": "Exercice 24.9",
+        "question_number": "1",
+        "question_text": "Complétez avec le pronom relatif qui convient : Pourquoi la bibliothèque, _____ est dans le coin à gauche, est-elle si chère?",
+        "hints": "💡 提示：在从句中作主语。",
+        "answer": "qui"
+      },
+      {
+        "exercise_block": "Exercice 24.9",
+        "question_number": "2",
+        "question_text": "Complétez avec le pronom relatif qui convient : L’artiste _____ tu parles vit actuellement à Paris.",
+        "hints": "💡 提示：parler de qqn。",
+        "answer": "dont"
+      },
+      {
+        "exercise_block": "Exercice 24.9",
+        "question_number": "3",
+        "question_text": "Complétez avec le pronom relatif qui convient : La chaise sur _____ elle est assise a besoin d’être repeinte.",
+        "hints": "💡 提示：介词 sur 后接复合关系代词，先行词为阴性单数。",
+        "answer": "laquelle"
+      },
+      {
+        "exercise_block": "Exercice 24.9",
+        "question_number": "4",
+        "question_text": "Complétez avec le pronom relatif qui convient : _____ j’ai envie, c’est de faire le tour du monde.",
+        "hints": "💡 提示：无具体先行词（泛指），且 avoir envie 搭配 de。",
+        "answer": "Ce dont"
+      },
+      {
+        "exercise_block": "Exercice 24.9",
+        "question_number": "5",
+        "question_text": "Complétez avec le pronom relatif qui convient : Le chinois est une langue étrangère _____ est très utile de nos jours.",
+        "hints": "💡 提示：在从句中作主语。",
+        "answer": "qui"
+      },
+      {
+        "exercise_block": "Exercice 24.9",
+        "question_number": "6",
+        "question_text": "Complétez avec le pronom relatif qui convient : Je ne comprends pas _____ vous demandez.",
+        "hints": "💡 提示：无具体先行词（泛指），在从句中作直接宾语。",
+        "answer": "ce que"
+      },
+      {
+        "exercise_block": "Exercice 24.9",
+        "question_number": "7",
+        "question_text": "Complétez avec le pronom relatif qui convient : C’est un lustre _____ vient d’Espagne.",
+        "hints": "💡 提示：在从句中作主语。",
+        "answer": "qui"
+      },
+      {
+        "exercise_block": "Exercice 24.9",
+        "question_number": "8",
+        "question_text": "Complétez avec le pronom relatif qui convient : Les objets _____ il s’intéresse sont du dix-huitième siècle.",
+        "hints": "💡 提示：s'intéresser 搭配 à，且先行词 les objets 为阳性复数，注意复合关系代词的缩合。",
+        "answer": "auxquels"
+      },
+      {
+        "exercise_block": "Exercice 24.9",
+        "question_number": "9",
+        "question_text": "Complétez avec le pronom relatif qui convient : L’ottoman _____ je veux faire recouvrir appartenait à un des mes ancêtres.",
+        "hints": "💡 提示：在从句中作直接宾语。",
+        "answer": "que"
+      },
+      {
+        "exercise_block": "Exercice 24.9",
+        "question_number": "10",
+        "question_text": "Complétez avec le pronom relatif qui convient : _____ est fait, est fait.",
+        "hints": "💡 提示：句首泛指“所...的事情”，在从句中作主语。",
+        "answer": "Ce qui"
+      }
+    ]
+  },
+  {
+    "page": 25.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 25.1",
+        "question_number": "1",
+        "question_text": "Complétez les phrases avec l’adverbe approprié : Virginie arrive (tomorrow) _____? —Oui, elle arrive (tomorrow evening) _____.",
+        "hints": "💡 提示：翻译括号里的时间副词，注意“明晚”的表达。",
+        "answer": "demain / demain soir"
+      },
+      {
+        "exercise_block": "Exercice 25.1",
+        "question_number": "2",
+        "question_text": "Complétez les phrases avec l’adverbe approprié : Vous êtes libres (next week) _____? —Non, nous ne sommes pas libres (next week) _____.",
+        "hints": "💡 提示：翻译“下周”。",
+        "answer": "la semaine prochaine / la semaine prochaine"
+      },
+      {
+        "exercise_block": "Exercice 25.1",
+        "question_number": "3",
+        "question_text": "Complétez les phrases avec l’adverbe approprié : Où vas-tu (today) _____? —Je vais à Nantes (today) _____.",
+        "hints": "💡 提示：翻译“今天”。",
+        "answer": "aujourd'hui / aujourd'hui"
+      },
+      {
+        "exercise_block": "Exercice 25.1",
+        "question_number": "4",
+        "question_text": "Complétez les phrases avec l’adverbe approprié : Vous mangez des fruits (every day) _____? —Non, je mange des fruits (every other day) _____.",
+        "hints": "💡 提示：翻译“每天”和“每两天/隔天”。",
+        "answer": "tous les jours / tous les deux jours"
+      },
+      {
+        "exercise_block": "Exercice 25.1",
+        "question_number": "5",
+        "question_text": "Complétez les phrases avec l’adverbe approprié : Tu rentres (late) _____ ce soir? —Non, je rentre vers sept heures.",
+        "hints": "💡 提示：翻译“晚/迟”。",
+        "answer": "tard"
+      },
+      {
+        "exercise_block": "Exercice 25.1",
+        "question_number": "6",
+        "question_text": "Complétez les phrases avec l’adverbe approprié : Est-ce qu’ils arrivent (often) _____ en avance? —Non, ils arrivent (rarely) _____ en avance.",
+        "hints": "💡 提示：翻译“经常”和“很少”。",
+        "answer": "souvent / rarement"
+      },
+      {
+        "exercise_block": "Exercice 25.1",
+        "question_number": "7",
+        "question_text": "Complétez les phrases avec l’adverbe approprié : Est-ce qu’elles vont (sometimes) _____ à la plage? —Non, elles ne vont (never) _____ à la plage.",
+        "hints": "💡 提示：翻译“有时”和“从不”（注意 never 在句中的位置，这里只需填词即可，原句已包含 ne）。",
+        "answer": "parfois / jamais"
+      },
+      {
+        "exercise_block": "Exercice 25.1",
+        "question_number": "8",
+        "question_text": "Complétez les phrases avec l’adverbe approprié : Vous avez beaucoup de travail (right now) _____? —Non, (right now) _____, c’est très calme.",
+        "hints": "💡 提示：翻译“现在/此刻”，常用 en ce moment。",
+        "answer": "en ce moment / en ce moment"
+      },
+      {
+        "exercise_block": "Exercice 25.1",
+        "question_number": "9",
+        "question_text": "Complétez les phrases avec l’adverbe approprié : Ton anniversaire est (next week) _____? —Non, mon anniversaire est (the day after tomorrow) _____.",
+        "hints": "💡 提示：翻译“下周”和“后天”。",
+        "answer": "la semaine prochaine / après-demain"
+      },
+      {
+        "exercise_block": "Exercice 25.1",
+        "question_number": "10",
+        "question_text": "Complétez les phrases avec l’adverbe approprié : Il est parti (yesterday) _____? —Non, il est parti (the day before yesterday) _____.",
+        "hints": "💡 提示：翻译“昨天”和“前天”。",
+        "answer": "hier / avant-hier"
+      }
+    ]
+  },
+  {
+    "page": 25.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 25.2",
+        "question_number": "1",
+        "question_text": "Traduisez : Today is the first day of winter.",
+        "hints": "💡 提示：冬天（l'hiver），“第一天”用 le premier jour。",
+        "answer": "Aujourd’hui, c’est le premier jour de l’hiver."
+      },
+      {
+        "exercise_block": "Exercice 25.2",
+        "question_number": "2",
+        "question_text": "Traduisez : She often travels.",
+        "hints": "💡 提示：频率副词 (souvent) 通常紧跟在变位动词之后。",
+        "answer": "Elle voyage souvent."
+      },
+      {
+        "exercise_block": "Exercice 25.2",
+        "question_number": "3",
+        "question_text": "Traduisez : I am never on time. I am always late.",
+        "hints": "💡 提示：“准时”为 à l'heure，“迟到”为 en retard。",
+        "answer": "Je ne suis jamais à l’heure. Je suis toujours en retard."
+      },
+      {
+        "exercise_block": "Exercice 25.2",
+        "question_number": "4",
+        "question_text": "Traduisez : He arrives the day after tomorrow.",
+        "hints": "💡 提示：“后天”为 après-demain。",
+        "answer": "Il arrive après-demain."
+      },
+      {
+        "exercise_block": "Exercice 25.2",
+        "question_number": "5",
+        "question_text": "Traduisez : Her appointment is in two weeks.",
+        "hints": "💡 提示：在未来的某个时间段之后（in），介词使用 dans。",
+        "answer": "Son rendez-vous est dans deux semaines."
+      },
+      {
+        "exercise_block": "Exercice 25.2",
+        "question_number": "6",
+        "question_text": "Traduisez : We are working tomorrow, but we are not working the day after tomorrow.",
+        "hints": "💡 提示：注意否定结构的正确语序。",
+        "answer": "Nous travaillons demain, mais nous ne travaillons pas après-demain."
+      },
+      {
+        "exercise_block": "Exercice 25.2",
+        "question_number": "7",
+        "question_text": "Traduisez : They sold their house last week.",
+        "hints": "💡 提示：时态为复合过去时 (ont vendu)，“上周”为 la semaine dernière。",
+        "answer": "Ils (Elles) ont vendu leur maison la semaine dernière."
+      },
+      {
+        "exercise_block": "Exercice 25.2",
+        "question_number": "8",
+        "question_text": "Traduisez (utilisez tu et est-ce que) : Are you going to the opera tonight?",
+        "hints": "💡 提示：按要求必须使用 est-ce que 提问，并使用 tu。",
+        "answer": "Est-ce que tu vas à l’opéra ce soir?"
+      },
+      {
+        "exercise_block": "Exercice 25.2",
+        "question_number": "9",
+        "question_text": "Traduisez (utilisez tu) : You are early. I am not ready.",
+        "hints": "💡 提示：“早到了”可以用 tu es tôt 或 tu es en avance。“准备好的”为 prêt(e)。",
+        "answer": "Tu es tôt. Je ne suis pas prêt(e)."
+      },
+      {
+        "exercise_block": "Exercice 25.2",
+        "question_number": "10",
+        "question_text": "Traduisez : The bakery will be closed next week.",
+        "hints": "💡 提示：时态为简单将来时 (sera fermée)。",
+        "answer": "La boulangerie sera fermée la semaine prochaine."
+      }
+    ]
+  },
+  {
+    "page": 25.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 25.3",
+        "question_number": "1",
+        "question_text": "Traduisez les éléments entre parenthèses : (Since when) _____ habites-tu à New York?",
+        "hints": "💡 提示：询问确切的起点（自从何时），用 Depuis quand。",
+        "answer": "Depuis quand"
+      },
+      {
+        "exercise_block": "Exercice 25.3",
+        "question_number": "2",
+        "question_text": "Traduisez les éléments entre parenthèses : (How long) _____ est-ce que ce boulanger est installé ici?",
+        "hints": "💡 提示：询问时长（多久），用 Depuis combien de temps。",
+        "answer": "Depuis combien de temps"
+      },
+      {
+        "exercise_block": "Exercice 25.3",
+        "question_number": "3",
+        "question_text": "Traduisez les éléments entre parenthèses : (Since when) _____ est-elle malade?",
+        "hints": "💡 提示：询问特定起点的疑问词组。",
+        "answer": "Depuis quand"
+      },
+      {
+        "exercise_block": "Exercice 25.3",
+        "question_number": "4",
+        "question_text": "Traduisez les éléments entre parenthèses : (How long) _____ est-il fleuriste?",
+        "hints": "💡 提示：询问时长。",
+        "answer": "Depuis combien de temps"
+      },
+      {
+        "exercise_block": "Exercice 25.3",
+        "question_number": "5",
+        "question_text": "Traduisez les éléments entre parenthèses : (Since when) _____ cette bijouterie est-elle ouverte?",
+        "hints": "💡 提示：询问起点。",
+        "answer": "Depuis quand"
+      },
+      {
+        "exercise_block": "Exercice 25.3",
+        "question_number": "6",
+        "question_text": "Traduisez les éléments entre parenthèses : (How long) _____ est-ce que vous attendez? —Nous attendons (for) _____ quinze minutes.",
+        "hints": "💡 提示：第一空询问时长，第二空表示“已经持续了”，法文中也用 depuis。",
+        "answer": "Depuis combien de temps / depuis"
+      },
+      {
+        "exercise_block": "Exercice 25.3",
+        "question_number": "7",
+        "question_text": "Traduisez les éléments entre parenthèses : (Since when) _____ voyages-tu en France régulièrement?",
+        "hints": "💡 提示：询问起点。",
+        "answer": "Depuis quand"
+      },
+      {
+        "exercise_block": "Exercice 25.3",
+        "question_number": "8",
+        "question_text": "Traduisez les éléments entre parenthèses : (Since when) _____ êtes-vous amis?",
+        "hints": "💡 提示：询问起点。",
+        "answer": "Depuis quand"
+      },
+      {
+        "exercise_block": "Exercice 25.3",
+        "question_number": "9",
+        "question_text": "Traduisez les éléments entre parenthèses : (How long) _____ le marchand de journaux a-t-il pris sa retraite?",
+        "hints": "💡 提示：询问时长。",
+        "answer": "Depuis combien de temps"
+      },
+      {
+        "exercise_block": "Exercice 25.3",
+        "question_number": "10",
+        "question_text": "Traduisez les éléments entre parenthèses : Cette laverie se trouve ici (for) _____ plusieurs années.",
+        "hints": "💡 提示：表示从过去持续到现在的动作，介词用 depuis。",
+        "answer": "depuis"
+      }
+    ]
+  },
+  {
+    "page": 25.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 25.4",
+        "question_number": "1",
+        "question_text": "Répondez aux questions à l’aide des éléments : Depuis combien de temps travailles-tu pour cette agence de voyages? (5 ans)",
+        "hints": "💡 提示：改变主语为 Je，并使用 depuis + 时间段。",
+        "answer": "Je travaille pour cette agence de voyages depuis cinq ans."
+      },
+      {
+        "exercise_block": "Exercice 25.4",
+        "question_number": "2",
+        "question_text": "Répondez aux questions à l’aide des éléments : Depuis combien de temps cherches-tu un nouvel appartement? (le mois de janvier)",
+        "hints": "💡 提示：改变主语为 Je，后面接 depuis + 起点时间。",
+        "answer": "Je cherche un nouvel appartement depuis le mois de janvier."
+      },
+      {
+        "exercise_block": "Exercice 25.4",
+        "question_number": "3",
+        "question_text": "Répondez aux questions à l’aide des éléments : Depuis quand allez-vous chez cet opticien? (des années)",
+        "hints": "💡 提示：主语变为 Je（或 Nous）。",
+        "answer": "Je vais chez cet opticien depuis des années."
+      },
+      {
+        "exercise_block": "Exercice 25.4",
+        "question_number": "4",
+        "question_text": "Répondez aux questions à l’aide des éléments : Cela fait longtemps que vous êtes mariés? (14 ans)",
+        "hints": "💡 提示：使用 Nous 作主语并搭配 depuis 进行直接回答。",
+        "answer": "Nous sommes mariés depuis quatorze ans."
+      },
+      {
+        "exercise_block": "Exercice 25.4",
+        "question_number": "5",
+        "question_text": "Répondez aux questions à l’aide des éléments : Cela fait combien de temps que nous nous connaissons? (9 ans)",
+        "hints": "💡 提示：保持代词式动词 nous nous connaissons，后面加 depuis。",
+        "answer": "Nous nous connaissons depuis neuf ans."
+      },
+      {
+        "exercise_block": "Exercice 25.4",
+        "question_number": "6",
+        "question_text": "Répondez aux questions à l’aide des éléments : Cela fait longtemps que tu m’attends sous la pluie? (45 minutes)",
+        "hints": "💡 提示：主语变 Je，动词变为 je t'attends。",
+        "answer": "Je t’attends depuis quarante-cinq minutes."
+      },
+      {
+        "exercise_block": "Exercice 25.4",
+        "question_number": "7",
+        "question_text": "Répondez aux questions à l’aide des éléments : Vous prenez cette ligne de métro depuis combien de temps? (5 ans)",
+        "hints": "💡 提示：主语变 Je。",
+        "answer": "Je prends cette ligne de métro depuis cinq ans."
+      },
+      {
+        "exercise_block": "Exercice 25.4",
+        "question_number": "8",
+        "question_text": "Répondez aux questions à l’aide des éléments : Cela fait longtemps que le coiffeur est situé par ici? (6 mois)",
+        "hints": "💡 提示：直接回答，使用 depuis。",
+        "answer": "Le coiffeur est situé par ici depuis six mois."
+      },
+      {
+        "exercise_block": "Exercice 25.4",
+        "question_number": "9",
+        "question_text": "Répondez aux questions à l’aide des éléments : Depuis quand ne fumes-tu plus? (la semaine dernière)",
+        "hints": "💡 提示：主语变 Je，保留 ne... plus 的否定结构。",
+        "answer": "Je ne fume plus depuis la semaine dernière."
+      },
+      {
+        "exercise_block": "Exercice 25.4",
+        "question_number": "10",
+        "question_text": "Répondez aux questions à l’aide des éléments : Depuis combien de temps est-il en vacances? (3 semaines)",
+        "hints": "💡 提示：照常使用 depuis。",
+        "answer": "Il est en vacances depuis trois semaines."
+      }
+    ]
+  },
+  {
+    "page": 25.5,
+    "data": [
+      {
+        "exercise_block": "Exercice 25.5",
+        "question_number": "1",
+        "question_text": "Changer depuis ou cela fait... que en il y a... que : J’attends depuis une demi-heure.",
+        "hints": "💡 提示：使用 Il y a + 时间段 + que + 句子主干（现在时）。",
+        "answer": "Il y a une demi-heure que j’attends."
+      },
+      {
+        "exercise_block": "Exercice 25.5",
+        "question_number": "2",
+        "question_text": "Changer depuis ou cela fait... que en il y a... que : Cela fait quatre mois que Valérie a sa voiture.",
+        "hints": "💡 提示：直接将 Cela fait 替换为 Il y a 即可。",
+        "answer": "Il y a quatre mois que Valérie a sa voiture."
+      },
+      {
+        "exercise_block": "Exercice 25.5",
+        "question_number": "3",
+        "question_text": "Changer depuis ou cela fait... que en il y a... que : Cela fait dix jours que nous essayons de joindre le banquier.",
+        "hints": "💡 提示：同上，将 Cela fait 替换为同义表达。",
+        "answer": "Il y a dix jours que nous essayons de joindre le banquier."
+      },
+      {
+        "exercise_block": "Exercice 25.5",
+        "question_number": "4",
+        "question_text": "Changer depuis ou cela fait... que en il y a... que : Il est en voyage d’affaires depuis deux jours.",
+        "hints": "💡 提示：把 depuis 引出的时间段提到句首，用 Il y a ... que 连接。",
+        "answer": "Il y a deux jours qu’il est en voyage d’affaires."
+      },
+      {
+        "exercise_block": "Exercice 25.5",
+        "question_number": "5",
+        "question_text": "Changer depuis ou cela fait... que en il y a... que : Sophie étudie le chinois depuis un an.",
+        "hints": "💡 提示：将时间段 un an 放在 Il y a 和 que 中间，注意 que 遇元音省音。",
+        "answer": "Il y a un an que Sophie étudie le chinois."
+      },
+      {
+        "exercise_block": "Exercice 25.5",
+        "question_number": "6",
+        "question_text": "Changer depuis ou cela fait... que en il y a... que : Elle veut adopter un enfant depuis cinq ans.",
+        "hints": "💡 提示：句型转换为 Il y a + 时间段 + que...",
+        "answer": "Il y a cinq ans qu’elle veut adopter un enfant."
+      },
+      {
+        "exercise_block": "Exercice 25.5",
+        "question_number": "7",
+        "question_text": "Changer depuis ou cela fait... que en il y a... que : Cela fait des semaines que nous cherchons un appartement.",
+        "hints": "💡 提示：直接替换句首结构。",
+        "answer": "Il y a des semaines que nous cherchons un appartement."
+      },
+      {
+        "exercise_block": "Exercice 25.5",
+        "question_number": "8",
+        "question_text": "Changer depuis ou cela fait... que en il y a... que : Cela fait trois mois que j’attends votre réponse.",
+        "hints": "💡 提示：直接替换句首结构。",
+        "answer": "Il y a trois mois que j’attends votre réponse."
+      },
+      {
+        "exercise_block": "Exercice 25.5",
+        "question_number": "9",
+        "question_text": "Changer depuis ou cela fait... que en il y a... que : Ses idées sont dénuées d’intérêt depuis longtemps.",
+        "hints": "💡 提示：时间段是 longtemps。",
+        "answer": "Il y a longtemps que ses idées sont dénuées d’intérêt."
+      },
+      {
+        "exercise_block": "Exercice 25.5",
+        "question_number": "10",
+        "question_text": "Changer depuis ou cela fait... que en il y a... que : Le chien de nos voisins est perdu depuis une semaine.",
+        "hints": "💡 提示：将 depuis une semaine 转换为 Il y a une semaine que...",
+        "answer": "Il y a une semaine que le chien de nos voisins est perdu."
+      }
+    ]
+  },
+  {
+    "page": 25.6,
+    "data": [
+      {
+        "exercise_block": "Exercice 25.6",
+        "question_number": "1",
+        "question_text": "Mettez au passé composé : Ils voyagent souvent en Asie.",
+        "hints": "💡 提示：短副词（如 souvent）通常放在助动词和过去分词之间。",
+        "answer": "Ils ont souvent voyagé en Asie."
+      },
+      {
+        "exercise_block": "Exercice 25.6",
+        "question_number": "2",
+        "question_text": "Mettez au passé composé : On mange bien chez eux.",
+        "hints": "💡 提示：副词 bien 放在助动词 a 和分词 mangé 之间。",
+        "answer": "On a bien mangé chez eux."
+      },
+      {
+        "exercise_block": "Exercice 25.6",
+        "question_number": "3",
+        "question_text": "Mettez au passé composé : Elle dépense beaucoup.",
+        "hints": "💡 提示：表示数量的副词 beaucoup 放在助动词之后。",
+        "answer": "Elle a beaucoup dépensé."
+      },
+      {
+        "exercise_block": "Exercice 25.6",
+        "question_number": "4",
+        "question_text": "Mettez au passé composé : Il lit rarement des romans policiers.",
+        "hints": "💡 提示：副词 rarement 放在助动词之后，lire 的过去分词是 lu。",
+        "answer": "Il a rarement lu des romans policiers."
+      },
+      {
+        "exercise_block": "Exercice 25.6",
+        "question_number": "5",
+        "question_text": "Mettez au passé composé : Nous ne travaillons pas assez.",
+        "hints": "💡 提示：否定结构中，ne... pas 夹住助动词，副词 assez 紧跟在 pas 后面。",
+        "answer": "Nous n’avons pas assez travaillé."
+      },
+      {
+        "exercise_block": "Exercice 25.6",
+        "question_number": "6",
+        "question_text": "Mettez au passé composé : Je parle trop.",
+        "hints": "💡 提示：副词 trop 在复合过去时中的位置。",
+        "answer": "J’ai trop parlé."
+      },
+      {
+        "exercise_block": "Exercice 25.6",
+        "question_number": "7",
+        "question_text": "Mettez au passé composé : Elle écrit très peu.",
+        "hints": "💡 提示：très peu 作为一个副词词组放在助动词之后，écrire 过去分词为 écrit。",
+        "answer": "Elle a très peu écrit."
+      },
+      {
+        "exercise_block": "Exercice 25.6",
+        "question_number": "8",
+        "question_text": "Mettez au passé composé : Tu vas souvent au théâtre.",
+        "hints": "💡 提示：aller 的助动词是 être (es)，短副词 souvent 放在助动词和分词之间，注意配合。",
+        "answer": "Tu es souvent allé(e) au théâtre."
+      },
+      {
+        "exercise_block": "Exercice 25.6",
+        "question_number": "9",
+        "question_text": "Mettez au passé composé : Il s’exprime toujours très mal.",
+        "hints": "💡 提示：代词式动词助动词为 être (s'est)，副词 toujours très mal 放在助动词之后。",
+        "answer": "Il s’est toujours très mal exprimé."
+      },
+      {
+        "exercise_block": "Exercice 25.6",
+        "question_number": "10",
+        "question_text": "Mettez au passé composé : Nous aimons bien la maison.",
+        "hints": "💡 提示：副词 bien 放在助动词 avons 之后。",
+        "answer": "Nous avons bien aimé la maison."
+      }
+    ]
+  },
+  {
+    "page": 25.7,
+    "data": [
+      {
+        "exercise_block": "Exercice 25.7",
+        "question_number": "1",
+        "question_text": "Traduisez les mots entre parenthèses : (How many) _____ livres lisez-vous?",
+        "hints": "💡 提示：修饰名词询问数量时，使用“多少 + de”。",
+        "answer": "Combien de"
+      },
+      {
+        "exercise_block": "Exercice 25.7",
+        "question_number": "2",
+        "question_text": "Traduisez les mots entre parenthèses : (How) _____ allons-nous à la plage?",
+        "hints": "💡 提示：询问方式“如何”。",
+        "answer": "Comment"
+      },
+      {
+        "exercise_block": "Exercice 25.7",
+        "question_number": "3",
+        "question_text": "Traduisez les mots entre parenthèses : (Who) _____ loue la maison bleue?",
+        "hints": "💡 提示：询问人“谁”。",
+        "answer": "Qui"
+      },
+      {
+        "exercise_block": "Exercice 25.7",
+        "question_number": "4",
+        "question_text": "Traduisez les mots entre parenthèses : (What) _____ pensez-vous de ce roman?",
+        "hints": "💡 提示：作直接宾语询问事物“什么”。",
+        "answer": "Que"
+      },
+      {
+        "exercise_block": "Exercice 25.7",
+        "question_number": "5",
+        "question_text": "Traduisez les mots entre parenthèses : (How much) _____ coûte l’appartement de Stéphane?",
+        "hints": "💡 提示：单独询问价格或数量“多少”。",
+        "answer": "Combien"
+      },
+      {
+        "exercise_block": "Exercice 25.7",
+        "question_number": "6",
+        "question_text": "Traduisez les mots entre parenthèses : (Where) _____ travaille votre mari?",
+        "hints": "💡 提示：询问地点“哪里”。",
+        "answer": "Où"
+      },
+      {
+        "exercise_block": "Exercice 25.7",
+        "question_number": "7",
+        "question_text": "Traduisez les mots entre parenthèses : (When) _____ vont-ils au théâtre?",
+        "hints": "💡 提示：询问时间“何时”。",
+        "answer": "Quand"
+      },
+      {
+        "exercise_block": "Exercice 25.7",
+        "question_number": "8",
+        "question_text": "Traduisez les mots entre parenthèses : (Why) _____ étudiez-vous le français?",
+        "hints": "💡 提示：询问原因“为什么”。",
+        "answer": "Pourquoi"
+      },
+      {
+        "exercise_block": "Exercice 25.7",
+        "question_number": "9",
+        "question_text": "Traduisez les mots entre parenthèses : (When) _____ arrive-t-il?",
+        "hints": "💡 提示：询问时间“何时”。",
+        "answer": "Quand"
+      },
+      {
+        "exercise_block": "Exercice 25.7",
+        "question_number": "10",
+        "question_text": "Traduisez les mots entre parenthèses : (Who) _____ chante?",
+        "hints": "💡 提示：询问人“谁”。",
+        "answer": "Qui"
+      }
+    ]
+  },
+  {
+    "page": 25.8,
+    "data": [
+      {
+        "exercise_block": "Exercice 25.8",
+        "question_number": "1",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : He planted flowers everywhere.",
+        "hints": "💡 提示：翻译方位副词“到处 (everywhere)”。复合过去时。",
+        "answer": "Il a planté des fleurs partout."
+      },
+      {
+        "exercise_block": "Exercice 25.8",
+        "question_number": "2",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : Do you want to live here?",
+        "hints": "💡 提示：使用 vous 和倒装疑问句。这里：ici。",
+        "answer": "Voulez-vous vivre ici?"
+      },
+      {
+        "exercise_block": "Exercice 25.8",
+        "question_number": "3",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : My car is parked just behind yours.",
+        "hints": "💡 提示：“在...后面”为 derrière，注意所有格代词 yours (la vôtre)。",
+        "answer": "Ma voiture est garée juste derrière la vôtre."
+      },
+      {
+        "exercise_block": "Exercice 25.8",
+        "question_number": "4",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : We’ll go somewhere else.",
+        "hints": "💡 提示：简单将来时。“其他地方 (elsewhere)”用 ailleurs。",
+        "answer": "Nous irons ailleurs."
+      },
+      {
+        "exercise_block": "Exercice 25.8",
+        "question_number": "5",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : He is outside.",
+        "hints": "💡 提示：“在外面”为 dehors。",
+        "answer": "Il est dehors."
+      },
+      {
+        "exercise_block": "Exercice 25.8",
+        "question_number": "6",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : I live near the river.",
+        "hints": "💡 提示：“在...附近”为 près de。",
+        "answer": "J’habite près de la rivière."
+      },
+      {
+        "exercise_block": "Exercice 25.8",
+        "question_number": "7",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : You live too far.",
+        "hints": "💡 提示：“远”为 loin。",
+        "answer": "Vous habitez trop loin."
+      },
+      {
+        "exercise_block": "Exercice 25.8",
+        "question_number": "8",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : I see strange things here and there.",
+        "hints": "💡 提示：“到处、零星地 (here and there)”在法语中常用 ça et là。",
+        "answer": "Je vois des choses bizarres ça et là."
+      },
+      {
+        "exercise_block": "Exercice 25.8",
+        "question_number": "9",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : He is in front of you.",
+        "hints": "💡 提示：“在...前面”为 devant。",
+        "answer": "Il est devant vous."
+      },
+      {
+        "exercise_block": "Exercice 25.8",
+        "question_number": "10",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : Come sit next to me.",
+        "hints": "💡 提示：“坐在我旁边 (next to me)”用 près de moi 或 à côté de moi。这里用 près de。",
+        "answer": "Venez vous asseoir près de moi."
+      }
+    ]
+  },
+  {
+    "page": 26.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 26.1",
+        "question_number": "1",
+        "question_text": "Écrivez en toutes lettres : 6",
+        "hints": "💡 提示：这是一个基础数字，注意末尾的辅音字母在某些情况下会发音。",
+        "answer": "six"
+      },
+      {
+        "exercise_block": "Exercice 26.1",
+        "question_number": "2",
+        "question_text": "Écrivez en toutes lettres : 14",
+        "hints": "💡 提示：11到16是不规则拼写，注意以 -ze 结尾。",
+        "answer": "quatorze"
+      },
+      {
+        "exercise_block": "Exercice 26.1",
+        "question_number": "3",
+        "question_text": "Écrivez en toutes lettres : 23",
+        "hints": "💡 提示：由十位数和个位数组成，中间需要加连字符。",
+        "answer": "vingt-trois"
+      },
+      {
+        "exercise_block": "Exercice 26.1",
+        "question_number": "4",
+        "question_text": "Écrivez en toutes lettres : 28",
+        "hints": "💡 提示：中间加连字符，h 不发音但需要拼写。",
+        "answer": "vingt-huit"
+      },
+      {
+        "exercise_block": "Exercice 26.1",
+        "question_number": "5",
+        "question_text": "Écrivez en toutes lettres : 35",
+        "hints": "💡 提示：三十 (30) 加上五 (5)。",
+        "answer": "trente-cinq"
+      },
+      {
+        "exercise_block": "Exercice 26.1",
+        "question_number": "6",
+        "question_text": "Écrivez en toutes lettres : 39",
+        "hints": "💡 提示：三十 (30) 加上九 (9)。",
+        "answer": "trente-neuf"
+      },
+      {
+        "exercise_block": "Exercice 26.1",
+        "question_number": "7",
+        "question_text": "Écrivez en toutes lettres : 41",
+        "hints": "💡 提示：以 1 结尾的复合数字（除了 81 和 91 等特例外），十位和个位之间通常要用 et 连接。",
+        "answer": "quarante et un"
+      },
+      {
+        "exercise_block": "Exercice 26.1",
+        "question_number": "8",
+        "question_text": "Écrivez en toutes lettres : 46",
+        "hints": "💡 提示：四十 (40) 加六 (6)，中间用连字符。",
+        "answer": "quarante-six"
+      },
+      {
+        "exercise_block": "Exercice 26.1",
+        "question_number": "9",
+        "question_text": "Écrivez en toutes lettres : 49",
+        "hints": "💡 提示：四十 (40) 加九 (9)。",
+        "answer": "quarante-neuf"
+      },
+      {
+        "exercise_block": "Exercice 26.1",
+        "question_number": "10",
+        "question_text": "Écrivez en toutes lettres : 52",
+        "hints": "💡 提示：五十 (50) 加上二 (2)。",
+        "answer": "cinquante-deux"
+      }
+    ]
+  },
+  {
+    "page": 26.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 26.2",
+        "question_number": "1",
+        "question_text": "Traduisez en anglais : Il a perdu pour la troisième fois.",
+        "hints": "💡 提示：troisième 对应英文的 third。",
+        "answer": "He lost for the third time."
+      },
+      {
+        "exercise_block": "Exercice 26.2",
+        "question_number": "2",
+        "question_text": "Traduisez en anglais : J’habite au trente et unième étage.",
+        "hints": "💡 提示：trente et unième 是 thirty-first。étage 在英语里表示 floor。",
+        "answer": "I live on the thirty-first floor."
+      },
+      {
+        "exercise_block": "Exercice 26.2",
+        "question_number": "3",
+        "question_text": "Traduisez en anglais : Elle a vendu sa deuxième voiture.",
+        "hints": "💡 提示：deuxième 对应 second。",
+        "answer": "She sold her second car."
+      },
+      {
+        "exercise_block": "Exercice 26.2",
+        "question_number": "4",
+        "question_text": "Traduisez en anglais : C’est son cinquante-huitième anniversaire.",
+        "hints": "💡 提示：cinquante-huitième 是 fifty-eighth。",
+        "answer": "It’s his fifty-eighth birthday."
+      },
+      {
+        "exercise_block": "Exercice 26.2",
+        "question_number": "5",
+        "question_text": "Traduisez en anglais : Nous avons fait du ski pour la première fois.",
+        "hints": "💡 提示：première fois 是 first time。",
+        "answer": "We skied for the first time."
+      },
+      {
+        "exercise_block": "Exercice 26.2",
+        "question_number": "6",
+        "question_text": "Traduisez en anglais : C’est la quatrième fois que nous nous croisons dans la rue.",
+        "hints": "💡 提示：quatrième 是 fourth。",
+        "answer": "It’s the fourth time we have run into each other on the street."
+      },
+      {
+        "exercise_block": "Exercice 26.2",
+        "question_number": "7",
+        "question_text": "Traduisez en anglais : Il a obtenu la quarante-huitième place.",
+        "hints": "💡 提示：quarante-huitième 是 forty-eighth。",
+        "answer": "He got forty-eighth place."
+      },
+      {
+        "exercise_block": "Exercice 26.2",
+        "question_number": "8",
+        "question_text": "Traduisez en anglais : J’adore la neuvième symphonie de Beethoven.",
+        "hints": "💡 提示：neuvième 是 ninth。",
+        "answer": "I love Beethoven’s Ninth Symphony."
+      },
+      {
+        "exercise_block": "Exercice 26.2",
+        "question_number": "9",
+        "question_text": "Traduisez en anglais : Il habite au coin de la vingt-troisième rue et de la septième avenue.",
+        "hints": "💡 提示：vingt-troisième (twenty-third), septième (seventh)。",
+        "answer": "He lives at the corner of Twenty-third Street and Seventh Avenue."
+      },
+      {
+        "exercise_block": "Exercice 26.2",
+        "question_number": "10",
+        "question_text": "Traduisez en anglais : C’est sa deuxième année?",
+        "hints": "💡 提示：deuxième 对应 second。",
+        "answer": "Is it his second year?"
+      }
+    ]
+  },
+  {
+    "page": 26.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 26.3",
+        "question_number": "1",
+        "question_text": "Transcrivez en chiffres : cinquante-trois",
+        "hints": "💡 提示：cinquante (50) + trois (3)。",
+        "answer": "53"
+      },
+      {
+        "exercise_block": "Exercice 26.3",
+        "question_number": "2",
+        "question_text": "Transcrivez en chiffres : cinquante-neuf",
+        "hints": "💡 提示：cinquante (50) + neuf (9)。",
+        "answer": "59"
+      },
+      {
+        "exercise_block": "Exercice 26.3",
+        "question_number": "3",
+        "question_text": "Transcrivez en chiffres : soixante-deux",
+        "hints": "💡 提示：soixante (60) + deux (2)。",
+        "answer": "62"
+      },
+      {
+        "exercise_block": "Exercice 26.3",
+        "question_number": "4",
+        "question_text": "Transcrivez en chiffres : soixante-dix",
+        "hints": "💡 提示：法语的70由 60 (soixante) 加上 10 (dix) 组成。",
+        "answer": "70"
+      },
+      {
+        "exercise_block": "Exercice 26.3",
+        "question_number": "5",
+        "question_text": "Transcrivez en chiffres : soixante et onze",
+        "hints": "💡 提示：60 (soixante) 加上 11 (onze)。",
+        "answer": "71"
+      },
+      {
+        "exercise_block": "Exercice 26.3",
+        "question_number": "6",
+        "question_text": "Transcrivez en chiffres : soixante-dix-huit",
+        "hints": "💡 提示：60 (soixante) 加上 18 (dix-huit)。",
+        "answer": "78"
+      },
+      {
+        "exercise_block": "Exercice 26.3",
+        "question_number": "7",
+        "question_text": "Transcrivez en chiffres : quatre-vingt-trois",
+        "hints": "💡 提示：法语的80是由 4x20 (quatre-vingts) 组成，再加 3。",
+        "answer": "83"
+      },
+      {
+        "exercise_block": "Exercice 26.3",
+        "question_number": "8",
+        "question_text": "Transcrivez en chiffres : quatre-vingt-sept",
+        "hints": "💡 提示：4x20 (quatre-vingt) + 7 (sept)。",
+        "answer": "87"
+      },
+      {
+        "exercise_block": "Exercice 26.3",
+        "question_number": "9",
+        "question_text": "Transcrivez en chiffres : quatre-vingt-dix",
+        "hints": "💡 提示：法语的90由 80 (quatre-vingt) 加上 10 (dix) 组成。",
+        "answer": "90"
+      },
+      {
+        "exercise_block": "Exercice 26.3",
+        "question_number": "10",
+        "question_text": "Transcrivez en chiffres : quatre-vingt-treize",
+        "hints": "💡 提示：80 (quatre-vingt) 加上 13 (treize)。",
+        "answer": "93"
+      }
+    ]
+  },
+  {
+    "page": 26.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 26.4",
+        "question_number": "1",
+        "question_text": "Écrivez en toutes lettres : 101",
+        "hints": "💡 提示：一百 (cent) 加一 (un)。",
+        "answer": "cent un"
+      },
+      {
+        "exercise_block": "Exercice 26.4",
+        "question_number": "2",
+        "question_text": "Écrivez en toutes lettres : 114",
+        "hints": "💡 提示：一百 (cent) 加十四 (quatorze)。",
+        "answer": "cent quatorze"
+      },
+      {
+        "exercise_block": "Exercice 26.4",
+        "question_number": "3",
+        "question_text": "Écrivez en toutes lettres : 126",
+        "hints": "💡 提示：一百 (cent) 加二十六 (vingt-six)。",
+        "answer": "cent vingt-six"
+      },
+      {
+        "exercise_block": "Exercice 26.4",
+        "question_number": "4",
+        "question_text": "Écrivez en toutes lettres : 139",
+        "hints": "💡 提示：一百 (cent) 加三十九 (trente-neuf)。",
+        "answer": "cent trente-neuf"
+      },
+      {
+        "exercise_block": "Exercice 26.4",
+        "question_number": "5",
+        "question_text": "Écrivez en toutes lettres : 145",
+        "hints": "💡 提示：一百 (cent) 加四十五 (quarante-cinq)。",
+        "answer": "cent quarante-cinq"
+      },
+      {
+        "exercise_block": "Exercice 26.4",
+        "question_number": "6",
+        "question_text": "Écrivez en toutes lettres : 156",
+        "hints": "💡 提示：一百 (cent) 加五十六 (cinquante-six)。",
+        "answer": "cent cinquante-six"
+      },
+      {
+        "exercise_block": "Exercice 26.4",
+        "question_number": "7",
+        "question_text": "Écrivez en toutes lettres : 160",
+        "hints": "💡 提示：一百 (cent) 加六十 (soixante)。",
+        "answer": "cent soixante"
+      },
+      {
+        "exercise_block": "Exercice 26.4",
+        "question_number": "8",
+        "question_text": "Écrivez en toutes lettres : 178",
+        "hints": "💡 提示：一百 (cent) 加七十八 (soixante-dix-huit，60+18)。",
+        "answer": "cent soixante-dix-huit"
+      },
+      {
+        "exercise_block": "Exercice 26.4",
+        "question_number": "9",
+        "question_text": "Écrivez en toutes lettres : 181",
+        "hints": "💡 提示：一百 (cent) 加八十一 (quatre-vingt-un)。",
+        "answer": "cent quatre-vingt-un"
+      },
+      {
+        "exercise_block": "Exercice 26.4",
+        "question_number": "10",
+        "question_text": "Écrivez en toutes lettres : 199",
+        "hints": "💡 提示：一百 (cent) 加九十九 (quatre-vingt-dix-neuf，80+19)。",
+        "answer": "cent quatre-vingt-dix-neuf"
+      }
+    ]
+  },
+  {
+    "page": 26.5,
+    "data": [
+      {
+        "exercise_block": "Exercice 26.5",
+        "question_number": "1",
+        "question_text": "Traduisez (en toutes lettres) : two hundred twelve",
+        "hints": "💡 提示：200 (deux cents) 后面如果跟着其他数字，cent 的复数 -s 需要去掉。",
+        "answer": "deux cent douze"
+      },
+      {
+        "exercise_block": "Exercice 26.5",
+        "question_number": "2",
+        "question_text": "Traduisez (en toutes lettres) : three hundred fi fteen",
+        "hints": "💡 提示：300 加上 15，注意 cent 不加 -s。",
+        "answer": "trois cent quinze"
+      },
+      {
+        "exercise_block": "Exercice 26.5",
+        "question_number": "3",
+        "question_text": "Traduisez (en toutes lettres) : four hundred twenty",
+        "hints": "💡 提示：400 加上 20。",
+        "answer": "quatre cent vingt"
+      },
+      {
+        "exercise_block": "Exercice 26.5",
+        "question_number": "4",
+        "question_text": "Traduisez (en toutes lettres) : fi ve hundred thirty-one",
+        "hints": "💡 提示：30 和 1 之间需要用 et 连接。",
+        "answer": "cinq cent trente et un"
+      },
+      {
+        "exercise_block": "Exercice 26.5",
+        "question_number": "5",
+        "question_text": "Traduisez (en toutes lettres) : six hundred twenty-three",
+        "hints": "💡 提示：20 和 3 之间只需加连字符。",
+        "answer": "six cent vingt-trois"
+      },
+      {
+        "exercise_block": "Exercice 26.5",
+        "question_number": "6",
+        "question_text": "Traduisez (en toutes lettres) : seven hundred ninety",
+        "hints": "💡 提示：90 在法语中是 4x20+10 的组合，这里 80 后面有数字，所以 vingt 不加 -s。",
+        "answer": "sept cent quatre-vingt-dix"
+      },
+      {
+        "exercise_block": "Exercice 26.5",
+        "question_number": "7",
+        "question_text": "Traduisez (en toutes lettres) : eight hundred forty-eight",
+        "hints": "💡 提示：800 加上 48。",
+        "answer": "huit cent quarante-huit"
+      },
+      {
+        "exercise_block": "Exercice 26.5",
+        "question_number": "8",
+        "question_text": "Traduisez (en toutes lettres) : nine hundred four",
+        "hints": "💡 提示：900 加上 4。",
+        "answer": "neuf cent quatre"
+      },
+      {
+        "exercise_block": "Exercice 26.5",
+        "question_number": "9",
+        "question_text": "Traduisez (en toutes lettres) : six hundred forty-fi ve",
+        "hints": "💡 提示：600 加上 45。",
+        "answer": "six cent quarante-cinq"
+      },
+      {
+        "exercise_block": "Exercice 26.5",
+        "question_number": "10",
+        "question_text": "Traduisez (en toutes lettres) : one hundred one",
+        "hints": "💡 提示：100 加上 1。法语中一百直接用 cent。",
+        "answer": "cent un"
+      }
+    ]
+  },
+  {
+    "page": 26.6,
+    "data": [
+      {
+        "exercise_block": "Exercice 26.6",
+        "question_number": "1",
+        "question_text": "Écrivez en toutes lettres : 205",
+        "hints": "💡 提示：二百加五，注意 cent 的单复数规则。",
+        "answer": "deux cent cinq"
+      },
+      {
+        "exercise_block": "Exercice 26.6",
+        "question_number": "2",
+        "question_text": "Écrivez en toutes lettres : 389",
+        "hints": "💡 提示：89 的组合是 quatre-vingt-neuf，前面加上三百。",
+        "answer": "trois cent quatre-vingt-neuf"
+      },
+      {
+        "exercise_block": "Exercice 26.6",
+        "question_number": "3",
+        "question_text": "Écrivez en toutes lettres : 456",
+        "hints": "💡 提示：四百加五十六。",
+        "answer": "quatre cent cinquante-six"
+      },
+      {
+        "exercise_block": "Exercice 26.6",
+        "question_number": "4",
+        "question_text": "Écrivez en toutes lettres : 504",
+        "hints": "💡 提示：五百加四。",
+        "answer": "cinq cent quatre"
+      },
+      {
+        "exercise_block": "Exercice 26.6",
+        "question_number": "5",
+        "question_text": "Écrivez en toutes lettres : 678",
+        "hints": "💡 提示：78 的组合是 60+18。",
+        "answer": "six cent soixante-dix-huit"
+      },
+      {
+        "exercise_block": "Exercice 26.6",
+        "question_number": "6",
+        "question_text": "Écrivez en toutes lettres : 745",
+        "hints": "💡 提示：七百加四十五。",
+        "answer": "sept cent quarante-cinq"
+      },
+      {
+        "exercise_block": "Exercice 26.6",
+        "question_number": "7",
+        "question_text": "Écrivez en toutes lettres : 800",
+        "hints": "💡 提示：当整百结束且后面没有其他数字时，cent 需要加 -s。",
+        "answer": "huit cents"
+      },
+      {
+        "exercise_block": "Exercice 26.6",
+        "question_number": "8",
+        "question_text": "Écrivez en toutes lettres : 815",
+        "hints": "💡 提示：八百加十五。注意此时 800 后有数字，cent 的复数形式变化。",
+        "answer": "huit cent quinze"
+      },
+      {
+        "exercise_block": "Exercice 26.6",
+        "question_number": "9",
+        "question_text": "Écrivez en toutes lettres : 901",
+        "hints": "💡 提示：九百加一。",
+        "answer": "neuf cent un"
+      },
+      {
+        "exercise_block": "Exercice 26.6",
+        "question_number": "10",
+        "question_text": "Écrivez en toutes lettres : 940",
+        "hints": "💡 提示：九百加四十。",
+        "answer": "neuf cent quarante"
+      }
+    ]
+  },
+  {
+    "page": 26.7,
+    "data": [
+      {
+        "exercise_block": "Exercice 26.7",
+        "question_number": "1",
+        "question_text": "Écrivez en toutes lettres : 1 005",
+        "hints": "💡 提示：千 (mille) 是一个永远不加 -s 的词。",
+        "answer": "mille cinq"
+      },
+      {
+        "exercise_block": "Exercice 26.7",
+        "question_number": "2",
+        "question_text": "Écrivez en toutes lettres : 2 456",
+        "hints": "💡 提示：两千 + 四百 + 五十六。mille 不变。",
+        "answer": "deux mille quatre cent cinquante-six"
+      },
+      {
+        "exercise_block": "Exercice 26.7",
+        "question_number": "3",
+        "question_text": "Écrivez en toutes lettres : 3 021",
+        "hints": "💡 提示：三千 + 二十一。",
+        "answer": "trois mille vingt et un"
+      },
+      {
+        "exercise_block": "Exercice 26.7",
+        "question_number": "4",
+        "question_text": "Écrivez en toutes lettres : 4 789",
+        "hints": "💡 提示：四千 + 七百 + 八十九。",
+        "answer": "quatre mille sept cent quatre-vingt-neuf"
+      },
+      {
+        "exercise_block": "Exercice 26.7",
+        "question_number": "5",
+        "question_text": "Écrivez en toutes lettres : 10 450",
+        "hints": "💡 提示：一万 (dix mille) + 四百五十。",
+        "answer": "dix mille quatre cent cinquante"
+      },
+      {
+        "exercise_block": "Exercice 26.7",
+        "question_number": "6",
+        "question_text": "Écrivez en toutes lettres : 24 008",
+        "hints": "💡 提示：两万四千 + 八。",
+        "answer": "vingt-quatre mille huit"
+      },
+      {
+        "exercise_block": "Exercice 26.7",
+        "question_number": "7",
+        "question_text": "Écrivez en toutes lettres : 170 890",
+        "hints": "💡 提示：一百七十千 (mille) + 八百九十。",
+        "answer": "cent soixante-dix mille huit cent quatre-vingt-dix"
+      },
+      {
+        "exercise_block": "Exercice 26.7",
+        "question_number": "8",
+        "question_text": "Écrivez en toutes lettres : 1 230 000",
+        "hints": "💡 提示：一百万 + 二十三万 (二百三十千)。",
+        "answer": "un million deux cent trente mille"
+      },
+      {
+        "exercise_block": "Exercice 26.7",
+        "question_number": "9",
+        "question_text": "Écrivez en toutes lettres : 30 030 000",
+        "hints": "💡 提示：三千万 + 三万。百万 (million) 大于 1 时需要加 -s。",
+        "answer": "trente million(s) trente mille"
+      },
+      {
+        "exercise_block": "Exercice 26.7",
+        "question_number": "10",
+        "question_text": "Écrivez en toutes lettres : 1 600 000 000",
+        "hints": "💡 提示：十亿用 milliard，六百个百万用 six cent millions（因为这里 millions 是复数名词，前面的 cent 不需要变复数，但 million 本身需要加 -s）。",
+        "answer": "un milliard six cent millions"
+      }
+    ]
+  },
+  {
+    "page": 26.8,
+    "data": [
+      {
+        "exercise_block": "Exercice 26.8",
+        "question_number": "1",
+        "question_text": "Transcrivez les nombres : Leur bibliothèque numérique sera prête en 2015.",
+        "hints": "💡 提示：年份 2015 直接读作两千十五。",
+        "answer": "deux mille quinze"
+      },
+      {
+        "exercise_block": "Exercice 26.8",
+        "question_number": "2",
+        "question_text": "Transcrivez les nombres : Cet appartement coûte 150 000 euros.",
+        "hints": "💡 提示：十五万即一百五十个千 (mille)。",
+        "answer": "cent cinquante mille"
+      },
+      {
+        "exercise_block": "Exercice 26.8",
+        "question_number": "3",
+        "question_text": "Transcrivez les nombres : Hier, j’ai bu du Saint-Émilion 1978.",
+        "hints": "💡 提示：年份 1978 可以用 mille 开始读。",
+        "answer": "mille neuf cent soixante-dix-huit"
+      },
+      {
+        "exercise_block": "Exercice 26.8",
+        "question_number": "4",
+        "question_text": "Transcrivez les nombres : Le soixantième Festival de Cannes a lieu en mai 2007.",
+        "hints": "💡 提示：年份 2007。",
+        "answer": "deux mille sept"
+      },
+      {
+        "exercise_block": "Exercice 26.8",
+        "question_number": "5",
+        "question_text": "Transcrivez les nombres : Il y a plus d’1 000 000 000 d’étoiles dans le ciel.",
+        "hints": "💡 提示：十亿在法语里对应的词汇是 milliard。",
+        "answer": "un milliard"
+      },
+      {
+        "exercise_block": "Exercice 26.8",
+        "question_number": "6",
+        "question_text": "Transcrivez les nombres : Il a remporté la médaille d’or du 1 500 mètres.",
+        "hints": "💡 提示：表示距离或物品时，1500 通常直接读作 mille cinq cents（注意作为整百结尾要加 -s）。",
+        "answer": "mille cinq cents"
+      },
+      {
+        "exercise_block": "Exercice 26.8",
+        "question_number": "7",
+        "question_text": "Transcrivez les nombres : D’après une étude en 2006, plus d’1 000 000 de personnes écrivent un blog en France.",
+        "hints": "💡 提示：句中有两个数字，分别是年份（2006）和数量（一百万）。用斜杠分隔答案。",
+        "answer": "deux mille six / un million"
+      },
+      {
+        "exercise_block": "Exercice 26.8",
+        "question_number": "8",
+        "question_text": "Transcrivez les nombres : Victor Hugo est mort en 1885.",
+        "hints": "💡 提示：年份 1885。",
+        "answer": "mille huit cent quatre-vingt-cinq"
+      },
+      {
+        "exercise_block": "Exercice 26.8",
+        "question_number": "9",
+        "question_text": "Transcrivez les nombres : Cet administrateur de site gagne 5 000 euros par mois.",
+        "hints": "💡 提示：五千。再次提醒 mille 永不变复数。",
+        "answer": "cinq mille"
+      },
+      {
+        "exercise_block": "Exercice 26.8",
+        "question_number": "10",
+        "question_text": "Transcrivez les nombres : Nous sommes plus de 6 000 000 000 sur cette planète.",
+        "hints": "💡 提示：六十亿。milliard 作为名词，大于 1 时必须加上复数 -s。",
+        "answer": "six milliards"
+      }
+    ]
+  },
+  {
+    "page": 27.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 27.1",
+        "question_number": "1",
+        "question_text": "Complétez avec la préposition appropriée : Elle aime jouer _____ la clarinette.",
+        "hints": "💡 提示：表示“演奏某种乐器”时，动词 jouer 后面搭配的介词是 de。",
+        "answer": "de"
+      },
+      {
+        "exercise_block": "Exercice 27.1",
+        "question_number": "2",
+        "question_text": "Complétez avec la préposition appropriée : Paul a décidé _____ partir tôt.",
+        "hints": "💡 提示：décider 后面直接跟动词不定式时，通常搭配介词 de。",
+        "answer": "de"
+      },
+      {
+        "exercise_block": "Exercice 27.1",
+        "question_number": "3",
+        "question_text": "Complétez avec la préposition appropriée : La chambre donne _____ une cour très calme.",
+        "hints": "💡 提示：表示窗户或房间“朝向、面向”某个地方时，donner 后面搭配介词 sur。",
+        "answer": "sur"
+      },
+      {
+        "exercise_block": "Exercice 27.1",
+        "question_number": "4",
+        "question_text": "Complétez avec la préposition appropriée : Je crois _____ la vertu médicinale des plantes.",
+        "hints": "💡 提示：表示“相信某种事物的存在或功效”时，croire 搭配介词 à。",
+        "answer": "à"
+      },
+      {
+        "exercise_block": "Exercice 27.1",
+        "question_number": "5",
+        "question_text": "Complétez avec la préposition appropriée : J’ai rêvé _____ toi.",
+        "hints": "💡 提示：表示“梦见某人/某事”时，rêver 搭配介词 de。",
+        "answer": "de"
+      },
+      {
+        "exercise_block": "Exercice 27.1",
+        "question_number": "6",
+        "question_text": "Complétez avec la préposition appropriée : Émilie tient _____ ses livres.",
+        "hints": "💡 提示：表示“对...很看重、很依恋”时，tenir 搭配介词 à。",
+        "answer": "à"
+      },
+      {
+        "exercise_block": "Exercice 27.1",
+        "question_number": "7",
+        "question_text": "Complétez avec la préposition appropriée : Hier, nous avons parlé _____ toi.",
+        "hints": "💡 提示：表示“谈论某人/某事”时，parler 搭配介词 de。",
+        "answer": "de"
+      },
+      {
+        "exercise_block": "Exercice 27.1",
+        "question_number": "8",
+        "question_text": "Complétez avec la préposition appropriée : Est-ce qu’il croit _____ Dieu?",
+        "hints": "💡 提示：表示“信仰（神/上帝）”时，croire 搭配介词 en。",
+        "answer": "en"
+      },
+      {
+        "exercise_block": "Exercice 27.1",
+        "question_number": "9",
+        "question_text": "Complétez avec la préposition appropriée : Nous nous sommes décidés _____ prendre de très longues vacances.",
+        "hints": "💡 提示：注意代词式动词 se décider，它后面接动词不定式时搭配介词 à。",
+        "answer": "à"
+      },
+      {
+        "exercise_block": "Exercice 27.1",
+        "question_number": "10",
+        "question_text": "Complétez avec la préposition appropriée : Elle m’a demandé _____ fermer la porte.",
+        "hints": "💡 提示：demander à qqn de faire qqch (要求某人做某事)。",
+        "answer": "de"
+      }
+    ]
+  },
+  {
+    "page": 27.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 27.2",
+        "question_number": "1",
+        "question_text": "Traduire en anglais les phrases suivantes : Paul me manque.",
+        "hints": "💡 提示：在法语中，“A manque à B”意思是“B想念A”，主宾关系在翻译成英语时需要反转。",
+        "answer": "I miss Paul."
+      },
+      {
+        "exercise_block": "Exercice 27.2",
+        "question_number": "2",
+        "question_text": "Traduire en anglais les phrases suivantes : Mon frère a manqué à sa parole.",
+        "hints": "💡 提示：manquer à sa parole 意为“没有遵守诺言/失信”。",
+        "answer": "My brother did not keep his word."
+      },
+      {
+        "exercise_block": "Exercice 27.2",
+        "question_number": "3",
+        "question_text": "Traduire en anglais les phrases suivantes : Cet écrivain manque de talent.",
+        "hints": "💡 提示：manquer de + 名词，意为“缺乏...”。",
+        "answer": "This writer lacks talent."
+      },
+      {
+        "exercise_block": "Exercice 27.2",
+        "question_number": "4",
+        "question_text": "Traduire en anglais les phrases suivantes : J’ai manqué le début du cours.",
+        "hints": "💡 提示：直接加宾语 (manquer qqch) 意为“错过...”。",
+        "answer": "I missed the beginning of the course."
+      },
+      {
+        "exercise_block": "Exercice 27.2",
+        "question_number": "5",
+        "question_text": "Traduire en anglais les phrases suivantes : Le patron a manqué à ses devoirs.",
+        "hints": "💡 提示：manquer à ses devoirs 意为“失职/没有尽到责任”。",
+        "answer": "The boss failed to do his duty."
+      }
+    ]
+  },
+  {
+    "page": 27.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 27.3",
+        "question_number": "1",
+        "question_text": "Traduire les phrases entre parenthèses : (Whatever you say), je reste sur ma position.",
+        "hints": "💡 提示：“Whatever”后接主语和动词时，使用 quoi que + 虚拟式。",
+        "answer": "Quoi que tu dises..."
+      },
+      {
+        "exercise_block": "Exercice 27.3",
+        "question_number": "2",
+        "question_text": "Traduire les phrases entre parenthèses : (Whatever her decision), la mienne est prise.",
+        "hints": "💡 提示：“Whatever”后接名词时，使用 quel(le) que soit + 名词。decision 是阴性单数。",
+        "answer": "Quelle que soit sa décision..."
+      },
+      {
+        "exercise_block": "Exercice 27.3",
+        "question_number": "3",
+        "question_text": "Traduire les phrases entre parenthèses : (Whoever you are), je ne t’autorise pas à me parler sur ce ton.",
+        "hints": "💡 提示：“Whoever”使用 qui que + 虚拟式。",
+        "answer": "Qui que tu sois..."
+      },
+      {
+        "exercise_block": "Exercice 27.3",
+        "question_number": "4",
+        "question_text": "Traduire les phrases entre parenthèses : (Wherever you go), j’irai avec toi.",
+        "hints": "💡 提示：“Wherever”使用 où que + 虚拟式。",
+        "answer": "Où que tu ailles..."
+      },
+      {
+        "exercise_block": "Exercice 27.3",
+        "question_number": "5",
+        "question_text": "Traduire les phrases entre parenthèses : (Whoever she is), elle n’est pas autorisée à venir!",
+        "hints": "💡 提示：同样是“Whoever”，配合第三人称阴性单数虚拟式。",
+        "answer": "Qui qu’elle soit..."
+      },
+      {
+        "exercise_block": "Exercice 27.3",
+        "question_number": "6",
+        "question_text": "Traduire les phrases entre parenthèses : (Whatever you think), je m’en moque.",
+        "hints": "💡 提示：“Whatever”后接从句，使用 quoi que + 虚拟式。",
+        "answer": "Quoi que tu penses..."
+      },
+      {
+        "exercise_block": "Exercice 27.3",
+        "question_number": "7",
+        "question_text": "Traduire les phrases entre parenthèses : (Wherever they live), je les retrouverai.",
+        "hints": "💡 提示：“Wherever”使用 où que。",
+        "answer": "Où qu’ils (elles) habitent..."
+      },
+      {
+        "exercise_block": "Exercice 27.3",
+        "question_number": "8",
+        "question_text": "Traduire les phrases entre parenthèses : (Whatever their suggestion), je trouve mon idée très bonne.",
+        "hints": "💡 提示：修饰名词 suggestion (阴性单数)，使用 quel(le) que soit 结构。",
+        "answer": "Quelle que soit leur suggestion..."
+      },
+      {
+        "exercise_block": "Exercice 27.3",
+        "question_number": "9",
+        "question_text": "Traduire les phrases entre parenthèses : (Whoever you are), aide-moi.",
+        "hints": "💡 提示：“Whoever”对应 qui que，配合 tu 的虚拟式。",
+        "answer": "Qui que tu sois..."
+      },
+      {
+        "exercise_block": "Exercice 27.3",
+        "question_number": "10",
+        "question_text": "Traduire les phrases entre parenthèses : (Whatever your mother may think), c’est ta décision.",
+        "hints": "💡 提示：quoi que + 主语 + 动词虚拟式。",
+        "answer": "Quoi que ta mère puisse penser (Quoi que pense ta mère)..."
+      }
+    ]
+  },
+  {
+    "page": 27.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 27.4",
+        "question_number": "1",
+        "question_text": "Traduire : Even if it means not sleeping, I am going with you to that party.",
+        "hints": "💡 提示：“Even if it means”用 quitte à + 不定式表达。注意否定词 ne pas 放一起修饰不定式。",
+        "answer": "Quitte à ne pas dormir, je vais avec toi à cette soirée."
+      },
+      {
+        "exercise_block": "Exercice 27.4",
+        "question_number": "2",
+        "question_text": "Traduire : He will resign even if it means having financial problems.",
+        "hints": "💡 提示：使用 quitte à 结构表示“哪怕.../就算...”。",
+        "answer": "Il démissionnera quitte à avoir des problèmes financiers."
+      },
+      {
+        "exercise_block": "Exercice 27.4",
+        "question_number": "3",
+        "question_text": "Traduire : However intelligent he is, he is very lonely.",
+        "hints": "💡 提示：“However + adj”可用 avoir beau + 不定式来表达“尽管/徒劳...”。",
+        "answer": "Il a beau être intelligent, il est très seul."
+      },
+      {
+        "exercise_block": "Exercice 27.4",
+        "question_number": "4",
+        "question_text": "Traduire : Although they are friends, they cannot talk politics together.",
+        "hints": "💡 提示：使用 avoir beau 结构表达“尽管...”。",
+        "answer": "Ils (Elles) ont beau être ami(e)s, ils (elles) ne peuvent pas parler politique ensemble."
+      },
+      {
+        "exercise_block": "Exercice 27.4",
+        "question_number": "5",
+        "question_text": "Traduire : I’ll take two years off even if it means losing my position.",
+        "hints": "💡 提示：“even if it means”对应 quitte à。",
+        "answer": "Je prendrai deux ans de congé quitte à perdre mon poste."
+      },
+      {
+        "exercise_block": "Exercice 27.4",
+        "question_number": "6",
+        "question_text": "Traduire : However hard they tried, they failed.",
+        "hints": "💡 提示：复合过去时中的 avoir beau，即 ont eu beau + 不定式。",
+        "answer": "Ils (Elles) ont eu beau essayer, ils (elles) ont échoué."
+      },
+      {
+        "exercise_block": "Exercice 27.4",
+        "question_number": "7",
+        "question_text": "Traduire : However magnificent this teapot is, it is not worth 200 euros.",
+        "hints": "💡 提示：使用 avoir beau 表达让步。",
+        "answer": "Cette théière a beau être magnifique, ça ne vaut pas 200 euros."
+      },
+      {
+        "exercise_block": "Exercice 27.4",
+        "question_number": "8",
+        "question_text": "Traduire : Although you are swearing to tell the truth, I still have doubts.",
+        "hints": "💡 提示：avoir beau 配合 tu 的变位。",
+        "answer": "Tu as beau jurer de dire la vérité, j’ai toujours des doutes."
+      },
+      {
+        "exercise_block": "Exercice 27.4",
+        "question_number": "9",
+        "question_text": "Traduire : Even if it means bothering you, I need to ask you a few questions.",
+        "hints": "💡 提示：“even if it means”使用 quitte à，注意宾语代词 t' 的位置。",
+        "answer": "Quitte à t’ennuyer, j’ai besoin de te poser quelques questions."
+      },
+      {
+        "exercise_block": "Exercice 27.4",
+        "question_number": "10",
+        "question_text": "Traduire : He will not leave the room even if it means bothering everyone.",
+        "hints": "💡 提示：使用 quitte à 结构。",
+        "answer": "Il ne quittera pas la pièce quitte à déranger tout le monde."
       }
     ]
   }
