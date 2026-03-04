@@ -1,9 +1,9 @@
 [
     {
-        "page": 1.1,
+        "page": "1.1",
         "data": [
             {
-                "page": 3,
+                "page": "3",
                 "exercise_block": "EXERCICE 1.1",
                 "question_number": "1",
                 "question_text": "Lucie ___ à Lyon.",
@@ -11,7 +11,7 @@
                 "answer": "travaille"
             },
             {
-                "page": 3,
+                "page": "3",
                 "exercise_block": "EXERCICE 1.1",
                 "question_number": "2",
                 "question_text": "Mon frère et moi, nous ___ votre invitation.",
@@ -19,7 +19,7 @@
                 "answer": "acceptons"
             },
             {
-                "page": 3,
+                "page": "3",
                 "exercise_block": "EXERCICE 1.1",
                 "question_number": "3",
                 "question_text": "M. et Mme Benoît ___ un appartement.",
@@ -27,7 +27,7 @@
                 "answer": "cherchent"
             },
             {
-                "page": 3,
+                "page": "3",
                 "exercise_block": "EXERCICE 1.1",
                 "question_number": "4",
                 "question_text": "Tu ___ toujours des fleurs.",
@@ -35,7 +35,7 @@
                 "answer": "apportes"
             },
             {
-                "page": 3,
+                "page": "3",
                 "exercise_block": "EXERCICE 1.1",
                 "question_number": "5",
                 "question_text": "Vous ___ sur la terrasse.",
@@ -43,7 +43,7 @@
                 "answer": "bavardez"
             },
             {
-                "page": 3,
+                "page": "3",
                 "exercise_block": "EXERCICE 1.1",
                 "question_number": "6",
                 "question_text": "Je ___ une soupe de légumes.",
@@ -51,7 +51,7 @@
                 "answer": "commande"
             },
             {
-                "page": 3,
+                "page": "3",
                 "exercise_block": "EXERCICE 1.1",
                 "question_number": "7",
                 "question_text": "Ils ___ en Normandie.",
@@ -59,7 +59,7 @@
                 "answer": "habitent"
             },
             {
-                "page": 3,
+                "page": "3",
                 "exercise_block": "EXERCICE 1.1",
                 "question_number": "8",
                 "question_text": "Elle ___ avec sa belle-sœur.",
@@ -67,7 +67,7 @@
                 "answer": "déjeune"
             },
             {
-                "page": 3,
+                "page": "3",
                 "exercise_block": "EXERCICE 1.1",
                 "question_number": "9",
                 "question_text": "Vous ___ très bien.",
@@ -75,7 +75,7 @@
                 "answer": "dessinez"
             },
             {
-                "page": 3,
+                "page": "3",
                 "exercise_block": "EXERCICE 1.1",
                 "question_number": "10",
                 "question_text": "Nous ___ le château de Fontainebleau.",
@@ -85,7 +85,7 @@
       ]
     },
     {
-        "page": 1.2,
+        "page": "1.2",
         "data": [
             {
         "exercise_block": "Exercice 1.2",
@@ -160,10 +160,10 @@
     ]
   },
     {
-        "page": 1.3,
+        "page": "1.3",
         "data": [
             {
-                "page": 5,
+                "page": "5",
                 "exercise_block": "EXERCICE 1.3",
                 "question_number": "1",
                 "question_text": "Nous ___ à huit heures le matin.",
@@ -171,7 +171,7 @@
                 "answer": "commençons"
             },
             {
-                "page": 5,
+                "page": "5",
                 "exercise_block": "EXERCICE 1.3",
                 "question_number": "2",
                 "question_text": "Vous ___ rapidement.",
@@ -179,7 +179,7 @@
                 "answer": "avancez"
             },
             {
-                "page": 5,
+                "page": "5",
                 "exercise_block": "EXERCICE 1.3",
                 "question_number": "3",
                 "question_text": "Je ___ les meubles du salon.",
@@ -187,7 +187,7 @@
                 "answer": "déplace"
             },
             {
-                "page": 5,
+                "page": "5",
                 "exercise_block": "EXERCICE 1.3",
                 "question_number": "4",
                 "question_text": "Nous ___ nos concurrents.",
@@ -195,7 +195,7 @@
                 "answer": "devançons"
             },
             {
-                "page": 5,
+                "page": "5",
                 "exercise_block": "EXERCICE 1.3",
                 "question_number": "5",
                 "question_text": "Nous ___ une augmentation de salaire au début de l'année.",
@@ -203,7 +203,7 @@
                 "answer": "annonçons"
             },
             {
-                "page": 5,
+                "page": "5",
                 "exercise_block": "EXERCICE 1.3",
                 "question_number": "6",
                 "question_text": "Tu ___ le tableau.",
@@ -211,7 +211,7 @@
                 "answer": "effaces"
             },
             {
-                "page": 5,
+                "page": "5",
                 "exercise_block": "EXERCICE 1.3",
                 "question_number": "7",
                 "question_text": "Nous ___ toute l'équipe.",
@@ -219,7 +219,7 @@
                 "answer": "remplaçons"
             },
             {
-                "page": 5,
+                "page": "5",
                 "exercise_block": "EXERCICE 1.3",
                 "question_number": "8",
                 "question_text": "Ils ___ une grande influence.",
@@ -227,7 +227,7 @@
                 "answer": "exercez"
             },
             {
-                "page": 5,
+                "page": "5",
                 "exercise_block": "EXERCICE 1.3",
                 "question_number": "9",
                 "question_text": "Nous ___ ce projet.",
@@ -235,7 +235,7 @@
                 "answer": "finançons"
             },
             {
-                "page": 5,
+                "page": "5",
                 "exercise_block": "EXERCICE 1.3",
                 "question_number": "10",
                 "question_text": "Elle ___ de partir.",
@@ -245,10 +245,10 @@
         ]
     },
     {
-        "page": 1.4,
+        "page": "1.4",
         "data": [
             {
-                "page": 6,
+                "page": "6",
                 "exercise_block": "EXERCICE 1.4",
                 "question_number": "1",
                 "question_text": "Vous ___ les ingrédients.",
@@ -256,7 +256,7 @@
                 "answer": "mélangez"
             },
             {
-                "page": 6,
+                "page": "6",
                 "exercise_block": "EXERCICE 1.4",
                 "question_number": "2",
                 "question_text": "Je ___ mes affaires.",
@@ -264,7 +264,7 @@
                 "answer": "range"
             },
             {
-                "page": 6,
+                "page": "6",
                 "exercise_block": "EXERCICE 1.4",
                 "question_number": "3",
                 "question_text": "Nous ___ votre présence à la réunion.",
@@ -272,7 +272,7 @@
                 "answer": "exigeons"
             },
             {
-                "page": 6,
+                "page": "6",
                 "exercise_block": "EXERCICE 1.4",
                 "question_number": "4",
                 "question_text": "Ils ___ demain.",
@@ -280,7 +280,7 @@
                 "answer": "déménagent"
             },
             {
-                "page": 6,
+                "page": "6",
                 "exercise_block": "EXERCICE 1.4",
                 "question_number": "5",
                 "question_text": "Elle ___ ses amis.",
@@ -288,7 +288,7 @@
                 "answer": "héberge"
             },
             {
-                "page": 6,
+                "page": "6",
                 "exercise_block": "EXERCICE 1.4",
                 "question_number": "6",
                 "question_text": "Vous ___ les exercices.",
@@ -296,7 +296,7 @@
                 "answer": "corrigez"
             },
             {
-                "page": 6,
+                "page": "6",
                 "exercise_block": "EXERCICE 1.4",
                 "question_number": "7",
                 "question_text": "Nous ___ sur la terrasse à midi.",
@@ -304,7 +304,7 @@
                 "answer": "mangeons"
             },
             {
-                "page": 6,
+                "page": "6",
                 "exercise_block": "EXERCICE 1.4",
                 "question_number": "8",
                 "question_text": "Tu ___ dans la piscine.",
@@ -312,7 +312,7 @@
                 "answer": "nages"
             },
             {
-                "page": 6,
+                "page": "6",
                 "exercise_block": "EXERCICE 1.4",
                 "question_number": "9",
                 "question_text": "Nous ___ ces jeunes talents.",
@@ -320,7 +320,7 @@
                 "answer": "encourageons"
             },
             {
-                "page": 6,
+                "page": "6",
                 "exercise_block": "EXERCICE 1.4",
                 "question_number": "10",
                 "question_text": "Souvent, il ___ d'avis.",
@@ -330,10 +330,10 @@
         ]
     },
     {
-        "page": 1.5,
+        "page": "1.5",
         "data": [
             {
-                "page": 7,
+                "page": "7",
                 "exercise_block": "EXERCICE 1.5",
                 "question_number": "1",
                 "question_text": "Il ___ son passeport.",
@@ -341,7 +341,7 @@
                 "answer": "renouvelle"
             },
             {
-                "page": 7,
+                "page": "7",
                 "exercise_block": "EXERCICE 1.5",
                 "question_number": "2",
                 "question_text": "Je ___ ma nièce à l'opéra.",
@@ -349,7 +349,7 @@
                 "answer": "emmène"
             },
             {
-                "page": 7,
+                "page": "7",
                 "exercise_block": "EXERCICE 1.5",
                 "question_number": "3",
                 "question_text": "Vous ___ un kilo de haricots.",
@@ -357,7 +357,7 @@
                 "answer": "achetez"
             },
             {
-                "page": 7,
+                "page": "7",
                 "exercise_block": "EXERCICE 1.5",
                 "question_number": "4",
                 "question_text": "Le sorcier ___ le public.",
@@ -365,7 +365,7 @@
                 "answer": "ensorcelle"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "CEXERCICE 1.5",
                 "question_number": "5",
                 "question_text": "Elle ___ aller à Paris en mai.",
@@ -373,7 +373,7 @@
                 "answer": "espère"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.5",
                 "question_number": "6",
                 "question_text": "Vous ___.",
@@ -381,7 +381,7 @@
                 "answer": "exagérez"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.5",
                 "question_number": "7",
                 "question_text": "Elle ___ Juliette.",
@@ -389,7 +389,7 @@
                 "answer": "s’appelle"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.5",
                 "question_number": "8",
                 "question_text": "Ces diamants ___ de mille feux.",
@@ -397,7 +397,7 @@
                 "answer": "étincellent"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.5",
                 "question_number": "9",
                 "question_text": "Il ___ mille fois la même chose.",
@@ -405,7 +405,7 @@
                 "answer": "répète"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.5",
                 "question_number": "10",
                 "question_text": "Nous ___ son anniversaire.",
@@ -415,10 +415,10 @@
         ]
     },
     {
-        "page": 1.6,
+        "page": "1.6",
         "data": [
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.6",
                 "question_number": "1",
                 "question_text": "Aujourd'hui, il ___ du poisson au marché.",
@@ -426,7 +426,7 @@
                 "answer": "achète"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.6",
                 "question_number": "2",
                 "question_text": "Ils ___ le samedi.",
@@ -434,7 +434,7 @@
                 "answer": "travaillent"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.6",
                 "question_number": "3",
                 "question_text": "Vous ___ de l'argent à la banque.",
@@ -442,7 +442,7 @@
                 "answer": "empruntez"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.6",
                 "question_number": "4",
                 "question_text": "Tu ___ voyager en bateau.",
@@ -450,7 +450,7 @@
                 "answer": "aimes"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.6",
                 "question_number": "5",
                 "question_text": "Nous ___ à notre projet.",
@@ -458,7 +458,7 @@
                 "answer": "renonçons"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.6",
                 "question_number": "6",
                 "question_text": "Je ___ au dixième étage.",
@@ -466,7 +466,7 @@
                 "answer": "j’habite"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.6",
                 "question_number": "7",
                 "question_text": "L'après-midi, elle ___ aller dans le parc.",
@@ -474,7 +474,7 @@
                 "answer": "préfère"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.6",
                 "question_number": "8",
                 "question_text": "Comment ___ sa sœur?",
@@ -482,7 +482,7 @@
                 "answer": "s’appelle"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.6",
                 "question_number": "9",
                 "question_text": "De temps en temps, nous ___ pendant la pause-café.",
@@ -490,7 +490,7 @@
                 "answer": "bavardons"
             },
             {
-                "page": 8,
+                "page": "8",
                 "exercise_block": "EXERCICE 1.6",
                 "question_number": "10",
                 "question_text": "Il vous ___ avant midi.",
@@ -500,10 +500,10 @@
         ]
     },
     {
-        "page": 1.7,
+        "page": "1.7",
         "data": [
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "Exercice 1.7",
                 "question_number": "1-10",
                 "question_text": "连线匹配题（请将 1-10 与 a-j 进行正确匹配）：\n\n1. ___ Il épelle\n2. ___ Je regarde\n3. ___ Nous habitons\n4. ___ Tu aimes nager\n5. ___ Ils déjeunent toujours\n6. ___ Vous chantez\n7. ___ Elle remplace\n8. ___ Je m’appelle\n9. ___ Elle annule\n10. ___ Nous déménageons",
@@ -514,10 +514,10 @@
         ]
     },
     {
-        "page": 1.8,
+        "page": "1.8",
         "data": [
             {
-                "page": 10,
+                "page": "10",
                 "exercise_block": "EXERCICE 1.8",
                 "question_number": "1",
                 "question_text": "Nous chantons une chanson.",
@@ -525,7 +525,7 @@
                 "answer": "Elle annonce qu'elle sera absente mardi."
             },
             {
-                "page": 10,
+                "page": "10",
                 "exercise_block": "EXERCICE 1.8",
                 "question_number": "2",
                 "question_text": "Elle dessine un mouton.",
@@ -533,7 +533,7 @@
                 "answer": "Ils avouent que Paul s'est trompé."
             },
             {
-                "page": 10,
+                "page": "10",
                 "exercise_block": "EXERCICE 1.8",
                 "question_number": "3",
                 "question_text": "Je travaille dans la cuisine.",
@@ -541,7 +541,7 @@
                 "answer": "La marchande dit que ses produits les meilleurs."
             },
             {
-                "page": 10,
+                "page": "10",
                 "exercise_block": "EXERCICE 1.8",
                 "question_number": "4",
                 "question_text": "Tu effaces le tableau.",
@@ -549,7 +549,7 @@
                 "answer": "Tu sais bien qu'elles avaient tort."
             },
             {
-                "page": 10,
+                "page": "10",
                 "exercise_block": "EXERCICE 1.8",
                 "question_number": "5",
                 "question_text": "Vous étudiez l'histoire européenne.",
@@ -557,7 +557,7 @@
                 "answer": "On se rend compte que le candidat a peu de chance de gagner."
             },
             {
-                "page": 10,
+                "page": "10",
                 "exercise_block": "EXERCICE 1.8",
                 "question_number": "6",
                 "question_text": "Nous bavardons dans le jardin.",
@@ -565,7 +565,7 @@
                 "answer": "Ils ne savent pas si le musée est ouvert."
             },
             {
-                "page": 10,
+                "page": "10",
                 "exercise_block": "EXERCICE 1.8",
                 "question_number": "7",
                 "question_text": "Il corrige les copies.",
@@ -573,7 +573,7 @@
                 "answer": "Tu réponds que tu n'avais rien entendu."
             },
             {
-                "page": 10,
+                "page": "10",
                 "exercise_block": "EXERCICE 1.8",
                 "question_number": "8",
                 "question_text": "Tu laves la chemise.",
@@ -581,7 +581,7 @@
                 "answer": "Elle nous apprend qu'il n'est jamais allé en France."
             },
             {
-                "page": 10,
+                "page": "10",
                 "exercise_block": "EXERCICE 1.8",
                 "question_number": "9",
                 "question_text": "Je range mes affaires.",
@@ -589,7 +589,7 @@
                 "answer": "Il nous déclare qu'ils avaient dilapidé leur fortune."
             },
             {
-                "page": 10,
+                "page": "10",
                 "exercise_block": "EXERCICE 1.8",
                 "question_number": "10",
                 "question_text": "Elle mange une omelette aux champignons.",
@@ -599,10 +599,10 @@
         ]
     },
     {
-        "page": 1.9,
+        "page": "1.9",
         "data": [
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 1.9",
                 "question_number": "1",
                 "question_text": "Depuis combien de temps chante-t-elle dans cette chorale?",
@@ -610,7 +610,7 @@
                 "answer": "Prends le train de neuf heures!"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 1.9",
                 "question_number": "2",
                 "question_text": "Depuis combien de temps partages-tu cet appartement?",
@@ -618,7 +618,7 @@
                 "answer": "Regarde le film à la télé ce soir!"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 1.9",
                 "question_number": "3",
                 "question_text": "Depuis combien de temps nage-t-il dans cette piscine?",
@@ -626,7 +626,7 @@
                 "answer": "Disons sur la terrasse!"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 1.9",
                 "question_number": "4",
                 "question_text": "Depuis quand habitez-vous à Montpellier?",
@@ -634,7 +634,7 @@
                 "answer": "Achète le journal!"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 1.9",
                 "question_number": "5",
                 "question_text": "Depuis combien de temps possède-t-il cette propriété?",
@@ -642,7 +642,7 @@
                 "answer": "Buvons à sa santé!"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 1.9",
                 "question_number": "6",
                 "question_text": "Depuis combien de temps regardez-vous cette émission?",
@@ -650,7 +650,7 @@
                 "answer": "Expliquez les conditions!"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 1.9",
                 "question_number": "7",
                 "question_text": "Depuis quand travaille-t-il dans cette entreprise?",
@@ -658,7 +658,7 @@
                 "answer": "Ne cours pas si vite!"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 1.9",
                 "question_number": "8",
                 "question_text": "Depuis combien de temps portez-vous des lunettes?",
@@ -666,7 +666,7 @@
                 "answer": "Épelle ton nom!"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 1.9",
                 "question_number": "9",
                 "question_text": "Depuis quand est-il président?",
@@ -674,7 +674,7 @@
                 "answer": "Prêtez votre dictionnaire à Marie!"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 1.9",
                 "question_number": "10",
                 "question_text": "Depuis combien de temps ce magasin est-il fermé?",
@@ -684,10 +684,10 @@
         ]
     },
     {
-        "page": 1.10,
+        "page": "1.10",
         "data": [
             {
-                "page": 12,
+                "page": "12",
                 "exercise_block": "EXERCICE 1-10",
                 "question_number": "1",
                 "question_text": "I study French.",
@@ -695,7 +695,7 @@
                 "answer": "J’étudie le français."
             },
             {
-                "page": 12,
+                "page": "12",
                 "exercise_block": "EXERCICE 1-10",
                 "question_number": "2",
                 "question_text": "I spell my name.",
@@ -703,7 +703,7 @@
                 "answer": "J’épelez mon nom."
             },
             {
-                "page": 12,
+                "page": "12",
                 "exercise_block": "EXERCICE 1-10",
                 "question_number": "3",
                 "question_text": "They are moving tomorrow.",
@@ -711,7 +711,7 @@
                 "answer": "Ils (Elles) déménagent demain."
             },
             {
-                "page": 12,
+                "page": "12",
                 "exercise_block": "EXERCICE 1-10",
                 "question_number": "4",
                 "question_text": "She likes to travel by boat.",
@@ -719,7 +719,7 @@
                 "answer": "Elle aime voyager en bateau."
             },
             {
-                "page": 12,
+                "page": "12",
                 "exercise_block": "EXERCICE 1-10",
                 "question_number": "5",
                 "question_text": "How long have you been studying French?",
@@ -727,7 +727,7 @@
                 "answer": "Depuis combien de temps étudiez-vous le français?"
             },
             {
-                "page": 12,
+                "page": "12",
                 "exercise_block": "EXERCICE 1-10",
                 "question_number": "6",
                 "question_text": "You repeat the sentence.",
@@ -735,7 +735,7 @@
                 "answer": "Tu répètes la phrase."
             },
             {
-                "page": 12,
+                "page": "12",
                 "exercise_block": "EXERCICE 1-10",
                 "question_number": "7",
                 "question_text": "We are financing the project.",
@@ -743,7 +743,7 @@
                 "answer": "Nous finançons le projet."
             },
             {
-                "page": 12,
+                "page": "12",
                 "exercise_block": "EXERCICE 1-10",
                 "question_number": "8",
                 "question_text": "She cancels the meeting.",
@@ -751,7 +751,7 @@
                 "answer": "Elle annule la réunion."
             },
             {
-                "page": 12,
+                "page": "12",
                 "exercise_block": "EXERCICE 1-10",
                 "question_number": "9",
                 "question_text": "How long have you been living in this house?",
@@ -759,7 +759,7 @@
                 "answer": "Je pèse les légumes."
             },
             {
-                "page": 12,
+                "page": "12",
                 "exercise_block": "EXERCICE 1-10",
                 "question_number": "10",
                 "question_text": "I weigh the vegetables.",
@@ -769,7 +769,7 @@
         ]
     },
     {
-    "page": 2.1,
+    "page": "2.1",
     "data": [
       {
         "exercise_block": "Exercice 2.1",
@@ -844,7 +844,7 @@
     ]
   },
   {
-    "page": 2.2,
+    "page": "2.2",
     "data": [
       {
         "exercise_block": "Exercice 2.2",
@@ -856,7 +856,7 @@
     ]
   },
   {
-    "page": 2.3,
+    "page": "2.3",
     "data": [
       {
         "exercise_block": "Exercice 2.3",
@@ -931,7 +931,7 @@
     ]
   },
     {
-    "page": 2.4,
+    "page": "2.4",
     "data": [
       {
         "exercise_block": "Exercice 2.4",
@@ -1006,7 +1006,7 @@
     ]
   },
   {
-    "page": 2.5,
+    "page": "2.5",
     "data": [
       {
         "exercise_block": "Exercice 2.5",
@@ -1018,10 +1018,10 @@
     ]
   },
     {
-        "page": 2.6,
+        "page": "2.6",
         "data": [
             {
-                "page": 18,
+                "page": "18",
                 "exercise_block": "EXERCICE 2.6",
                 "question_number": "1",
                 "question_text": "Nous (prendre) ___ le petit déjeuner à huit heures.",
@@ -1029,7 +1029,7 @@
                 "answer": "prenons"
             },
             {
-                "page": 18,
+                "page": "18",
                 "exercise_block": "EXERCICE 2.6",
                 "question_number": "2",
                 "question_text": "Il (entreprendre) ___ toujours des choses dangereuses.",
@@ -1037,7 +1037,7 @@
                 "answer": "entreprends"
             },
             {
-                "page": 18,
+                "page": "18",
                 "exercise_block": "EXERCICE 2.6",
                 "question_number": "3",
                 "question_text": "Je (apprendre) ___ l'allemand.",
@@ -1045,7 +1045,7 @@
                 "answer": "apprends"
             },
             {
-                "page": 18,
+                "page": "18",
                 "exercise_block": "EXERCICE 2.6",
                 "question_number": "4",
                 "question_text": "Vous (comprendre) ___ son hésitation.",
@@ -1053,7 +1053,7 @@
                 "answer": "comprenez"
             },
             {
-                "page": 18,
+                "page": "18",
                 "exercise_block": "EXERCICE 2.6",
                 "question_number": "5",
                 "question_text": "Ils (apprendre) ___ à conduire.",
@@ -1061,7 +1061,7 @@
                 "answer": "apprennent"
             },
             {
-                "page": 18,
+                "page": "18",
                 "exercise_block": "EXERCICE 2.6",
                 "question_number": "6",
                 "question_text": "Il (surprendre) ___ le secret.",
@@ -1069,7 +1069,7 @@
                 "answer": "surprend"
             },
             {
-                "page": 18,
+                "page": "18",
                 "exercise_block": "EXERCICE 2.6",
                 "question_number": "7",
                 "question_text": "Vous (prendre) ___ de longues vacances.",
@@ -1077,7 +1077,7 @@
                 "answer": "prenez"
             },
             {
-                "page": 18,
+                "page": "18",
                 "exercise_block": "EXERCICE 2.6",
                 "question_number": "8",
                 "question_text": "Nous (comprendre) ___ le chinois.",
@@ -1085,7 +1085,7 @@
                 "answer": "comprends"
             },
             {
-                "page": 18,
+                "page": "18",
                 "exercise_block": "EXERCICE 2.6",
                 "question_number": "9",
                 "question_text": "Tu (prendre) ___ une autre direction.",
@@ -1093,7 +1093,7 @@
                 "answer": "prends"
             },
             {
-                "page": 18,
+                "page": "18",
                 "exercise_block": "EXERCICE 2.6",
                 "question_number": "10",
                 "question_text": "Elle (comprendre) ___ tout.",
@@ -1103,7 +1103,7 @@
         ]
     },
     {
-    "page": 2.7,
+    "page": "2.7",
     "data": [
       {
         "exercise_block": "Exercice 2.7",
@@ -1178,7 +1178,7 @@
     ]
   },
   {
-    "page": 2.8,
+    "page": "2.8",
     "data": [
       {
         "exercise_block": "Exercice 2.8",
@@ -1253,7 +1253,7 @@
     ]
   },
     {
-        "page": 2.9,
+        "page": "2.9",
         "data": [
             {
         "exercise_block": "Exercice 2.9",
@@ -1328,10 +1328,10 @@
         ]
     },
     {
-        "page": 2.10,
+        "page": "2.10",
         "data": [
             {
-                "page": 22,
+                "page": "22",
                 "exercise_block": "2-10",
                 "question_number": "1",
                 "question_text": "Il ___ encourage ___ ses employés.",
@@ -1339,7 +1339,7 @@
                 "answer": "Ils n'encouragent pas les employés."
             },
             {
-                "page": 22,
+                "page": "22",
                 "exercise_block": "2-10",
                 "question_number": "2",
                 "question_text": "Ils ___ visitent ___ le musée.",
@@ -1347,7 +1347,7 @@
                 "answer": "Ils ne visitent pas le musée."
             },
             {
-                "page": 22,
+                "page": "22",
                 "exercise_block": "2-10",
                 "question_number": "3",
                 "question_text": "Tu ___ gagnes ___ à la loterie.",
@@ -1355,7 +1355,7 @@
                 "answer": "Tu ne gagnes pas à la loterie."
             },
             {
-                "page": 22,
+                "page": "22",
                 "exercise_block": "2-10",
                 "question_number": "4",
                 "question_text": "Elle ___ enlève ___ son chapeau.",
@@ -1363,7 +1363,7 @@
                 "answer": "Elle n'enlève pas son chapeau."
             },
             {
-                "page": 22,
+                "page": "22",
                 "exercise_block": "2-10",
                 "question_number": "5",
                 "question_text": "Vous ___ exprimez ___ vos opinions.",
@@ -1371,7 +1371,7 @@
                 "answer": "Vous n'exprimez pas vos opinions."
             },
             {
-                "page": 22,
+                "page": "22",
                 "exercise_block": "2-10",
                 "question_number": "6",
                 "question_text": "Tu ___ pèses ___ les fruits.",
@@ -1379,7 +1379,7 @@
                 "answer": "Tu ne pèses pas les fruits."
             },
             {
-                "page": 22,
+                "page": "22",
                 "exercise_block": "2-10",
                 "question_number": "7",
                 "question_text": "Il ___ danse ___ la valse.",
@@ -1387,7 +1387,7 @@
                 "answer": "Il ne danse pas la valse."
             },
             {
-                "page": 22,
+                "page": "22",
                 "exercise_block": "2-10",
                 "question_number": "8",
                 "question_text": "Vous ___ corrigez ___ les copies des étudiants.",
@@ -1395,7 +1395,7 @@
                 "answer": "Vous ne corrigez pas les copies des étudiants."
             },
             {
-                "page": 22,
+                "page": "22",
                 "exercise_block": "2-10",
                 "question_number": "9",
                 "question_text": "Nous ___ étudions ___ l'arabe.",
@@ -1403,7 +1403,7 @@
                 "answer": "Nous n'étudions pas l'arabe."
             },
             {
-                "page": 22,
+                "page": "22",
                 "exercise_block": "2-10",
                 "question_number": "10",
                 "question_text": "Il ___ maigrit ___ en vacances.",
@@ -1413,7 +1413,7 @@
         ]
     },
     {
-    "page": 2.11,
+    "page": "2.11",
     "data": [
       {
         "exercise_block": "Exercice 2.11",
@@ -1488,7 +1488,7 @@
     ]
   },
             {
-    "page": 3.1,
+    "page": "3.1",
     "data": [
       {
         "exercise_block": "Exercice 3.1",
@@ -1563,10 +1563,10 @@
         ]
     },
             {
-    "page": 3.2,
+    "page": "3.2",
     "data": [
                     {
-                        "page": 11,
+                        "page": "11",
                         "exercise_block": "EXERCICE 3.2",
                         "question_number": "1",
                         "question_text": "Est-ce qu'ils sont en retard?",
@@ -1574,7 +1574,7 @@
                         "answer": "Oui, ils sont en retard."
                     },
                     {
-                        "page": 11,
+                        "page": "11",
                         "exercise_block": "EXERCICE 3.2",
                         "question_number": "2",
                         "question_text": "Le climat est sec?",
@@ -1582,7 +1582,7 @@
                         "answer": "Oui, le climat est sec."
                     },
                     {
-                        "page": 11,
+                        "page": "11",
                         "exercise_block": "EXERCICE 3.2",
                         "question_number": "3",
                         "question_text": "Êtes-vous libre ce soir?",
@@ -1590,7 +1590,7 @@
                         "answer": "Oui, je suis libre ce soir."
                     },
                     {
-                        "page": 11,
+                        "page": "11",
                         "exercise_block": "EXERCICE 3.2",
                         "question_number": "4",
                         "question_text": "Est-il heureux?",
@@ -1598,7 +1598,7 @@
                         "answer": "Oui, il est heureux."
                     },
                     {
-                        "page": 11,
+                        "page": "11",
                         "exercise_block": "EXERCICE 3.2",
                         "question_number": "5",
                         "question_text": "Est-ce qu'elle est sympathique?",
@@ -1606,7 +1606,7 @@
                         "answer": "Oui, elle est sympathique."
                     },
                     {
-                        "page": 11,
+                        "page": "11",
                         "exercise_block": "EXERCICE 3.2",
                         "question_number": "6",
                         "question_text": "Ce restaurant français est cher?",
@@ -1614,7 +1614,7 @@
                         "answer": "Oui, ce restaurant français est cher."
                     },
                     {
-                        "page": 11,
+                        "page": "11",
                         "exercise_block": "EXERCICE 3.2",
                         "question_number": "7",
                         "question_text": "Êtes-vous fatigué?",
@@ -1622,7 +1622,7 @@
                         "answer": "Oui, je suis fatigué."
                     },
                     {
-                        "page": 11,
+                        "page": "11",
                         "exercise_block": "EXERCICE 3.2",
                         "question_number": "8",
                         "question_text": "Est-ce que nous sommes à la bonne adresse?",
@@ -1630,7 +1630,7 @@
                         "answer": "Oui, nous sommes à la bonne adresse."
                     },
                     {
-                        "page": 11,
+                        "page": "11",
                         "exercise_block": "EXERCICE 3.2",
                         "question_number": "9",
                         "question_text": "Ce film est amusant?",
@@ -1638,7 +1638,7 @@
                         "answer": "Oui, ce film est amusant."
                     },
                     {
-                        "page": 11,
+                        "page": "11",
                         "exercise_block": "EXERCICE 3.2",
                         "question_number": "10",
                         "question_text": "Le musée est ouvert?",
@@ -1648,7 +1648,7 @@
         ]
     },
     {
-    "page": 3.3,
+    "page": "3.3",
     "data": [
       {
         "exercise_block": "Exercice 3.3",
@@ -1723,7 +1723,7 @@
     ]
   },
   {
-    "page": 3.4,
+    "page": "3.4",
     "data": [
       {
         "exercise_block": "Exercice 3.4",
@@ -1735,7 +1735,7 @@
     ]
   },
   {
-    "page": 3.5,
+    "page": "3.5",
     "data": [
       {
         "exercise_block": "Exercice 3.5",
@@ -1810,7 +1810,7 @@
     ]
   },
     {
-        "page": 3.6,
+        "page": "3.6",
         "data": [
             {
                 "exercise_block": "Exercice 3.6",
@@ -1895,10 +1895,10 @@
         ]
     },
     {
-        "page": 3.7,
+        "page": "3.7",
         "data": [
             {
-                "page": 29,
+                "page": "29",
                 "exercise_block": "Exercice 3.7",
                 "question_number": "1",
                 "question_text": "Ils ___ bien la Normandie.",
@@ -1906,7 +1906,7 @@
                 "answer": "connaissent"
             },
             {
-                "page": 29,
+                "page": "29",
                 "exercise_block": "Exercice 3.7",
                 "question_number": "2",
                 "question_text": "Nous ___ Julien depuis trois ans.",
@@ -1914,7 +1914,7 @@
                 "answer": "connaissons"
             },
             {
-                "page": 29,
+                "page": "29",
                 "exercise_block": "Exercice 3.7",
                 "question_number": "3",
                 "question_text": "Ce nouveau club ___ un grand succès.",
@@ -1922,7 +1922,7 @@
                 "answer": "connaît"
             },
             {
-                "page": 29,
+                "page": "29",
                 "exercise_block": "Exercice 3.7",
                 "question_number": "4",
                 "question_text": "Je ___ ce fait.",
@@ -1930,7 +1930,7 @@
                 "answer": "connais"
             },
             {
-                "page": 29,
+                "page": "29",
                 "exercise_block": "Exercice 3.7",
                 "question_number": "5",
                 "question_text": "Cet artisan ___ son métier.",
@@ -1938,7 +1938,7 @@
                 "answer": "connaît"
             },
             {
-                "page": 29,
+                "page": "29",
                 "exercise_block": "Exercice 3.7",
                 "question_number": "6",
                 "question_text": "Vous ___ cette chanson?",
@@ -1946,7 +1946,7 @@
                 "answer": "connaissez"
             },
             {
-                "page": 29,
+                "page": "29",
                 "exercise_block": "Exercice 3.7",
                 "question_number": "7",
                 "question_text": "Est-ce que vous ___ un bon restaurant italien?",
@@ -1954,7 +1954,7 @@
                 "answer": "connaissez"
             },
             {
-                "page": 29,
+                "page": "29",
                 "exercise_block": "Exercice 3.7",
                 "question_number": "8",
                 "question_text": "Je ___ Paris comme ma poche.",
@@ -1962,7 +1962,7 @@
                 "answer": "connais"
             },
             {
-                "page": 29,
+                "page": "29",
                 "exercise_block": "Exercice 3.7",
                 "question_number": "9",
                 "question_text": "Il ___ cette méthode à la perfection.",
@@ -1970,7 +1970,7 @@
                 "answer": "connaît"
             },
             {
-                "page": 29,
+                "page": "29",
                 "exercise_block": "Exercice 3.7",
                 "question_number": "10",
                 "question_text": "___ -vous l'oeuvre de Victor Hugo?",
@@ -1980,10 +1980,10 @@
         ]
     },
     {
-        "page": 3.8,
+        "page": "3.8",
         "data": [
             {
-                "page": 38,
+                "page": "38",
                 "exercise_block": "Exercice 3.8",
                 "question_number": "1",
                 "question_text": "Est-ce que tu ___ pourquoi il est absent?",
@@ -1991,7 +1991,7 @@
                 "answer": "sais"
             },
             {
-                "page": 38,
+                "page": "38",
                 "exercise_block": "Exercice 3.8",
                 "question_number": "2",
                 "question_text": "Elle ___ cette chanson par cœur.",
@@ -1999,7 +1999,7 @@
                 "answer": "sait"
             },
             {
-                "page": 38,
+                "page": "38",
                 "exercise_block": "Exercice 3.8",
                 "question_number": "3",
                 "question_text": "Tu ___ jouer au base-ball?",
@@ -2007,7 +2007,7 @@
                 "answer": "sais"
             },
             {
-                "page": 38,
+                "page": "38",
                 "exercise_block": "Exercice 3.8",
                 "question_number": "4",
                 "question_text": "Nous ___ la fille de José.",
@@ -2015,7 +2015,7 @@
                 "answer": "connaissons"
             },
             {
-                "page": 38,
+                "page": "38",
                 "exercise_block": "Exercice 3.8",
                 "question_number": "5",
                 "question_text": "Je ne ___ pas à quelle heure ouvre la banque.",
@@ -2023,7 +2023,7 @@
                 "answer": "sais"
             },
             {
-                "page": 38,
+                "page": "38",
                 "exercise_block": "Exercice 3.8",
                 "question_number": "6",
                 "question_text": "Ils ___ un bon dentiste.",
@@ -2031,7 +2031,7 @@
                 "answer": "connaissent"
             },
             {
-                "page": 38,
+                "page": "38",
                 "exercise_block": "Exercice 3.8",
                 "question_number": "7",
                 "question_text": "Ce nouveau produit ___ un grand succès sur le marché.",
@@ -2039,7 +2039,7 @@
                 "answer": "connaît"
             },
             {
-                "page": 38,
+                "page": "38",
                 "exercise_block": "Exercice 3.8",
                 "question_number": "8",
                 "question_text": "Vous ___ Bertrand?",
@@ -2047,7 +2047,7 @@
                 "answer": "connaissez"
             },
             {
-                "page": 38,
+                "page": "38",
                 "exercise_block": "Exercice 3.8",
                 "question_number": "9",
                 "question_text": "Il ___ qu'il n'est pas qualifié pour ce travail.",
@@ -2055,7 +2055,7 @@
                 "answer": "sait"
             },
             {
-                "page": 38,
+                "page": "38",
                 "exercise_block": "Exercice 3.8",
                 "question_number": "10",
                 "question_text": "Nous ne ___ pas ce quartier.",
@@ -2065,10 +2065,10 @@
         ]
     },
     {
-        "page": 3.9,
+        "page": "3.9",
         "data": [
             {
-                "page": 31,
+                "page": "31",
                 "exercise_block": "EXERCICE 3.9",
                 "question_number": "1",
                 "question_text": "Nous (vouloir) ___ une chambre qui donne sur le jardin.",
@@ -2076,7 +2076,7 @@
                 "answer": "voulons"
             },
             {
-                "page": 31,
+                "page": "31",
                 "exercise_block": "EXERCICE 3.9",
                 "question_number": "2",
                 "question_text": "Je (ne pas pouvoir) ___ assister à la réunion à quinze heures.",
@@ -2084,7 +2084,7 @@
                 "answer": "ne peux pas"
             },
             {
-                "page": 31,
+                "page": "31",
                 "exercise_block": "EXERCICE 3.9",
                 "question_number": "3",
                 "question_text": "Je (vouloir) ___ vous parler avant jeudi.",
@@ -2092,7 +2092,7 @@
                 "answer": "veux"
             },
             {
-                "page": 31,
+                "page": "31",
                 "exercise_block": "EXERCICE 3.9",
                 "question_number": "4",
                 "question_text": "Nous (pouvoir) ___ envoyer les documents par la poste.",
@@ -2100,7 +2100,7 @@
                 "answer": "pouvons"
             },
             {
-                "page": 31,
+                "page": "31",
                 "exercise_block": "EXERCICE 3.9",
                 "question_number": "5",
                 "question_text": "Tu (vouloir) ___ venir ce soir?",
@@ -2108,7 +2108,7 @@
                 "answer": "veux"
             },
             {
-                "page": 31,
+                "page": "31",
                 "exercise_block": "EXERCICE 3.9",
                 "question_number": "6",
                 "question_text": "Est-ce que vous (pouvoir) ___ écrire une lettre de recommandation?",
@@ -2116,7 +2116,7 @@
                 "answer": "pouvez"
             },
             {
-                "page": 31,
+                "page": "31",
                 "exercise_block": "EXERCICE 3.9",
                 "question_number": "7",
                 "question_text": "Elle (pouvoir) ___ remplir ce formulaire.",
@@ -2124,7 +2124,7 @@
                 "answer": "peut"
             },
             {
-                "page": 31,
+                "page": "31",
                 "exercise_block": "EXERCICE 3.9",
                 "question_number": "8",
                 "question_text": "Ils (vouloir) ___ partir avant midi.",
@@ -2132,7 +2132,7 @@
                 "answer": "veulent"
             },
             {
-                "page": 31,
+                "page": "31",
                 "exercise_block": "EXERCICE 3.9",
                 "question_number": "9",
                 "question_text": "Vous (vouloir) ___ prendre un verre?",
@@ -2140,7 +2140,7 @@
                 "answer": "voulez"
             },
             {
-                "page": 31,
+                "page": "31",
                 "exercise_block": "EXERCICE 3.9",
                 "question_number": "10",
                 "question_text": "Est-ce qu'ils (pouvoir) ___ arriver un peu plus tôt?",
@@ -2150,7 +2150,7 @@
         ]
     },
     {
-        "page": 3.10,
+        "page": "3.10",
         "data": [
             {
         "exercise_block": "Exercice 3.10",
@@ -2225,10 +2225,10 @@
 ]
     },
     {
-        "page": 3.11,
+        "page": "3.11",
         "data": [
             {
-                "page": 32,
+                "page": "32",
                 "exercise_block": "EXERCICE 3.11",
                 "question_number": "1",
                 "question_text": "Can you swim?",
@@ -2236,7 +2236,7 @@
                 "answer": "Est-ce que tu sais nager?"
             },
             {
-                "page": 32,
+                "page": "32",
                 "exercise_block": "EXERCICE 3.11",
                 "question_number": "2",
                 "question_text": "Can he cook?",
@@ -2244,7 +2244,7 @@
                 "answer": "Est-ce qu'il sait faire la cuisine?"
             },
             {
-                "page": 32,
+                "page": "32",
                 "exercise_block": "EXERCICE 3.11",
                 "question_number": "3",
                 "question_text": "I don't know where he is.",
@@ -2252,7 +2252,7 @@
                 "answer": "Je ne sais pas où il est."
             },
             {
-                "page": 32,
+                "page": "32",
                 "exercise_block": "EXERCICE 3.11",
                 "question_number": "4",
                 "question_text": "Can she fill out this form?",
@@ -2260,7 +2260,7 @@
                 "answer": "Est-ce qu'elle peut remplir ce formulaire?"
             },
             {
-                "page": 32,
+                "page": "32",
                 "exercise_block": "EXERCICE 3.11",
                 "question_number": "5",
                 "question_text": "She knows Caroline.",
@@ -2268,7 +2268,7 @@
                 "answer": "Elle connaît Caroline."
             },
             {
-                "page": 32,
+                "page": "32",
                 "exercise_block": "EXERCICE 3.11",
                 "question_number": "6",
                 "question_text": "Do you know this French song by heart?",
@@ -2276,7 +2276,7 @@
                 "answer": "Est-ce que tu sais cette chanson française par cœur?"
             },
             {
-                "page": 32,
+                "page": "32",
                 "exercise_block": "EXERCICE 3.11",
                 "question_number": "7",
                 "question_text": "It is raining in France.",
@@ -2284,7 +2284,7 @@
                 "answer": "Il pleut en France."
             },
             {
-                "page": 32,
+                "page": "32",
                 "exercise_block": "EXERCICE 3.11",
                 "question_number": "8",
                 "question_text": "You must arrive at noon.",
@@ -2292,7 +2292,7 @@
                 "answer": "Tu dois arriver à midi."
             },
             {
-                "page": 32,
+                "page": "32",
                 "exercise_block": "EXERCICE 3.11",
                 "question_number": "9",
                 "question_text": "He foresees a great improvement.",
@@ -2300,7 +2300,7 @@
                 "answer": "Il prévoit une grande amélioration."
             },
             {
-                "page": 32,
+                "page": "32",
                 "exercise_block": "EXERCICE 3.11",
                 "question_number": "10",
                 "question_text": "I see the castle.",
@@ -2310,7 +2310,7 @@
         ]
     },
     {
-    "page": 4.1,
+    "page": "4.1",
     "data": [
       {
         "exercise_block": "Exercice 4.1",
@@ -2385,7 +2385,7 @@
     ]
   },
   {
-    "page": 4.2,
+    "page": "4.2",
     "data": [
       {
         "exercise_block": "Exercice 4.2",
@@ -2460,7 +2460,7 @@
     ]
   },
   {
-    "page": 4.3,
+    "page": "4.3",
     "data": [
       {
         "exercise_block": "Exercice 4.3",
@@ -2535,7 +2535,7 @@
     ]
   },
   {
-    "page": 4.4,
+    "page": "4.4",
     "data": [
       {
         "exercise_block": "Exercice 4.4",
@@ -2610,7 +2610,7 @@
         ]
     },
     {
-    "page": 4.5,
+    "page": "4.5",
     "data": [
       {
         "exercise_block": "Exercice 4.5",
@@ -2685,7 +2685,7 @@
     ]
   },
   {
-    "page": 4.6,
+    "page": "4.6",
     "data": [
       {
         "exercise_block": "Exercice 4.6",
@@ -2697,7 +2697,7 @@
     ]
   },
   {
-    "page": 4.7,
+    "page": "4.7",
     "data": [
       {
         "exercise_block": "Exercice 4.7",
@@ -2772,7 +2772,7 @@
     ]
   },
   {
-    "page": 4.8,
+    "page": "4.8",
     "data": [
       {
         "exercise_block": "Exercice 4.8",
@@ -2847,7 +2847,7 @@
     ]
   },
   {
-    "page": 4.9,
+    "page": "4.9",
     "data": [
       {
         "exercise_block": "Exercice 4.9",
@@ -2922,7 +2922,7 @@
     ]
   },
     {
-        "page": 58,
+        "page": "58",
         "data": [
             {
                 "exercise_block": "Exercice 5.1",
@@ -3007,10 +3007,10 @@
         ]
     },
     {
-        "page": 5.2,
+        "page": "5.2",
         "data": [
             {
-                "page": 45,
+                "page": "45",
                 "exercise_block": "EXERCICE 5.2",
                 "question_number": "1",
                 "question_text": "You must cook tonight.",
@@ -3018,7 +3018,7 @@
                 "answer": "Vous devez faire la cuisine ce soir."
             },
             {
-                "page": 45,
+                "page": "45",
                 "exercise_block": "EXERCICE 5.2",
                 "question_number": "2",
                 "question_text": "She must not work today.",
@@ -3026,7 +3026,7 @@
                 "answer": "Elle ne doit pas travailler aujourd'hui."
             },
             {
-                "page": 45,
+                "page": "45",
                 "exercise_block": "EXERCICE 5.2",
                 "question_number": "3",
                 "question_text": "At what time is he supposed to arrive?",
@@ -3034,7 +3034,7 @@
                 "answer": "À quelle heure est-ce qu'il doit arriver?"
             },
             {
-                "page": 45,
+                "page": "45",
                 "exercise_block": "EXERCICE 5.2",
                 "question_number": "4",
                 "question_text": "How much do I owe you?",
@@ -3042,7 +3042,7 @@
                 "answer": "Combien est-ce que je vous dois?"
             },
             {
-                "page": 45,
+                "page": "45",
                 "exercise_block": "EXERCICE 5.2",
                 "question_number": "5",
                 "question_text": "Why must he sell his car?",
@@ -3050,7 +3050,7 @@
                 "answer": "Pourquoi est-ce qu'il doit vendre sa voiture?"
             },
             {
-                "page": 45,
+                "page": "45",
                 "exercise_block": "EXERCICE 5.2",
                 "question_number": "6",
                 "question_text": "She owes an excuse to Carole.",
@@ -3058,7 +3058,7 @@
                 "answer": "Elle doit une excuse à Carole."
             },
             {
-                "page": 45,
+                "page": "45",
                 "exercise_block": "EXERCICE 5.2",
                 "question_number": "7",
                 "question_text": "Are we supposed to know these verbs?",
@@ -3066,7 +3066,7 @@
                 "answer": "Est-ce que nous devons connaître ces verbes?"
             },
             {
-                "page": 45,
+                "page": "45",
                 "exercise_block": "EXERCICE 5.2",
                 "question_number": "8",
                 "question_text": "He owes two thousand dollars to the bank.",
@@ -3074,7 +3074,7 @@
                 "answer": "Il doit deux mille dollars à la banque."
             },
             {
-                "page": 45,
+                "page": "45",
                 "exercise_block": "EXERCICE 5.2",
                 "question_number": "9",
                 "question_text": "You should call Vincent.",
@@ -3082,7 +3082,7 @@
                 "answer": "Vous devez appeler Vincent."
             },
             {
-                "page": 45,
+                "page": "45",
                 "exercise_block": "EXERCICE 5.2",
                 "question_number": "10",
                 "question_text": "You should not invite Pierre.",
@@ -3092,7 +3092,7 @@
              ]
     },
     {
-        "page": 5.3,
+        "page": "5.3",
         "data": [{
                 "exercise_block": "Exercice 5.3",
                 "question_number": "1-5",
@@ -3104,7 +3104,7 @@
         ]
     },
     {
-        "page": 5.4,
+        "page": "5.4",
         "data": [
             {
                 "exercise_block": "Exercice 5.4",
@@ -3187,11 +3187,11 @@
                 "answer": "se plaint"
             },
             {
-        "page": 5.5,
+        "page": "5.5",
         "data": []
     },
             {
-                "page": 47,
+                "page": "47",
                 "exercise_block": "EXERCICE 5.5",
                 "question_number": "1",
                 "question_text": "She is painting the kitchen.",
@@ -3199,7 +3199,7 @@
                 "answer": "Elle peint la cuisine."
             },
             {
-                "page": 47,
+                "page": "47",
                 "exercise_block": "EXERCICE 5.5",
                 "question_number": "2",
                 "question_text": "There is a dog in the car.",
@@ -3207,7 +3207,7 @@
                 "answer": "Il y a un chien dans la voiture."
             },
             {
-                "page": 47,
+                "page": "47",
                 "exercise_block": "EXERCICE 5.5",
                 "question_number": "3",
                 "question_text": "They pity the poor child.",
@@ -3215,7 +3215,7 @@
                 "answer": "Ils (Elles) plaignent le pauvre enfant."
             },
             {
-                "page": 47,
+                "page": "47",
                 "exercise_block": "EXERCICE 5.5",
                 "question_number": "4",
                 "question_text": "This book is about the French president.",
@@ -3223,7 +3223,7 @@
                 "answer": "Dans ce livre, il s'agit du président français."
             },
             {
-                "page": 47,
+                "page": "47",
                 "exercise_block": "EXERCICE 5.5",
                 "question_number": "5",
                 "question_text": "What is it about?",
@@ -3231,7 +3231,7 @@
                 "answer": "De quoi est-ce qu'il s'agit?"
             },
             {
-                "page": 47,
+                "page": "47",
                 "exercise_block": "EXERCICE 5.5",
                 "question_number": "6",
                 "question_text": "He fears the worst.",
@@ -3239,7 +3239,7 @@
                 "answer": "Il craint le pire."
             },
             {
-                "page": 47,
+                "page": "47",
                 "exercise_block": "EXERCICE 5.5",
                 "question_number": "7",
                 "question_text": "There are books on the table.",
@@ -3273,7 +3273,7 @@
         ]
     },
     {
-    "page": 6.1,
+    "page": "6.1",
     "data": [
       {
         "exercise_block": "Exercice 6.1",
@@ -3348,10 +3348,10 @@
     ]
   },
     {
-        "page": 6.2,
+        "page": "6.2",
         "data": [
             {
-                "page": 1,
+                "page": "1",
                 "exercise_block": "EXERCICE 6.2",
                 "question_number": "1",
                 "question_text": "Ils (se marier) ___ la semaine prochaine.",
@@ -3359,7 +3359,7 @@
                 "answer": "se marier"
             },
             {
-                "page": 1,
+                "page": "1",
                 "exercise_block": "EXERCICE 6.2",
                 "question_number": "2",
                 "question_text": "Vous (s'embrasser) ___ sur le balcon.",
@@ -3367,7 +3367,7 @@
                 "answer": "vous embrassez"
             },
             {
-                "page": 1,
+                "page": "1",
                 "exercise_block": "EXERCICE 6.2",
                 "question_number": "3",
                 "question_text": "Nous (s'écrire) ___ une fois par an.",
@@ -3375,7 +3375,7 @@
                 "answer": "nous écrivons"
             },
             {
-                "page": 1,
+                "page": "1",
                 "exercise_block": "EXERCICE 6.2",
                 "question_number": "4",
                 "question_text": "Ils (se retrouver) ___ devant la brasserie.",
@@ -3383,7 +3383,7 @@
                 "answer": "se retrouver"
             },
             {
-                "page": 1,
+                "page": "1",
                 "exercise_block": "EXERCICE 6.2",
                 "question_number": "5",
                 "question_text": "Elles (se voir) ___ rarement.",
@@ -3391,7 +3391,7 @@
                 "answer": "se voient"
             },
             {
-                "page": 1,
+                "page": "1",
                 "exercise_block": "EXERCICE 6.2",
                 "question_number": "6",
                 "question_text": "Nous (se téléphoner) ___ chaque jour.",
@@ -3399,7 +3399,7 @@
                 "answer": "nous téléphonons"
             },
             {
-                "page": 1,
+                "page": "1",
                 "exercise_block": "EXERCICE 6.2",
                 "question_number": "7",
                 "question_text": "Vous (se quitter) ___ sur le quai de la gare.",
@@ -3407,7 +3407,7 @@
                 "answer": "vous quittez"
             },
             {
-                "page": 1,
+                "page": "1",
                 "exercise_block": "EXERCICE 6.2",
                 "question_number": "8",
                 "question_text": "Nous (se disputer) ___ assez souvent.",
@@ -3415,7 +3415,7 @@
                 "answer": "nous disputons"
             },
             {
-                "page": 1,
+                "page": "1",
                 "exercise_block": "EXERCICE 6.2",
                 "question_number": "9",
                 "question_text": "Ils (se détester) ___ depuis toujours.",
@@ -3423,7 +3423,7 @@
                 "answer": "se détendent"
             },
             {
-                "page": 1,
+                "page": "1",
                 "exercise_block": "EXERCICE 6.2",
                 "question_number": "10",
                 "question_text": "Nous (se rencontrer) ___ toujours par hasard dans la rue.",
@@ -3433,7 +3433,7 @@
         ]
     },
     {
-        "page": 66,
+        "page": "66",
         "data": [
             {
                 "exercise_block": "Exercice 6.3",
@@ -3518,10 +3518,10 @@
         ]
     },
     {
-        "page": 6.4,
+        "page": "6.4",
         "data": [
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.4",
                 "question_number": "1",
                 "question_text": "J'aime (se promener) ___ le long de la Seine.",
@@ -3529,7 +3529,7 @@
                 "answer": "me promener"
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.4",
                 "question_number": "2",
                 "question_text": "À quelle heure est-ce que tu vas (se lever) ___ ?",
@@ -3537,7 +3537,7 @@
                 "answer": "te lever"
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.4",
                 "question_number": "3",
                 "question_text": "Nous venons de (se rendre compte) ___ des conséquences.",
@@ -3545,7 +3545,7 @@
                 "answer": "nous rendre compte"
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.4",
                 "question_number": "4",
                 "question_text": "Elle ne peut pas (se souvenir) ___ de son nom.",
@@ -3553,7 +3553,7 @@
                 "answer": "se souvenir"
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.4",
                 "question_number": "5",
                 "question_text": "Ils doivent (se marier) ___ au printemps.",
@@ -3561,7 +3561,7 @@
                 "answer": "se marier"
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.4",
                 "question_number": "6",
                 "question_text": "Vous allez (se demander) ___ pourquoi il quitte Paris.",
@@ -3569,7 +3569,7 @@
                 "answer": "vous demander"
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.4",
                 "question_number": "7",
                 "question_text": "Nous voulons (s'écrire) ___ plus souvent.",
@@ -3577,7 +3577,7 @@
                 "answer": "nous écrire"
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.4",
                 "question_number": "8",
                 "question_text": "Je dois (s'habiller) ___ pour aller au bal.",
@@ -3585,7 +3585,7 @@
                 "answer": "m'habiller"
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.4",
                 "question_number": "9",
                 "question_text": "Vous allez (se voir) ___ pendant les vacances ?",
@@ -3593,7 +3593,7 @@
                 "answer": "vous voir"
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.4",
                 "question_number": "10",
                 "question_text": "Nous ne pouvons pas (se plaindre) ___ de la situation.",
@@ -3603,7 +3603,7 @@
         ]
     },
     {
-                "page": 6.5,
+                "page": "6.5",
         "data": [
             {
                 "exercise_block": "Exercice 6.5",
@@ -3616,10 +3616,10 @@
         ]
     },
     {
-                "page": 6.6,
+                "page": "6.6",
         "data": [
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.6",
                 "question_number": "1",
                 "question_text": "Get up!",
@@ -3627,7 +3627,7 @@
                 "answer": "Lève-toi!"
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.6",
                 "question_number": "2",
                 "question_text": "She is getting dressed for the party.",
@@ -3635,7 +3635,7 @@
                 "answer": "Elle s’habille pour la soirée."
             },
             {
-                "page": 53,
+                "page": "53",
                 "exercise_block": "EXERCICE 6.6",
                 "question_number": "3",
                 "question_text": "She cuts her hair.",
@@ -3701,10 +3701,10 @@
         ]
     },
     {
-        "page": 7.1,
+        "page": "7.1",
         "data": [
             {
-                "page": 56,
+                "page": "56",
                 "exercise_block": "EXERCICE 7.1",
                 "question_number": "1",
                 "question_text": "Il (inviter) ___ beaucoup de monde.",
@@ -3712,7 +3712,7 @@
                 "answer": "a invité"
             },
             {
-                "page": 56,
+                "page": "56",
                 "exercise_block": "EXERCICE 7.1",
                 "question_number": "2",
                 "question_text": "Nous (refuser) ___ leur invitation.",
@@ -3720,7 +3720,7 @@
                 "answer": "avons réussi"
             },
             {
-                "page": 56,
+                "page": "56",
                 "exercise_block": "EXERCICE 7.1",
                 "question_number": "3",
                 "question_text": "Tu (travailler) ___ hier matin?",
@@ -3728,7 +3728,7 @@
                 "answer": "a travaillé"
             },
             {
-                "page": 56,
+                "page": "56",
                 "exercise_block": "EXERCICE 7.1",
                 "question_number": "4",
                 "question_text": "Il (comprendre) ___ l'intrigue.",
@@ -3736,7 +3736,7 @@
                 "answer": "a compris"
             },
             {
-                "page": 56,
+                "page": "56",
                 "exercise_block": "EXERCICE 7.1",
                 "question_number": "5",
                 "question_text": "Elle (apporter) ___ un joli cadeau.",
@@ -3744,7 +3744,7 @@
                 "answer": "a apporté"
             },
             {
-                "page": 56,
+                "page": "56",
                 "exercise_block": "EXERCICE 7.1",
                 "question_number": "6",
                 "question_text": "Je (voyager) ___ avec Rémi.",
@@ -3752,7 +3752,7 @@
                 "answer": "a voyagé"
             },
             {
-                "page": 56,
+                "page": "56",
                 "exercise_block": "EXERCICE 7.1",
                 "question_number": "7",
                 "question_text": "Vous (louer) ___ une voiture?",
@@ -3786,10 +3786,10 @@
         ]
     },
     {
-        "page": 7.2,
+        "page": "7.2",
         "data": [
             {
-                "page": 57,
+                "page": "57",
                 "exercise_block": "7.2",
                 "question_number": "1",
                 "question_text": "Ils (investir) ___ une grosse somme.",
@@ -3797,7 +3797,7 @@
                 "answer": "ont investi"
             },
             {
-                "page": 57,
+                "page": "57",
                 "exercise_block": "7.2",
                 "question_number": "2",
                 "question_text": "Le public (applaudir) ___ les comédiens.",
@@ -3805,7 +3805,7 @@
                 "answer": "a applaudi"
             },
             {
-                "page": 57,
+                "page": "57",
                 "exercise_block": "7.2",
                 "question_number": "3",
                 "question_text": "Elles (réfléchir) ___ toute la journée.",
@@ -3813,7 +3813,7 @@
                 "answer": "ont réfléchi"
             },
             {
-                "page": 57,
+                "page": "57",
                 "exercise_block": "7.2",
                 "question_number": "4",
                 "question_text": "La voiture (ralentir) ___ au carrefour.",
@@ -3821,7 +3821,7 @@
                 "answer": "a ralenti"
             },
             {
-                "page": 57,
+                "page": "57",
                 "exercise_block": "7.2",
                 "question_number": "5",
                 "question_text": "Ils (attendre) ___ le train une demi-heure.",
@@ -3829,7 +3829,7 @@
                 "answer": "ont attendu"
             },
             {
-                "page": 57,
+                "page": "57",
                 "exercise_block": "7.2",
                 "question_number": "6",
                 "question_text": "Nous (réussir) ___ à les convaincre.",
@@ -3837,7 +3837,7 @@
                 "answer": "avons réussi"
             },
             {
-                "page": 57,
+                "page": "57",
                 "exercise_block": "7.2",
                 "question_number": "7",
                 "question_text": "Elle (perdre) ___ ses bijoux en vacances.",
@@ -3845,7 +3845,7 @@
                 "answer": "a perdu"
             },
             {
-                "page": 57,
+                "page": "57",
                 "exercise_block": "7.2",
                 "question_number": "8",
                 "question_text": "Tu (grandir) ___ en Europe?",
@@ -3853,7 +3853,7 @@
                 "answer": "s’est grandi"
             },
             {
-                "page": 57,
+                "page": "57",
                 "exercise_block": "7.2",
                 "question_number": "9",
                 "question_text": "Elle (sentir) ___ une bonne odeur venant de la cuisine.",
@@ -3861,7 +3861,7 @@
                 "answer": "a senti"
             },
             {
-                "page": 57,
+                "page": "57",
                 "exercise_block": "7.2",
                 "question_number": "10",
                 "question_text": "Le théâtre (vendre) ___ beaucoup de billets.",
@@ -3871,10 +3871,10 @@
         ]
     },
     {
-        "page": 7.3,
+        "page": "7.3",
         "data": [
             {
-                "page": 58,
+                "page": "58",
                 "exercise_block": "EXERCICE 7.3",
                 "question_number": "1",
                 "question_text": "They sold the house in France.",
@@ -3882,7 +3882,7 @@
                 "answer": "Ils (Elles) ont vendu la maison en France."
             },
             {
-                "page": 58,
+                "page": "58",
                 "exercise_block": "EXERCICE 7.3",
                 "question_number": "2",
                 "question_text": "I waited ten minutes.",
@@ -3890,7 +3890,7 @@
                 "answer": "J’ai attendu dix minutes."
             },
             {
-                "page": 58,
+                "page": "58",
                 "exercise_block": "EXERCICE 7.3",
                 "question_number": "3",
                 "question_text": "He finished the novel.",
@@ -3898,7 +3898,7 @@
                 "answer": "Il a fini le roman."
             },
             {
-                "page": 58,
+                "page": "58",
                 "exercise_block": "EXERCICE 7.3",
                 "question_number": "4",
                 "question_text": "She lost her dictionary.",
@@ -3906,7 +3906,7 @@
                 "answer": "Elle a perdu son dictionnaire."
             },
             {
-                "page": 58,
+                "page": "58",
                 "exercise_block": "EXERCICE 7.3",
                 "question_number": "5",
                 "question_text": "I called Marc.",
@@ -3914,7 +3914,7 @@
                 "answer": "J’ai appelé Marc."
             },
             {
-                "page": 58,
+                "page": "58",
                 "exercise_block": "EXERCICE 7.3",
                 "question_number": "6",
                 "question_text": "They served an elegant dinner.",
@@ -3922,7 +3922,7 @@
                 "answer": "Ils (Elles) ont servi un dîner élégant."
             },
             {
-                "page": 58,
+                "page": "58",
                 "exercise_block": "EXERCICE 7.3",
                 "question_number": "7",
                 "question_text": "He bought a car.",
@@ -3930,7 +3930,7 @@
                 "answer": "Il a acheté une voiture."
             },
             {
-                "page": 58,
+                "page": "58",
                 "exercise_block": "EXERCICE 7.3",
                 "question_number": "8",
                 "question_text": "I chose a very good cheese.",
@@ -3938,7 +3938,7 @@
                 "answer": "J’ai choisi un très bon fromage."
             },
             {
-                "page": 58,
+                "page": "58",
                 "exercise_block": "EXERCICE 7.3",
                 "question_number": "9",
                 "question_text": "We watched the film.",
@@ -3946,7 +3946,7 @@
                 "answer": "Nous avons regardé le film."
             },
             {
-                "page": 58,
+                "page": "58",
                 "exercise_block": "EXERCICE 7.3",
                 "question_number": "10",
                 "question_text": "They applauded the actor.",
@@ -3956,10 +3956,10 @@
         ]
     },
     {
-        "page": 7.4,
+        "page": "7.4",
         "data": [
             {
-                "page": 59,
+                "page": "59",
                 "exercise_block": "EXERCICE 7.4",
                 "question_number": "1",
                 "question_text": "Je (prendre) ___ le train à Lille.",
@@ -3967,7 +3967,7 @@
                 "answer": "J’ai pris"
             },
             {
-                "page": 59,
+                "page": "59",
                 "exercise_block": "EXERCICE 7.4",
                 "question_number": "2",
                 "question_text": "Nous (ne pas pouvoir) ___ joindre les Quentin.",
@@ -3975,7 +3975,7 @@
                 "answer": "n’avons pas pu"
             },
             {
-                "page": 59,
+                "page": "59",
                 "exercise_block": "EXERCICE 7.4",
                 "question_number": "3",
                 "question_text": "Ils (suivre) ___ un cours d'anglais en Angleterre.",
@@ -3983,7 +3983,7 @@
                 "answer": "ont suivi"
             },
             {
-                "page": 59,
+                "page": "59",
                 "exercise_block": "EXERCICE 7.4",
                 "question_number": "4",
                 "question_text": "Elle (peindre) ___ un paysage breton.",
@@ -3991,7 +3991,7 @@
                 "answer": "a peint"
             },
             {
-                "page": 59,
+                "page": "59",
                 "exercise_block": "EXERCICE 7.4",
                 "question_number": "5",
                 "question_text": "Il (pleuvoir) ___ tout l'après-midi.",
@@ -3999,7 +3999,7 @@
                 "answer": "a plu"
             },
             {
-                "page": 59,
+                "page": "59",
                 "exercise_block": "EXERCICE 7.4",
                 "question_number": "6",
                 "question_text": "Vous (recevoir) ___ beaucoup de compliments.",
@@ -4007,7 +4007,7 @@
                 "answer": "avez reçu"
             },
             {
-                "page": 59,
+                "page": "59",
                 "exercise_block": "EXERCICE 7.4",
                 "question_number": "7",
                 "question_text": "Nous (lire) ___ un roman de Zola.",
@@ -4015,7 +4015,7 @@
                 "answer": "avons lu"
             },
             {
-                "page": 59,
+                "page": "59",
                 "exercise_block": "EXERCICE 7.4",
                 "question_number": "8",
                 "question_text": "Je (faire) ___ la cuisine pour toute la famille.",
@@ -4023,7 +4023,7 @@
                 "answer": "J’ai fait"
             },
             {
-                "page": 59,
+                "page": "59",
                 "exercise_block": "EXERCICE 7.4",
                 "question_number": "9",
                 "question_text": "Il (mettre) ___ son chapeau gris.",
@@ -4031,7 +4031,7 @@
                 "answer": "a mis"
             },
             {
-                "page": 59,
+                "page": "59",
                 "exercise_block": "EXERCICE 7.4",
                 "question_number": "10",
                 "question_text": "Elle (ouvrir) ___ les fenêtres.",
@@ -4041,7 +4041,7 @@
         ]
     },
     {
-        "page": 7.5,
+        "page": "7.5",
         "data": [
             {
                 "exercise_block": "Exercice 7.5",
@@ -4054,7 +4054,7 @@
         ]
     },
     {
-        "page": 7.6,
+        "page": "7.6",
         "data": [
             {
         "exercise_block": "Exercice 7.6",
@@ -4129,7 +4129,7 @@
         ]
     },
     {
-        "page": 7.7,
+        "page": "7.7",
         "data": [
             {
                 "exercise_block": "Exercice 7.7",
@@ -4214,7 +4214,7 @@
         ]
     },
     {
-        "page": 7.8,
+        "page": "7.8",
         "data": [
             {
                 "exercise_block": "Exercice 7.8",
@@ -4299,7 +4299,7 @@
         ]
     },
     {
-        "page": 7.9,
+        "page": "7.9",
         "data": [
             {
                 "exercise_block": "Exercice 7.9",
@@ -4312,7 +4312,7 @@
         ]
     },
     {
-        "page": 8.1,
+        "page": "8.1",
         "data": [
             {
                 "exercise_block": "Exercice 8.1",
@@ -4397,7 +4397,7 @@
         ]
     },
     {
-        "page": 8.2,
+        "page": "8.2",
         "data": [
             {
                 "exercise_block": "Exercice 8.2",
@@ -4482,7 +4482,7 @@
         ]
     },
     {
-        "page": 8.3,
+        "page": "8.3",
         "data": [
             {
                 "exercise_block": "Exercice 8.3",
@@ -4567,7 +4567,7 @@
         ]
     },
     {
-        "page": 8.4,
+        "page": "8.4",
         "data": [
             {
                 "exercise_block": "Exercice 8.4",
@@ -4652,7 +4652,7 @@
         ]
     },
     {
-        "page": 8.5,
+        "page": "8.5",
         "data": [
             {
                 "exercise_block": "Exercice 8.5",
@@ -4737,7 +4737,7 @@
         ]
     },
     {
-        "page": 8.6,
+        "page": "8.6",
         "data": [
             {
                 "exercise_block": "Exercice 8.6",
@@ -4822,7 +4822,7 @@
         ]
     },
     {
-        "page": 8.7,
+        "page": "8.7",
         "data": [
             {
                 "exercise_block": "Exercice 8.7",
@@ -4907,7 +4907,7 @@
         ]
     },
     {
-        "page": 9.1,
+        "page": "9.1",
         "data": [
             {
                 "exercise_block": "Exercice 9.1",
@@ -4992,10 +4992,10 @@
         ]
     },
     {
-        "page": 9.2,
+        "page": "9.2",
         "data": [
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "EXERCICE 9.2",
                 "question_number": "1",
                 "question_text": "Il (être) ___ décru de ne pas vous voir.",
@@ -5003,7 +5003,7 @@
                 "answer": "sera"
             },
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "EXERCICE 9.2",
                 "question_number": "2",
                 "question_text": "L'étudiant (faire) ___ un stage à Nantes.",
@@ -5011,7 +5011,7 @@
                 "answer": "fera"
             },
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "EXERCICE 9.2",
                 "question_number": "3",
                 "question_text": "Tu (savoir) ___ demain si tu as réussi à ton examen.",
@@ -5019,7 +5019,7 @@
                 "answer": "sauras"
             },
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "EXERCICE 9.2",
                 "question_number": "4",
                 "question_text": "Nous (avoir) ___ les résultats demain.",
@@ -5027,7 +5027,7 @@
                 "answer": "aurons"
             },
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "EXERCICE 9.2",
                 "question_number": "5",
                 "question_text": "Le professeur (aller) ___ à Paris en juin.",
@@ -5035,7 +5035,7 @@
                 "answer": "ira"
             },
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "EXERCICE 9.2",
                 "question_number": "6",
                 "question_text": "Il (préférer) ___ suivre le cours d'histoire de l'art.",
@@ -5043,7 +5043,7 @@
                 "answer": "préférera"
             },
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "EXERCICE 9.2",
                 "question_number": "7",
                 "question_text": "Nous (voir) ___ un bon film au cinéma.",
@@ -5051,7 +5051,7 @@
                 "answer": "verrons"
             },
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "EXERCICE 9.2",
                 "question_number": "8",
                 "question_text": "Il (falloir) ___ remettre les devoirs jeudi.",
@@ -5059,7 +5059,7 @@
                 "answer": "faudra"
             },
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "EXERCICE 9.2",
                 "question_number": "9",
                 "question_text": "Elle (pouvoir) ___ aller à la campagne avec nous.",
@@ -5067,7 +5067,7 @@
                 "answer": "pourra"
             },
             {
-                "page": 9,
+                "page": "9",
                 "exercise_block": "EXERCICE 9.2",
                 "question_number": "10",
                 "question_text": "Il (pleuvoir) ___ demain.",
@@ -5077,7 +5077,7 @@
         ]
     },
     {
-        "page": 9.3,
+        "page": "9.3",
         "data": [
             {
                 "exercise_block": "Exercice 9.3",
@@ -5162,7 +5162,7 @@
         ]
     },
     {
-        "page": 9.4,
+        "page": "9.4",
         "data": [
             {
                 "exercise_block": "Exercice 9.4",
@@ -5247,7 +5247,7 @@
         ]
     },
     {
-        "page": 9.5,
+        "page": "9.5",
         "data": [
             {
                 "exercise_block": "Exercice 9.5",
@@ -5260,7 +5260,7 @@
         ]
     },
     {
-        "page": 9.6,
+        "page": "9.6",
         "data": [
     {
         "exercise_block": "Exercice 9.6",
@@ -5345,7 +5345,7 @@
 ]
     },
     {
-        "page": 9.7,
+        "page": "9.7",
         "data": [
     {
         "exercise_block": "Exercice 9.7",
@@ -5430,7 +5430,7 @@
 ]
     },
     {
-        "page": 9.8,
+        "page": "9.8",
         "data": [
     {
         "exercise_block": "Exercice 9.8",
@@ -5515,7 +5515,7 @@
 ]
     },
     {
-        "page": 10.1,
+        "page": "10.1",
         "data": [
             {
                 "exercise_block": "Exercice 10.1",
@@ -5590,7 +5590,7 @@
         ]
     },
     {
-        "page": 10.2,
+        "page": "10.2",
         "data": [
             {
                 "exercise_block": "Exercice 10.2",
@@ -5665,7 +5665,7 @@
         ]
     },
    {
-        "page": 10.3,
+        "page": "10.3",
         "data": [
             {
                 "exercise_block": "Exercice 10.3",
@@ -5740,7 +5740,7 @@
         ]
     },
     {
-        "page": 10.4,
+        "page": "10.4",
         "data": [
             {
                 "exercise_block": "Exercice 10.4",
@@ -5753,7 +5753,7 @@
         ]
     },
     {
-        "page": 10.5,
+        "page": "10.5",
         "data": [
     {
         "exercise_block": "Exercice 10.5",
@@ -5838,7 +5838,7 @@
 ]
     },
     {
-        "page": 10.6,
+        "page": "10.6",
         "data": [
     {
         "exercise_block": "Exercice 10.6",
@@ -5923,10 +5923,10 @@
 ]
     },
     {
-        "page": 11.1,
+        "page": "11.1",
         "data": [
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 11.1",
                 "question_number": "1",
                 "question_text": "aller (nous) ___",
@@ -5934,7 +5934,7 @@
                 "answer": "irions"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 11.1",
                 "question_number": "2",
                 "question_text": "voyager (elle) ___",
@@ -5942,7 +5942,7 @@
                 "answer": "voyagerait"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 11.1",
                 "question_number": "3",
                 "question_text": "dire (nous) ___",
@@ -5950,7 +5950,7 @@
                 "answer": "dirions"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 11.1",
                 "question_number": "4",
                 "question_text": "avoir (je) ___",
@@ -5958,7 +5958,7 @@
                 "answer": "j’aurais"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 11.1",
                 "question_number": "5",
                 "question_text": "manger (ils) ___",
@@ -5966,7 +5966,7 @@
                 "answer": "mangerait"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 11.1",
                 "question_number": "6",
                 "question_text": "prendre (elle) ___",
@@ -5974,7 +5974,7 @@
                 "answer": "prendrait"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 11.1",
                 "question_number": "7",
                 "question_text": "être (tu) ___",
@@ -5982,7 +5982,7 @@
                 "answer": "serais"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 11.1",
                 "question_number": "8",
                 "question_text": "demander (vous) ___",
@@ -5990,7 +5990,7 @@
                 "answer": "demanderiez"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 11.1",
                 "question_number": "9",
                 "question_text": "écrire (je) ___",
@@ -5998,7 +5998,7 @@
                 "answer": "je ferais"
             },
             {
-                "page": 11,
+                "page": "11",
                 "exercise_block": "EXERCICE 11.1",
                 "question_number": "10",
                 "question_text": "savoir (tu) ___",
@@ -6008,10 +6008,10 @@
         ]
     },
     {
-        "page": 11.2,
+        "page": "11.2",
         "data": [
             {
-                "page": 89,
+                "page": "89",
                 "exercise_block": "Exercice 11.2",
                 "question_number": "1",
                 "question_text": "Would you aller au théâtre la semaine prochaine?",
@@ -6019,7 +6019,7 @@
                 "answer": "Iriez-vous"
             },
             {
-                "page": 89,
+                "page": "89",
                 "exercise_block": "Exercice 11.2",
                 "question_number": "2",
                 "question_text": "Could we passer chez vous après le spectacle?",
@@ -6027,7 +6027,7 @@
                 "answer": "Pourriez-vous"
             },
             {
-                "page": 89,
+                "page": "89",
                 "exercise_block": "Exercice 11.2",
                 "question_number": "3",
                 "question_text": "Could you changer la date de votre départ?",
@@ -6035,7 +6035,7 @@
                 "answer": "M’achèteriez-vous"
             },
             {
-                "page": 89,
+                "page": "89",
                 "exercise_block": "Exercice 11.2",
                 "question_number": "4",
                 "question_text": "Would you m'acheter le journal pendant mes vacances?",
@@ -6043,7 +6043,7 @@
                 "answer": "Signalerait-il"
             },
             {
-                "page": 89,
+                "page": "89",
                 "exercise_block": "Exercice 11.2",
                 "question_number": "5",
                 "question_text": "Would he signer cette pétition?",
@@ -6051,7 +6051,7 @@
                 "answer": "Pourrait-elle"
             },
             {
-                "page": 89,
+                "page": "89",
                 "exercise_block": "Exercice 11.2",
                 "question_number": "6",
                 "question_text": "Could you nourrir mes poissons rouges?",
@@ -6059,7 +6059,7 @@
                 "answer": "Iriez-vous"
             },
             {
-                "page": 89,
+                "page": "89",
                 "exercise_block": "Exercice 11.2",
                 "question_number": "7",
                 "question_text": "Could she prendre un train plus tard?",
@@ -6067,7 +6067,7 @@
                 "answer": "Pourrions-nous"
             },
             {
-                "page": 89,
+                "page": "89",
                 "exercise_block": "Exercice 11.2",
                 "question_number": "8",
                 "question_text": "Would you aller avec moi en Tanzanie?",
@@ -6075,7 +6075,7 @@
                 "answer": "Iriez-vous"
             },
             {
-                "page": 89,
+                "page": "89",
                 "exercise_block": "Exercice 11.2",
                 "question_number": "9",
                 "question_text": "Could we finir ce projet la semaine prochaine?",
@@ -6083,7 +6083,7 @@
                 "answer": "Pourrions-nous"
             },
             {
-                "page": 89,
+                "page": "89",
                 "exercise_block": "Exercice 11.2",
                 "question_number": "10",
                 "question_text": "Would they accompagner Sonia à la gare?",
@@ -6093,10 +6093,10 @@
         ]
     },
     {
-        "page": 11.3,
+        "page": "11.3",
         "data": [
             {
-                "page": 90,
+                "page": "90",
                 "exercise_block": "EXERCICE 11.3",
                 "question_number": "1",
                 "question_text": "Si je (avoir) moins de travail, je (voyager) plus.",
@@ -6104,7 +6104,7 @@
                 "answer": "Si j’avais moins de travail, je voyagerais plus."
             },
             {
-                "page": 90,
+                "page": "90",
                 "exercise_block": "EXERCICE 11.3",
                 "question_number": "2",
                 "question_text": "S’ils (attendre), ils (obtenir) un meilleur prix pour leur appartement.",
@@ -6112,7 +6112,7 @@
                 "answer": "S’ils attendaient, ils obtiendraient un meilleur prix pour leur appartement."
             },
             {
-                "page": 90,
+                "page": "90",
                 "exercise_block": "EXERCICE 11.3",
                 "question_number": "3",
                 "question_text": "Si nous (planter) plus de fleurs, nous (avoir) un plus beau jardin.",
@@ -6120,7 +6120,7 @@
                 "answer": "Si nous plantons des fleurs, nous aurons un plus beau jardin."
             },
             {
-                "page": 90,
+                "page": "90",
                 "exercise_block": "EXERCICE 11.3",
                 "question_number": "4",
                 "question_text": "Si je (vendre) mon appartement, je (pouvoir) acheter cette maison.",
@@ -6128,7 +6128,7 @@
                 "answer": "Si je vendais mon appartement, je pourrais acheter cette maison."
             },
             {
-                "page": 90,
+                "page": "90",
                 "exercise_block": "EXERCICE 11.3",
                 "question_number": "5",
                 "question_text": "S’il (pouvoir), il (déménager).",
@@ -6136,7 +6136,7 @@
                 "answer": "S’il pouvait, il déménagerait."
             },
             {
-                "page": 90,
+                "page": "90",
                 "exercise_block": "EXERCICE 11.3",
                 "question_number": "6",
                 "question_text": "Si vous les (inviter), nous (être) ravis.",
@@ -6144,7 +6144,7 @@
                 "answer": "Si vous les invitez, nous serons ravis."
             },
             {
-                "page": 90,
+                "page": "90",
                 "exercise_block": "EXERCICE 11.3",
                 "question_number": "7",
                 "question_text": "Si ma voiture (tomber) en panne, je (piquer) une crise.",
@@ -6152,7 +6152,7 @@
                 "answer": "Si ma voiture tombait en panne, je piquerais une crise."
             },
             {
-                "page": 90,
+                "page": "90",
                 "exercise_block": "EXERCICE 11.3",
                 "question_number": "8",
                 "question_text": "Si elle (avoir) plus d’argent, elle (venir) avec nous.",
@@ -6160,7 +6160,7 @@
                 "answer": "Si elle avait plus d’argent, elle viendrait avec nous."
             },
             {
-                "page": 90,
+                "page": "90",
                 "exercise_block": "EXERCICE 11.3",
                 "question_number": "9",
                 "question_text": "Si vous (s’organiser) autrement, votre vie (être) plus facile.",
@@ -6168,7 +6168,7 @@
                 "answer": "Si vous vous organisiez autrement, votre vie serait plus facile."
             },
             {
-                "page": 90,
+                "page": "90",
                 "exercise_block": "EXERCICE 11.3",
                 "question_number": "10",
                 "question_text": "Si tu (dormir) plus, tu (avoir) de meilleures notes à l’école.",
@@ -6178,10 +6178,10 @@
         ]
     },
     {
-        "page": 11.4,
+        "page": "11.4",
         "data": [
             {
-                "page": 91,
+                "page": "91",
                 "exercise_block": "EXERCICE 11.4",
                 "question_number": "1",
                 "question_text": "Elle ___ contente si tu ___ ce soir.",
@@ -6189,7 +6189,7 @@
                 "answer": "Elle serait contente si tu venais ce soir."
             },
             {
-                "page": 91,
+                "page": "91",
                 "exercise_block": "EXERCICE 11.4",
                 "question_number": "2",
                 "question_text": "Nous ___ une promenade dans le parc s'il ___ beau.",
@@ -6197,7 +6197,7 @@
                 "answer": "Nous ferions une promenade dans le parc s’il faisait beau."
             },
             {
-                "page": 91,
+                "page": "91",
                 "exercise_block": "EXERCICE 11.4",
                 "question_number": "3",
                 "question_text": "Ils ___ leur retraite s'ils ___.",
@@ -6205,7 +6205,7 @@
                 "answer": "Ils prendraient leur retraite s’ils pouvaient."
             },
             {
-                "page": 91,
+                "page": "91",
                 "exercise_block": "EXERCICE 11.4",
                 "question_number": "4",
                 "question_text": "Il ___ Sophie à l'opéra s'il (ne pas être) occupé.",
@@ -6213,7 +6213,7 @@
                 "answer": "Il accompagnerait Sophie à l’opéra s’il n’était pas occupé."
             },
             {
-                "page": 91,
+                "page": "91",
                 "exercise_block": "EXERCICE 11.4",
                 "question_number": "5",
                 "question_text": "Il y ___ moins de problèmes si vous ___ mes conseils.",
@@ -6221,7 +6221,7 @@
                 "answer": "Il y aurait moins de problèmes si vous suiviez mes conseils."
             },
             {
-                "page": 91,
+                "page": "91",
                 "exercise_block": "EXERCICE 11.4",
                 "question_number": "6",
                 "question_text": "Elles ___ au musée s'il ___ ouvert avant onze heures.",
@@ -6229,7 +6229,7 @@
                 "answer": "Elles iraient au musée s’il était ouvert avant onze heures."
             },
             {
-                "page": 91,
+                "page": "91",
                 "exercise_block": "EXERCICE 11.4",
                 "question_number": "7",
                 "question_text": "Vous ___ plus tôt si vous ___ plus efficacement.",
@@ -6237,7 +6237,7 @@
                 "answer": "Vous finiriez plus tôt si vous travailliez plus efficacement."
             },
             {
-                "page": 91,
+                "page": "91",
                 "exercise_block": "EXERCICE 11.4",
                 "question_number": "8",
                 "question_text": "Nous vous ___ si nous vous nous ___ la vérité.",
@@ -6245,7 +6245,7 @@
                 "answer": "Nous vous croirions si vous nous disiez la vérité."
             },
             {
-                "page": 91,
+                "page": "91",
                 "exercise_block": "EXERCICE 11.4",
                 "question_number": "9",
                 "question_text": "Elle ___ cette voiture si elle ___ moins chère.",
@@ -6253,7 +6253,7 @@
                 "answer": "Elle achèterait cette voiture si elle était moins chère."
             },
             {
-                "page": 91,
+                "page": "91",
                 "exercise_block": "EXERCICE 11.4",
                 "question_number": "10",
                 "question_text": "Tu lui ___ ce poste si tu ___ confiance en lui.",
@@ -6263,7 +6263,7 @@
         ]
     },
     {
-        "page": 11.5,
+        "page": "11.5",
         "data": [
     {
         "exercise_block": "Exercice 11.5",
@@ -6349,7 +6349,7 @@
         ]
     },
     {
-        "page": 11.6,
+        "page": "11.6",
         "data": [
             {
                 "exercise_block": "Exercice 11.6",
@@ -6362,10 +6362,10 @@
         ]
     },
     {
-        "page": 11.7,
+        "page": "11.7",
         "data": [
             {
-                "page": 94,
+                "page": "94",
                 "exercise_block": "11.7",
                 "question_number": "1",
                 "question_text": "Nous (dîner) avec vous si nous (pouvoir).",
@@ -6373,7 +6373,7 @@
                 "answer": "Nous aurions dîné avec vous si nous avions pu."
             },
             {
-                "page": 94,
+                "page": "94",
                 "exercise_block": "11.7",
                 "question_number": "2",
                 "question_text": "Elle (visiter) ce musée si elle (avoir) plus de temps.",
@@ -6381,7 +6381,7 @@
                 "answer": "Elle aurait visité ce musée si elle avait pu de temps."
             },
             {
-                "page": 94,
+                "page": "94",
                 "exercise_block": "11.7",
                 "question_number": "3",
                 "question_text": "Elle (voir) ce film s'il (être) sous-titré.",
@@ -6389,7 +6389,7 @@
                 "answer": "Elle aurait vu ce film s’il avait été sous-titré."
             },
             {
-                "page": 94,
+                "page": "94",
                 "exercise_block": "11.7",
                 "question_number": "4",
                 "question_text": "Ils (inviter) Charles s'il (ne pas travailler) ce soir-là.",
@@ -6397,7 +6397,7 @@
                 "answer": "Ils auraient invité Charles s’il n’avait pas travaillé ce soir-là."
             },
             {
-                "page": 94,
+                "page": "94",
                 "exercise_block": "11.7",
                 "question_number": "5",
                 "question_text": "Il (faire) un documentaire sur ce sujet s'il (trouver) le financement.",
@@ -6405,7 +6405,7 @@
                 "answer": "Il aurait fait un documentaire sur ce sujet s’il avait trouvé le financement."
             },
             {
-                "page": 94,
+                "page": "94",
                 "exercise_block": "11.7",
                 "question_number": "6",
                 "question_text": "Ils (vendre) leur maison si leurs enfants (déménager).",
@@ -6413,7 +6413,7 @@
                 "answer": "Ils auraient vendu leur maison si leurs enfants avaient déménagé."
             },
             {
-                "page": 94,
+                "page": "94",
                 "exercise_block": "11.7",
                 "question_number": "7",
                 "question_text": "Vous (arriver) à temps si votre voiture (ne pas tomber) en panne.",
@@ -6421,7 +6421,7 @@
                 "answer": "Vous seriez arrivé à temps si votre voiture n’était pas tombée en panne."
             },
             {
-                "page": 94,
+                "page": "94",
                 "exercise_block": "11.7",
                 "question_number": "8",
                 "question_text": "Le directeur (démissionner) si les ouvriers (ne pas faire) pression.",
@@ -6429,7 +6429,7 @@
                 "answer": "Le directeur aurait démissionné si les ouvriers n’avaient pas fait pression."
             },
             {
-                "page": 94,
+                "page": "94",
                 "exercise_block": "11.7",
                 "question_number": "9",
                 "question_text": "Cette pièce (avoir) du succès s'il y (avoir) plus de temps pour les répétitions.",
@@ -6437,7 +6437,7 @@
                 "answer": "Cette pièce aurait eu du succès s’il y avait eu plus de temps pour les répétitions."
             },
             {
-                "page": 94,
+                "page": "94",
                 "exercise_block": "11.7",
                 "question_number": "10",
                 "question_text": "Nous (venir) si nous (recevoir) votre invitation plus tôt.",
@@ -6447,7 +6447,7 @@
         ]
     },
     {
-        "page": 11.8,
+        "page": "11.8",
         "data": [
             
     {
@@ -6534,7 +6534,7 @@
         ]
     },
     {
-        "page": 11.9,
+        "page": "11.9",
         "data": [
     {
         "exercise_block": "Exercice 11.9",
@@ -6619,7 +6619,7 @@
 ]
     },
     {
-        "page": 11.10,
+        "page": "11.10",
         "data": [
             {
                 "exercise_block": "Exercice 11.10",
@@ -6632,7 +6632,7 @@
         ]
     },
     {
-        "page": 12.1,
+        "page": "12.1",
         "data": [
             {
     "exercise_block": "Exercice 12.1",
@@ -6707,7 +6707,7 @@
         ]
     },
     {
-        "page": 12.2,
+        "page": "12.2",
         "data": [
             {
     "exercise_block": "Exercice 12.2",
@@ -6782,7 +6782,7 @@
         ]
     },
     {
-        "page": 12.3,
+        "page": "12.3",
         "data": [
             {
     "exercise_block": "Exercice 12.3",
@@ -6857,10 +6857,10 @@
         ]
     },
     {
-        "page": 12.4,
+        "page": "12.4",
         "data": [
             {
-                "page": 102,
+                "page": "102",
                 "exercise_block": "EXERCICE 12-4",
                 "question_number": "1",
                 "question_text": "___ you read this document?",
@@ -6868,7 +6868,7 @@
                 "answer": "Pourrais-tu lire ce document?"
             },
             {
-                "page": 102,
+                "page": "102",
                 "exercise_block": "EXERCICE 12-4",
                 "question_number": "2",
                 "question_text": "We ___ buy tickets for the concert.",
@@ -6876,7 +6876,7 @@
                 "answer": "Nous devrions acheter des billets pour le concert."
             },
             {
-                "page": 102,
+                "page": "102",
                 "exercise_block": "EXERCICE 12-4",
                 "question_number": "3",
                 "question_text": "Valérie ___ help you!",
@@ -6884,7 +6884,7 @@
                 "answer": "Valérie pourrait t’aider!"
             },
             {
-                "page": 102,
+                "page": "102",
                 "exercise_block": "EXERCICE 12-4",
                 "question_number": "4",
                 "question_text": "At that time, she ___ not go out very often.",
@@ -6892,7 +6892,7 @@
                 "answer": "À cette époque-là, elle ne pouvait pas sortir souvent."
             },
             {
-                "page": 102,
+                "page": "102",
                 "exercise_block": "EXERCICE 12-4",
                 "question_number": "5",
                 "question_text": "___ you send me a copy of that letter?",
@@ -6900,7 +6900,7 @@
                 "answer": "Pourrais-tu m’envoyer un document de cette lettre?"
             },
             {
-                "page": 102,
+                "page": "102",
                 "exercise_block": "EXERCICE 12-4",
                 "question_number": "6",
                 "question_text": "I asked her to help me; she ___ not do it.",
@@ -6908,7 +6908,7 @@
                 "answer": "Je lui ai demandé de m’aider; elle n’a pas voulu."
             },
             {
-                "page": 102,
+                "page": "102",
                 "exercise_block": "EXERCICE 12-4",
                 "question_number": "7",
                 "question_text": "Pascal ___ play the violin if he had more time.",
@@ -6916,7 +6916,7 @@
                 "answer": "Pascal jouerait au violon s’il avait plus de temps."
             },
             {
-                "page": 102,
+                "page": "102",
                 "exercise_block": "EXERCICE 12-4",
                 "question_number": "8",
                 "question_text": "Marie ___ not tell him the truth.",
@@ -6924,7 +6924,7 @@
                 "answer": "Marie n’a pas pu lui dire la vérité."
             },
             {
-                "page": 102,
+                "page": "102",
                 "exercise_block": "EXERCICE 12-4",
                 "question_number": "9",
                 "question_text": "When we were kids, we ___ play for hours on the beach.",
@@ -6932,7 +6932,7 @@
                 "answer": "Quand nous étions enfants, nous jouions sur la plage pendant des heures."
             },
             {
-                "page": 102,
+                "page": "102",
                 "exercise_block": "EXERCICE 12-4",
                 "question_number": "10",
                 "question_text": "Don't you think you ___ change your haircut?",
@@ -6942,7 +6942,7 @@
         ]
     },
     {
-        "page": 12.5,
+        "page": "12.5",
         "data": [
             
   {
@@ -7019,7 +7019,7 @@
         ]
     },
     {
-        "page": 12.6,
+        "page": "12.6",
         "data": [
             {
                 "exercise_block": "Exercice 12.6",
@@ -7032,10 +7032,10 @@
         ]
     },
     {
-        "page": 13.1,
+        "page": "13.1",
         "data": [
             {
-                "page": 107,
+                "page": "107",
                 "exercise_block": "Exercice 13:1",
                 "question_number": 1,
                 "question_text": "Elle préfère que tout le monde (être) ___ là avant de commencer.",
@@ -7043,7 +7043,7 @@
                 "answer": "soit"
             },
             {
-                "page": 107,
+                "page": "107",
                 "exercise_block": "Exercice 13:1",
                 "question_number": 2,
                 "question_text": "Je doute que vous (comprendre) ___ l'importance de cet événement.",
@@ -7051,7 +7051,7 @@
                 "answer": "comprenne"
             },
             {
-                "page": 107,
+                "page": "107",
                 "exercise_block": "Exercice 13:1",
                 "question_number": 3,
                 "question_text": "Sa mère aimerait mieux qu’elle (ne pas sortir) ___ ce soir.",
@@ -7059,7 +7059,7 @@
                 "answer": "ne sorte pas"
             },
             {
-                "page": 107,
+                "page": "107",
                 "exercise_block": "Exercice 13:1",
                 "question_number": 4,
                 "question_text": "A-t-il fini le projet? Non. Mais je tiens à ce qu’il le (finir) ___ aujourd’hui.",
@@ -7067,7 +7067,7 @@
                 "answer": "finisse"
             },
             {
-                "page": 107,
+                "page": "107",
                 "exercise_block": "Exercice 13:1",
                 "question_number": 5,
                 "question_text": "Je doute qu’ils (gérer) ___ cette affaire correctement.",
@@ -7075,7 +7075,7 @@
                 "answer": "gère"
             },
             {
-                "page": 107,
+                "page": "107",
                 "exercise_block": "Exercice 13:1",
                 "question_number": 6,
                 "question_text": "J’ai peur que ces logiciels (ne pas être) ___ compatibles.",
@@ -7083,7 +7083,7 @@
                 "answer": "ne soient pas"
             },
             {
-                "page": 107,
+                "page": "107",
                 "exercise_block": "Exercice 13:1",
                 "question_number": 7,
                 "question_text": "Ils souhaitent que cette aventure (avoir) ___ une fin heureuse.",
@@ -7091,7 +7091,7 @@
                 "answer": "ait"
             },
             {
-                "page": 107,
+                "page": "107",
                 "exercise_block": "Exercice 13:1",
                 "question_number": 8,
                 "question_text": "Il craint que ce projet (être) ___ un échec.",
@@ -7099,7 +7099,7 @@
                 "answer": "soit"
             },
             {
-                "page": 107,
+                "page": "107",
                 "exercise_block": "Exercice 13:1",
                 "question_number": 9,
                 "question_text": "Elle est contente qu’il (pouvoir) ___ acheter la maison de ses rêves.",
@@ -7107,7 +7107,7 @@
                 "answer": "puisse"
             },
             {
-                "page": 107,
+                "page": "107",
                 "exercise_block": "Exercice 13:1",
                 "question_number": 10,
                 "question_text": "Le juge ne croit pas qu’il (dire) ___ la vérité.",
@@ -7117,10 +7117,10 @@
         ]
     },
     {
-        "page": 13.2,
+        "page": "13.2",
         "data": [
             {
-                "page": 108,
+                "page": "108",
                 "exercise_block": "Exercice 13:2",
                 "question_number": 1,
                 "question_text": "Il faut que vous (aller) ___ voir ce film.",
@@ -7128,7 +7128,7 @@
                 "answer": "alliez"
             },
             {
-                "page": 108,
+                "page": "108",
                 "exercise_block": "Exercice 13:2",
                 "question_number": 2,
                 "question_text": "Il est essentiel que vous (arriver) ___ avant la fin de la semaine.",
@@ -7136,7 +7136,7 @@
                 "answer": "arriviez"
             },
             {
-                "page": 108,
+                "page": "108",
                 "exercise_block": "Exercice 13:2",
                 "question_number": 3,
                 "question_text": "Il est impensable que vous (accepter) ___ ces conditions.",
@@ -7144,7 +7144,7 @@
                 "answer": "acceptions"
             },
             {
-                "page": 108,
+                "page": "108",
                 "exercise_block": "Exercice 13:2",
                 "question_number": 4,
                 "question_text": "Il est possible que nous (voyager) ___ cet été.",
@@ -7152,7 +7152,7 @@
                 "answer": "voyagions"
             },
             {
-                "page": 108,
+                "page": "108",
                 "exercise_block": "Exercice 13:2",
                 "question_number": 5,
                 "question_text": "Il est important qu’il (être) ___ à l’heure.",
@@ -7160,7 +7160,7 @@
                 "answer": "soit"
             },
             {
-                "page": 108,
+                "page": "108",
                 "exercise_block": "Exercice 13:2",
                 "question_number": 6,
                 "question_text": "Il vaut mieux que nous (ne rien dire) ___ .",
@@ -7168,7 +7168,7 @@
                 "answer": "ne disions rien"
             },
             {
-                "page": 108,
+                "page": "108",
                 "exercise_block": "Exercice 13:2",
                 "question_number": 7,
                 "question_text": "Il est regrettable que ses enfants (habiter) ___ si loin.",
@@ -7176,7 +7176,7 @@
                 "answer": "habitent"
             },
             {
-                "page": 108,
+                "page": "108",
                 "exercise_block": "Exercice 13:2",
                 "question_number": 8,
                 "question_text": "Il est dommage que vous (vendre) ___ votre maison de campagne.",
@@ -7184,7 +7184,7 @@
                 "answer": "vendiez"
             },
             {
-                "page": 108,
+                "page": "108",
                 "exercise_block": "Exercice 13:2",
                 "question_number": 9,
                 "question_text": "Il est indispensable qu’elle (suivre) ___ un cours d’informatique.",
@@ -7192,7 +7192,7 @@
                 "answer": "suive"
             },
             {
-                "page": 108,
+                "page": "108",
                 "exercise_block": "Exercice 13:2",
                 "question_number": 10,
                 "question_text": "Il est rare que nous (emporter) ___ du travail à la maison.",
@@ -7202,10 +7202,10 @@
         ]
     },
     {
-        "page": 13.3,
+        "page": "13.3",
         "data": [
             {
-                "page": 13,
+                "page": "13",
                 "exercise_block": "Exercice 13-3",
                 "question_number": 1,
                 "question_text": "Il ne commencera pas son discours avant que vous ___ le signal.",
@@ -7213,7 +7213,7 @@
                 "answer": "donniez"
             },
             {
-                "page": 13,
+                "page": "13",
                 "exercise_block": "Exercice 13-3",
                 "question_number": 2,
                 "question_text": "Elle est généreuse quoiqu’elle (ne pas être) ___ riche.",
@@ -7221,7 +7221,7 @@
                 "answer": "ne soit pas"
             },
             {
-                "page": 13,
+                "page": "13",
                 "exercise_block": "Exercice 13-3",
                 "question_number": 3,
                 "question_text": "Je t’aiderai à condition que tu me ___ une faveur.",
@@ -7229,7 +7229,7 @@
                 "answer": "fasses"
             },
             {
-                "page": 13,
+                "page": "13",
                 "exercise_block": "Exercice 13-3",
                 "question_number": 4,
                 "question_text": "Nous les inviterons pour qu’ils (ne pas se sentir) ___ délaissés.",
@@ -7237,7 +7237,7 @@
                 "answer": "ne se sentent pas"
             },
             {
-                "page": 13,
+                "page": "13",
                 "exercise_block": "Exercice 13-3",
                 "question_number": 5,
                 "question_text": "Elle déposera un brevet de peur qu’on lui ___ son idée.",
@@ -7245,7 +7245,7 @@
                 "answer": "vole"
             },
             {
-                "page": 13,
+                "page": "13",
                 "exercise_block": "Exercice 13-3",
                 "question_number": 6,
                 "question_text": "J’achèterai leur appartement pour qu’ils ___ s’installer à la campagne.",
@@ -7253,7 +7253,7 @@
                 "answer": "puissent"
             },
             {
-                "page": 13,
+                "page": "13",
                 "exercise_block": "Exercice 13-3",
                 "question_number": 7,
                 "question_text": "Il téléchargera le dossier bien qu’il (ne pas répondre) ___ exactement à ses besoins.",
@@ -7261,7 +7261,7 @@
                 "answer": "ne réponde pas"
             },
             {
-                "page": 13,
+                "page": "13",
                 "exercise_block": "Exercice 13-3",
                 "question_number": 8,
                 "question_text": "Elle a un blog pour que ses lecteurs ___ leurs réactions.",
@@ -7269,7 +7269,7 @@
                 "answer": "donnent"
             },
             {
-                "page": 13,
+                "page": "13",
                 "exercise_block": "Exercice 13-3",
                 "question_number": 9,
                 "question_text": "Nous donnerons nos opinions pourvu qu’elles ___ anonymes.",
@@ -7277,7 +7277,7 @@
                 "answer": "restent"
             },
             {
-                "page": 13,
+                "page": "13",
                 "exercise_block": "Exercice 13-3",
                 "question_number": 10,
                 "question_text": "Elle achètera un appareil numérique pour que sa fille ___ lui envoyer des photos au cours de son voyage.",
@@ -7287,10 +7287,10 @@
         ]
     },
     {
-        "page": 13.4,
+        "page": "13.4",
         "data": [
             {
-                "page": 110,
+                "page": "110",
                 "exercise_block": "Exercice 13-4",
                 "question_number": 1,
                 "question_text": "Il dit que leur page d’accueil (être) ___ attrayante.",
@@ -7298,7 +7298,7 @@
                 "answer": "est"
             },
             {
-                "page": 110,
+                "page": "110",
                 "exercise_block": "Exercice 13-4",
                 "question_number": 2,
                 "question_text": "Elle doute qu’il (faire) ___ chaud demain.",
@@ -7306,7 +7306,7 @@
                 "answer": "fasse"
             },
             {
-                "page": 110,
+                "page": "110",
                 "exercise_block": "Exercice 13-4",
                 "question_number": 3,
                 "question_text": "Ils sont heureux que leurs enfants (pouvoir) ___ aller en Europe cet été.",
@@ -7314,7 +7314,7 @@
                 "answer": "puissent"
             },
             {
-                "page": 110,
+                "page": "110",
                 "exercise_block": "Exercice 13-4",
                 "question_number": 4,
                 "question_text": "Je pense que Maud (avoir) ___ raison.",
@@ -7322,7 +7322,7 @@
                 "answer": "a"
             },
             {
-                "page": 110,
+                "page": "110",
                 "exercise_block": "Exercice 13-4",
                 "question_number": 5,
                 "question_text": "Je veux que tu (faire) ___ la présentation jeudi.",
@@ -7330,7 +7330,7 @@
                 "answer": "fasses"
             },
             {
-                "page": 110,
+                "page": "110",
                 "exercise_block": "Exercice 13-4",
                 "question_number": 6,
                 "question_text": "Tu ne crois pas qu’ils (avoir) ___ assez d’expérience.",
@@ -7338,7 +7338,7 @@
                 "answer": "aient"
             },
             {
-                "page": 110,
+                "page": "110",
                 "exercise_block": "Exercice 13-4",
                 "question_number": 7,
                 "question_text": "Vous savez qu’ils (être) ___ toujours en retard.",
@@ -7346,7 +7346,7 @@
                 "answer": "sont"
             },
             {
-                "page": 110,
+                "page": "110",
                 "exercise_block": "Exercice 13-4",
                 "question_number": 8,
                 "question_text": "Nous souhaitons que vous (obtenir) ___ ce poste.",
@@ -7354,7 +7354,7 @@
                 "answer": "obteniez"
             },
             {
-                "page": 110,
+                "page": "110",
                 "exercise_block": "Exercice 13-4",
                 "question_number": 9,
                 "question_text": "Ils exigent que vous (parler) ___ une langue étrangère.",
@@ -7362,7 +7362,7 @@
                 "answer": "parliez"
             },
             {
-                "page": 110,
+                "page": "110",
                 "exercise_block": "Exercice 13-4",
                 "question_number": 10,
                 "question_text": "Vous savez que cet ordinateur (être) ___ obsolète.",
@@ -7372,7 +7372,7 @@
         ]
     },
     {
-        "page": 13.5,
+        "page": "13.5",
         "data": [
   {
     "exercise_block": "Exercice 13.5",
@@ -7447,7 +7447,7 @@
         ]
     },
     {
-        "page": 13.6,
+        "page": "13.6",
         "data": [
     {"exercise_block": "Exercice 13.6",
     "question_number": "1",
@@ -7521,7 +7521,7 @@
 ]
     },
     {
-        "page": 13.7,
+        "page": "13.7",
         "data": [
   {
     "exercise_block": "Exercice 13.7",
@@ -7596,7 +7596,7 @@
 ]
     },
     {
-        "page": 13.8,
+        "page": "13.8",
         "data": [
   {
     "exercise_block": "Exercice 13.8",
@@ -7671,7 +7671,7 @@
 ]
     },
     {
-        "page": 13.9,
+        "page": "13.9",
         "data": [
             {
                 "exercise_block": "Exercice 13.9",
@@ -7684,7 +7684,7 @@
         ]
     },
     {
-        "page": 14.1,
+        "page": "14.1",
         "data": [
   {
     "exercise_block": "Exercice 14.1",
@@ -7759,7 +7759,7 @@
 ]
     },
     {
-        "page": 14.2,
+        "page": "14.2",
         "data": [
             {
     "exercise_block": "Exercice 14.2",
@@ -7834,7 +7834,7 @@
         ]
     },
     {
-        "page": 14.3,
+        "page": "14.3",
         "data": [
             {
     "exercise_block": "Exercice 14.3",
@@ -7909,7 +7909,7 @@
         ]
     },
     {
-        "page": 14.4,
+        "page": "14.4",
         "data": [
   {
     "exercise_block": "Exercice 14.4",
@@ -7984,7 +7984,7 @@
 ]
     },
     {
-        "page": 14.5,
+        "page": "14.5",
         "data": [            
   {
     "exercise_block": "Exercice 14.5",
@@ -8059,10 +8059,10 @@
 ]
     },
     {
-        "page": 14.6,
+        "page": "14.6",
         "data": [
             {
-                "page": 124,
+                "page": "124",
                 "exercise_block": "Exercice 14-6",
                 "question_number": 1,
                 "question_text": "J’ai appris _____ faire une mousse au chocolat.",
@@ -8070,7 +8070,7 @@
                 "answer": "à."
             },
             {
-                "page": 124,
+                "page": "124",
                 "exercise_block": "Exercice 14-6",
                 "question_number": 2,
                 "question_text": "Ils ont choisi _____ s’installer dans une région gastronomique.",
@@ -8078,7 +8078,7 @@
                 "answer": "de."
             },
             {
-                "page": 124,
+                "page": "124",
                 "exercise_block": "Exercice 14-6",
                 "question_number": 3,
                 "question_text": "Il s’habite _____ vivre dans une grande ville.",
@@ -8086,7 +8086,7 @@
                 "answer": "à."
             },
             {
-                "page": 124,
+                "page": "124",
                 "exercise_block": "Exercice 14-6",
                 "question_number": 4,
                 "question_text": "Elle nous reproche _____ ne jamais lui rendre visite.",
@@ -8094,7 +8094,7 @@
                 "answer": "de."
             },
             {
-                "page": 124,
+                "page": "124",
                 "exercise_block": "Exercice 14-6",
                 "question_number": 5,
                 "question_text": "Tu as renoncé _____ faire ce voyage.",
@@ -8102,7 +8102,7 @@
                 "answer": "à."
             },
             {
-                "page": 124,
+                "page": "124",
                 "exercise_block": "Exercice 14-6",
                 "question_number": 6,
                 "question_text": "Elle se souvient _____ la cuisine de sa grand-mère.",
@@ -8110,7 +8110,7 @@
                 "answer": "de."
             },
             {
-                "page": 124,
+                "page": "124",
                 "exercise_block": "Exercice 14-6",
                 "question_number": 7,
                 "question_text": "Il tient _____ sa voiture.",
@@ -8118,7 +8118,7 @@
                 "answer": "à."
             },
             {
-                "page": 124,
+                "page": "124",
                 "exercise_block": "Exercice 14-6",
                 "question_number": 8,
                 "question_text": "Tu lui as conseillé _____ suivre des cours de cuisine.",
@@ -8126,7 +8126,7 @@
                 "answer": "de."
             },
             {
-                "page": 124,
+                "page": "124",
                 "exercise_block": "Exercice 14-6",
                 "question_number": 9,
                 "question_text": "Ils se plaignent _____ tout.",
@@ -8134,7 +8134,7 @@
                 "answer": "de."
             },
             {
-                "page": 124,
+                "page": "124",
                 "exercise_block": "Exercice 14-6",
                 "question_number": 10,
                 "question_text": "Son grand-père a promis _____ faire des gâteaux.",
@@ -8144,7 +8144,7 @@
 ]
     },
     {
-        "page": 14.7,
+        "page": "14.7",
         "data": [
             {
     "exercise_block": "Exercice 14.7",
@@ -8219,7 +8219,7 @@
 ]
     },
     {
-        "page": 15.1,
+        "page": "15.1",
            "data": [
   {
     "exercise_block": "Exercice 15.1",
@@ -8294,10 +8294,10 @@
         ]
     },
     {
-        "page": 15.2,
+        "page": "15.2",
         "data": [
             {
-                "page": 129,
+                "page": "129",
                 "exercise_block": "Exercice 15-2",
                 "question_number": 1,
                 "question_text": "C’est en (faire) ___ de l’exercice que vous serez en forme.",
@@ -8305,7 +8305,7 @@
                 "answer": "faisant."
             },
             {
-                "page": 129,
+                "page": "129",
                 "exercise_block": "Exercice 15-2",
                 "question_number": 2,
                 "question_text": "Elle chante en (prendre) ___ une douche.",
@@ -8313,7 +8313,7 @@
                 "answer": "prenant."
             },
             {
-                "page": 129,
+                "page": "129",
                 "exercise_block": "Exercice 15-2",
                 "question_number": 3,
                 "question_text": "Il s’est tordu la cheville en (jouer) ___ au volley.",
@@ -8321,7 +8321,7 @@
                 "answer": "jouant."
             },
             {
-                "page": 129,
+                "page": "129",
                 "exercise_block": "Exercice 15-2",
                 "question_number": 4,
                 "question_text": "Ils ont bronzé en (faire) ___ du ski de fond.",
@@ -8329,7 +8329,7 @@
                 "answer": "faisant."
             },
             {
-                "page": 129,
+                "page": "129",
                 "exercise_block": "Exercice 15-2",
                 "question_number": 5,
                 "question_text": "Il l’a invitée à dîner en (savoir) ___ que cela lui ferait plaisir.",
@@ -8337,7 +8337,7 @@
                 "answer": "sachant."
             },
             {
-                "page": 129,
+                "page": "129",
                 "exercise_block": "Exercice 15-2",
                 "question_number": 6,
                 "question_text": "En (aller) ___ en Inde, il a fait escale en Allemagne.",
@@ -8345,7 +8345,7 @@
                 "answer": "allant."
             },
             {
-                "page": 129,
+                "page": "129",
                 "exercise_block": "Exercice 15-2",
                 "question_number": 7,
                 "question_text": "Tout en (se plaindre) ___, elle avait l’air satisfaite.",
@@ -8353,7 +8353,7 @@
                 "answer": "se plaignant."
             },
             {
-                "page": 129,
+                "page": "129",
                 "exercise_block": "Exercice 15-2",
                 "question_number": 8,
                 "question_text": "Ils ont découvert la basilique de Lisieux en (visiter) ___ la Normandie.",
@@ -8361,7 +8361,7 @@
                 "answer": "visitant."
             },
             {
-                "page": 129,
+                "page": "129",
                 "exercise_block": "Exercice 15-2",
                 "question_number": 9,
                 "question_text": "J’ai rencontré un ami en (arriver) ___ à Paris.",
@@ -8369,7 +8369,7 @@
                 "answer": "arrivant"
             },
             {
-                "page": 129,
+                "page": "129",
                 "exercise_block": "Exercice 15-2",
                 "question_number": 10,
                 "question_text": "Il a tout perdu en (parier) ___ tous les jours au casino.",
@@ -8379,10 +8379,10 @@
         ]
     },
     {
-        "page": 15.3,
+        "page": "15.3",
         "data": [
             {
-                "page": 130,
+                "page": "130",
                 "exercise_block": "Exercice 15-3",
                 "question_number": 1,
                 "question_text": "He lost his keys while walking in the park.",
@@ -8390,7 +8390,7 @@
                 "answer": "Il a perdu ses clés en marchant dans le parc."
             },
             {
-                "page": 130,
+                "page": "130",
                 "exercise_block": "Exercice 15-3",
                 "question_number": 2,
                 "question_text": "Not having seen the film, I can’t make any comment.",
@@ -8398,7 +8398,7 @@
                 "answer": "N’ayant pas vu le film, je ne peux pas faire de commentaires."
             },
             {
-                "page": 130,
+                "page": "130",
                 "exercise_block": "Exercice 15-3",
                 "question_number": 3,
                 "question_text": "They saw Paul while crossing the street.",
@@ -8406,7 +8406,7 @@
                 "answer": "Ils (Elles) ont vu Paul en traversant la rue."
             },
             {
-                "page": 130,
+                "page": "130",
                 "exercise_block": "Exercice 15-3",
                 "question_number": 4,
                 "question_text": "Knowing the truth, she could not stay silent.",
@@ -8414,7 +8414,7 @@
                 "answer": "Sachant la vérité, elle ne pouvait pas rester silencieuse."
             },
             {
-                "page": 130,
+                "page": "130",
                 "exercise_block": "Exercice 15-3",
                 "question_number": 5,
                 "question_text": "He made money selling paintings.",
@@ -8422,7 +8422,7 @@
                 "answer": "Il a gagné de l’argent en vendant des tableaux."
             },
             {
-                "page": 130,
+                "page": "130",
                 "exercise_block": "Exercice 15-3",
                 "question_number": 6,
                 "question_text": "It was a fascinating game.",
@@ -8430,7 +8430,7 @@
                 "answer": "C’était un match fascinant."
             },
             {
-                "page": 130,
+                "page": "130",
                 "exercise_block": "Exercice 15-3",
                 "question_number": 7,
                 "question_text": "Having finished the book, he left.",
@@ -8438,7 +8438,7 @@
                 "answer": "Ayant fini le livre, il est parti."
             },
             {
-                "page": 130,
+                "page": "130",
                 "exercise_block": "Exercice 15-3",
                 "question_number": 8,
                 "question_text": "They listen to music while working.",
@@ -8446,7 +8446,7 @@
                 "answer": "Ils (Elles) écoutent de la musique en travaillant."
             },
             {
-                "page": 130,
+                "page": "130",
                 "exercise_block": "Exercice 15-3",
                 "question_number": 9,
                 "question_text": "I knit while watching television.",
@@ -8454,7 +8454,7 @@
                 "answer": "Je tricote en regardant la télévision."
             },
             {
-                "page": 130,
+                "page": "130",
                 "exercise_block": "Exercice 15-3",
                 "question_number": 10,
                 "question_text": "He fell while jumping over the wall.",
@@ -8464,7 +8464,7 @@
         ]
     },
     {
-        "page": 16.1,
+        "page": "16.1",
         "data": [
   {
     "exercise_block": "Exercice 16.1",
@@ -8539,7 +8539,7 @@
 ]
     },
     {
-        "page": 16.2,
+        "page": "16.2",
         "data": [
             {
     "exercise_block": "Exercice 16.2",
@@ -8614,7 +8614,7 @@
          ]
     },
     {
-        "page": 16.3,
+        "page": "16.3",
         "data": [   {
     "exercise_block": "Exercice 16.3",
     "question_number": "1",
@@ -8688,7 +8688,7 @@
         ]
     },
 {
-    "page": 17.1,
+    "page": "17.1",
     "data": [
       {
         "exercise_block": "Exercice 17.1",
@@ -8763,7 +8763,7 @@
     ]
   },
   {
-    "page": 17.2,
+    "page": "17.2",
     "data": [
       {
         "exercise_block": "Exercice 17.2",
@@ -8838,7 +8838,7 @@
     ]
   },
   {
-    "page": 17.3,
+    "page": "17.3",
     "data": [
       {
         "exercise_block": "Exercice 17.3",
@@ -8913,7 +8913,7 @@
     ]
   },
   {
-    "page": 18.1,
+    "page": "18.1",
     "data": [
       {
         "exercise_block": "Exercice 18.1",
@@ -8988,7 +8988,7 @@
     ]
   },
   {
-    "page": 18.2,
+    "page": "18.2",
     "data": [
       {
         "exercise_block": "Exercice 18.2",
@@ -9063,7 +9063,7 @@
     ]
   },
   {
-    "page": 18.3,
+    "page": "18.3",
     "data": [
       {
         "exercise_block": "Exercice 18.3",
@@ -9138,7 +9138,7 @@
     ]
   },
   {
-    "page": 18.4,
+    "page": "18.4",
     "data": [
       {
         "exercise_block": "Exercice 18.4",
@@ -9213,7 +9213,7 @@
     ]
   },
   {
-    "page": 19.1,
+    "page": "19.1",
     "data": [
       {
         "exercise_block": "Exercice 19.1",
@@ -9288,7 +9288,7 @@
     ]
   },
   {
-    "page": 19.2,
+    "page": "19.2",
     "data": [
       {
         "exercise_block": "Exercice 19.2",
@@ -9363,7 +9363,7 @@
     ]
   },
   {
-    "page": 19.3,
+    "page": "19.3",
     "data": [
       {
         "exercise_block": "Exercice 19.3",
@@ -9438,7 +9438,7 @@
     ]
   },
   {
-    "page": 20.1,
+    "page": "20.1",
     "data": [
       {
         "exercise_block": "Exercice 20.1",
@@ -9513,7 +9513,7 @@
     ]
   },
   {
-    "page": 20.2,
+    "page": "20.2",
     "data": [
       {
         "exercise_block": "Exercice 20.2",
@@ -9588,7 +9588,7 @@
     ]
   },
   {
-    "page": 20.3,
+    "page": "20.3",
     "data": [
       {
         "exercise_block": "Exercice 20.3",
@@ -9663,7 +9663,7 @@
     ]
   },
   {
-    "page": 20.4,
+    "page": "20.4",
     "data": [
       {
         "exercise_block": "Exercice 20.4",
@@ -9738,7 +9738,7 @@
     ]
   },
   {
-    "page": 20.5,
+    "page": "20.5",
     "data": [
       {
         "exercise_block": "Exercice 20.5",
@@ -9813,7 +9813,7 @@
     ]
   },
   {
-    "page": 20.6,
+    "page": "20.6",
     "data": [
       {
         "exercise_block": "Exercice 20.6",
@@ -9888,7 +9888,7 @@
     ]
   },
   {
-    "page": 20.7,
+    "page": "20.7",
     "data": [
       {
         "exercise_block": "Exercice 20.7",
@@ -9963,7 +9963,7 @@
     ]
   },
   {
-    "page": 20.8,
+    "page": "20.8",
     "data": [
       {
         "exercise_block": "Exercice 20.8",
@@ -10038,7 +10038,7 @@
     ]
   },
   {
-    "page": 20.9,
+    "page": "20.9",
     "data": [
       {
         "exercise_block": "Exercice 20.9",
@@ -10113,7 +10113,7 @@
     ]
   },
   {
-    "page": 21.1,
+    "page": "21.1",
     "data": [
       {
         "exercise_block": "Exercice 21.1",
@@ -10188,7 +10188,7 @@
     ]
   },
   {
-    "page": 21.2,
+    "page": "21.2",
     "data": [
       {
         "exercise_block": "Exercice 21.2",
@@ -10263,7 +10263,7 @@
     ]
   },
   {
-    "page": 21.3,
+    "page": "21.3",
     "data": [
       {
         "exercise_block": "Exercice 21.3",
@@ -10338,7 +10338,7 @@
     ]
   },
   {
-    "page": 21.4,
+    "page": "21.4",
     "data": [
       {
         "exercise_block": "Exercice 21.4",
@@ -10413,7 +10413,7 @@
     ]
   },
   {
-    "page": 21.5,
+    "page": "21.5",
     "data": [
       {
         "exercise_block": "Exercice 21.5",
@@ -10488,7 +10488,7 @@
     ]
   },
   {
-    "page": 21.6,
+    "page": "21.6",
     "data": [
       {
         "exercise_block": "Exercice 21.6",
@@ -10563,7 +10563,7 @@
     ]
   },
   {
-    "page": 21.7,
+    "page": "21.7",
     "data": [
       {
     
@@ -10576,7 +10576,7 @@
     ]
   },
   {
-    "page": 21.8,
+    "page": "21.8",
     "data": [
       {
         "exercise_block": "Exercice 21.8",
@@ -10651,7 +10651,7 @@
     ]
   },
   {
-    "page": 21.9,
+    "page": "21.9",
     "data": [
       {
         "exercise_block": "Exercice 21.9",
@@ -10726,7 +10726,7 @@
     ]
   },
   {
-    "page": 21.10,
+    "page": "21.10",
     "data": [
       {
         "exercise_block": "Exercice 21.10",
@@ -10801,7 +10801,7 @@
     ]
   },
   {
-    "page": 21.11,
+    "page": "21.11",
     "data": [
       {
         "exercise_block": "Exercice 21.11",
@@ -10876,7 +10876,7 @@
     ]
   },
   {
-    "page": 21.12,
+    "page": "21.12",
     "data": [
       {
         "exercise_block": "Exercice 21.12",
@@ -10915,7 +10915,7 @@
       }
     ]
   },{
-    "page": 22.1,
+    "page": "22.1",
     "data": [
       {
         "exercise_block": "Exercice 22.1",
@@ -10990,7 +10990,7 @@
     ]
   },
   {
-    "page": 22.2,
+    "page": "22.2",
     "data": [
       {
         "exercise_block": "Exercice 22.2",
@@ -11030,7 +11030,7 @@
     ]
   },
   {
-    "page": 22.3,
+    "page": "22.3",
     "data": [
       {
         "exercise_block": "Exercice 22.3",
@@ -11105,7 +11105,7 @@
     ]
   },
   {
-    "page": 22.4,
+    "page": "22.4",
     "data": [
       {
         "exercise_block": "Exercice 22.4",
@@ -11180,7 +11180,7 @@
     ]
   },
   {
-    "page": 22.5,
+    "page": "22.5",
     "data": [
       {
         "exercise_block": "Exercice 22.5",
@@ -11220,7 +11220,7 @@
     ]
   },
   {
-    "page": 22.6,
+    "page": "22.6",
     "data": [
       {
         "exercise_block": "Exercice 22.6",
@@ -11295,7 +11295,7 @@
     ]
   },
   {
-    "page": 22.7,
+    "page": "22.7",
     "data": [
       {
         "exercise_block": "Exercice 22.7",
@@ -11307,7 +11307,7 @@
     ]
   },
   {
-    "page": 23.1,
+    "page": "23.1",
     "data": [
       {
         "exercise_block": "Exercice 23.1",
@@ -11382,7 +11382,7 @@
     ]
   },
   {
-    "page": 23.2,
+    "page": "23.2",
     "data": [
       {
         "exercise_block": "Exercice 23.2",
@@ -11457,7 +11457,7 @@
     ]
   },
   {
-    "page": 23.3,
+    "page": "23.3",
     "data": [
       {
         "exercise_block": "Exercice 23.3",
@@ -11532,7 +11532,7 @@
     ]
   },
   {
-    "page": 23.4,
+    "page": "23.4",
     "data": [
       {
         "exercise_block": "Exercice 23.4",
@@ -11544,7 +11544,7 @@
     ]
   },
   {
-    "page": 23.5,
+    "page": "23.5",
     "data": [
       {
         "exercise_block": "Exercice 23.5",
@@ -11619,7 +11619,7 @@
     ]
   },
   {
-    "page": 23.6,
+    "page": "23.6",
     "data": [
       {
         "exercise_block": "Exercice 23.6",
@@ -11694,7 +11694,7 @@
     ]
   },
   {
-    "page": 23.7,
+    "page": "23.7",
     "data": [
       {
         "exercise_block": "Exercice 23.7",
@@ -11769,7 +11769,7 @@
     ]
   },
   {
-    "page": 23.8,
+    "page": "23.8",
     "data": [
       {
         "exercise_block": "Exercice 23.8",
@@ -11844,7 +11844,7 @@
     ]
   },
   {
-    "page": 23.9,
+    "page": "23.9",
     "data": [
       {
         "exercise_block": "Exercice 23.9",
@@ -11898,7 +11898,7 @@
     ]
   },
   {
-    "page": 24.1,
+    "page": "24.1",
     "data": [
       {
         "exercise_block": "Exercice 24.1",
@@ -11973,7 +11973,7 @@
     ]
   },
   {
-    "page": 24.2,
+    "page": "24.2",
     "data": [
       {
         "exercise_block": "Exercice 24.2",
@@ -12048,7 +12048,7 @@
     ]
   },
   {
-    "page": 24.3,
+    "page": "24.3",
     "data": [
       {
         "exercise_block": "Exercice 24.3",
@@ -12060,7 +12060,7 @@
     ]
   },
   {
-    "page": 24.4,
+    "page": "24.4",
     "data": [
       {
         "exercise_block": "Exercice 24.4",
@@ -12135,7 +12135,7 @@
     ]
   },
   {
-    "page": 24.5,
+    "page": "24.5",
     "data": [
       {
         "exercise_block": "Exercice 24.5",
@@ -12210,7 +12210,7 @@
     ]
   },
   {
-    "page": 24.6,
+    "page": "24.6",
     "data": [
       {
         "exercise_block": "Exercice 24.6",
@@ -12285,7 +12285,7 @@
     ]
   },
   {
-    "page": 24.7,
+    "page": "24.7",
     "data": [
       {
         "exercise_block": "Exercice 24.7",
@@ -12360,7 +12360,7 @@
     ]
   },
   {
-    "page": 24.8,
+    "page": "24.8",
     "data": [
       {
         "exercise_block": "Exercice 24.8",
@@ -12435,7 +12435,7 @@
     ]
   },
   {
-    "page": 24.9,
+    "page": "24.9",
     "data": [
       {
         "exercise_block": "Exercice 24.9",
@@ -12510,7 +12510,7 @@
     ]
   },
   {
-    "page": 25.1,
+    "page": "25.1",
     "data": [
       {
         "exercise_block": "Exercice 25.1",
@@ -12585,7 +12585,7 @@
     ]
   },
   {
-    "page": 25.2,
+    "page": "25.2",
     "data": [
       {
         "exercise_block": "Exercice 25.2",
@@ -12660,7 +12660,7 @@
     ]
   },
   {
-    "page": 25.3,
+    "page": "25.3",
     "data": [
       {
         "exercise_block": "Exercice 25.3",
@@ -12735,7 +12735,7 @@
     ]
   },
   {
-    "page": 25.4,
+    "page": "25.4",
     "data": [
       {
         "exercise_block": "Exercice 25.4",
@@ -12810,7 +12810,7 @@
     ]
   },
   {
-    "page": 25.5,
+    "page": "25.5",
     "data": [
       {
         "exercise_block": "Exercice 25.5",
@@ -12885,7 +12885,7 @@
     ]
   },
   {
-    "page": 25.6,
+    "page": "25.6",
     "data": [
       {
         "exercise_block": "Exercice 25.6",
@@ -12960,7 +12960,7 @@
     ]
   },
   {
-    "page": 25.7,
+    "page": "25.7",
     "data": [
       {
         "exercise_block": "Exercice 25.7",
@@ -13035,7 +13035,7 @@
     ]
   },
   {
-    "page": 25.8,
+    "page": "25.8",
     "data": [
       {
         "exercise_block": "Exercice 25.8",
@@ -13110,7 +13110,7 @@
     ]
   },
   {
-    "page": 26.1,
+    "page": "26.1",
     "data": [
       {
         "exercise_block": "Exercice 26.1",
@@ -13185,7 +13185,7 @@
     ]
   },
   {
-    "page": 26.2,
+    "page": "26.2",
     "data": [
       {
         "exercise_block": "Exercice 26.2",
@@ -13260,7 +13260,7 @@
     ]
   },
   {
-    "page": 26.3,
+    "page": "26.3",
     "data": [
       {
         "exercise_block": "Exercice 26.3",
@@ -13335,7 +13335,7 @@
     ]
   },
   {
-    "page": 26.4,
+    "page": "26.4",
     "data": [
       {
         "exercise_block": "Exercice 26.4",
@@ -13410,7 +13410,7 @@
     ]
   },
   {
-    "page": 26.5,
+    "page": "26.5",
     "data": [
       {
         "exercise_block": "Exercice 26.5",
@@ -13485,7 +13485,7 @@
     ]
   },
   {
-    "page": 26.6,
+    "page": "26.6",
     "data": [
       {
         "exercise_block": "Exercice 26.6",
@@ -13560,7 +13560,7 @@
     ]
   },
   {
-    "page": 26.7,
+    "page": "26.7",
     "data": [
       {
         "exercise_block": "Exercice 26.7",
@@ -13635,7 +13635,7 @@
     ]
   },
   {
-    "page": 26.8,
+    "page": "26.8",
     "data": [
       {
         "exercise_block": "Exercice 26.8",
@@ -13710,7 +13710,7 @@
     ]
   },
   {
-    "page": 27.1,
+    "page": "27.1",
     "data": [
       {
         "exercise_block": "Exercice 27.1",
@@ -13785,7 +13785,7 @@
     ]
   },
   {
-    "page": 27.2,
+    "page": "27.2",
     "data": [
       {
         "exercise_block": "Exercice 27.2",
@@ -13825,7 +13825,7 @@
     ]
   },
   {
-    "page": 27.3,
+    "page": "27.3",
     "data": [
       {
         "exercise_block": "Exercice 27.3",
@@ -13900,7 +13900,7 @@
     ]
   },
   {
-    "page": 27.4,
+    "page": "27.4",
     "data": [
       {
         "exercise_block": "Exercice 27.4",
