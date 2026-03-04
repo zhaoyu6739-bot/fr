@@ -81,24 +81,8 @@
                 "question_text": "Nous ___ le château de Fontainebleau.",
                 "hints": "visiter",
                 "answer": "visitez"
-            },
-            {
-                "page": 3,
-                "exercise_block": "EXERCICE 1.2",
-                "question_number": "1",
-                "question_text": "We refuse the invitation.",
-                "hints": "",
-                "answer": "Nous refusons l’invitation."
-            },
-            {
-                "page": 3,
-                "exercise_block": "EXERCICE 1.2",
-                "question_number": "2",
-                "question_text": "She cancels the trip.",
-                "hints": "",
-                "answer": "Elle annule le voyage."
             }
-            ]
+      ]
     },
     {
         "page": 1.2,
@@ -176,7 +160,7 @@
     ]
   },
     {
-        "page": 19,
+        "page": 1.3,
         "data": [
             {
                 "page": 5,
@@ -261,7 +245,7 @@
         ]
     },
     {
-        "page": 20,
+        "page": 1.4,
         "data": [
             {
                 "page": 6,
@@ -346,7 +330,7 @@
         ]
     },
     {
-        "page": 21,
+        "page": 1.5,
         "data": [
             {
                 "page": 7,
@@ -379,12 +363,7 @@
                 "question_text": "Le sorcier ___ le public.",
                 "hints": "ensorceler",
                 "answer": "ensorcelle"
-            }
-        ]
-    },
-    {
-        "page": 22,
-        "data": [
+            },
             {
                 "page": 8,
                 "exercise_block": "CEXERCICE 1.5",
@@ -432,7 +411,12 @@
                 "question_text": "Nous ___ son anniversaire.",
                 "hints": "célébrer",
                 "answer": "célébrons"
-            },
+            }
+        ]
+    },
+    {
+        "page": 1.6,
+        "data": [
             {
                 "page": 8,
                 "exercise_block": "EXERCICE 1.6",
@@ -455,7 +439,7 @@
                 "question_number": "3",
                 "question_text": "Vous ___ de l'argent à la banque.",
                 "hints": "emprunter",
-                "answer": "emprunte"
+                "answer": "empruntez"
             },
             {
                 "page": 8,
@@ -516,7 +500,7 @@
         ]
     },
     {
-        "page": 23,
+        "page": 1.7,
         "data": [
             {
                 "page": 9,
@@ -530,7 +514,7 @@
         ]
     },
     {
-        "page": 24,
+        "page": 1.8,
         "data": [
             {
                 "page": 10,
@@ -615,7 +599,7 @@
         ]
     },
     {
-        "page": 25,
+        "page": 1.9,
         "data": [
             {
                 "page": 11,
@@ -700,7 +684,7 @@
         ]
     },
     {
-        "page": 26,
+        "page": 1.10,
         "data": [
             {
                 "page": 12,
@@ -785,261 +769,256 @@
         ]
     },
     {
-        "page": 27,
-        "data": []
-    },
+    "page": 2.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 2.1",
+        "question_number": "1",
+        "question_text": "Mettez les verbes entre parenthèses au présent : Nous (cueillir) _____ des fl eurs dans le jardin.",
+        "hints": "💡 提示：cueillir（采摘）属于不规则的 -ir 动词，它的现在时变位词尾与 -er 动词类似。",
+        "answer": "cueillons"
+      },
+      {
+        "exercise_block": "Exercice 2.1",
+        "question_number": "2",
+        "question_text": "Mettez les verbes entre parenthèses au présent : Ils (fi nir) _____ à dix-huit heures.",
+        "hints": "💡 提示：finir 是第一类（规则）-ir 动词，第三人称复数需加上 -iss- 再加 -ent。",
+        "answer": "fi nissent"
+      },
+      {
+        "exercise_block": "Exercice 2.1",
+        "question_number": "3",
+        "question_text": "Mettez les verbes entre parenthèses au présent : Je (remplir) _____ les verres des invités.",
+        "hints": "💡 提示：remplir 属于规则 -ir 动词，第一人称单数词尾是 -is。",
+        "answer": "remplis"
+      },
+      {
+        "exercise_block": "Exercice 2.1",
+        "question_number": "4",
+        "question_text": "Mettez les verbes entre parenthèses au présent : Nous (investir) _____ dans l’immobilier.",
+        "hints": "💡 提示：investir 也是规则 -ir 动词，第一人称复数记得加 -issons。",
+        "answer": "investissons"
+      },
+      {
+        "exercise_block": "Exercice 2.1",
+        "question_number": "5",
+        "question_text": "Mettez les verbes entre parenthèses au présent : Ils (mentir) _____ à la police.",
+        "hints": "💡 提示：mentir 是第二类（不规则）-ir 动词，第三人称复数直接去掉 -ir 加相应词尾即可。",
+        "answer": "mentent"
+      },
+      {
+        "exercise_block": "Exercice 2.1",
+        "question_number": "6",
+        "question_text": "Mettez les verbes entre parenthèses au présent : Tu (ouvrir) _____ les fenêtres du salon.",
+        "hints": "💡 提示：ouvrir 的变位同 -er 动词，第二人称单数加 -es。",
+        "answer": "ouvres"
+      },
+      {
+        "exercise_block": "Exercice 2.1",
+        "question_number": "7",
+        "question_text": "Mettez les verbes entre parenthèses au présent : Vous (réfl échir) _____ à leur proposition.",
+        "hints": "💡 提示：réfléchir 是规则 -ir 动词，第二人称复数词尾为 -issez。",
+        "answer": "réfl échissez"
+      },
+      {
+        "exercise_block": "Exercice 2.1",
+        "question_number": "8",
+        "question_text": "Mettez les verbes entre parenthèses au présent : Je (sentir) _____ les bonnes odeurs de la cuisine.",
+        "hints": "💡 提示：sentir 是不规则 -ir 动词，单数变位直接去掉 -tir 后加 -s。",
+        "answer": "sens"
+      },
+      {
+        "exercise_block": "Exercice 2.1",
+        "question_number": "9",
+        "question_text": "Mettez les verbes entre parenthèses au présent : Ils (off rir) _____ toujours les mêmes fl eurs.",
+        "hints": "💡 提示：offrir 的变位与 -er 动词规则相同。",
+        "answer": "off rent"
+      },
+      {
+        "exercise_block": "Exercice 2.1",
+        "question_number": "10",
+        "question_text": "Mettez les verbes entre parenthèses au présent : Il (mourir) _____ de faim.",
+        "hints": "💡 提示：mourir 属于特殊变位的 -ir 动词，单数词干变为 meur-。",
+        "answer": "meurt"
+      }
+    ]
+  },
+  {
+    "page": 2.2,
+    "data": [
+      {
+        "exercise_block": "Exercice 2.2",
+        "question_number": "1",
+        "question_text": "Faire correspondre les deux colonnes :\n\n1. Il agrandit\n\n2. Le public applaudit\n\n3. Nous choisissons\n\n4. La voiture ralentit\n\n5. Je vous off re\n\n6. Tu ouvres\n\n7. Ils dorment bien\n\n8. Il bout\n\n9. Vous réussissez\n\n10. Je cours\n---\n\na. un bon vin\n\nb. la porte\n\nc. très vite\n\nd. la nuit\n\ne. en voyant le gendarme\n\nf. d’impatience\n\ng. à l’examen\n\nh. la photo\n\ni. des chocolats pour votre anniversaire\n\nj. l’artiste",
+        "hints": "💡 提示：这道连线题考察常见 -ir 动词的意思及搭配。例如 agrandir (放大), applaudir (鼓掌), bouillir (沸腾/焦急), réussir (成功) 等，根据前半句的逻辑在右侧寻找合适的宾语或状语。",
+        "answer": "1-h, 2-j, 3-a, 4-e, 5-i, 6-b, 7-d, 8-f, 9-g, 10-c"
+      }
+    ]
+  },
+  {
+    "page": 2.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 2.3",
+        "question_number": "1",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : We are leaving at ten.",
+        "hints": "💡 提示：主语是 we (nous)，动词 partir (离开) 的第一人称复数变位。",
+        "answer": "Nous partons à dix heures."
+      },
+      {
+        "exercise_block": "Exercice 2.3",
+        "question_number": "2",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : She opens the door.",
+        "hints": "💡 提示：动词 ouvrir (打开) 的第三人称单数变位类似 -er 动词。",
+        "answer": "Elle ouvre la porte."
+      },
+      {
+        "exercise_block": "Exercice 2.3",
+        "question_number": "3",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : You pick some fl owers in Florence’s garden.",
+        "hints": "💡 提示：按要求使用 vous 作主语，动词 cueillir (采摘) 的变位。",
+        "answer": "Vous cueillez des fl eurs dans le jardin de Florence."
+      },
+      {
+        "exercise_block": "Exercice 2.3",
+        "question_number": "4",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : The car is slowing down.",
+        "hints": "💡 提示：主语是 la voiture (第三人称单数)，动词 ralentir (减速)。",
+        "answer": "La voiture ralentit."
+      },
+      {
+        "exercise_block": "Exercice 2.3",
+        "question_number": "5",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : We are going out tonight.",
+        "hints": "💡 提示：动词 sortir (外出) 的第一人称复数变位。",
+        "answer": "Nous sortons ce soir."
+      },
+      {
+        "exercise_block": "Exercice 2.3",
+        "question_number": "6",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : She seizes the opportunity.",
+        "hints": "💡 提示：动词 saisir (抓住) 是规则的 -ir 动词，第三人称单数加 -it。",
+        "answer": "Elle saisit l’occasion."
+      },
+      {
+        "exercise_block": "Exercice 2.3",
+        "question_number": "7",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : She blushes easily.",
+        "hints": "💡 提示：动词 rougir (脸红) 也是规则的 -ir 动词。",
+        "answer": "Elle rougit facilement."
+      },
+      {
+        "exercise_block": "Exercice 2.3",
+        "question_number": "8",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : They run fast.",
+        "hints": "💡 提示：动词 courir (跑) 的第三人称复数变位为 courent。",
+        "answer": "Ils (Elles) courent vite."
+      },
+      {
+        "exercise_block": "Exercice 2.3",
+        "question_number": "9",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : She solves the mystery.",
+        "hints": "💡 提示：动词 résoudre (解决) 属于不规则变位，第三人称单数是 résout。",
+        "answer": "Elle résout le mystère."
+      },
+      {
+        "exercise_block": "Exercice 2.3",
+        "question_number": "10",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : They sleep in Sonia’s bedroom.",
+        "hints": "💡 提示：动词 dormir (睡觉) 的第三人称复数变位为 dorment。",
+        "answer": "Ils (Elles) dorment dans la chambre de Sonia."
+      }
+    ]
+  },
     {
-        "page": 28,
-        "data": [
-            {
-                "page": 14,
-                "exercise_block": "EXERCICE 2.1",
-                "question_number": "1",
-                "question_text": "Nous ___ des fleurs dans le jardin.",
-                "hints": "cueillir",
-                "answer": "cueillons"
-            },
-            {
-                "page": 14,
-                "exercise_block": "EXERCICE 2.1",
-                "question_number": "2",
-                "question_text": "Ils ___ à dix-huit heures.",
-                "hints": "finir",
-                "answer": "finissent"
-            },
-            {
-                "page": 14,
-                "exercise_block": "EXERCICE 2.1",
-                "question_number": "3",
-                "question_text": "Je ___ les verres des invités.",
-                "hints": "remplir",
-                "answer": "remplis"
-            },
-            {
-                "page": 14,
-                "exercise_block": "EXERCICE 2.1",
-                "question_number": "4",
-                "question_text": "Nous ___ dans l'immobilier.",
-                "hints": "investir",
-                "answer": "investissons"
-            },
-            {
-                "page": 14,
-                "exercise_block": "EXERCICE 2.1",
-                "question_number": "5",
-                "question_text": "Ils ___ à la police.",
-                "hints": "mentir",
-                "answer": "mentent"
-            },
-            {
-                "page": 14,
-                "exercise_block": "EXERCICE 2.1",
-                "question_number": "6",
-                "question_text": "Tu ___ les fenêtres du salon.",
-                "hints": "ouvrir",
-                "answer": "ouvres"
-            },
-            {
-                "page": 14,
-                "exercise_block": "EXERCICE 2.1",
-                "question_number": "7",
-                "question_text": "Vous ___ à leur proposition.",
-                "hints": "réfléchir",
-                "answer": "réfléchissez"
-            },
-            {
-                "page": 14,
-                "exercise_block": "EXERCICE 2.1",
-                "question_number": "8",
-                "question_text": "Je ___ les bonnes odeurs de la cuisine.",
-                "hints": "sentir",
-                "answer": "sens"
-            },
-            {
-                "page": 14,
-                "exercise_block": "EXERCICE 2.1",
-                "question_number": "9",
-                "question_text": "Ils ___ toujours les mêmes fleurs.",
-                "hints": "offrir",
-                "answer": "offrent"
-            },
-            {
-                "page": 14,
-                "exercise_block": "EXERCICE 2.1",
-                "question_number": "10",
-                "question_text": "Il ___ de faim.",
-                "hints": "mourir",
-                "answer": "meurt"
-            }
-        ]
-    },
+    "page": 2.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 2.4",
+        "question_number": "1",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Nous (répondre) _____ aux questions du professeur de français.",
+        "hints": "💡 提示：主语是 nous，以 -re 结尾的规则动词的第一人称复数变位。",
+        "answer": "répondons"
+      },
+      {
+        "exercise_block": "Exercice 2.4",
+        "question_number": "2",
+        "question_text": "Mettez au présent les verbes entre parenthèses : La presse anglaise (répandre) _____ une rumeur inquiétante.",
+        "hints": "💡 提示：主语 La presse anglaise 相当于第三人称单数 elle。",
+        "answer": "répand"
+      },
+      {
+        "exercise_block": "Exercice 2.4",
+        "question_number": "3",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Vous (rendre) _____ les livres à la bibliothèque.",
+        "hints": "💡 提示：主语是 vous，动词 rendre 的第二人称复数变位。",
+        "answer": "rendez"
+      },
+      {
+        "exercise_block": "Exercice 2.4",
+        "question_number": "4",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Ils (vendre) _____ des fruits et légumes au marché.",
+        "hints": "💡 提示：主语是 ils，第三人称复数变位。",
+        "answer": "vendent"
+      },
+      {
+        "exercise_block": "Exercice 2.4",
+        "question_number": "5",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Je (descendre) _____ l’escalier à toute vitesse.",
+        "hints": "💡 提示：主语是 je，第一人称单数变位以 -s 结尾。",
+        "answer": "descends"
+      },
+      {
+        "exercise_block": "Exercice 2.4",
+        "question_number": "6",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Tu (attendre) _____ l’autobus depuis dix minutes.",
+        "hints": "💡 提示：主语是 tu，第二人称单数变位同样以 -s 结尾。",
+        "answer": "attends"
+      },
+      {
+        "exercise_block": "Exercice 2.4",
+        "question_number": "7",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Il me (tendre) _____ la main pour me dire bonjour.",
+        "hints": "💡 提示：主语是 il（me 是宾语代词），第三人称单数保留词干末尾的 -d。",
+        "answer": "tend"
+      },
+      {
+        "exercise_block": "Exercice 2.4",
+        "question_number": "8",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Elle (perdre) _____ toujours ses clés.",
+        "hints": "💡 提示：主语是 elle，第三人称单数变位。",
+        "answer": "perd"
+      },
+      {
+        "exercise_block": "Exercice 2.4",
+        "question_number": "9",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Il (prétendre) _____ être le plus intelligent.",
+        "hints": "💡 提示：主语是 il。",
+        "answer": "prétend"
+      },
+      {
+        "exercise_block": "Exercice 2.4",
+        "question_number": "10",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Ils (étendre) _____ leur action à d’autres domaines.",
+        "hints": "💡 提示：主语是 ils。",
+        "answer": "étendent"
+      }
+    ]
+  },
+  {
+    "page": 2.5,
+    "data": [
+      {
+        "exercise_block": "Exercice 2.5",
+        "question_number": "1",
+        "question_text": "Faire correspondre les deux colonnes :\n1. Le chat mord\n2. Je perds toujours\n3. Elle prétend\n4. Nous entendons\n5. Tu attends\n6. Je réponds\n7. Ce magasin vend\n8. L’étudiant rend\n9. Ils désirent étendre\n10. Son humour détend un peu\n---\na. le train\nb. toutes sortes de marchandises\nc. au questionnaire\nd. leurs activités à l’étranger\ne. mon parapluie\nf. l’atmosphère\ng. être très riche\nh. la souris\ni. du bruit dans la rue\nj. trois livres à la bibliothèque",
+        "hints": "💡 提示：这道综合连线题考察以 -re 结尾的常见动词的词义与固定搭配。例如 mordre (咬), perdre (丢失), prétendre (声称), détendre (放松) 等，结合前半句主谓语的逻辑，在右侧寻找相应的补语或宾语。",
+        "answer": "1-h, 2-e, 3-g, 4-i, 5-a, 6-c, 7-b, 8-j, 9-d, 10-f"
+      }
+    ]
+  },
     {
-        "page": 31,
-        "data": [
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.4",
-                "question_number": "1",
-                "question_text": "Nous (répondre) ___ aux questions du professeur de français.",
-                "hints": null,
-                "answer": "Je peux me souvenir de l’année où il a ouvert son magasin (sa boutique)."
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.4",
-                "question_number": "2",
-                "question_text": "La presse anglaise (répandre) ___ une rumeur inquiétante.",
-                "hints": null,
-                "answer": "Le lustre qu’il a acheté est pour le salon."
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.4",
-                "question_number": "3",
-                "question_text": "Vous (rendre) ___ les livres à la bibliothèque.",
-                "hints": null,
-                "answer": "L’outil avec lequel elle travaille est très vieux."
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.4",
-                "question_number": "4",
-                "question_text": "Ils (vendre) ___ des fruits et légumes au marché.",
-                "hints": null,
-                "answer": "C’est vous qui êtes le/la propriétaire?"
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.4",
-                "question_number": "5",
-                "question_text": "Je (descendre) ___ l'escalier à toute vitesse.",
-                "hints": null,
-                "answer": "Le fauteuil dans lequel vous êtes assis(e) appartenait à mon grand-père."
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.4",
-                "question_number": "6",
-                "question_text": "Tu (attendre) ___ l'autobus depuis dix minutes.",
-                "hints": null,
-                "answer": "La ville où ils (elles) habitent est très belle."
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.4",
-                "question_number": "7",
-                "question_text": "Il me (tendre) ___ la main pour me dire bonjour.",
-                "hints": null,
-                "answer": "Je connais la personne dont il parle."
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.4",
-                "question_number": "8",
-                "question_text": "Elle (perdre) ___ toujours ses clés.",
-                "hints": null,
-                "answer": "C’est le seul détail dont je me souviens."
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.4",
-                "question_number": "9",
-                "question_text": "Il (prétendre) ___ être le plus intelligent.",
-                "hints": null,
-                "answer": "Les documents dont vous avez besoin sont chez Valérie."
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.4",
-                "question_number": "10",
-                "question_text": "Ils (étendre) ___ leur action à d'autres domaines.",
-                "hints": null,
-                "answer": "Je ne sais pas à quoi il pense."
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.5",
-                "question_number": "1",
-                "question_text": "Le chat mord ___",
-                "hints": null,
-                "answer": "Combien de?"
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.5",
-                "question_number": "2",
-                "question_text": "Je perds toujours ___",
-                "hints": null,
-                "answer": "Comment?"
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.5",
-                "question_number": "3",
-                "question_text": "Elle prétend ___",
-                "hints": null,
-                "answer": "Qui?"
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.5",
-                "question_number": "4",
-                "question_text": "Nous entendons ___",
-                "hints": null,
-                "answer": "Que?"
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.5",
-                "question_number": "5",
-                "question_text": "Tu attends ___",
-                "hints": null,
-                "answer": "Combien?"
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.5",
-                "question_number": "6",
-                "question_text": "Je réponds ___",
-                "hints": null,
-                "answer": "Où?"
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.5",
-                "question_number": "7",
-                "question_text": "Ce magasin vend ___",
-                "hints": null,
-                "answer": "Pourquoi?"
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.5",
-                "question_number": "8",
-                "question_text": "L'étudiant rend ___",
-                "hints": null,
-                "answer": "Quand?"
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.5",
-                "question_number": "9",
-                "question_text": "Ils désirent étendre ___",
-                "hints": null,
-                "answer": "Qui?"
-            },
-            {
-                "page": 1,
-                "exercise_block": "EXERCICE 2.5",
-                "question_number": "10",
-                "question_text": "Son humour détend un peu ___",
-                "hints": null,
-                "answer": "Il y a une semaine que le chien de nos voisins est perdu."
-            }
-        ]
-    },
-    {
-        "page": 32,
+        "page": 2.6,
         "data": [
             {
                 "page": 18,
@@ -1120,338 +1099,236 @@
                 "question_text": "Elle (comprendre) ___ tout.",
                 "hints": "comprendre",
                 "answer": "comprend"
-            },
-            {
-                "page": 18,
-                "exercise_block": "EXERCICE 2.7",
-                "question_number": "1",
-                "question_text": "He is learning Chinese.",
-                "hints": null,
-                "answer": "Il apprend le chinois."
-            },
-            {
-                "page": 18,
-                "exercise_block": "EXERCICE 2.7",
-                "question_number": "2",
-                "question_text": "She takes the subway every day.",
-                "hints": null,
-                "answer": "Elle prend le métro tous les jours."
-            },
-            {
-                "page": 18,
-                "exercise_block": "EXERCICE 2.7",
-                "question_number": "3",
-                "question_text": "He often loses his keys.",
-                "hints": null,
-                "answer": "Il perd souvent ses clés."
-            },
-            {
-                "page": 18,
-                "exercise_block": "EXERCICE 2.7",
-                "question_number": "4",
-                "question_text": "I can hear Pierre on the street.",
-                "hints": null,
-                "answer": "J’entends Pierre dans la rue."
-            },
-            {
-                "page": 18,
-                "exercise_block": "EXERCICE 2.7",
-                "question_number": "5",
-                "question_text": "He claims to be the king's brother.",
-                "hints": null,
-                "answer": "Il prétend être le frère du roi."
             }
         ]
     },
     {
-        "page": 33,
+    "page": 2.7,
+    "data": [
+      {
+        "exercise_block": "Exercice 2.7",
+        "question_number": "1",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : He is learning Chinese.",
+        "hints": "💡 提示：动词 apprendre 的第三人称单数变位。表示语言的词通常带有定冠词（le chinois）。",
+        "answer": "Il apprend le chinois."
+      },
+      {
+        "exercise_block": "Exercice 2.7",
+        "question_number": "2",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : She takes the subway every day.",
+        "hints": "💡 提示：动词 prendre 的变位。“每天”用 tous les jours。",
+        "answer": "Elle prend le métro tous les jours."
+      },
+      {
+        "exercise_block": "Exercice 2.7",
+        "question_number": "3",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : He often loses his keys.",
+        "hints": "💡 提示：动词 perdre。频率副词 souvent 紧跟在变位动词之后。",
+        "answer": "Il perd souvent ses clés."
+      },
+      {
+        "exercise_block": "Exercice 2.7",
+        "question_number": "4",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : I can hear Pierre on the street.",
+        "hints": "💡 提示：动词 entendre 包含了“能听到”的意思，不需要额外加 pouvoir。“在街上”用 dans la rue。",
+        "answer": "J’entends Pierre dans la rue."
+      },
+      {
+        "exercise_block": "Exercice 2.7",
+        "question_number": "5",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : He claims to be the king’s brother.",
+        "hints": "💡 提示：“声称做某事”用 prétendre + 动词不定式（être）。",
+        "answer": "Il prétend être le frère du roi."
+      },
+      {
+        "exercise_block": "Exercice 2.7",
+        "question_number": "6",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : You answer quickly.",
+        "hints": "💡 提示：按要求使用 vous 作为主语，动词为 répondre。",
+        "answer": "Vous répondez rapidement."
+      },
+      {
+        "exercise_block": "Exercice 2.7",
+        "question_number": "7",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : She sells flowers.",
+        "hints": "💡 提示：动词 vendre。复数名词“花”前需要用不定冠词 des。",
+        "answer": "Elle vend des fleurs."
+      },
+      {
+        "exercise_block": "Exercice 2.7",
+        "question_number": "8",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : We go down the Champs-Élysées.",
+        "hints": "💡 提示：动词 descendre（下去/沿着...走）的第一人称复数变位。",
+        "answer": "Nous descendons les Champs-Élysées."
+      },
+      {
+        "exercise_block": "Exercice 2.7",
+        "question_number": "9",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : I am going down.",
+        "hints": "💡 提示：直接使用 descendre 的第一人称单数变位即可。",
+        "answer": "Je descends."
+      },
+      {
+        "exercise_block": "Exercice 2.7",
+        "question_number": "10",
+        "question_text": "Traduisez les phrases suivantes en utilisant vous si nécessaire : We are waiting for an answer.",
+        "hints": "💡 提示：动词 attendre 已经包含了“等待某物”的意思，直接加宾语，不需要介词 for。",
+        "answer": "Nous attendons une réponse."
+      }
+    ]
+  },
+  {
+    "page": 2.8,
+    "data": [
+      {
+        "exercise_block": "Exercice 2.8",
+        "question_number": "1",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant l’inversion : Ils remplissent les formulaires.",
+        "hints": "💡 提示：将主语 ils 和动词 remplissent 倒装，中间加连字符。",
+        "answer": "Remplissent-ils les formulaires?"
+      },
+      {
+        "exercise_block": "Exercice 2.8",
+        "question_number": "2",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant l’inversion : Il réfléchit au problème.",
+        "hints": "💡 提示：动词以 t 结尾，与 il 倒装时直接加连字符即可。",
+        "answer": "Réfléchit-il au problème?"
+      },
+      {
+        "exercise_block": "Exercice 2.8",
+        "question_number": "3",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant l’inversion : Vous aimez aller au théâtre.",
+        "hints": "💡 提示：将 vous 和 aimez 倒装。",
+        "answer": "Aimez-vous aller au théâtre?"
+      },
+      {
+        "exercise_block": "Exercice 2.8",
+        "question_number": "4",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant l’inversion : Elle préfère voyager en Italie.",
+        "hints": "💡 提示：动词 préfère 以元音字母 e 结尾，当与 elle 倒装时，为了发音方便需要插入 -t-。",
+        "answer": "Préfère-t-elle voyager en Italie?"
+      },
+      {
+        "exercise_block": "Exercice 2.8",
+        "question_number": "5",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant l’inversion : Tu écoutes le discours du président.",
+        "hints": "💡 提示：将 tu 和 écoutes 倒装。",
+        "answer": "Écoutes-tu le discours du président?"
+      },
+      {
+        "exercise_block": "Exercice 2.8",
+        "question_number": "6",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant l’inversion : Ils influencent le public.",
+        "hints": "💡 提示：复数第三人称倒装，动词结尾的 t 已经存在，直接连字符相接。",
+        "answer": "Influencent-ils le public?"
+      },
+      {
+        "exercise_block": "Exercice 2.8",
+        "question_number": "7",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant l’inversion : Elle annule son voyage au Brésil.",
+        "hints": "💡 提示：动词 annule 以元音结尾，倒装时记得加上 -t-。",
+        "answer": "Annule-t-elle son voyage au Brésil?"
+      },
+      {
+        "exercise_block": "Exercice 2.8",
+        "question_number": "8",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant l’inversion : Tu travailles le jeudi.",
+        "hints": "💡 提示：常规的 tu 形式倒装。",
+        "answer": "Travailles-tu le jeudi?"
+      },
+      {
+        "exercise_block": "Exercice 2.8",
+        "question_number": "9",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant l’inversion : Vous apportez un nouveau livre.",
+        "hints": "💡 提示：将 vous 和 apportez 倒装。",
+        "answer": "Apportez-vous un nouveau livre?"
+      },
+      {
+        "exercise_block": "Exercice 2.8",
+        "question_number": "10",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant l’inversion : Elle agrandit les photos.",
+        "hints": "💡 提示：动词 agrandit 已经以辅音 t 结尾，不需要插入额外的 -t-。",
+        "answer": "Agrandit-elle les photos?"
+      }
+    ]
+  },
+    {
+        "page": 2.9,
         "data": [
             {
-                "page": 19,
-                "exercise_block": "EXERCICE 2.7",
-                "question_number": "6",
-                "question_text": "You answer quickly.",
-                "hints": null,
-                "answer": "Vous répondez rapidement."
-            },
-            {
-                "page": 19,
-                "exercise_block": "EXERCICE 2.7",
-                "question_number": "7",
-                "question_text": "She sells flowers.",
-                "hints": null,
-                "answer": "Elle vend des fl eurs."
-            },
-            {
-                "page": 19,
-                "exercise_block": "EXERCICE 2.7",
-                "question_number": "8",
-                "question_text": "We go down the Champs-Élysées.",
-                "hints": null,
-                "answer": "Nous descendons les Champs-Élysées."
-            },
-            {
-                "page": 19,
-                "exercise_block": "EXERCICE 2.7",
-                "question_number": "9",
-                "question_text": "I am going down.",
-                "hints": null,
-                "answer": "Je descends."
-            },
-            {
-                "page": 19,
-                "exercise_block": "EXERCICE 2.7",
-                "question_number": "10",
-                "question_text": "We are waiting for an answer.",
-                "hints": null,
-                "answer": "Nous attendons une réponse."
-            }
+        "exercise_block": "Exercice 2.9",
+        "question_number": "1",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que : Ils parlent de la nouvelle transaction.",
+        "hints": "💡 提示：在句首加上 est-ce que。注意 que 遇到元音开头的代词 ils 时需要省音（qu'）。",
+        "answer": "Est-ce qu’ils parlent de la nouvelle transaction?"
+      },
+      {
+        "exercise_block": "Exercice 2.9",
+        "question_number": "2",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que : Elle apprend le portugais.",
+        "hints": "💡 提示：代词 elle 以元音开头，同样需要省音。",
+        "answer": "Est-ce qu’elle apprend le portugais?"
+      },
+      {
+        "exercise_block": "Exercice 2.9",
+        "question_number": "3",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que : Vous commandez une bouteille de vin blanc.",
+        "hints": "💡 提示：代词 vous 以辅音开头，直接使用完整的 est-ce que 即可，原句语序不变。",
+        "answer": "Est-ce que vous commandez une bouteille de vin blanc?"
+      },
+      {
+        "exercise_block": "Exercice 2.9",
+        "question_number": "4",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que : Tu demandes une augmentation de salaire.",
+        "hints": "💡 提示：代词 tu 在书面语中不与 que 省音（虽然口语中常被吞音），保留 est-ce que tu。",
+        "answer": "Est-ce que tu demandes une augmentation de salaire?"
+      },
+      {
+        "exercise_block": "Exercice 2.9",
+        "question_number": "5",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que : Ils financent un grand projet.",
+        "hints": "💡 提示：ils 开头，注意省音变化。",
+        "answer": "Est-ce qu’ils financent un grand projet?"
+      },
+      {
+        "exercise_block": "Exercice 2.9",
+        "question_number": "6",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que : Vous choisissez une autre direction.",
+        "hints": "💡 提示：直接在句首添加引导词组。",
+        "answer": "Est-ce que vous choisissez une autre direction?"
+      },
+      {
+        "exercise_block": "Exercice 2.9",
+        "question_number": "7",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que : Ils finissent tard.",
+        "hints": "💡 提示：再次遇到 ils，记得省音。",
+        "answer": "Est-ce qu’ils finissent tard?"
+      },
+      {
+        "exercise_block": "Exercice 2.9",
+        "question_number": "8",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que : Il prétend être pauvre.",
+        "hints": "💡 提示：代词 il 以元音开头，需要变为 est-ce qu'il。",
+        "answer": "Est-ce qu’il prétend être pauvre?"
+      },
+      {
+        "exercise_block": "Exercice 2.9",
+        "question_number": "9",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que : Ils défendent cette théorie.",
+        "hints": "💡 提示：使用 est-ce qu'ils。",
+        "answer": "Est-ce qu’ils défendent cette théorie?"
+      },
+      {
+        "exercise_block": "Exercice 2.9",
+        "question_number": "10",
+        "question_text": "Mettre les phrases suivantes à la forme interrogative en utilisant la forme est-ce que : Vous descendez par l’escalier.",
+        "hints": "💡 提示：不需省音，直接加在句首。",
+        "answer": "Est-ce que vous descendez par l’escalier?"
+      }
         ]
     },
     {
-        "page": 34,
-        "data": [
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.8",
-                "question_number": "1",
-                "question_text": "Ils remplissent les formulaires.",
-                "hints": null,
-                "answer": "a"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.8",
-                "question_number": "2",
-                "question_text": "Il réfléchit au problème.",
-                "hints": null,
-                "answer": "b"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.8",
-                "question_number": "3",
-                "question_text": "Vous aimez aller au théâtre.",
-                "hints": null,
-                "answer": "c"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.8",
-                "question_number": "4",
-                "question_text": "Elle préfère voyager en Italie.",
-                "hints": null,
-                "answer": "d"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.8",
-                "question_number": "5",
-                "question_text": "Tu écoutes le discours du président.",
-                "hints": null,
-                "answer": "e"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.8",
-                "question_number": "6",
-                "question_text": "Ils influencent le public.",
-                "hints": null,
-                "answer": "f"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.8",
-                "question_number": "7",
-                "question_text": "Elle annule son voyage au Brésil.",
-                "hints": null,
-                "answer": "g"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.8",
-                "question_number": "8",
-                "question_text": "Tu travailles le jeudi.",
-                "hints": null,
-                "answer": "h"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.8",
-                "question_number": "9",
-                "question_text": "Vous apportez un nouveau livre.",
-                "hints": null,
-                "answer": "i"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.8",
-                "question_number": "10",
-                "question_text": "Elle agrandit les photos.",
-                "hints": null,
-                "answer": "j"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.9",
-                "question_number": "1",
-                "question_text": "Ils parlent de la nouvelle transaction.",
-                "hints": null,
-                "answer": "Est-ce qu'ils parlent de la nouvelle transaction?"
-            },
-            {
-                "page": 20,
-                "exercise_block": "EXERCICE 2.9",
-                "question_number": "2",
-                "question_text": "Elle apprend le portugais.",
-                "hints": null,
-                "answer": "Est-ce qu'elle apprend le portugais?"
-            }
-        ]
-    },
-    {
-        "page": 35,
-        "data": [
-            {
-                "page": 1,
-                "exercise_block": null,
-                "question_number": "3",
-                "question_text": "Vous commandez une bouteille de vin blanc.",
-                "hints": null,
-                "answer": "Vous commandez une bouteille de vin blanc."
-            },
-            {
-                "page": 1,
-                "exercise_block": null,
-                "question_number": "4",
-                "question_text": "Tu demandes une augmentation de salaire.",
-                "hints": null,
-                "answer": "Tu demandes une augmentation de salaire."
-            },
-            {
-                "page": 1,
-                "exercise_block": null,
-                "question_number": "5",
-                "question_text": "Ils financent un grand projet.",
-                "hints": null,
-                "answer": "Ils financent un grand projet."
-            },
-            {
-                "page": 1,
-                "exercise_block": null,
-                "question_number": "6",
-                "question_text": "Vous choisissez une autre direction.",
-                "hints": null,
-                "answer": "Vous choisissez une autre direction."
-            },
-            {
-                "page": 1,
-                "exercise_block": null,
-                "question_number": "7",
-                "question_text": "Ils finissent tard.",
-                "hints": null,
-                "answer": "Ils finissent tard."
-            },
-            {
-                "page": 1,
-                "exercise_block": null,
-                "question_number": "8",
-                "question_text": "Il prétend être pauvre.",
-                "hints": null,
-                "answer": "Il prétend être pauvre."
-            },
-            {
-                "page": 1,
-                "exercise_block": null,
-                "question_number": "9",
-                "question_text": "Ils défendent cette théorie.",
-                "hints": null,
-                "answer": "Ils défendent cette théorie."
-            },
-            {
-                "page": 1,
-                "exercise_block": null,
-                "question_number": "10",
-                "question_text": "Vous descendez par l'escalier.",
-                "hints": null,
-                "answer": "Vous descendez par l'escalier."
-            },
-            {
-                "page": 1,
-                "exercise_block": "The negative form",
-                "question_number": null,
-                "question_text": "Elle travaille le lundi. Elle ne ___ pas le lundi.",
-                "hints": null,
-                "answer": "travaille"
-            },
-            {
-                "page": 1,
-                "exercise_block": "The negative form",
-                "question_number": null,
-                "question_text": "Il répond à la lettre. Il ne ___ pas à la lettre.",
-                "hints": null,
-                "answer": "Il répond pas à la lettre."
-            },
-            {
-                "page": 1,
-                "exercise_block": "The negative form",
-                "question_number": null,
-                "question_text": "J'habite à Strasbourg. Je n'___ pas à Strasbourg.",
-                "hints": null,
-                "answer": "J'habite à Strasbourg. Je n'y habite pas à Strasbourg."
-            },
-            {
-                "page": 1,
-                "exercise_block": "The negative form",
-                "question_number": null,
-                "question_text": "Elle aime les marguerites. Elle n'___ pas les marguerites.",
-                "hints": null,
-                "answer": "Elle ne aime pas les marguerites."
-            },
-            {
-                "page": 1,
-                "exercise_block": "The negative form",
-                "question_number": null,
-                "question_text": "Il n'attend personne.",
-                "hints": null,
-                "answer": "Il n'attend personne."
-            },
-            {
-                "page": 1,
-                "exercise_block": "The negative form",
-                "question_number": null,
-                "question_text": "Tu ne voyages jamais en hiver.",
-                "hints": null,
-                "answer": "Tu ne voyages jamais en hiver."
-            },
-            {
-                "page": 1,
-                "exercise_block": "The negative form",
-                "question_number": null,
-                "question_text": "Il n'a plus de patience.",
-                "hints": null,
-                "answer": "Il n'a plus de patience."
-            },
-            {
-                "page": 1,
-                "exercise_block": "The negative form",
-                "question_number": null,
-                "question_text": "Elle ne répond rien.",
-                "hints": null,
-                "answer": "Elle ne répond à rien."
-            },
-            {
-                "page": 1,
-                "exercise_block": "The negative form",
-                "question_number": null,
-                "question_text": "Ce n'est guère raisonnable.",
-                "hints": null,
-                "answer": "Ce n'est pas très raisonnable."
-            }
-        ]
-    },
-    {
-        "page": 36,
+        "page": 2.10,
         "data": [
             {
                 "page": 22,
@@ -1536,178 +1413,158 @@
         ]
     },
     {
-        "page": 37,
-        "data": [
+    "page": 2.11,
+    "data": [
+      {
+        "exercise_block": "Exercice 2.11",
+        "question_number": "1",
+        "question_text": "Traduisez en utilisant vous et l’inversion si nécessaire : I am learning Japanese.",
+        "hints": "💡 提示：动词 apprendre（学习）的第一人称单数变位。表示语言的词通常带有定冠词（le japonais）。",
+        "answer": "J’apprends le japonais."
+      },
+      {
+        "exercise_block": "Exercice 2.11",
+        "question_number": "2",
+        "question_text": "Traduisez en utilisant vous et l’inversion si nécessaire : He does not speak Italian.",
+        "hints": "💡 提示：使用 ne... pas 的否定结构。注意 parler 后面接语言名称时通常省略冠词。",
+        "answer": "Il ne parle pas italien."
+      },
+      {
+        "exercise_block": "Exercice 2.11",
+        "question_number": "3",
+        "question_text": "Traduisez en utilisant vous et l’inversion si nécessaire : She eats neither meat nor cheese.",
+        "hints": "💡 提示：表示“既不...也不...”使用 ne... ni... ni 结构。注意，在此结构中，原句的不定冠词或部分冠词通常会省略。",
+        "answer": "Elle ne mange ni viande ni fromage."
+      },
+      {
+        "exercise_block": "Exercice 2.11",
+        "question_number": "4",
+        "question_text": "Traduisez en utilisant vous et l’inversion si nécessaire : They never listen to anybody.",
+        "hints": "💡 提示：“从不”用 ne... jamais，“任何人”用 personne。动词 écouter 直接接宾语。",
+        "answer": "Ils (Elles) n’écoutent jamais personne."
+      },
+      {
+        "exercise_block": "Exercice 2.11",
+        "question_number": "5",
+        "question_text": "Traduisez en utilisant vous et l’inversion si nécessaire : You work late.",
+        "hints": "💡 提示：按要求使用 vous 作为主语，“晚”用副词 tard。",
+        "answer": "Vous travaillez tard."
+      },
+      {
+        "exercise_block": "Exercice 2.11",
+        "question_number": "6",
+        "question_text": "Traduisez en utilisant vous et l’inversion si nécessaire : They like neither tea nor coffee.",
+        "hints": "💡 提示：使用 ne... ni... ni 结构。但请注意，如果是与表示喜好的动词（如 aimer）连用，原有的定冠词（le, la, les）必须保留。",
+        "answer": "Ils (Elles) n’aiment ni le thé ni le café."
+      },
+      {
+        "exercise_block": "Exercice 2.11",
+        "question_number": "7",
+        "question_text": "Traduisez en utilisant vous et l’inversion si nécessaire : Do you understand the question?",
+        "hints": "💡 提示：按要求使用 vous 并采用主谓倒装的疑问句结构（Comprenez-vous...）。",
+        "answer": "Comprenez-vous la question?"
+      },
+      {
+        "exercise_block": "Exercice 2.11",
+        "question_number": "8",
+        "question_text": "Traduisez en utilisant vous et l’inversion si nécessaire : We pick flowers in the garden.",
+        "hints": "💡 提示：动词 cueillir（采摘）的第一人称复数变位是 cueillons。",
+        "answer": "Nous cueillons des fleurs dans le jardin."
+      },
+      {
+        "exercise_block": "Exercice 2.11",
+        "question_number": "9",
+        "question_text": "Traduisez en utilisant vous et l’inversion si nécessaire : He never takes off his hat.",
+        "hints": "💡 提示：“从不”用 ne... jamais。动词 enlever 的第三人称单数变位为 enlève，注意元音省音（n'enlève）。",
+        "answer": "Il n’enlève jamais son chapeau."
+      },
+      {
+        "exercise_block": "Exercice 2.11",
+        "question_number": "10",
+        "question_text": "Traduisez en utilisant vous et l’inversion si nécessaire : She never lies.",
+        "hints": "💡 提示：动词 mentir（说谎）的第三人称单数变位是 ment。",
+        "answer": "Elle ne ment jamais."
+      }
+    ]
+  },
             {
-                "page": 23,
-                "exercise_block": "EXERCICE 2.11",
-                "question_number": "1",
-                "question_text": "I am learning Japanese.",
-                "hints": null,
-                "answer": "Elle les achète."
-            },
-            {
-                "page": 23,
-                "exercise_block": "EXERCICE 2.11",
-                "question_number": "2",
-                "question_text": "He does not speak Italian.",
-                "hints": null,
-                "answer": "Elle les consulte."
-            },
-            {
-                "page": 23,
-                "exercise_block": "EXERCICE 2.11",
-                "question_number": "3",
-                "question_text": "She eats neither meat nor cheese.",
-                "hints": null,
-                "answer": "Nous les soutenons."
-            },
-            {
-                "page": 23,
-                "exercise_block": "EXERCICE 2.11",
-                "question_number": "4",
-                "question_text": "They never listen to anybody.",
-                "hints": null,
-                "answer": "Ils la construisent."
-            },
-            {
-                "page": 23,
-                "exercise_block": "EXERCICE 2.11",
-                "question_number": "5",
-                "question_text": "You work late.",
-                "hints": null,
-                "answer": "Je l’ouvre."
-            },
-            {
-                "page": 23,
-                "exercise_block": "EXERCICE 2.11",
-                "question_number": "6",
-                "question_text": "They like neither tea nor coffee.",
-                "hints": null,
-                "answer": "Elle la conduit."
-            },
-            {
-                "page": 23,
-                "exercise_block": "EXERCICE 2.11",
-                "question_number": "7",
-                "question_text": "Do you understand the question?",
-                "hints": null,
-                "answer": "Ils les acceptent."
-            },
-            {
-                "page": 23,
-                "exercise_block": "EXERCICE 2.11",
-                "question_number": "8",
-                "question_text": "We pick flowers in the garden.",
-                "hints": null,
-                "answer": "Nous la comprenons."
-            },
-            {
-                "page": 23,
-                "exercise_block": "EXERCICE 2.11",
-                "question_number": "9",
-                "question_text": "He never takes off his hat.",
-                "hints": null,
-                "answer": "Tu le visites."
-            },
-            {
-                "page": 23,
-                "exercise_block": "EXERCICE 2.11",
-                "question_number": "10",
-                "question_text": "She never lies.",
-                "hints": null,
-                "answer": "Elle l’étudie."
-            }
+    "page": 3.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 3.1",
+        "question_number": "1",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Le château (être) _____ vieux.",
+        "hints": "💡 提示：主语 Le château 相当于第三人称单数 (il)。",
+        "answer": "est"
+      },
+      {
+        "exercise_block": "Exercice 3.1",
+        "question_number": "2",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Nous (être) _____ libres demain soir.",
+        "hints": "💡 提示：主语是 nous，动词 être 的第一人称复数变位。",
+        "answer": "sommes"
+      },
+      {
+        "exercise_block": "Exercice 3.1",
+        "question_number": "3",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Les produits (être) _____ beaucoup trop chers.",
+        "hints": "💡 提示：主语 Les produits 相当于第三人称复数 (ils)。",
+        "answer": "sont"
+      },
+      {
+        "exercise_block": "Exercice 3.1",
+        "question_number": "4",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Tu (être) _____ plus jeune que lui?",
+        "hints": "💡 提示：主语是 tu，第二人称单数变位。",
+        "answer": "es"
+      },
+      {
+        "exercise_block": "Exercice 3.1",
+        "question_number": "5",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Elles (être) _____ vraiment charmantes.",
+        "hints": "💡 提示：主语是 elles，第三人称复数变位。",
+        "answer": "sont"
+      },
+      {
+        "exercise_block": "Exercice 3.1",
+        "question_number": "6",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Vous (être) _____ occupé cet après-midi?",
+        "hints": "💡 提示：主语是 vous，第二人称复数变位。",
+        "answer": "êtes"
+      },
+      {
+        "exercise_block": "Exercice 3.1",
+        "question_number": "7",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Ce (être) _____ un nouveau livre.",
+        "hints": "💡 提示：主语指示代词 Ce 配合第三人称单数变位 (est)，注意遇元音开头需省音连写。",
+        "answer": "C'est"
+      },
+      {
+        "exercise_block": "Exercice 3.1",
+        "question_number": "8",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Leurs méthodes (ne pas être) _____ très effi caces.",
+        "hints": "💡 提示：主语 Leurs méthodes 是第三人称复数 (elles)，注意否定词 ne pas 夹住变位动词的结构。",
+        "answer": "ne sont pas"
+      },
+      {
+        "exercise_block": "Exercice 3.1",
+        "question_number": "9",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Est-ce qu’il (être) _____ aussi amusant que son frère?",
+        "hints": "💡 提示：主语是 il，第三人称单数变位。",
+        "answer": "est"
+      },
+      {
+        "exercise_block": "Exercice 3.1",
+        "question_number": "10",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Je (être) _____ un peu en retard.",
+        "hints": "💡 提示：主语是 je，第一人称单数变位。",
+        "answer": "suis"
+      }
         ]
     },
-    {
-        "page": 38,
-        "data": [
             {
-                "page": 24,
-                "exercise_block": "EXERCICE 3.1",
-                "question_number": "1",
-                "question_text": "Le château (être) ___ vieux.",
-                "hints": null,
-                "answer": "est"
-            },
-            {
-                "page": 24,
-                "exercise_block": "EXERCICE 3.1",
-                "question_number": "2",
-                "question_text": "Nous (être) ___ libres demain soir.",
-                "hints": null,
-                "answer": "sommes"
-            },
-            {
-                "page": 24,
-                "exercise_block": "EXERCICE 3.1",
-                "question_number": "3",
-                "question_text": "Les produits (être) ___ beaucoup trop chers.",
-                "hints": null,
-                "answer": "est"
-            },
-            {
-                "page": 24,
-                "exercise_block": "EXERCICE 3.1",
-                "question_number": "4",
-                "question_text": "Tu (être) ___ plus jeune que lui?",
-                "hints": null,
-                "answer": "sont"
-            }
-        ]
-    },
-            {
-                "page": 39,
-                "data": [
-                    {
-                        "page": 11,
-                        "exercise_block": "EXERCICE 3.1",
-                        "question_number": "5",
-                        "question_text": "Elles (être) ___ vraiment charmantes.",
-                        "hints": "être",
-                        "answer": "sont"
-                    },
-                    {
-                        "page": 11,
-                        "exercise_block": "EXERCICE 3.1",
-                        "question_number": "6",
-                        "question_text": "Vous (être) ___ occupé cet après-midi?",
-                        "hints": "être",
-                        "answer": "êtes"
-                    },
-                    {
-                        "page": 11,
-                        "exercise_block": "EXERCICE 3.1",
-                        "question_number": "7",
-                        "question_text": "Ce (être) ___ un nouveau livre.",
-                        "hints": "être",
-                        "answer": "est"
-                    },
-                    {
-                        "page": 11,
-                        "exercise_block": "EXERCICE 3.1",
-                        "question_number": "8",
-                        "question_text": "Leurs méthodes (ne pas être) ___ très efficaces.",
-                        "hints": "ne pas être",
-                        "answer": "ne sont pas"
-                    },
-                    {
-                        "page": 11,
-                        "exercise_block": "EXERCICE 3.1",
-                        "question_number": "9",
-                        "question_text": "Est-ce qu'il (être) ___ aussi amusant que son frère?",
-                        "hints": "être",
-                        "answer": "est"
-                    },
-                    {
-                        "page": 11,
-                        "exercise_block": "EXERCICE 3.1",
-                        "question_number": "10",
-                        "question_text": "Je (être) ___ un peu en retard.",
-                        "hints": "être",
-                        "answer": "suis"
-                    },
+    "page": 3.2,
+    "data": [
                     {
                         "page": 11,
                         "exercise_block": "EXERCICE 3.2",
@@ -1791,225 +1648,169 @@
         ]
     },
     {
-        "page": 40,
-        "data": [
-            {
-                "page": 26,
-                "exercise_block": "EXERCICE 3.3",
-                "question_number": "1",
-                "question_text": "Nous (avoir) ___ quelques minutes.",
-                "hints": null,
-                "answer": "avons"
-            },
-            {
-                "page": 26,
-                "exercise_block": "EXERCICE 3.3",
-                "question_number": "2",
-                "question_text": "Tu (ne pas avoir) ___ assez d'arguments.",
-                "hints": null,
-                "answer": "n'as pas"
-            },
-            {
-                "page": 26,
-                "exercise_block": "EXERCICE 3.3",
-                "question_number": "3",
-                "question_text": "Je (avoir) ___ une grande estime pour lui.",
-                "hints": null,
-                "answer": "J'ai"
-            },
-            {
-                "page": 26,
-                "exercise_block": "EXERCICE 3.3",
-                "question_number": "4",
-                "question_text": "Vous (avoir) ___ des amis à Londres?",
-                "hints": null,
-                "answer": "avez"
-            }
-        ]
-    },
+    "page": 3.3,
+    "data": [
+      {
+        "exercise_block": "Exercice 3.3",
+        "question_number": "1",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Nous (avoir) _____ quelques minutes.",
+        "hints": "💡 提示：主语是 nous，动词 avoir 的第一人称复数变位。",
+        "answer": "avons"
+      },
+      {
+        "exercise_block": "Exercice 3.3",
+        "question_number": "2",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Tu (ne pas avoir) _____ assez d’arguments.",
+        "hints": "💡 提示：主语是 tu。注意在否定结构 ne pas 中，ne 遇到元音开头的 avoir 变位需要省音。",
+        "answer": "n'as pas"
+      },
+      {
+        "exercise_block": "Exercice 3.3",
+        "question_number": "3",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Je (avoir) _____ une grande estime pour lui.",
+        "hints": "💡 提示：主语是 je，注意代词与变位动词连写时的省音（J'）。",
+        "answer": "J'ai"
+      },
+      {
+        "exercise_block": "Exercice 3.3",
+        "question_number": "4",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Vous (avoir) _____ des amis à Londres?",
+        "hints": "💡 提示：主语是 vous，动词 avoir 的第二人称复数变位。",
+        "answer": "avez"
+      },
+      {
+        "exercise_block": "Exercice 3.3",
+        "question_number": "5",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Elle (avoir) _____ beaucoup de chance dans les affaires.",
+        "hints": "💡 提示：主语是 elle，第三人称单数变位。",
+        "answer": "a"
+      },
+      {
+        "exercise_block": "Exercice 3.3",
+        "question_number": "6",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Ils (avoir) _____ une réunion à quinze heures.",
+        "hints": "💡 提示：主语是 ils，第三人称复数变位。",
+        "answer": "ont"
+      },
+      {
+        "exercise_block": "Exercice 3.3",
+        "question_number": "7",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Tu (avoir) _____ une maison à la campagne?",
+        "hints": "💡 提示：主语是 tu，第二人称单数变位。",
+        "answer": "as"
+      },
+      {
+        "exercise_block": "Exercice 3.3",
+        "question_number": "8",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Nous (ne pas avoir) _____ besoin de son aide.",
+        "hints": "💡 提示：主语是 nous。注意否定词的省音拼写。",
+        "answer": "n'avons pas"
+      },
+      {
+        "exercise_block": "Exercice 3.3",
+        "question_number": "9",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Vous (ne pas avoir) _____ toujours raison.",
+        "hints": "💡 提示：主语是 vous，否定形式。",
+        "answer": "n'avez pas"
+      },
+      {
+        "exercise_block": "Exercice 3.3",
+        "question_number": "10",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Je (avoir) _____ froid.",
+        "hints": "💡 提示：主语 je，与 avoir 变位组合时注意省音（J'）。",
+        "answer": "J'ai"
+      }
+    ]
+  },
+  {
+    "page": 3.4,
+    "data": [
+      {
+        "exercise_block": "Exercice 3.4",
+        "question_number": "1",
+        "question_text": "Faire correspondre les deux colonnes :\n\n1. J’ai faim, alors\n\n2. Il a peur\n\n3. Ils ont de la chance\n\n4. L’étudiant de français a besoin\n\n5. Tu as mal\n\n6. Il a tort, alors\n\n7. Vous avez l’air\n\n8. Ils ont très envie\n\n9. Il a chaud, alors\n\n10. Elle a soif, alors\n---\n\na. au casino\n\nb. à la tête\n\nc. fatigué\n\nd. il ouvre la fenêtre\n\ne. de longues vacances\n\nf. elle boit un verre d’eau\n\ng. je mange quelque chose\n\nh. il présente ses excuses\n\ni. d’un nouveau dictionnaire\n\nj. des fantômes",
+        "hints": "💡 提示：这道题考察 avoir 的常见固定搭配和习语，如 avoir faim (饿), avoir peur (怕), avoir besoin de (需要), avoir l'air (看起来), avoir soif (渴) 等，根据前半句的逻辑在右侧寻找合理的补充或结果。",
+        "answer": "1-g, 2-j, 3-a, 4-i, 5-b, 6-h, 7-c, 8-e, 9-d, 10-f"
+      }
+    ]
+  },
+  {
+    "page": 3.5,
+    "data": [
+      {
+        "exercise_block": "Exercice 3.5",
+        "question_number": "1",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : I am tired.",
+        "hints": "💡 提示：使用 être 的第一人称单数表达“累了”。",
+        "answer": "Je suis fatigué(e)."
+      },
+      {
+        "exercise_block": "Exercice 3.5",
+        "question_number": "2",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : He is very hungry.",
+        "hints": "💡 提示：法语中表达“很饿”使用 avoir très faim 固定搭配。",
+        "answer": "Il a très faim."
+      },
+      {
+        "exercise_block": "Exercice 3.5",
+        "question_number": "3",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : They are always right.",
+        "hints": "💡 提示：“总是对的/有理”使用 avoir toujours raison。",
+        "answer": "Ils (Elles) ont toujours raison."
+      },
+      {
+        "exercise_block": "Exercice 3.5",
+        "question_number": "4",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : Are they French?",
+        "hints": "💡 提示：使用 être 的第三人称复数倒装疑问句形式。",
+        "answer": "Sont-ils français? (Sont-elles françaises?)"
+      },
+      {
+        "exercise_block": "Exercice 3.5",
+        "question_number": "5",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : Are you afraid of his reaction?",
+        "hints": "💡 提示：按要求使用 vous 和倒装疑问句。“害怕”使用 avoir peur de。",
+        "answer": "Avez-vous peur de sa réaction?"
+      },
+      {
+        "exercise_block": "Exercice 3.5",
+        "question_number": "6",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : He is ashamed.",
+        "hints": "💡 提示：“感到羞愧”使用 avoir honte 固定搭配。",
+        "answer": "Il a honte."
+      },
+      {
+        "exercise_block": "Exercice 3.5",
+        "question_number": "7",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : They have a dog.",
+        "hints": "💡 提示：使用 avoir 的第三人称复数形式。",
+        "answer": "Ils (Elles) ont un chien."
+      },
+      {
+        "exercise_block": "Exercice 3.5",
+        "question_number": "8",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : She has a new hat.",
+        "hints": "💡 提示：短小常用的形容词“新的” (nouveau) 需放在名词前面。",
+        "answer": "Elle a un nouveau chapeau."
+      },
+      {
+        "exercise_block": "Exercice 3.5",
+        "question_number": "9",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : It’s very expensive.",
+        "hints": "💡 提示：“这很贵”通常用 C'est 引导。",
+        "answer": "C’est très cher."
+      },
+      {
+        "exercise_block": "Exercice 3.5",
+        "question_number": "10",
+        "question_text": "Traduisez en utilisant vous et l'inversion si nécessaire : Close the window. We are cold.",
+        "hints": "💡 提示：第一句是祈使句（使用 vous 的形式）。“感觉冷”使用 avoir froid。",
+        "answer": "Fermez la fenêtre. Nous avons froid."
+      }
+    ]
+  },
     {
-        "page": 41,
-        "data": [
-            {
-                "page": null,
-                "exercise_block": null,
-                "question_number": "5",
-                "question_text": "Elle (avoir) ___ beaucoup de chance dans les affaires.",
-                "hints": null,
-                "answer": "Elle a beaucoup de chance dans les affaires."
-            },
-            {
-                "page": null,
-                "exercise_block": null,
-                "question_number": "6",
-                "question_text": "Ils (avoir) ___ une réunion à quinze heures.",
-                "hints": null,
-                "answer": "Ils ont une réunion à quinze heures."
-            },
-            {
-                "page": null,
-                "exercise_block": null,
-                "question_number": "7",
-                "question_text": "Tu (avoir) ___ une maison à la campagne?",
-                "hints": null,
-                "answer": "Tu as une maison à la campagne?"
-            },
-            {
-                "page": null,
-                "exercise_block": null,
-                "question_number": "8",
-                "question_text": "Nous (ne pas avoir) ___ besoin de son aide.",
-                "hints": null,
-                "answer": "Nous n'avons pas besoin de son aide."
-            },
-            {
-                "page": null,
-                "exercise_block": null,
-                "question_number": "9",
-                "question_text": "Vous (ne pas avoir) ___ toujours raison.",
-                "hints": null,
-                "answer": "Vous ne avez pas toujours raison."
-            },
-            {
-                "page": null,
-                "exercise_block": null,
-                "question_number": "10",
-                "question_text": "Je (avoir) ___ froid.",
-                "hints": null,
-                "answer": "Je ai froid."
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": null,
-                "question_text": "Faire correspondre les deux colonnes.",
-                "hints": null,
-                "answer": "Faire correspondre les deux colonnes."
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": "1",
-                "question_text": "J'ai faim, alors ___",
-                "hints": null,
-                "answer": "g"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": "2",
-                "question_text": "Il a peur ___",
-                "hints": null,
-                "answer": "j"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": "3",
-                "question_text": "Ils ont de la chance ___",
-                "hints": null,
-                "answer": "a"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": "4",
-                "question_text": "L'étudiant de français a besoin ___",
-                "hints": null,
-                "answer": "b"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": "5",
-                "question_text": "Tu as mal ___",
-                "hints": null,
-                "answer": "c"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": "6",
-                "question_text": "Il a tort, alors ___",
-                "hints": null,
-                "answer": "h"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": "7",
-                "question_text": "Vous avez l'air ___",
-                "hints": null,
-                "answer": "e"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": "8",
-                "question_text": "Ils ont très envie ___",
-                "hints": null,
-                "answer": "j"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": "9",
-                "question_text": "Il a chaud, alors ___",
-                "hints": null,
-                "answer": "d"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.4",
-                "question_number": "10",
-                "question_text": "Elle a soif, alors ___",
-                "hints": null,
-                "answer": "f"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.5",
-                "question_number": null,
-                "question_text": "Traduire les phrases suivantes en utilisant vous et l'inversion si nécessaire.",
-                "hints": null,
-                "answer": "请提供需要翻译的法语句子。"
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.5",
-                "question_number": "1",
-                "question_text": "I am tired.",
-                "hints": null,
-                "answer": "Je suis fatigué."
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.5",
-                "question_number": "2",
-                "question_text": "He is very hungry.",
-                "hints": null,
-                "answer": "Il est très faim."
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.5",
-                "question_number": "3",
-                "question_text": "They are always right.",
-                "hints": null,
-                "answer": "Ils sont toujours droits."
-            },
-            {
-                "page": null,
-                "exercise_block": "EXERCICE 3.5",
-                "question_number": "4",
-                "question_text": "Are they French?",
-                "hints": null,
-                "answer": "Sont-ils français ?"
-            }
-        ]
-    },
-    {
-        "page": 42,
+        "page": 3.6,
         "data": [
             {
                 "exercise_block": "Exercice 3.6",
@@ -2094,7 +1895,7 @@
         ]
     },
     {
-        "page": 43,
+        "page": 3.7,
         "data": [
             {
                 "page": 29,
@@ -2179,7 +1980,7 @@
         ]
     },
     {
-        "page": 44,
+        "page": 3.8,
         "data": [
             {
                 "page": 38,
@@ -2264,7 +2065,7 @@
         ]
     },
     {
-        "page": 45,
+        "page": 3.9,
         "data": [
             {
                 "page": 31,
@@ -2349,88 +2150,83 @@
         ]
     },
     {
-        "page": 46,
+        "page": 3.10,
         "data": [
             {
-                "page": 32,
-                "exercise_block": "EXERCICE 3.10",
-                "question_number": "1",
-                "question_text": "Je (apercevoir) ___ un château en haut de la colline.",
-                "hints": "apercevoir",
-                "answer": "j'aperçois"
-            },
-            {
-                "page": 32,
-                "exercise_block": "EXERCICE 3.10",
-                "question_number": "2",
-                "question_text": "Il (prévoir) ___ un avenir meilleur.",
-                "hints": "prévoir",
-                "answer": "prévoit"
-            },
-            {
-                "page": 32,
-                "exercise_block": "EXERCICE 3.10",
-                "question_number": "3",
-                "question_text": "Il (pleuvoir) ___ toujours dans cette région.",
-                "hints": "pleuvoir",
-                "answer": "pleut"
-            },
-            {
-                "page": 32,
-                "exercise_block": "EXERCICE 3.10",
-                "question_number": "4",
-                "question_text": "Nous (voir) ___ une amélioration.",
-                "hints": "voir",
-                "answer": "voyons"
-            },
-            {
-                "page": 32,
-                "exercise_block": "EXERCICE 3.10",
-                "question_number": "5",
-                "question_text": "Tu (décevoir) ___ ton professeur.",
-                "hints": "décevoir",
-                "answer": "déçois"
-            },
-            {
-                "page": 32,
-                "exercise_block": "EXERCICE 3.10",
-                "question_number": "6",
-                "question_text": "Cette organisation (promouvoir) ___ la recherche scientifique.",
-                "hints": "promouvoir",
-                "answer": "promet"
-            },
-            {
-                "page": 32,
-                "exercise_block": "EXERCICE 3.10",
-                "question_number": "7",
-                "question_text": "Cela (valoir) ___ très cher.",
-                "hints": "valoir",
-                "answer": "vaut"
-            },
-            {
-                "page": 32,
-                "exercise_block": "EXERCICE 3.10",
-                "question_number": "8",
-                "question_text": "Il (falloir) ___ apprendre les conjugaisons.",
-                "hints": "falloir",
-                "answer": "faut"
-            },
-            {
-                "page": 32,
-                "exercise_block": "EXERCICE 3.10",
-                "question_number": "9",
-                "question_text": "Cet écrivain (émouvoir) ___ le public.",
-                "hints": "émouvoir",
-                "answer": "émeut"
-            },
-            {
-                "page": 32,
-                "exercise_block": "EXERCICE 3.10",
-                "question_number": "10",
-                "question_text": "Vous (recevoir) ___ nos félicitations.",
-                "hints": "recevoir",
-                "answer": "Vous recevez nos félicitations."
-            },
+        "exercise_block": "Exercice 3.10",
+        "question_number": "1",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Je (apercevoir) _____ un château en haut de la colline.",
+        "hints": "💡 提示：主语是 je，注意动词以元音开头需要省音（J'），且 c 遇到 o 需要加软音符（ç）保持发音。",
+        "answer": "J’aperçois"
+      },
+      {
+        "exercise_block": "Exercice 3.10",
+        "question_number": "2",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Il (prévoir) _____ un avenir meilleur.",
+        "hints": "💡 提示：主语是 il，动词 prévoir（预见）的第三人称单数变位。",
+        "answer": "prévoit"
+      },
+      {
+        "exercise_block": "Exercice 3.10",
+        "question_number": "3",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Il (pleuvoir) _____ toujours dans cette région.",
+        "hints": "💡 提示：表示“下雨”的 pleuvoir 只有无人称的第三人称单数变位形式。",
+        "answer": "pleut"
+      },
+      {
+        "exercise_block": "Exercice 3.10",
+        "question_number": "4",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Nous (voir) _____ une amélioration.",
+        "hints": "💡 提示：主语是 nous，动词 voir 的第一人称复数变位。",
+        "answer": "voyons"
+      },
+      {
+        "exercise_block": "Exercice 3.10",
+        "question_number": "5",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Tu (décevoir) _____ ton professeur.",
+        "hints": "💡 提示：主语是 tu，décevoir（使失望）的变位类似于 apercevoir，注意 c 变为 ç。",
+        "answer": "déçois"
+      },
+      {
+        "exercise_block": "Exercice 3.10",
+        "question_number": "6",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Cette organisation (promouvoir) _____ la recherche scientifi que.",
+        "hints": "💡 提示：主语 Cette organisation 相当于 elle，动词 promouvoir（促进/推销）的第三人称单数变位。",
+        "answer": "promeut"
+      },
+      {
+        "exercise_block": "Exercice 3.10",
+        "question_number": "7",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Cela (valoir) _____ très cher.",
+        "hints": "💡 提示：主语 Cela 相当于第三人称单数，动词 valoir（价值）的变位。",
+        "answer": "vaut"
+      },
+      {
+        "exercise_block": "Exercice 3.10",
+        "question_number": "8",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Il (falloir) _____ apprendre les conjugaisons.",
+        "hints": "💡 提示：表示“必须/应该”的 falloir 只有无人称的第三人称单数形式。",
+        "answer": "faut"
+      },
+      {
+        "exercise_block": "Exercice 3.10",
+        "question_number": "9",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Cet écrivain (émouvoir) _____ le public.",
+        "hints": "💡 提示：主语是 Cet écrivain（即 il），动词 émouvoir（感动）的第三人称单数变位。",
+        "answer": "émeut"
+      },
+      {
+        "exercise_block": "Exercice 3.10",
+        "question_number": "10",
+        "question_text": "Mettez au présent les verbes entre parenthèses : Vous (recevoir) _____ nos félicitations.",
+        "hints": "💡 提示：主语是 vous，recevoir（收到/接待）的第二人称复数变位。注意此时 c 后面是 e，不需要加软音符。",
+        "answer": "recevez"
+      }
+]
+    },
+    {
+        "page": 3.11,
+        "data": [
             {
                 "page": 32,
                 "exercise_block": "EXERCICE 3.11",
@@ -2453,7 +2249,7 @@
                 "question_number": "3",
                 "question_text": "I don't know where he is.",
                 "hints": null,
-                "answer": "Je ne sais pas qui il est."
+                "answer": "Je ne sais pas où il est."
             },
             {
                 "page": 32,
