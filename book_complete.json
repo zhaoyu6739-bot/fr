@@ -3308,7 +3308,7 @@
         ]
     },
     {
-        "page": 61,
+        "page": 5.4,
         "data": [
             {
                 "exercise_block": "Exercice 5.4",
@@ -3391,6 +3391,10 @@
                 "answer": "se plaint"
             },
             {
+        "page": 5.5,
+        "data": []
+    },
+            {
                 "page": 47,
                 "exercise_block": "EXERCICE 5.5",
                 "question_number": "1",
@@ -3445,7 +3449,8 @@
                 "question_text": "There are books on the table.",
                 "hints": null,
                 "answer": "Il y a des livres sur la table."
-            },{
+            },
+            {
                 "exercise_block": "Exercice 5.5",
                 "question_number": "8",
                 "question_text": "Traduisez en français (请翻译成法语) :\n\nIs there a computer?",
@@ -3472,96 +3477,82 @@
         ]
     },
     {
-        "page": 62,
-        "data": []
-    },
+    "page": 6.1,
+    "data": [
+      {
+        "exercise_block": "Exercice 6.1",
+        "question_number": "1",
+        "question_text": "Mettez au présent les verbes réfléchis entre parenthèses : Je (s’habiller) _____ avant de prendre le petit déjeuner.",
+        "hints": "💡 提示：主语是 Je，对应的自反代词是什么？注意动词以哑音 h 开头，代词需要省音。",
+        "answer": "m’habille"
+      },
+      {
+        "exercise_block": "Exercice 6.1",
+        "question_number": "2",
+        "question_text": "Mettez au présent les verbes réfléchis entre parenthèses : Nous (se lever) _____ tôt le matin.",
+        "hints": "💡 提示：主语是 Nous，第一人称复数的自反代词与主语同形。注意 -er 动词的复数变位。",
+        "answer": "nous levons"
+      },
+      {
+        "exercise_block": "Exercice 6.1",
+        "question_number": "3",
+        "question_text": "Mettez au présent les verbes réfléchis entre parenthèses : Elle (se couper) _____ les cheveux elle-même.",
+        "hints": "💡 提示：第三人称单数，自反代词保持 se 不变，动词按规则 -er 变位。",
+        "answer": "se coupe"
+      },
+      {
+        "exercise_block": "Exercice 6.1",
+        "question_number": "4",
+        "question_text": "Mettez au présent les verbes réfléchis entre parenthèses : Tu (se coucher) _____ trop tard tous les soirs.",
+        "hints": "💡 提示：主语是 tu，对应的自反代词是 te，并注意现在时第二人称单数的动词词尾。",
+        "answer": "te couches"
+      },
+      {
+        "exercise_block": "Exercice 6.1",
+        "question_number": "5",
+        "question_text": "Mettez au présent les verbes réfléchis entre parenthèses : Ils (se laver) _____ les mains.",
+        "hints": "💡 提示：第三人称复数，自反代词为 se，动词词尾注意是 -ent。",
+        "answer": "se lavent"
+      },
+      {
+        "exercise_block": "Exercice 6.1",
+        "question_number": "6",
+        "question_text": "Mettez au présent les verbes réfléchis entre parenthèses : Tu (se peigner) _____ avant de sortir.",
+        "hints": "💡 提示：主语 tu，自反代词为 te。",
+        "answer": "te peignes"
+      },
+      {
+        "exercise_block": "Exercice 6.1",
+        "question_number": "7",
+        "question_text": "Mettez au présent les verbes réfléchis entre parenthèses : Vous (se balader) _____ dans le parc.",
+        "hints": "💡 提示：主语是 Vous，自反代词与主语同形。",
+        "answer": "vous baladez"
+      },
+      {
+        "exercise_block": "Exercice 6.1",
+        "question_number": "8",
+        "question_text": "Mettez au présent les verbes réfléchis entre parenthèses : Ils (se reposer) _____ le week-end.",
+        "hints": "💡 提示：第三人称复数。",
+        "answer": "se reposent"
+      },
+      {
+        "exercise_block": "Exercice 6.1",
+        "question_number": "9",
+        "question_text": "Mettez au présent les verbes réfléchis entre parenthèses : Nous (s’amuser) _____ à la fête.",
+        "hints": "💡 提示：主语 Nous，即使遇到元音开头的动词，自反代词 nous 的拼写也不受影响，只需连读即可。",
+        "answer": "nous amusons"
+      },
+      {
+        "exercise_block": "Exercice 6.1",
+        "question_number": "10",
+        "question_text": "Mettez au présent les verbes réfléchis entre parenthèses : Elle (se détendre) _____ les jambes sur le canapé.",
+        "hints": "💡 提示：第三人称单数。注意动词是 -re 结尾（détendre），回忆一下 -dre 结尾动词的第三人称单数变位规则（保留 d）。",
+        "answer": "se détend"
+      }
+    ]
+  },
     {
-        "page": 64,
-        "data": [
-            {
-                "page": 50,
-                "exercise_block": "EXERCICE 6.1",
-                "question_number": "1",
-                "question_text": "Je (s'habiller) ___ avant de prendre le petit déjeuner.",
-                "hints": "s'habiller",
-                "answer": "m'habille"
-            },
-            {
-                "page": 50,
-                "exercise_block": "EXERCICE 6.1",
-                "question_number": "2",
-                "question_text": "Nous (se lever) ___ tôt le matin.",
-                "hints": "se lever",
-                "answer": "nous levons"
-            },
-            {
-                "page": 50,
-                "exercise_block": "EXERCICE 6.1",
-                "question_number": "3",
-                "question_text": "Elle (se couper) ___ les cheveux elle-même.",
-                "hints": "se couper",
-                "answer": "se coupe"
-            },
-            {
-                "page": 50,
-                "exercise_block": "EXERCICE 6.1",
-                "question_number": "4",
-                "question_text": "Tu (se coucher) ___ trop tard tous les soirs.",
-                "hints": "se coucher",
-                "answer": "te couches"
-            },
-            {
-                "page": 50,
-                "exercise_block": "EXERCICE 6.1",
-                "question_number": "5",
-                "question_text": "Ils (se laver) ___ les mains.",
-                "hints": "se laver",
-                "answer": "se lavent"
-            },
-            {
-                "page": 50,
-                "exercise_block": "EXERCICE 6.1",
-                "question_number": "6",
-                "question_text": "Tu (se peigner) ___ avant de sortir.",
-                "hints": "se peigner",
-                "answer": "te peignes"
-            },
-            {
-                "page": 50,
-                "exercise_block": "EXERCICE 6.1",
-                "question_number": "7",
-                "question_text": "Vous (se balader) ___ dans le parc.",
-                "hints": "se balader",
-                "answer": "vous sentez"
-            },
-            {
-                "page": 50,
-                "exercise_block": "EXERCICE 6.1",
-                "question_number": "8",
-                "question_text": "Ils (se reposer) ___ le week-end.",
-                "hints": "se reposer",
-                "answer": "nous amusons"
-            },
-            {
-                "page": 50,
-                "exercise_block": "EXERCICE 6.1",
-                "question_number": "9",
-                "question_text": "Nous (s'amuser) ___ à la fête.",
-                "hints": "s'amuser",
-                "answer": "se détend"
-            },
-            {
-                "page": 50,
-                "exercise_block": "EXERCICE 6.1",
-                "question_number": "10",
-                "question_text": "Elle (se détendre) ___ les jambes sur le canapé.",
-                "hints": "se détendre",
-                "answer": "Elle (se détend) sur le canapé."
-            }
-        ]
-    },
-    {
-        "page": 65,
+        "page": 6.2,
         "data": [
             {
                 "page": 1,
@@ -3731,7 +3722,7 @@
         ]
     },
     {
-        "page": 67,
+        "page": 6.4,
         "data": [
             {
                 "page": 53,
@@ -3812,7 +3803,12 @@
                 "question_text": "Nous ne pouvons pas (se plaindre) ___ de la situation.",
                 "hints": null,
                 "answer": "nous plaindre"
-            },
+            }
+        ]
+    },
+    {
+                "page": 6.5,
+        "data": [
             {
                 "exercise_block": "Exercice 6.5",
                 "question_number": "1-5",
@@ -3820,7 +3816,12 @@
                 "options": [],
                 "hints": "💡 备选项：\n\na. Ils s’écrivent. (他们互相写信)\n\nb. Ils se détestent. (他们互相讨厌)\n\nc. Ils aiment marcher. (他们喜欢散步)\n\nd. Ils sont pessimistes. (他们很悲观)\n\ne. Ils s’aiment. (他们相爱)\n\n📌 考点：理解代词式动词的相互意义 (sens réciproque) 以及根据上下文推断同义句。",
                 "answer": "1.e, 2.a, 3.d, 4.c, 5.b"
-            },
+            }
+        ]
+    },
+    {
+                "page": 6.6,
+        "data": [
             {
                 "page": 53,
                 "exercise_block": "EXERCICE 6.6",
@@ -3904,7 +3905,7 @@
         ]
     },
     {
-        "page": 70,
+        "page": 7.1,
         "data": [
             {
                 "page": 56,
@@ -3989,7 +3990,7 @@
         ]
     },
     {
-        "page": 71,
+        "page": 7.2,
         "data": [
             {
                 "page": 57,
@@ -4074,7 +4075,7 @@
         ]
     },
     {
-        "page": 72,
+        "page": 7.3,
         "data": [
             {
                 "page": 58,
@@ -4159,7 +4160,7 @@
         ]
     },
     {
-        "page": 73,
+        "page": 7.4,
         "data": [
             {
                 "page": 59,
@@ -4244,7 +4245,7 @@
         ]
     },
     {
-        "page": 74,
+        "page": 7.5,
         "data": [
             {
                 "exercise_block": "Exercice 7.5",
@@ -4257,88 +4258,83 @@
         ]
     },
     {
-        "page": 75,
+        "page": 7.6,
         "data": [
             {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.6",
-                "question_number": "1",
-                "question_text": "À quel âge ce comédien ___ sur scène ?",
-                "hints": "monter",
-                "answer": "est-il monté 2.  3.  4.  5.  6.  7.  9. "
-            },
-            {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.6",
-                "question_number": "2",
-                "question_text": "Nous ___ du théâtre à minuit.",
-                "hints": "rentrer",
-                "answer": "sommes rentré(e)s"
-            },
-            {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.6",
-                "question_number": "3",
-                "question_text": "La voiture ___ en panne près de Madrid.",
-                "hints": "tomber",
-                "answer": "est tombée"
-            },
-            {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.6",
-                "question_number": "4",
-                "question_text": "Ils ___ par l'escalier.",
-                "hints": "descendre",
-                "answer": "sont descendus."
-            },
-            {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.6",
-                "question_number": "5",
-                "question_text": "Elles ___ de vacances mardi.",
-                "hints": "revenir",
-                "answer": "sont revenues"
-            },
-            {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.6",
-                "question_number": "6",
-                "question_text": "Quel jour ___ ?",
-                "hints": "partir",
-                "answer": "est-il parti"
-            },
-            {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.6",
-                "question_number": "7",
-                "question_text": "Elle ___ à l'opéra hier soir.",
-                "hints": "aller",
-                "answer": "est allée"
-            },
-            {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.6",
-                "question_number": "8",
-                "question_text": "Luc ___ au Mexique l'hiver dernier.",
-                "hints": "aller",
-                "answer": "est allé"
-            },
-            {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.6",
-                "question_number": "9",
-                "question_text": "Molière ___ en 1673.",
-                "hints": "mourir",
-                "answer": "est mort"
-            },
-            {
-                "page": 61,
-                "exercise_block": "EXERCICE 7.6",
-                "question_number": "10",
-                "question_text": "Le metteur en scène ___ dans les coulisses.",
-                "hints": "rester",
-                "answer": "est resté"
-            },
+        "exercise_block": "Exercice 7.6",
+        "question_number": "1",
+        "question_text": "Mettez au passé composé en utilisant l'inversion si nécessaire : À quel âge ce comédien (monter) _____ sur scène?",
+        "hints": "💡 提示：表示位置移动的动词 monter 使用 être 作助动词，并按要求对主语（默认代词 il）进行倒装。",
+        "answer": "est-il monté"
+      },
+      {
+        "exercise_block": "Exercice 7.6",
+        "question_number": "2",
+        "question_text": "Mettez au passé composé en utilisant l'inversion si nécessaire : Nous (rentrer) _____ du théâtre à minuit.",
+        "hints": "💡 提示：rentrer 使用 être 作助动词，过去分词需与主语 nous 进行性数配合（加 -s 或 -es）。",
+        "answer": "sommes rentré(e)s"
+      },
+      {
+        "exercise_block": "Exercice 7.6",
+        "question_number": "3",
+        "question_text": "Mettez au passé composé en utilisant l'inversion si nécessaire : La voiture (tomber) _____ en panne près de Madrid.",
+        "hints": "💡 提示：tomber 使用 être 作助动词，主语 la voiture 是阴性单数，过去分词需加 -e。",
+        "answer": "est tombée"
+      },
+      {
+        "exercise_block": "Exercice 7.6",
+        "question_number": "4",
+        "question_text": "Mettez au passé composé en utilisant l'inversion si nécessaire : Ils (descendre) _____ par l’escalier.",
+        "hints": "💡 提示：descendre 使用 être 作助动词，主语 ils 为阳性复数，过去分词需加 -s。",
+        "answer": "sont descendus"
+      },
+      {
+        "exercise_block": "Exercice 7.6",
+        "question_number": "5",
+        "question_text": "Mettez au passé composé en utilisant l'inversion si nécessaire : Elles (revenir) _____ de vacances mardi.",
+        "hints": "💡 提示：revenir 的变位同 venir，使用 être 作助动词，注意主语 elles 的阴性复数配合。",
+        "answer": "sont revenues"
+      },
+      {
+        "exercise_block": "Exercice 7.6",
+        "question_number": "6",
+        "question_text": "Mettez au passé composé en utilisant l'inversion si nécessaire : Quel jour (partir) _____ ?",
+        "hints": "💡 提示：这是一个疑问句，默认用第三人称单数 il 进行倒装提问。partir 的助动词是 être。",
+        "answer": "est-il parti"
+      },
+      {
+        "exercise_block": "Exercice 7.6",
+        "question_number": "7",
+        "question_text": "Mettez au passé composé en utilisant l'inversion si nécessaire : Elle (aller) _____ à l’opéra hier soir.",
+        "hints": "💡 提示：aller 使用 être 作助动词，主语 elle 为阴性单数，过去分词加 -e。",
+        "answer": "est allée"
+      },
+      {
+        "exercise_block": "Exercice 7.6",
+        "question_number": "8",
+        "question_text": "Mettez au passé composé en utilisant l'inversion si nécessaire : Luc (aller) _____ au Mexique l’hiver dernier.",
+        "hints": "💡 提示：Luc 是阳性单数，助动词 être，过去分词不需变化。",
+        "answer": "est allé"
+      },
+      {
+        "exercise_block": "Exercice 7.6",
+        "question_number": "9",
+        "question_text": "Mettez au passé composé en utilisant l'inversion si nécessaire : Molière (mourir) _____ en 1673.",
+        "hints": "💡 提示：mourir 属于特殊变位，过去分词是 mort，助动词用 être。",
+        "answer": "est mort"
+      },
+      {
+        "exercise_block": "Exercice 7.6",
+        "question_number": "10",
+        "question_text": "Mettez au passé composé en utilisant l'inversion si nécessaire : Le metteur en scène (rester) _____ dans les coulisses.",
+        "hints": "💡 提示：rester 使用 être 作助动词，主语 le metteur en scène 为阳性单数。",
+        "answer": "est resté"
+      }
+        ]
+    },
+    {
+        "page": 7.7,
+        "data": [
             {
                 "exercise_block": "Exercice 7.7",
                 "question_number": "1",
@@ -4422,7 +4418,7 @@
         ]
     },
     {
-        "page": 77,
+        "page": 7.8,
         "data": [
             {
                 "exercise_block": "Exercice 7.8",
@@ -4507,7 +4503,7 @@
         ]
     },
     {
-        "page": 78,
+        "page": 7.9,
         "data": [
             {
                 "exercise_block": "Exercice 7.9",
@@ -4520,7 +4516,7 @@
         ]
     },
     {
-        "page": 80,
+        "page": 8.1,
         "data": [
             {
                 "exercise_block": "Exercice 8.1",
@@ -4605,7 +4601,7 @@
         ]
     },
     {
-        "page": 81,
+        "page": 8.2,
         "data": [
             {
                 "exercise_block": "Exercice 8.2",
@@ -4690,7 +4686,7 @@
         ]
     },
     {
-        "page": 82,
+        "page": 8.3,
         "data": [
             {
                 "exercise_block": "Exercice 8.3",
@@ -4775,7 +4771,7 @@
         ]
     },
     {
-        "page": 83,
+        "page": 8.4,
         "data": [
             {
                 "exercise_block": "Exercice 8.4",
@@ -4856,7 +4852,12 @@
                 "options": [],
                 "hints": "💡 提示：考查 attendre 的未完成过去时。Je 遇到元音变成 J'，词根 attend-。变位：J’attendais。",
                 "answer": "attendais"
-            },
+            }
+        ]
+    },
+    {
+        "page": 8.5,
+        "data": [
             {
                 "exercise_block": "Exercice 8.5",
                 "question_number": "1",
@@ -4940,7 +4941,7 @@
         ]
     },
     {
-        "page": 84,
+        "page": 8.6,
         "data": [
             {
                 "exercise_block": "Exercice 8.6",
@@ -5025,7 +5026,7 @@
         ]
     },
     {
-        "page": 85,
+        "page": 8.7,
         "data": [
             {
                 "exercise_block": "Exercice 8.7",
@@ -5110,7 +5111,7 @@
         ]
     },
     {
-        "page": 87,
+        "page": 9.1,
         "data": [
             {
                 "exercise_block": "Exercice 9.1",
@@ -5195,7 +5196,7 @@
         ]
     },
     {
-        "page": 88,
+        "page": 9.2,
         "data": [
             {
                 "page": 9,
@@ -5280,7 +5281,7 @@
         ]
     },
     {
-        "page": 89,
+        "page": 9.3,
         "data": [
             {
                 "exercise_block": "Exercice 9.3",
@@ -5365,7 +5366,7 @@
         ]
     },
     {
-        "page": 90,
+        "page": 9.4,
         "data": [
             {
                 "exercise_block": "Exercice 9.4",
@@ -5446,7 +5447,12 @@
                 "options": [],
                 "hints": "💡 提示：vivre 去掉词尾 e 后加变位。变位：vivra。",
                 "answer": "Il vivra jusqu’à cent ans."
-            },
+            }
+        ]
+    },
+    {
+        "page": 9.5,
+        "data": [
             {
                 "exercise_block": "Exercice 9.5",
                 "question_number": "1-5",
@@ -5458,7 +5464,7 @@
         ]
     },
     {
-        "page": 91,
+        "page": 9.6,
         "data": [
     {
         "exercise_block": "Exercice 9.6",
@@ -5543,52 +5549,7 @@
 ]
     },
     {
-        "page": 92,
-        "data": [
-            {
-                "page": 78,
-                "exercise_block": "Exercice 9.7",
-                "question_number": "1",
-                "question_text": "We'll play tennis.",
-                "hints": null,
-                "answer": "Nous jouerons au tennis."
-            },
-            {
-                "page": 78,
-                "exercise_block": "Exercice 9.7",
-                "question_number": "2",
-                "question_text": "You'll need to buy a new car.",
-                "hints": null,
-                "answer": "Vous devrez acheter une nouvelle voiture."
-            },
-            {
-                "page": 78,
-                "exercise_block": "Exercice 9.7",
-                "question_number": "3",
-                "question_text": "I'll take a history course.",
-                "hints": null,
-                "answer": "Je suivrai un cours d'histoire."
-            },
-            {
-                "page": 78,
-                "exercise_block": "Exercice 9.7",
-                "question_number": "4",
-                "question_text": "We'll visit Venice when we are in Italy.",
-                "hints": null,
-                "answer": "Nous visiterons Venise quand nous serons en Italie."
-            },
-            {
-                "page": 78,
-                "exercise_block": "Exercice 9.7",
-                "question_number": "5",
-                "question_text": "They'll go to Dakar.",
-                "hints": null,
-                "answer": "Ils (Elles) iront à Dakar."
-            }
-        ]
-    },
-    {
-        "page": 93,
+        "page": 9.7,
         "data": [
     {
         "exercise_block": "Exercice 9.7",
@@ -5673,7 +5634,7 @@
 ]
     },
     {
-        "page": 94,
+        "page": 9.8,
         "data": [
     {
         "exercise_block": "Exercice 9.8",
@@ -5758,7 +5719,7 @@
 ]
     },
     {
-        "page": 95,
+        "page": 10.1,
         "data": [
             {
                 "exercise_block": "Exercice 10.1",
@@ -5833,7 +5794,7 @@
         ]
     },
     {
-        "page": 96,
+        "page": 10.2,
         "data": [
             {
                 "exercise_block": "Exercice 10.2",
@@ -5908,7 +5869,7 @@
         ]
     },
    {
-        "page": 97,
+        "page": 10.3,
         "data": [
             {
                 "exercise_block": "Exercice 10.3",
@@ -5983,7 +5944,7 @@
         ]
     },
     {
-        "page": 98,
+        "page": 10.4,
         "data": [
             {
                 "exercise_block": "Exercice 10.4",
@@ -5996,7 +5957,7 @@
         ]
     },
     {
-        "page": 99,
+        "page": 10.5,
         "data": [
     {
         "exercise_block": "Exercice 10.5",
@@ -6081,7 +6042,7 @@
 ]
     },
     {
-        "page": 100,
+        "page": 10.6,
         "data": [
     {
         "exercise_block": "Exercice 10.6",
@@ -6166,7 +6127,7 @@
 ]
     },
     {
-        "page": 102,
+        "page": 11.1,
         "data": [
             {
                 "page": 11,
@@ -6251,7 +6212,7 @@
         ]
     },
     {
-        "page": 103,
+        "page": 11.2,
         "data": [
             {
                 "page": 89,
@@ -6336,7 +6297,7 @@
         ]
     },
     {
-        "page": 104,
+        "page": 11.3,
         "data": [
             {
                 "page": 90,
@@ -6421,7 +6382,7 @@
         ]
     },
     {
-        "page": 105,
+        "page": 11.4,
         "data": [
             {
                 "page": 91,
@@ -6502,8 +6463,12 @@
                 "question_text": "Tu lui ___ ce poste si tu ___ confiance en lui.",
                 "hints": "offrir (avoir)",
                 "answer": "Tu lui offrirais ce poste si tu avais confiance en lui."
-            },
-            [
+               }
+        ]
+    },
+    {
+        "page": 11.5,
+        "data": [
     {
         "exercise_block": "Exercice 11.5",
         "question_number": "1",
@@ -6584,11 +6549,11 @@
         "hints": "💡 提示：lire 的条件式为 lirait。pouvoir 的未完成过去时为 pouvait。",
         "answer": "Il lirait le journal ce matin s’il pouvait."
     }
-]
+
         ]
     },
     {
-        "page": 106,
+        "page": 11.6,
         "data": [
             {
                 "exercise_block": "Exercice 11.6",
@@ -6601,7 +6566,7 @@
         ]
     },
     {
-        "page": 108,
+        "page": 11.7,
         "data": [
             {
                 "page": 94,
@@ -6682,7 +6647,12 @@
                 "question_text": "Nous (venir) si nous (recevoir) votre invitation plus tôt.",
                 "hints": null,
                 "answer": "Nous serions venus si nous avions reçu votre invitation plus tôt."
-            },
+            }
+        ]
+    },
+    {
+        "page": 11.8,
+        "data": [
             
     {
         "exercise_block": "Exercice 11.8",
@@ -6768,7 +6738,7 @@
         ]
     },
     {
-        "page": 109,
+        "page": 11.9,
         "data": [
     {
         "exercise_block": "Exercice 11.9",
@@ -6853,7 +6823,7 @@
 ]
     },
     {
-        "page": 110,
+        "page": 11.10,
         "data": [
             {
                 "exercise_block": "Exercice 11.10",
@@ -6866,68 +6836,7 @@
         ]
     },
     {
-        "page": 111,
-        "data": [
-            {
-                "page": 97,
-                "exercise_block": "Could",
-                "question_number": null,
-                "question_text": "J'ai pu\ntu as pu\nil/elle a pu",
-                "hints": "I could\nyou could\nhe/she could",
-                "answer": "J'ai pu\ntu as pu\nil/elle a pu"
-            },
-            {
-                "page": 97,
-                "exercise_block": "Could",
-                "question_number": null,
-                "question_text": "nous avons pu\nvous avez pu\nils/elles ont pu",
-                "hints": "we could\nyou could\nthey could",
-                "answer": "nous avons pu\nvous avez pu\nils/elles ont pu"
-            },
-            {
-                "page": 97,
-                "exercise_block": "Note the following examples:",
-                "question_number": null,
-                "question_text": "Il n'a pas pu lui parler.\nJ'ai pu la convaincre.\nNous n'avons pas pu y aller.\nIl a pu obtenir les fonds.",
-                "hints": "He could not talk to him.\nI managed to convince her.\nWe could not go there.\nHe succeeded in obtaining the funding.",
-                "answer": "Il n'a pas pu lui parler.\nJ'ai pu la convaincre.\nNous n'avons pas pu y aller.\nIl a pu obtenir les fonds."
-            },
-            {
-                "page": 97,
-                "exercise_block": "Could",
-                "question_number": null,
-                "question_text": "je pouvais\ntu pouvais\nil/elle pouvait",
-                "hints": "I could\nyou could\nhe/she could",
-                "answer": "je pouvais\ntu pouvais\nil/elle pouvait"
-            },
-            {
-                "page": 97,
-                "exercise_block": "Could",
-                "question_number": null,
-                "question_text": "nous pouvions\nvous pouviez\nils/elles pouvaient",
-                "hints": "we could\nyou could\nthey could",
-                "answer": "nous pouvions\nvous pouviez\nils/elles pouvaient"
-            },
-            {
-                "page": 97,
-                "exercise_block": "Note the following examples:",
-                "question_number": null,
-                "question_text": "En ce temps-là, les femmes ne\npouvaient pas voter.\nÀ cette époque, les voitures ne\npouvaient pas traverser\nla ville.",
-                "hints": "At that time, women could not vote.\nAt that time, cars couldn't drive\nthrough the city.",
-                "answer": "En ce temps-là, les femmes ne pouvaient pas voter. À cette époque, les voitures ne pouvaient pas traverser la ville."
-            },
-            {
-                "page": 97,
-                "exercise_block": "Note the following examples:",
-                "question_number": null,
-                "question_text": "Si jeune, il pouvait quand même\nprendre une telle décision!\nAprès la mort de sa femme, il\nne pouvait plus écrire.",
-                "hints": "So young, he was still able to make\nsuch a decision!\nAfter his wife's death, he could no\nlonger write.",
-                "answer": "Si jeune, il pouvait toujours prendre une telle décision! Après la mort de sa femme, il ne pouvait plus écrire."
-            }
-        ]
-    },
-    {
-        "page": 112,
+        "page": 12.1,
         "data": [
             {
     "exercise_block": "Exercice 12.1",
@@ -7002,7 +6911,7 @@
         ]
     },
     {
-        "page": 113,
+        "page": 12.2,
         "data": [
             {
     "exercise_block": "Exercice 12.2",
@@ -7077,7 +6986,7 @@
         ]
     },
     {
-        "page": 115,
+        "page": 12.3,
         "data": [
             {
     "exercise_block": "Exercice 12.3",
@@ -7152,7 +7061,7 @@
         ]
     },
     {
-        "page": 116,
+        "page": 12.4,
         "data": [
             {
                 "page": 102,
@@ -7233,7 +7142,12 @@
                 "question_text": "Don't you think you ___ change your haircut?",
                 "hints": null,
                 "answer": "Ne penses-tu pas que tu devrais changer de coiffure?"
-            },
+            }
+        ]
+    },
+    {
+        "page": 12.5,
+        "data": [
             
   {
     "exercise_block": "Exercice 12.5",
@@ -7309,7 +7223,7 @@
         ]
     },
     {
-        "page": 117,
+        "page": 12.6,
         "data": [
             {
                 "exercise_block": "Exercice 12.6",
@@ -7322,7 +7236,7 @@
         ]
     },
     {
-        "page": 121,
+        "page": 13.1,
         "data": [
             {
                 "page": 107,
@@ -7407,7 +7321,7 @@
         ]
     },
     {
-        "page": 122,
+        "page": 13.2,
         "data": [
             {
                 "page": 108,
@@ -7492,7 +7406,7 @@
         ]
     },
     {
-        "page": 123,
+        "page": 13.3,
         "data": [
             {
                 "page": 13,
@@ -7577,7 +7491,7 @@
         ]
     },
     {
-        "page": 124,
+        "page": 13.4,
         "data": [
             {
                 "page": 110,
@@ -7662,7 +7576,7 @@
         ]
     },
     {
-        "page": 125,
+        "page": 13.5,
         "data": [
   {
     "exercise_block": "Exercice 13.5",
@@ -7733,9 +7647,13 @@
     "question_text": "Bien que son livre ___ (être) bien écrit, il ne trouvera guère de lecteurs.",
     "hints": "💡 提示：'Bien que' (尽管) 触发虚拟式。变位：soit。",
     "answer": "soit"
-  },
-  {
-    "exercise_block": "Exercice 13.6",
+  }
+        ]
+    },
+    {
+        "page": 13.6,
+        "data": [
+    {"exercise_block": "Exercice 13.6",
     "question_number": "1",
     "question_text": "Translate to French : Let’s hope he is right !",
     "hints": "💡 提示：'Pourvu que' 表示强烈愿望。变位：Pourvu qu’il ait raison !",
@@ -7807,7 +7725,7 @@
 ]
     },
     {
-        "page": 126,
+        "page": 13.7,
         "data": [
   {
     "exercise_block": "Exercice 13.7",
@@ -7882,7 +7800,7 @@
 ]
     },
     {
-        "page": 127,
+        "page": 13.8,
         "data": [
   {
     "exercise_block": "Exercice 13.8",
@@ -7957,7 +7875,7 @@
 ]
     },
     {
-        "page": 128,
+        "page": 13.9,
         "data": [
             {
                 "exercise_block": "Exercice 13.9",
@@ -7970,7 +7888,7 @@
         ]
     },
     {
-        "page": 130,
+        "page": 14.1,
         "data": [
   {
     "exercise_block": "Exercice 14.1",
@@ -8045,7 +7963,7 @@
 ]
     },
     {
-        "page": 132,
+        "page": 14.2,
         "data": [
             {
     "exercise_block": "Exercice 14.2",
@@ -8120,7 +8038,7 @@
         ]
     },
     {
-        "page": 133,
+        "page": 14.3,
         "data": [
             {
     "exercise_block": "Exercice 14.3",
@@ -8195,7 +8113,7 @@
         ]
     },
     {
-        "page": 134,
+        "page": 14.4,
         "data": [
   {
     "exercise_block": "Exercice 14.4",
@@ -8265,8 +8183,13 @@
     "question_number": "10",
     "question_text": "Changez 'avant de' en 'après' en utilisant l’infinitif passé : Nous allons chez Julien avant de choisir un cadeau.",
     "hints": "💡 提示：choisir 是 -ir 动词，过去分词为 choisi，助动词用 avoir [1, 2]。",
-    "answer": "Nous allons chez Julien après avoir choisi un cadeau."
-  },
+    "answer": "Nous allons chez Julien après avoir choisi un cadeau."  
+  }
+]
+    },
+    {
+        "page": 14.5,
+        "data": [            
   {
     "exercise_block": "Exercice 14.5",
     "question_number": "1",
@@ -8340,7 +8263,7 @@
 ]
     },
     {
-        "page": 138,
+        "page": 14.6,
         "data": [
             {
                 "page": 124,
@@ -8421,7 +8344,12 @@
                 "question_text": "Son grand-père a promis _____ faire des gâteaux.",
                 "hints": "verbe",
                 "answer": "de."
-            },
+            }
+]
+    },
+    {
+        "page": 14.7,
+        "data": [
             {
     "exercise_block": "Exercice 14.7",
     "question_number": "1",
@@ -8495,7 +8423,7 @@
 ]
     },
     {
-        "page": 142,
+        "page": 15.1,
            "data": [
   {
     "exercise_block": "Exercice 15.1",
@@ -8570,7 +8498,7 @@
         ]
     },
     {
-        "page": 143,
+        "page": 15.2,
         "data": [
             {
                 "page": 129,
@@ -8655,7 +8583,7 @@
         ]
     },
     {
-        "page": 144,
+        "page": 15.3,
         "data": [
             {
                 "page": 130,
@@ -8740,7 +8668,7 @@
         ]
     },
     {
-        "page": 147,
+        "page": 16.1,
         "data": [
   {
     "exercise_block": "Exercice 16.1",
